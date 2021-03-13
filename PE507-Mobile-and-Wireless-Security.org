@@ -70,24 +70,27 @@ iOS Based security: Limits of Apple's application vetting process -- iOS securit
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Identify (K3)
-- Explain  (K3)
-- Analyze  (K3)
-- Explain  (K2)
--  (K3).
+- Outline the vulnerabilities of wired and wireless networks (K2)
+- Examine the security mechanism followed in Bluetooth, Wi-Fi and Ad Hoc Networks (K3)
+- Outline the security mechanisms of telecommunication networks   (K2)
+- Explain Hardware Security Architectures in mobile devices (K2)
+-  Examine the Android and iOS Based Security (K3).
 
-    Explain the functionalities of MAC protocols in wireless networks (K2)
-    Choose appropriate algorithms for routing and transporting data for a given scenario (K3)
-    Demonstrate the concepts of 3G and 4G Cellular Networks (K2)
-    Make of use various mobile development environments (K3)
-    Develop Andriod applications for the given requirements (K3)
-    Analyze the given requirements and build Android applications (K4)
-
+   
 ** TEXT BOOKS
-1. Hakima Chaouchi, Maryline Laurent-Maknavicius, ``Wireless and Mobile Network Security'',   Wiley-ISTE, June 2009 (Unit I--III).
+1. Hakima Chaouchi, Maryline Laurent-Maknavicius, ``Wireless and Mobile Network Security- Security Basics, Security in On-the-shelf and Emerging Technologies'',   Wiley-ISTE, June 2009 (Unit I--III).
 2. N. Asokan, Lucas Vincenzo Davi, Alexandra Dmitrienko, Stephan Heuser, Kari Kostiainen, Elena Reshetova, Ahmad-Reza Sadeghi,  ``Mobile Platform Security'', Synthesis Lectures on Information Security, Privacy, and Trust, Morgan &Claypool Publishers, 2013 (Unit IV, V).
 
 ** REFERENCES
+1. Xiao, Yang, Shen, Xuemin Sherman, Du, Ding-Zhu, `` Wireless Network Security'',  Springer, 2007.
+2. Noureddine Boudriga, Security of Mobile Communications, CRC Press
+3. Levente Buttyán and Jean-Pierre Hubaux, Security and Cooperation in Wireless Networks,
+Cambridge University Press
+4. James Kempf, Wireless Internet Security: Architectures and Protocols, Cambridge University
+Press
+5. Patrick Traynor, Patrick McDaniel, and Thomas La Porta, Security for Telecommunications
+Networks, Springer
+
 
 
 
