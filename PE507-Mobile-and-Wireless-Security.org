@@ -31,11 +31,11 @@ Yet to do co-po mapping, c-objs, c-outcomes, ref
 #+end_comment
 
 ** COURSE OBJECTIVES
-- Understand 
-- Be familiar 
-- Be exposed 
-- Learn 
-- 
+- To Understand vulnerabilities of wired and wireless networks
+- To acquire knowledege on  Bluetooth, Wi-Fi and Ad Hoc Networks Security 
+- To Understand the secuirty in cellular networks 
+- To learn about mobile hardware and software security
+
 
 {{{unit}}}
 | UNIT I | VULNERABILITIES OF WIRED AND WIRELESS NETWORKS | 9 |
@@ -75,6 +75,13 @@ After the completion of this course, students will be able to:
 - Analyze  (K3)
 - Explain  (K2)
 -  (K3).
+
+    Explain the functionalities of MAC protocols in wireless networks (K2)
+    Choose appropriate algorithms for routing and transporting data for a given scenario (K3)
+    Demonstrate the concepts of 3G and 4G Cellular Networks (K2)
+    Make of use various mobile development environments (K3)
+    Develop Andriod applications for the given requirements (K3)
+    Analyze the given requirements and build Android applications (K4)
 
 ** TEXT BOOKS
 1. Hakima Chaouchi, Maryline Laurent-Maknavicius, ``Wireless and Mobile Network Security'',   Wiley-ISTE, June 2009 (Unit I--III).
