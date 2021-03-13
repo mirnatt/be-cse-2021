@@ -84,12 +84,9 @@ After the completion of this course, students will be able to:
 ** REFERENCES
 1. Xiao, Yang, Shen, Xuemin Sherman, Du, Ding-Zhu, `` Wireless Network Security'',  Springer, 2007.
 2. Noureddine Boudriga, Security of Mobile Communications, CRC Press
-3. Levente Buttyán and Jean-Pierre Hubaux, Security and Cooperation in Wireless Networks,
-Cambridge University Press
-4. James Kempf, Wireless Internet Security: Architectures and Protocols, Cambridge University
-Press
-5. Patrick Traynor, Patrick McDaniel, and Thomas La Porta, Security for Telecommunications
-Networks, Springer
+3. Levente Buttyán and Jean-Pierre Hubaux, Security and Cooperation in Wireless Networks, Cambridge University Press
+4. James Kempf, Wireless Internet Security: Architectures and Protocols, Cambridge University Press
+5. Patrick Traynor, Patrick McDaniel, and Thomas La Porta, Security for Telecommunications Networks, Springer
 
 
 
