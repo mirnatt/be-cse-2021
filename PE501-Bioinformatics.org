@@ -1,6 +1,6 @@
 * <<<PE501>>> BIOINFORMATICS
 :properties:
-:author: Ms. R. Priyadharsini and Ms. K. Lekshmi
+:author: Ms. S.Kavitha and Ms. P.Mirunalini
 :date:  
 :end:
 #+startup: showall
@@ -36,88 +36,67 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To be familiar with digital image fundamentals
-- To understand the basics of simple image enhancement techniques in
-  Spatial and Frequency domain
-- To learn the concepts of degradation function and restoration
-  techniques
-- To study image segmentation and representation techniques
-- To be familiar with object recognition methods.
+- The student should be made to:
+-> Exposed to the need for Bioinformatics technologies
+-> Able to transform biological data into knowledge and perform sequence data analysis
+-> Be familiar with the modeling techniques
+-> Exposed to Pattern Matching and Visualization
+-> Learn microarray analysis
+
 
 {{{unit}}}
-|UNIT I | DIGITAL IMAGE FUNDAMENTALS | 9 |
-Introduction to Digital Image Processing: Components -- Image sensing
-and acquisition -- Image sampling and quantization; Relationships
-between Pixels; 2D Mathematical Preliminaries: Array vs matrix
-operations -- Linear vs nonlinear operations -- Arithmetic -- Logical
--- Statistical -- Spatial operations.
+|UNIT I | INTRODUCTION| 9 |
+Need for Bioinformatics technologies – Overview of Bioinformatics technologies- Structural bioinformatics – 
+Data format and processing – Secondary resources and applications –
+Role of Structural bioinformatics - Biological Data Integration System.
 
 {{{unit}}}
-|UNIT II | IMAGE ENHANCEMENT | 9 |
-Spatial Domain: Gray level transformations -- Histogram processing;
-Basics of Spatial Filtering: Smoothing and sharpening spatial
-filtering; Frequency Domain: Introduction to fourier transform --
-Smoothing and Sharpening Frequency Domain Filters: Ideal --
-Butterworth -- Gaussian filters; Homomorphic Filtering.
+|UNIT II | DATAWAREHOUSING AND DATAMINING IN BIOINFORMATICS | 9 |
+Bioinformatics data – Data warehousing architecture – data quality 
+– Biomedical data analysis – DNA data analysis – Protein data analysis-
+Machine learning – Neural network architecture and applications in biinformatics.
 
 {{{unit}}}
-|UNIT III | IMAGE RESTORATION | 9 |
-Image Restoration: Degradation model; Noise models; Restoration in the
-Presence of Noise using Spatial Filtering: Mean filters -- Order
-statistics -- Adaptive filters; Periodic Noise Reduction by Frequency
-Domain Filtering: Band reject filters -- Band pass filters -- Notch
-filters -- Optimum notch filtering; Inverse filtering; Wiener
-filtering.
+|UNIT III | MODELING FOR BIOINFORMATICS | 9 |
+Hidden Markov modeling for biological data analysis – Sequence identification 
+–Sequence classification – multiple alignment generation – Comparative modeling – 
+Protein modeling – genomic modeling – Probabilistic modeling – Bayesian networks 
+– Boolean networks - Molecular modeling – Computer programs for molecular modeling.
+ 
+{{{unit}}}
+|UNIT IV | PATTERN MATCHING AND VISUALIZATION | 9 |
+Gene regulation – motif recognition – motif detection – strategies for motif detection
+– Visualization – Fractal analysis – DNA walk models – one dimension 
+– two dimension – higher dimension – Game representation of Biological sequences 
+– DNA, Protein, Amino acid sequences.
 
 {{{unit}}}
-|UNIT IV | IMAGE SEGMENTATION | 9 |
-Edge Detection: Edge linking via Hough transform; Thresholding:
-Intensity thresholding -- Otsu's thresholding; Region Based
-Segmentation: Region growing -- Region splitting and merging;
-Morphological Processing: Erosion and dilation; Segmentation by
-Morphological Watersheds: Basic concepts -- Dam construction --
-Watershed segmentation algorithm.
-
-{{{unit}}}
-|UNIT V | FEATURE ANALYSIS AND OBJECT RECOGNITION | 9 |
-Boundary representation; Boundary Descriptors: Fourier descriptor;
-Regional descriptors -- Texture; Relational descriptors; Object
-Recognition: Patterns and pattern classes; Recognition based on
-decision theoretic methods; Case Study for Image Recognition: Face
-recognition.
+|UNIT V | MICROARRAY ANALYSIS | 9 |
+Microarray technology for genome expression study – image analysis for data extraction 
+– preprocessing – segmentation – gridding – spot extraction – normalization, filtering – cluster analysis
+– gene network analysis – Compared Evaluation of Scientific Data Management Systems
+– Cost Matrix – Evaluation model - Benchmark – Tradeoffs.
+ 
 
 #+begin_comment
-Removed: Image compression
-Added: Case Study for Image recognition
+
 #+end_comment
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basics and fundamentals of digital image processing,
-  such as digitization, sampling, quantization (K2)
-- Operate on images using the techniques of smoothing, sharpening and
-  enhancement in both spatial and frequency domain (K3)
-- Understand the restoration concepts and filtering techniques (K2)
-- Analyse the segmentation methods and apply in real time applications
-  (K3)
-- Understand and analyse the feature extraction and object recognition
-  methods (K3).
+-> understand the need for Bioinformatics technologies
+-> Perform sequence data analysis
+-> Develop models for biological data.
+-> Apply pattern matching techniques to bioinformatics data – protein data genomic data.
+-> Apply micro array technology for genomic expression study.
    
 ** TEXT BOOKS
-1. Rafael C Gonzalez, Richard E Woods, ``Digital Image Processing'',
-   Pearson, 3rd Edition, 2010.
-2. Anil K Jain, ``Fundamentals of Digital Image Processing'',
-   Pearson, 2002.
+1. Yi-Ping Phoebe Chen (Ed), “BioInformatics Technologies”, First Indian Reprint, Springer Verlag, 2007.
+2. Rui Jiang • Xuegong Zhang • Michael Q. Zhang, "Basics of Bioinformatics", Tsinghua University Press, Springer, 2013
+2. JIN XIONG, "Essential Bioinformatics", Cambridge Unversity Press, 2006
    
 ** REFERENCES
-1. Kenneth R Castleman, ``Digital Image Processing'', Pearson, 2006.
-2. Rafael C Gonzalez, Richard E Woods, Steven Eddins, ``Digital
-   Image Processing Using MATLAB'', Pearson Education, Inc., 2011.
-3. S Sridhar, ``Digital Image Processing'', 2nd Edition, Oxford University, 2016.
-4. William K Pratt, ``Digital Image Processing'', John Wiley, New
-   York, 2002.
-5. Milan Sonka, Roger Boyle, Vaclav Hlavac, ``Image Processing,
-   Analysis and Machine Vision'', Brookes/Cole, Vikas Publishing
-   House, 2nd edition, 1999.
+1. Bryan Bergeron, “Bio Informatics Computing”, Second Edition, Pearson Education, 2003.
+2. Arthur M Lesk, “Introduction to Bioinformatics”, Second Edition, Oxford University Press, 2005
