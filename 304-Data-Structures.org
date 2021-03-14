@@ -106,8 +106,8 @@ Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm -- All-pairs 
 After the completion of this course, students will be able to:
 - Develop program solutions using various operations in List (K3)
 - Develop applications using stack and queue (K3)
-- Apply the operations of balanced and unbalanced trees to develop solutions to various problems (K3)
-- Develop applications using shortest path and traversal algorithms of graph  (K3)
+- Apply the operations of unbalanced and balanced trees to develop solutions to various problems (K3)
+- Develop applications using traversal and shortest path algorithms of graph  (K3)
 - Analyze the sorting, searching and hashing algorithms to solve various computing problems (K4).
 
    
