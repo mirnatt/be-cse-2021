@@ -1,7 +1,7 @@
-* <<<PE203>>> SOFTWARE PROJECT MANAGEMENT
+* <<<PE203>>> SOFTWARE CONFIGURATION MANAGEMENT
 :properties:
 :author: Dr. K. Vallidevi and Dr. A. Chamundeswari
-:date: 
+:date: 14-03-2021
 :end:
 
 #+begin_comment
@@ -31,19 +31,16 @@ Included monitoring topics in Unit V instead of AU-Unit IV
   software development.
 
 {{{unit}}}
-|UNIT I | PROJECT PLANNING| 9 |
-Project Management: Project management life cycle -- Project
-evaluation and programme management -- Project planning; Process
-Models: Waterfall -- Spiral -- Prototyping -- Incremental delivery --
-DSDM -- Agile -- Scrum --XP; Software Development: Lean software
-development -- Process model selection.
+|UNIT I | Configuration Overview | 9 |
+Configuration management process : monitoring and control -- auditing -- testing -- incident and defect management -- problem management -- change management -- automation and tools -- lifecycle controls -- culture and organisation; Service asset and configuration management visions and strategies; Populating a CMDB  Process design : -- populate your CMDB; Case study discussion; Automation approach.
+
 
 #+begin_comment
 ...Included project model in Unit I instead of having it in AU-Unit II...
 #+end_comment
 
 {{{unit}}}
-|UNIT II | ESTIMATION AND SCHEDULING | 9 |
+|UNIT II | Microservices | 9 |
 Effort Estimation Techniques: Expert judgement -- FPA -- FP mark II --
 COSMIC --  -- Cost estimation; Scheduling: Project schedules
 -- Network model -- Identifying critical activities.
@@ -102,21 +99,8 @@ Upon completion of the course, the student should be able to:
   software projects (K2).
       
 ** TEXT BOOKS
-1. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project
-   Management'', 6th Edition, Tata McGraw Hill, 2018.
-2. Ravindranath Pandian, ``Applied Software Risk Management A Guide
-   for Software Project Managers'', Auerbach Publication, 2007.
-
+1. Shirley Lacy and David Norfolk, ``CONFIGURATION MANAGEMENT, Expert guidance for IT service managers and practitioners``, Revised edition,  BCS Learning and Development Ltd,   UK, 2014.
+2.  
 ** REFERENCES
-1. Roger S Pressman, ``Software Engineering -- A Practitioner's
-   Approach'', 7th Edition, Mc Graw-Hill International
-   Edition, 2010.
-2. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition,
-   PHI Learning Pvt. Ltd., 2009.
-3. Tridibesh Satpathy, ``A Guide to the Scrum Body of Knowledge (SBOK
-   Guide)'', 2016 edition, SCRUMstudy, Phoenix, Arizona 85008 USA.
-4. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
-   Architect's Perspective'', Pearson Education, 2016.
-5. Ronald L Krutz, Russell Dean Vines, ``Cloud Security -- A
-   comprehensive Guide to Secure Cloud Computing'', Wiley-India, 2010.
+1.  
 
