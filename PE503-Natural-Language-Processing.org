@@ -158,13 +158,9 @@ Upon the completion of the course the students should be able to:
    O'Reilly, 2009.
 3. Nitin Indurkhya, Fred J Damerau, ``Handbook of Natural Language
    Processing'', 2nd Edition, CRC Press, 2010.
-
-
-Projects:
-1. NLTK -- Natural Language Tool Kit - http://www.nltk.org/.
-2. http://nlp-iiith.vlabs.ac.in/
-3. https://www.tensorflow.org/tutorials/text/nmt_with_attention
 4. Yoav Goldberg, "Neural Network Methods for Natural Language
    Processing", Synthesis Lectures on Human Language Technologies,
    Morgan & Claypool publishers, 2017.
- 
+5. NLTK -- Natural Language Tool Kit - http://www.nltk.org/
+6. http://nlp-iiith.vlabs.ac.in/
+7. https://www.tensorflow.org/tutorials/text/nmt_with_attention
