@@ -1,7 +1,7 @@
 * <<<502>>> MICROPROCESSORS AND INTERFACING
 :properties:
 :author: Dr. K. R. Sarath Chandran and Ms.S.Angel Deborah
-:date: 6.03.2021
+:date: 6.03.2021/ revised 15.3.2021(CO6 added)
 :end:
 
 #+begin_comment
@@ -25,8 +25,9 @@ Removed "comparison of microprocessor, microcntroller" from unit 5
 | CO3            | K3 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    3 |
 | CO4            | K2 |   3 |   3 |   2 |   3 |   0 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    3 |    1 |    1 |
 | CO5            | K3 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    3 |
-| Score          |    |  13 |  15 |  12 | 13  |   0 |   0 |   0 |   0 |   5 |    2 |    0 |    5 |   15 |    9 |    9 |
-| Course Mapping |    |  3  |   3 |   3 |   3 |  0  |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    2 |    2 |
+| CO6            | K3 |   2 |   3 |   3 |   3 |   1 |   2 |   2 |   2 |   3 |    3 |    1 |    3 |    3 |    2 |    2 |
+| Score          |    |  15 |  18 |  15 |  16 |   1 |   2 |   2 |   2 |   8 |    5 |    1 |    8 |   18 |   11 |   11 |
+| Course Mapping |    |  3  |   3 |   3 |   3 |   1 |   1 |   1 |   1 |   2 |    1 |    1 |    2 |    3 |    2 |    2 |
 
 #+startup: showall
 
@@ -96,6 +97,8 @@ After the completion of this course, students will be able to:
   8051 (K2)
 - Apply programming concepts to implement microcontroller interfaces
   for different applications (K3).
+- Build a microprocessor based interface to solve a real world problem
+  in teams by applying best practices of system design (K3)
 
 ** TEXT BOOKS
  1. Doughlas V Hall, ``Microprocessors and Interfacing, Programming
