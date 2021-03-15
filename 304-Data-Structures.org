@@ -42,7 +42,9 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION TO ALGORITHM ANALYSIS | 7 |
-Algorithm Analysis: Running time calculations; Searching: Linear search -- Binary search; Sorting: Selection sort -- Insertion Sort -- Merge Sort;
+Algorithm Analysis: Running time calculations; Searching: Linear
+search -- Binary search; Sorting: Selection sort -- Insertion Sort --
+Merge Sort.
 
 #+BEGIN_COMMENT
 Inclusion - Algorithm Analysis: Running time calculations; 
@@ -51,18 +53,17 @@ Thoughtprocess - To study the general notations of algorithm analysis
 
 {{{unit}}}
 | UNIT II | LINEAR DATA STRUCTURES – LINKED LIST | 11 |
-
-Preliminaries: Structures and Pointers in C; Abstract Data Types (ADTs); List ADT: Linked lists -- Circular linked lists -- Doubly linked lists -- Applications of Lists: Polynomial manipulation -- Hashing: Separate chaining -- Open addressing -- Rehashing
-
+Preliminaries: Structures and Pointers in C; Abstract Data Types
+(ADTs); List ADT: Linked lists -- Circular linked lists -- Doubly
+linked lists -- Applications of Lists: Polynomial manipulation --
+Hashing: Separate chaining -- Open addressing -- Rehashing
 
 {{{unit}}}
 | UNIT III | LINEAR DATA STRUCTURES – STACK AND QUEUE   | 7 |
-
-Stack ADT: Stack model -- Implementation of stacks -- Applications: Balancing symbols -- Infix to postfix conversion -- Evaluating postfix
-expressions; Queue ADT: Queue model -- Array implementation of queues -- Applications of queues.
-
-
-
+Stack ADT: Stack model -- Implementation of stacks -- Applications:
+Balancing symbols -- Infix to postfix conversion -- Evaluating postfix
+expressions; Queue ADT: Queue model -- Array implementation of queues
+-- Applications of queues.
 
 #+BEGIN_COMMENT
 Application of trees is included along with tree traversals. It's in
@@ -78,7 +79,8 @@ Thought process
 
 {{{unit}}}
 | UNIT IV | NON LINEAR DATA STRUCTURES – TREES | 10 |
-Preliminaries: Implementation of trees -- Tree traversals with an application; Binary trees: Expression trees; Binary search tree ADT;
+Preliminaries: Implementation of trees -- Tree traversals with an
+application; Binary trees: Expression trees; Binary search tree ADT;
 AVL trees; B-Trees; Disjoint Sets; Priority Queues: Binary heap.
 
 #+BEGIN_COMMENT
@@ -97,8 +99,10 @@ Thought process
 
 {{{unit}}}
 | UNIT V | NON LINEAR DATA STRUCTURES – GRAPHS | 10 |
-Graph Algorithms: Definitions -- Representation of graphs; Graph Traversals: Breadth-first traversal -- Depth-first traversal;
-Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm -- All-pairs shortest path.
+Graph Algorithms: Definitions -- Representation of graphs; Graph
+Traversals: Breadth-first traversal -- Depth-first traversal;
+Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm --
+All-pairs shortest path.
 
 \hfill *Total Periods: 45*
 
