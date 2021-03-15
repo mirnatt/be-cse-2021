@@ -39,31 +39,29 @@
 - To familiarize the functions and protocols of the Transport layer
 - To understand various application layer protocols.
 
+
 {{{unit}}}
-|UNIT I |INTRODUCTION AND PHYSICAL LAYER|9| 	
+|UNIT I |INTRODUCTION AND PHYSICAL LAYER  |7| 	
 Introduction: Networks -- Network types -- Protocol layering -- TCP/IP
 Protocol suite -- OSI model; Physical Layer: Performance; Socket
-Programming; Transmission media -- Switching -- Circuit-switched
-networks -- Packet switching.
-
+Programming; Transmission media.
 #+begin_comment
 Added: Socket Programming
 #+end_comment
 
 {{{unit}}}
-|UNIT II | DATA-LINK LAYER AND MEDIA ACCESS | 10 |
-Introduction: Link-Layer addressing -- Error Correction and Detection -- DLC services -- Data-Link layer
-Protocols -- HDLC -- PPP -- Media Access Control -- Wired LANs:
-Ethernet -- Wireless LANs -- Introduction -- IEEE 802.11 -- Bluetooth
--- Connecting devices.
+|UNIT II | DATA-LINK LAYER AND MEDIA ACCESS | 12 |
+Introduction: Link-Layer addressing -- Error Correction and Detection: Checksum, Hamming Code -- DLC services 
+-- Data-Link layer Protocols -- HDLC -- Media Access Control -- Wired LANs-Standard Ethernet:
+ Characteristics, Address,  Access Method -- IEEE 802.11 project-- Connecting devices.
 
 #+begin_comment
 Added: Error Correction and Detection
 #+end_comment
 
 {{{unit}}}
-|UNIT III | NETWORK LAYER | 9 |
-Network layer services -- Performance -- IPV4 Addresses -- Forwarding 
+|UNIT III | NETWORK LAYER | 11 |
+Network layer services -- Switching -- Performance -- IPV4 Addresses -- Forwarding 
 of IP packets; Network Layer Protocols: IP -- ICMP v4 -- Unicast routing algorithms
 -- Protocols -- Multicasting basics -- IPV6 addressing -- IPV6 protocol.
 
@@ -74,13 +72,12 @@ Removed: Packet Switching (Redundant)
 {{{unit}}}
 |UNIT IV | TRANSPORT LAYER | 9 |
 Introduction: Transport layer protocols -- Services -- Port numbers --
-User datagram protocol -- Transmission control protocol -- SCTP.
+User datagram protocol -- Transmission control protocol.
 
 {{{unit}}}
-|UNIT V | APPLICATION LAYER | 8 |
+|UNIT V | APPLICATION LAYER | 6 |
 Traditional applications -- Electronic mail (SMTP, POP3, IMAP, MIME)
--- HTTP -- File transfer protocol -- Secure shell (SSH) -- DNS --
-SNMP.
+-- HTTP -- File transfer protocol -- Secure shell (SSH) -- DNS.
 
 \hfill *Total Periods: 45*
 
@@ -92,8 +89,8 @@ After the completion of this course, students will be able to:
   mechanisms (K3)
 - Choose the core functions of network layer protocols and apply
   them for data communication (K3)
-- Learn the purpose of Transport Layer Protocols such as UDP and TCP
-  (K2)
+- Select the  Transport Layer Protocols suitable for transmission of data.
+  (K3)
 - Illustrate the Application Layer Protocols and their basic
   functionalities (K2).
 
