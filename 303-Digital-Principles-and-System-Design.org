@@ -20,6 +20,7 @@
 | CO3            | K4 |   3 |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    3 |
 | CO4            | K4 |   3 |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    3 |
 | CO5            | K3 |   3 |   3 |   3 |   3 |   2 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    3 |
+| CO6            | K3 |   3 |   3 |   3 |   3 |   2 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    3 |
 | Score          |    |  15 |  15 |  15 |  13 |  13 |   0 |   0 |   0 |   5 |    5 |    0 |    5 |   15 |   13 |   13 |
 | Course Mapping |    |   3 |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    3 |
 
@@ -80,7 +81,7 @@ After the completion of this course, students will be able to:
 - Analyze and design Asynchronous Sequential Circuits (K4)
 - Build various memories and Boolean functions using
   Programmable Logic Devices (K3)
-
+- Build a digital system in teams by applying best practices of system design (K3) 
 
 ** TEXT BOOKS
 1. Morris R Mano, Michael D Ciletti, ``Digital Design: With an
