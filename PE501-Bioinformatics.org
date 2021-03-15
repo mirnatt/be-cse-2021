@@ -1,7 +1,7 @@
 * <<<PE501>>> BIOINFORMATICS
 :properties:
-:author: Ms. S.Kavitha and Ms. P.Mirunalini
-:date:  
+:author: Dr.S.Kavitha and Dr.P.Mirunalini
+:date: 15-03-2021  
 :end:
 #+startup: showall
 
@@ -46,15 +46,11 @@
 
 {{{unit}}}
 |UNIT I | INTRODUCTION| 9 |
-Need for Bioinformatics technologies – Overview of Bioinformatics technologies- Structural bioinformatics – 
-Data format and processing – Secondary resources and applications –
-Role of Structural bioinformatics - Biological Data Integration System.
+Introduction to Bioinformatics: Need for Bioinformatics technologies -- Overview of Bioinformatics technologies; Overview of structural bioinformatics: Organization of Structural bioinformatics -– Primary resource: protein data bank -- Secondary resources and applications.
 
 {{{unit}}}
 |UNIT II | DATAWAREHOUSING AND DATAMINING IN BIOINFORMATICS | 9 |
-Bioinformatics data – Data warehousing architecture – data quality 
-– Biomedical data analysis – DNA data analysis – Protein data analysis-
-Machine learning – Neural network architecture and applications in biinformatics.
+Data warehousing in Bioinformatics: Bioinformatics data -- Transforming data to knowledge -- Data warehousing architecture -- Data quality; Data mining for Bioinformatics: Biomedical data analysis -- DNA data analysis -- Protein data analysis; Machine learning in Bioinformatics: ArtificiaNeural network architecture and applications in biinformatics.
 
 {{{unit}}}
 |UNIT III | MODELING FOR BIOINFORMATICS | 9 |
