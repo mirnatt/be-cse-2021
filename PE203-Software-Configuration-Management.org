@@ -31,17 +31,16 @@ Included monitoring topics in Unit V instead of AU-Unit IV
   software development.
 
 {{{unit}}}
-|UNIT I | Configuration Overview | 9 |
-Configuration management process : monitoring and control -- auditing -- testing -- incident and defect management -- problem management -- change management -- automation and tools -- lifecycle controls -- culture and organisation; Service asset and configuration management visions and strategies; Populating a CMDB  Process design : -- populate your CMDB; Case study discussion; Automation approach.
-
+|UNIT I | TRADITIONAL | 9 |
+Configuration management process : monitoring and control -- auditing -- testing -- incident and defect management -- problem management -- change management -- automation and tools -- lifecycle controls -- culture and organisation; Service asset and configuration management visions and strategies; Populating a CMDB  Process design : -- populate your CMDB; Case study monolithic application : Build the application -- Deploy the application.
 
 #+begin_comment
-...Included from Text book (1), chapter 6,8,10 : 
-...INcluded from Text book (2) chapter 11
+...Included from Text book (1), chapter 6,8,10  
+...Included from Text book (2) chapter 11
 #+end_comment
 
 {{{unit}}}
-|UNIT II | Microservices | 9 |
+|UNIT II | MICROSERVICES | 9 |
 An Introduction to Microservices:What Are Microservices? ; Switching to Microservices:Cost Components; Interprocess Communication:Putting It All Together; Case Study: Migration to Microservices--Planning for Migration--Planning for Migration--Applying Microservices Criteria --Converting to Microservices--Application Build and Deployment.
 
 #+begin _comment
@@ -49,29 +48,27 @@ An Introduction to Microservices:What Are Microservices? ; Switching to Microser
 #+end_comment
 
 {{{unit}}}
-|UNIT III | Containers | 9 |
-
+|UNIT III | CONTAINERS | 9 |
+Docker Containers:Virtual Machines -- Containers -- Docker Architecture and Components -- The Power of Docker: A Simple Example;
+Docker Interface:Key Docker Commands -- Dockerfile -- Docker Compose; Case Study: Containerizing a
+Helpdesk Application : Containerizing Microservices -- Deploying the Catalog Microservice.
 
 #+begin _comment
-...New process model is added in syllabus which is not provided in AU...
+...Included from Book 2, chapter 5.7.13
 #+end_comment
 
 {{{unit}}}
-|UNIT IV | SECURITY AND RISK MANAGEMENT | 9 |
-Cloud Security: Cloud information security objectives -- Cloud
-security services -- Secure development practices;
+|UNIT IV | NETWORKING AND DISCOVERY | 9 |
 
-Risk Management: Risk culture -- Risk managementprocess -- Risk
-attributes -- Risk identification -- Types of risk analysis --
-Responding to risk -- Risk tracking -- Risk models.
+
+
 
 #+begin _comment
-...Added security topic in syllabus, which is not provided in AU...
-...Added risk in Unit IV instead of AU-Unit III...
+...Included from Book (2) chapter 8,9
 #+end_comment
 
 {{{unit}}}
-|UNIT V | MONITORING AND ORGANIZING TEAMS | 9 |
+|UNIT V | ORCHESTRATION AND SECURITY | 9 |
 Visualizing Progress: Relationship between people and effort -- Task
 set and network -- Earned value analysis -- SCM -- Managing contracts
 -- Working in teams -- Developing metrics on a software development
@@ -94,7 +91,8 @@ Upon completion of the course, the student should be able to:
       
 ** TEXT BOOKS
 1. Shirley Lacy and David Norfolk, ``CONFIGURATION MANAGEMENT, Expert guidance for IT service managers and practitioners``, Revised edition,  BCS Learning and Development Ltd,   UK, 2014.
-2.  
+2. Parminder Singh Kocher Boston, Microservices and Containers, Addison-Wesley, 2018.
+3. 
 ** REFERENCES
 1.  
 
