@@ -144,9 +144,9 @@ Modified the Course outcomes.
    Textbook'', Springer International Punlishing, 2018.
 5. Josh Patterson, Adam Gibson, ``Deep Learning: A Practitioner's
    Approach'', O'Reilly Media, 2017.
-6. Taweh Beysolow II, "Applied Natural Language Processing with Python 
-   - Implementing Machine Learning and Deep Learning Algorithms for 
-   Natural Language Processing", Apress, 2018.
+6. Taweh Beysolow II, "Applied Natural Language Processing with Python - 
+   Implementing Machine Learning and Deep Learning Algorithms for Natural 
+   Language Processing", Apress, 2018.
 7. Li Deng, Yang Liu, "Deep Learning in Natural Language Processing",
    Springer, 2018
    
