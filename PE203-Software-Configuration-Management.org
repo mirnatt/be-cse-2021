@@ -41,11 +41,13 @@ Configuration management process : monitoring and control -- auditing -- testing
 
 {{{unit}}}
 |UNIT II | MICROSERVICES | 9 |
-An Introduction to Microservices:What Are Microservices? ; Switching to Microservices:Cost Components; Interprocess Communication:Putting It All Together; Case Study: Migration to Microservices--Planning for Migration--Planning for Migration--Applying Microservices Criteria --Converting to Microservices--Application Build and Deployment.
+An Introduction to Microservices:What Are Microservices? ; Switching to Microservices:Cost Components; Interprocess Communication:Putting It All Together; Case Study: Migration to Microservices -- Planning for Migration -- Planning for Migration -- Applying Microservices Criteria -- Converting to Microservices -- Application Build and Deployment.
 
-#+begin _comment
+#+begin_comment
 ...Included from Book 2, chapter 1,2,3,12
+...Included from Text book (2) chapter 11
 #+end_comment
+ 
 
 {{{unit}}}
 |UNIT III | CONTAINERS | 9 |
