@@ -1,7 +1,7 @@
 * <<<503>>> THEORY OF COMPUTATION
 :properties:
 :author: Dr. A. Beulah and Dr. S.Kavitha
-:date: 09-03-2021
+:date: 15-03-2021
 :end:
 
 #+startup: showall
@@ -28,11 +28,11 @@ CO-PO mapping later
 | 3 | 2 | 0 | 4 |
 
 ** Course Objectives
-- To construct finite automata for any given pattern and find its equivalent regular expressions
-- To understand the language hierarchy and to design a context free grammar for any given language
-- To construct pushdown automata for any CFL
-- To understand Turing machines and their capability
-- To understand undecidable problems.
+- To learn the mathematical notations and construct finite automata of the given laguage
+- To understand and infer the relationship of finite automate and regular expressions
+- To understand the language hierarchy, relatinship between context free grammar and its language and to constuct a PDA of CFG.
+- To understand Turing machines and their programming capability
+- To infer the knowledge of undecidable problems.
 
 #+begin_comment
 1. From the previous syllabus Unit 1 is splitted into two units.
@@ -68,9 +68,9 @@ Undecidablity: Language that is not Recursively Enumerable (RE) -- Undecidable p
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Explain the mathematical proofs related to compuation and Construct finite automata for the given language (K3)
+- Solve the mathematical proofs related to compuation and Construct finite automata for the given language (K3)
 - Analyze the relationship between Finite Automata and regular expression (K4)
-- Explain the need of formal languages, grammars and, analyze the reltionship between pushdown automata and grammar (K4)
+- Distinguish the type of grammar, relationship between language to confext free grammar and construction of PDA for the CFG (K4)
 - Constuct Turing machine for the given Language (K3)
 - Explain the Decidability or Undecidability of various problems and make use of it (K3).
 - Design a suitable model for the given application (K6)
@@ -80,7 +80,7 @@ After the completion of this course, students will be able to:
    Edition, 2008.
 
 ** References
-1. Harry R Lewis, Christos H Papadimitriou, ``Elements of the    Theory of Computation'', Prentice Hall of India, 2nd Edition, 2003.
+1. Harry R Lewis, Christos H Papadimitriou, ``Elements of the Theory of Computation'', Prentice Hall of India, 2nd Edition, 2003.
 2. Peter Linz, ``An Introduction to Formal Language and Automata'', Narosa Publishers, 3rd Edition, 2002.
 3. Mishra K L P, Chandrasekaran N, ``Theory of Computer Science -- Automata, Languages and Computation'', Prentice Hall of India, 3rd
    Edition, 2004.
