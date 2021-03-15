@@ -156,11 +156,16 @@ Upon the completion of the course the students should be able to:
    Statistical Natural Language Processing'', MIT Press, 1999.
 2. Steven Bird, Ewan Klien and Edward Loper, Natural Language Processing with Python,
    O'Reilly, 2009.
-3. Nitin Indurkhya, Fred J Damerau, ``Handbook of Natural Language
-   Processing'', 2nd Edition, CRC Press, 2010.
+3. Nitin Indurkhya, Fred J Damerau, "Handbook of Natural Language
+   Processing", 2nd Edition, CRC Press, 2010.
 4. Yoav Goldberg, "Neural Network Methods for Natural Language
    Processing", Synthesis Lectures on Human Language Technologies,
    Morgan & Claypool publishers, 2017.
-5. NLTK -- Natural Language Tool Kit - http://www.nltk.org/
-6. http://nlp-iiith.vlabs.ac.in/
-7. https://www.tensorflow.org/tutorials/text/nmt_with_attention
+5. Li Deng, Yang Liu, "Deep Learning in Natural Language Processing", 
+   Springer, 2018
+6. Taweh Beysolow II, "Applied Natural Language Processing - Implementing 
+   Machine Learning and Deep Learning Algorithms for Natural Language Processing", 
+   Apress, 2018
+7. NLTK -- Natural Language Tool Kit - http://www.nltk.org/
+8. http://nlp-iiith.vlabs.ac.in/
+9. https://www.tensorflow.org/tutorials/text/nmt_with_attention
