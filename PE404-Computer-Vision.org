@@ -45,7 +45,7 @@
 - To be familiar with object recognition methods.
 
 {{{unit}}}
-|UNIT I | Feature detection and matching | 9 |
+|UNIT I | Feature Detection and Matching | 9 |
 Edges - Canny, LOG, DOG; Line detectors (Hough Transform), Corners - Harris and Hessian Affine, 
 Orientation Histogram, SIFT, SURF, HOG, GLOH, Scale-Space Analysis- Image Pyramids and Gaussian derivative filters, 
 Gabor Filters and DWT.
@@ -53,7 +53,7 @@ Gabor Filters and DWT.
 {{{unit}}}
 |UNIT II | IMAGE SEGMENTATION  | 9 |
 Region Growing, Edge Based approaches to segmentation, Graph-Cut, Mean-Shift, MRFs,
-Texture Segmentation; Object detection. Application: Medical image segmentation
+Texture Segmentation; Object detection. Case Study: Medical image segmentation
 
 {{{unit}}}
 |UNIT III | DEPTH ESTIMATION AND 3D RECONSTRUCTION: | 9 |
