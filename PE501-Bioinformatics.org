@@ -50,31 +50,22 @@ Introduction to Bioinformatics: Need for Bioinformatics technologies -- Overview
 
 {{{unit}}}
 |UNIT II | DATAWAREHOUSING AND DATAMINING IN BIOINFORMATICS | 9 |
-Data warehousing in Bioinformatics: Bioinformatics data -- Transforming data to knowledge -- Data warehousing architecture -- Data quality; Data mining for Bioinformatics: Biomedical data analysis -- DNA data analysis -- Protein data analysis; Machine learning in Bioinformatics: ArtificiaNeural network architecture and applications in biinformatics.
+Data warehousing in Bioinformatics: Bioinformatics data -- Transforming data to knowledge -- Data warehousing architecture -- Data quality; Data mining for Bioinformatics: Biomedical data analysis -- DNA data analysis -- Protein data analysis.
 
 {{{unit}}}
-|UNIT III | MODELING FOR BIOINFORMATICS | 9 |
-Hidden Markov modeling for biological data analysis – Sequence identification 
-–Sequence classification – multiple alignment generation – Comparative modeling – 
-Protein modeling – genomic modeling – Probabilistic modeling – Bayesian networks 
-– Boolean networks - Molecular modeling – Computer programs for molecular modeling.
+|UNIT III | MACHINE LEARNING IN BIOINFORMATICS | 9 |
+Machine learning in Bioinformatics: Artificia Neural network -- Neural network architecture and applications -- Genetic algorithm -- Fuzzy system.
  
 {{{unit}}}
-|UNIT IV | PATTERN MATCHING AND VISUALIZATION | 9 |
-Gene regulation – motif recognition – motif detection – strategies for motif detection
-– Visualization – Fractal analysis – DNA walk models – one dimension 
-– two dimension – higher dimension – Game representation of Biological sequences 
-– DNA, Protein, Amino acid sequences.
+|UNIT IV | MODELING FOR BIOINFORMATICS| 9 |
+Modeling for Bioinformatics: Hidden Markov modeling for biological data analysis --  Comparative modeling -- Probabilistic modeling -- Molecular modeling. 
 
 {{{unit}}}
-|UNIT V | MICROARRAY ANALYSIS | 9 |
-Microarray technology for genome expression study – image analysis for data extraction 
-– preprocessing – segmentation – gridding – spot extraction – normalization, filtering – cluster analysis
-– gene network analysis – Compared Evaluation of Scientific Data Management Systems
-– Cost Matrix – Evaluation model - Benchmark – Tradeoffs.
- 
+|UNIT V | MICROARRAY DATA ANALYSIS | 9 |
+Microarray Data Analysis: Microarray technology for genome expression study -- Image analysis for data extraction -- Data Analysis for Pattern Discovery.
 
 #+begin_comment
+
 
 #+end_comment
 
