@@ -1,6 +1,9 @@
 * <<<PE202>>> BIG DATA MANAGEMENT
 :properties:
 :author: Dr. J Suresh and Dr. Y. V. Lokeswari
+:date: 15-03-2021
+:end:
+:author: Dr. J Suresh and Dr. Y. V. Lokeswari
 :date: 09-03-2021
 :end:
 :author: Ms. Rajalakshmi S and Ms. Priyadharsini R
@@ -43,6 +46,9 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION TO BIG DATA | 9 |
+Concept of Big Data -- Sources and types of big data -- Data Ingestion -- Data Storage -- Data Quality -- Data Operations -- Data Scalability and Security -- Data Managment in Energy, Gaming and Flight Operations.
+
+#+begin_comment
 Evolution of big data -- Best practices for big data analytics -- Big
 data characteristics; Validating -- Promotion of the value of big data
 -- Big data use cases -- Characteristics of big data applications --
@@ -50,42 +56,53 @@ Perception and quantification of value; Big Data Tools and Techniques:
 Understanding big data storage -- General overview of high-performance
 architecture -- HDFS -- MapReduce and YARN; Map Reduce programming
 model; Review of basic data analytic methods using R.
-#+begin_comment
+
 Added: Review of basic data analytic methods using R
 #+end_comment
 
 {{{unit}}}
+| UNIT II | Big Data Modeling| 9 |
+Introduction to Big Data Modeling -- Importance and implications of big data modeling and management -- Data model Structures and Operations -- Data Model Constraints -- Relational and Semistructured Data Model -- CSV and JSON data -- Arry Data Model.
+
+#+begin_comment
 | UNIT II | REGRESSION AND CLASSIFICATION | 9 |
 Advanced analytical theory and methods -- Regression : Linear
 regression -- Logistic regression ; Classification: Decision trees --
 Overview of a decision tree -- Decision tree
 algorithms -- Evaluating a decision tree -- Decision trees in R --
 Naïve Bayes -- Bayes‘ theorem -- Naïve Bayes classifier in R.
-#+begin_comment
 Added: Regression 
 Added: Naïve Bayes classifier in R
 Moved: Clustering to Unit - IV
 #+end_comment
 
 {{{unit}}}
+|UNIT III | Working With Data Models | 9 |
+Data Models -- Vector space -- Graph -- Other Data models -- Exploring Gephi --
+
+#+begin_comment
+
 |UNIT III | DATA STREAM ANALYSIS | 9 |
 Introduction to streams concepts: Stream data model and architecture -- Stream computing,
  Sampling data in a stream -- Filtering streams -- Counting distinct elements in a stream -- 
 Estimating moments -- Counting oneness in a window -- Decaying window; 
 Real Time Analytics Platform(RTAP) applications -- 
 Case studies: Real time sentiment analysis, Stock market predictions.
-#+begin_comment
+
 Moved:  Unit - IV in AU 2017 syllabus to Unit - III
 Removed: Using Graph Analytics for Big Data: Graph Analytics
 #+end_comment
 
 {{{unit}}}
-|UNIT IV | FREQUENT ITEMSETS AND CLUSTERING  | 9 |
+|UNIT IV | Big Data Management: The "M" in DBMS   | 9 |
+Approaches to Big Data -- DBMS and non-DBMS -- DBMS to BDMS -- Redis -- Aerospike -- Semistructured Data -- AsterixDB -- Solr -- Vertica.
+
+#+begin_comment
+|UNIT IV | FREQUENT ITEMSETS AND CLUSTERING | 9 |
 Mining frequent itemsets : Market based model -- Apriori algorithm --
 Handling large data sets in main memory -- Limited Pass algorithm --
 Counting frequent itemsets in a stream -- Clustering techniques :
-Hierarchical -- k-Means -- Clustering high dimensional data.  
-#+begin_comment
+Hierarchical -- k-Means -- Clustering high dimensional data. 
 Modified:  Mining frequent itemsets and Clustering techniques for big data
 Removed: CLIQUE and PROCLUS -- Frequent pattern based clustering methods -- Clustering
 in non-euclidean space -- Clustering for streams and parallelism.
@@ -93,13 +110,16 @@ Removed the above topics from Unit - IV to cover in the given hours.
 #+end_comment
 
 {{{unit}}}
+| UNIT V | Big Data Management Tools | 9 |
+Introduction -- Impala -- Neo4j -- SparkSQL -- Case Studies.
+
+#+begin_comment
 | UNIT V | NoSQL DATA MANAGEMENT FOR BIG DATA | 9 |
 NoSQL databases : Schema-less models -- Increasing flexibility for
 data manipulation -- Key value stores -- Document stores -- Tabular
 stores -- Object data stores -- Graph databases; Hive; Sharding;
 Hbase; Case Study: Analyzing big data with twitter -- Big data for E-Commerce Big
 data for blogs.
-#+begin_comment
 Moved: Review of basic data analytic methods using R to Unit - I
 #+end_comment
 \hfill *Total Periods: 45*
