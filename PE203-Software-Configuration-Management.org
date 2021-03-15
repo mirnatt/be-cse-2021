@@ -84,4 +84,5 @@ Upon completion of the course, the student should be able to:
 ** REFERENCES
 1.  Thomas Uphill, Mastering Puppet, Second Edition,PACKT Publishing, 2016
 2.  Scott Coulton, Puppet for Containerization,PACKT Publishing, 2016 
+3.  Cesar de la Torre, Bill Wagner, Mike Rouses, .NET Microservices: Architecture for Containerized .NET Applications, Microsoft Corporation, V5.) Edition, 2020. 
 
