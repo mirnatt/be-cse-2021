@@ -29,16 +29,16 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- The student should be made to:
--> Understand the concept and need for Bioinformatics 
--> Transform biological data into knowledge and perform data analysis
--> Learn the machine learning algorithms for bioinformatics
--> Leran hidden morkov modeling and probabilistic modeling 
--> Know the importance of microarray data analysis
+The student should be made to:
+- Understand the concept and need of Bioinformatics 
+- Transform biological data into knowledge and perform data analysis
+- Learn the machine learning algorithms for bioinformatics
+- Leran hidden morkov modeling and probabilistic modeling 
+- Know the importance of microarray data analysis
 
 
 {{{unit}}}
-|UNIT I | INTRODUCTION| 9 |
+|UNIT I | INTRODUCTION | 9 |
 Introduction to Bioinformatics: Need for Bioinformatics technologies -- Overview of Bioinformatics technologies; Overview of structural bioinformatics: Organization of Structural bioinformatics -– Primary resource: protein data bank -- Secondary resources and applications.
 
 {{{unit}}}
@@ -50,33 +50,26 @@ Data warehousing in Bioinformatics: Bioinformatics data -- Transforming data to 
 Machine learning in Bioinformatics: Artificia Neural network -- Neural network architecture and applications -- Genetic algorithm -- Fuzzy system.
  
 {{{unit}}}
-|UNIT IV | MODELING FOR BIOINFORMATICS| 9 |
+|UNIT IV | MODELING FOR BIOINFORMATICS | 9 |
 Modeling for Bioinformatics: Hidden Markov modeling for biological data analysis --  Comparative modeling -- Probabilistic modeling -- Molecular modeling. 
 
 {{{unit}}}
 |UNIT V | MICROARRAY DATA ANALYSIS | 9 |
 Microarray Data Analysis: Microarray technology for genome expression study -- Image analysis for data extraction -- Data Analysis for Pattern Discovery.
 
-#+begin_comment
-
-
-#+end_comment
-
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
--> understand the need for Bioinformatics technologies
--> Perform sequence data analysis
--> Develop models for biological data.
--> Apply pattern matching techniques to bioinformatics data – protein data genomic data.
--> Apply micro array technology for genomic expression study.
+- Explain the concept and need of Bioinformatics 
+- Identify the genome and protein data and its equivalent stoaagr and mining process
+- Apply machine learning algorithms for bioinformatics dataset 
+- Make use of hidden morkov modeling and probabilistic modeling for bioinformatics dataset
+- Infer the importance of microarray data analysis
    
 ** TEXT BOOKS
 1. Yi-Ping Phoebe Chen (Ed), “BioInformatics Technologies”, First Indian Reprint, Springer Verlag, 2007.
-2. Rui Jiang • Xuegong Zhang • Michael Q. Zhang, "Basics of Bioinformatics", Tsinghua University Press, Springer, 2013
-2. JIN XIONG, "Essential Bioinformatics", Cambridge Unversity Press, 2006
-   
+
 ** REFERENCES
-1. Bryan Bergeron, “Bio Informatics Computing”, Second Edition, Pearson Education, 2003.
-2. Arthur M Lesk, “Introduction to Bioinformatics”, Second Edition, Oxford University Press, 2005
+1. Arthur M Lesk, “Introduction to Bioinformatics”, Fourth Edition, Oxford University Press, 2008
+2. Rui Jiang • Xuegong Zhang • Michael Q. Zhang, "Basics of Bioinformatics", Tsinghua University Press, Springer, 2013   
