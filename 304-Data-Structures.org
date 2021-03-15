@@ -1,7 +1,7 @@
 * <<<304>>> DATA STRUCTURES
 :properties:
 :author: Mr H Shahul Hamead and Ms M Saritha
-:date: 09-03-2021
+:date: 15-03-2021
 :end:
 #+startup: showall
 
@@ -40,7 +40,6 @@
 - To understand the different types of searching and sorting techniques
 - To learn the introductory concepts of hashing techniques.
 
-{{{unit}}}
 | UNIT I | INTRODUCTION TO C PROGRAMMING | 9 |
 Arrays, Structures, Pointers; Algorithm Analysis: Running time calculations; 
 
@@ -49,23 +48,21 @@ Inclusion - Algorithm Analysis: Running time calculations;
 Thoughtprocess - To study the general notations of algorithm analysis
 #+END_COMMENT
 
-{{{unit}}}
 | UNIT II | LINEAR DATA STRUCTURES – LINKED LIST | 11 |
 Abstract Data Types (ADTs); List ADT: Linked lists -- Circular linked lists -- Doubly linked lists -- Applications of Lists: Polynomial manipulation -- Hashing: Separate chaining -- Open addressing -- Rehashing
 
-{{{unit}}}
+
 | UNIT III | LINEAR DATA STRUCTURES – STACK AND QUEUE   | 7 |
 Stack ADT: Stack model -- Implementation of stacks -- Applications: Balancing symbols -- Infix to postfix conversion -- Evaluating postfix
 expressions; Queue ADT: Queue model -- Array implementation of queues -- Applications of queues.
 
-{{{unit}}}
+
 | UNIT IV | NON LINEAR DATA STRUCTURES – TREES | 10 |
 Preliminaries: Implementation of trees -- Tree traversals with an application; Binary trees: Expression trees; Binary search tree ADT;
 AVL trees; B-Trees; Priority Queues: Binary heap.
 
      
-{{{unit}}}
-| UNIT V | NON LINEAR DATA STRUCTURES – GRAPHS | 9 |
+| UNIT V | NON LINEAR DATA STRUCTURES – GRAPHS | 8 |
 Graph Algorithms: Definitions -- Representation of graphs; Graph Traversals: Breadth-first traversal -- Depth-first traversal; Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm -- All-pairs shortest path.
 
 \hfill *Total Periods: 45*
@@ -83,18 +80,11 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS
 1. M A Weiss, ``Data Structures and Algorithm Analysis in C'', 2nd
    Edition, Pearson Education, 2002.
-2. Richard F Gilberg, Behrouz A Forouzan, ``Data Structures: A
-   Pseudocode Approach with C'', 2nd Edition, Cengage India, 2007.
+2. Dennis Ritchie - C
 
 ** REFERENCES
-1. A V Aho, J E Hopcroft, J D Ullman, ``Data Structures and
-   Algorithms'', Pearson Education, 1st Edition Reprint, 2003.
-2. R F Gilberg, B A Forouzan, ``Data Structures'', 2nd Edition,
-   Thomson India Edition, 2005.
-3. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, ``Fundamentals
-   of Data Structures in C'', 2nd Edition, University Press, 2008.
-4. S Sridhar, ``Design and Analysis of Algorithms``, 1st Edition,
-   Oxford University Press, 2014.
-5. Byron Gottfried, Jitender Chhabra, ``Programming with C`` (Schaum’s
-   Outlines Series), 3rd Edition, Mcgraw Hill Higher Education, 2010.
+1. A V Aho, J E Hopcroft, J D Ullman, ``Data Structures and Algorithms'', Pearson Education, 1st Edition Reprint, 2003.
+2. R F Gilberg, B A Forouzan, ``Data Structures'', 2nd Edition, Thomson India Edition, 2005.
+3. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, ``Fundamentals of Data Structures in C'', 2nd Edition, University Press, 2008.
+4. Byron Gottfried, Jitender Chhabra, ``Programming with C`` (Schaum’s Outlines Series), 3rd Edition, Mcgraw Hill Higher Education, 2010.
 
