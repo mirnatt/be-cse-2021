@@ -55,9 +55,11 @@ Docker Containers:Virtual Machines -- Containers -- Docker Architecture and Comp
 Docker Interface:Key Docker Commands -- Dockerfile -- Docker Compose; Case Study: Containerizing a
 Helpdesk Application : Containerizing Microservices -- Deploying the Catalog Microservice.
 
-#+begin _comment
+#+begin_comment
 ...Included from Book 2, chapter 5.7.13
+ 
 #+end_comment
+ 
 
 {{{unit}}}
 |UNIT IV | NETWORKING AND DISCOVERY | 9 |
@@ -94,7 +96,7 @@ Upon completion of the course, the student should be able to:
 ** TEXT BOOKS
 1. Shirley Lacy and David Norfolk, ``CONFIGURATION MANAGEMENT, Expert guidance for IT service managers and practitioners``, Revised edition,  BCS Learning and Development Ltd,   UK, 2014.
 2. Parminder Singh Kocher Boston, Microservices and Containers, Addison-Wesley, 2018.
-3. 
+3. Michael Hausenblas, Docker Networking and Service Discovery, O'Reilly Publication, 2016.
 ** REFERENCES
 1.  
 
