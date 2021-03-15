@@ -5,12 +5,7 @@
 :end:
 
 #+begin_comment
-Included project model in Unit I instead of having it in AU R2017 -Unit II
-Included scheduling in Unit II instead of having it in AU R2017-Unit III
-Added security topic in syllabus, which is not provided in AU R2017
-Added risk in Unit IV instead of AU R2017-Unit III
-New process model is added in syllabus which is not provided in AU R2017
-Included monitoring topics in Unit V instead of AU-Unit IV
+ 
 #+end_comment
 
 #+startup: showall
@@ -20,12 +15,9 @@ Included monitoring topics in Unit V instead of AU-Unit IV
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn the key aspects of managerial process in software
-  organization.
-- To apply the practices followed in project planning, estimation, and
-  scheduling
-- To be familiar with the overall project activities in Agile and
-  DevOps
+- Explain and demonstrate the key aspects of traditional configuration management
+- Understand and demonstrate the microservices application  
+- Explore the container 
 - To study the various issues in people management
 - To distinguish between security and risk activities related with
   software development.
