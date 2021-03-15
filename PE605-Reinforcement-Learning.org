@@ -29,7 +29,7 @@ Dynamic Programming; Monte Carlo Methods: Prediction -- Estimation of Action Val
 n-step Bootstrapping: TD Prediction -- Sarsa -- Off-policy Learning; Planning and Learning with Tabular Methods.
 
 | UNIT IV |  | APPROXIMATE SOLUTION METHODS | 10 |
-On-policy Prediction with Approximation; On-policy Control with Approximation; Eligibility Traces: The \lambda-return -- TD(") -- n-step Truncated "-return Methods -- Online "-return Algorithm -- True Online TD("); Policy Gradient Methods. 
+On-policy Prediction with Approximation; On-policy Control with Approximation; Eligibility Traces: The \lambda-return -- TD(\lambda) -- n-step Truncated \lambda-return Methods -- Online \lambda-return Algorithm -- True Online TD(\lambda); Policy Gradient Methods. 
 
 | UNIT V | APPLICATIONS AND CASE STUDIES | 6 |
 TD-Gammon; Watson’s Daily-Double Wagering; Optimizing Memory Control; Human-level Video Game Play.
