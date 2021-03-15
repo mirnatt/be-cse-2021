@@ -20,16 +20,16 @@
 - To apply reinforcement learning techniques for various case studies.
 
 | UNIT I | INTRODUCTION | 9 |
-Reinforcement Learning -- Examples -- Elements of Reinforcement Learning -- Limitations and Scope -- An Extended Example: Tic-Tac-Toe; Multi-armed Bandits; Finite Markov Decision Processes.
+Reinforcement Learning -- Examples -- Elements of Reinforcement Learning -- Limitations and Scope -- Tic-Tac-Toe; Multi-armed Bandits; Finite Markov Decision Processes.
 
 | UNIT II | TABULAR SOLUTION METHODS | 11 |
 Dynamic Programming; Monte Carlo Methods: Prediction -- Estimation of Action Values -- Control -- Control without Exploring Starts -- Off-policy Prediction via Importance Sampling -- Incremental Implementation -- Off-policy Monte Carlo Control; Temporal-Difference Learning.
 
-| UNIT III |  INTEGRATION OF TABULAR METHODS | 10 |
-n-step Bootstrapping: TD Prediction -- Sarsa -- Off-policy Learning; Planning and Learning with Tabular Methods;
+| UNIT III |  INTEGRATION OF TABULAR METHODS | 9 |
+n-step Bootstrapping: TD Prediction -- Sarsa -- Off-policy Learning; Planning and Learning with Tabular Methods.
 
 | UNIT IV |  | APPROXIMATE SOLUTION METHODS | 10 |
-On-policy Prediction with Approximation; On-policy Control with Approximation; Eligibility Traces: The -return -- TD(") -- n-step Truncated "-return Methods -- Online "-return Algorithm -- True Online TD("); Policy Gradient Methods. 
+On-policy Prediction with Approximation; On-policy Control with Approximation; Eligibility Traces: The \lambda-return -- TD(") -- n-step Truncated "-return Methods -- Online "-return Algorithm -- True Online TD("); Policy Gradient Methods. 
 
 | UNIT V | APPLICATIONS AND CASE STUDIES | 6 |
 TD-Gammon; Watson’s Daily-Double Wagering; Optimizing Memory Control; Human-level Video Game Play.
