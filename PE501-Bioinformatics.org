@@ -61,11 +61,11 @@ Microarray Data Analysis: Microarray technology for genome expression study -- I
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Explain the concept and need of Bioinformatics 
-- Identify the genome and protein data and its equivalent stoaagr and mining process
-- Apply machine learning algorithms for bioinformatics dataset 
-- Make use of hidden morkov modeling and probabilistic modeling for bioinformatics dataset
-- Infer the importance of microarray data analysis
+- Explain the concept and need of Bioinformatics (K2)
+- Identify the genome and protein data and its equivalent stoaagr and mining process (K3)
+- Apply machine learning algorithms for bioinformatics dataset (K3)
+- Make use of hidden morkov modeling and probabilistic modeling for bioinformatics dataset (K3)
+- Infer the importance of microarray data analysis (K2)
    
 ** TEXT BOOKS
 1. Yi-Ping Phoebe Chen (Ed), “BioInformatics Technologies”, First Indian Reprint, Springer Verlag, 2007.
