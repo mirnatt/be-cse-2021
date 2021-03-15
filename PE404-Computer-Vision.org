@@ -45,20 +45,16 @@
 - To be familiar with object recognition methods.
 
 {{{unit}}}
-|UNIT I | Feature Detection and Matching | 9 |
-Edges - Canny, LOG, DOG; Line detectors (Hough Transform), Corners - Harris and Hessian Affine, 
-Orientation Histogram, SIFT, SURF, HOG, GLOH, Scale-Space Analysis- Image Pyramids and Gaussian derivative filters, 
-Gabor Filters and DWT.
+|UNIT I | Low level vision | 9 |
+Thresholding Techniques: Region growing methods -- Thresholding -- Adaptive thresholding -- Approaches to threshold selection -- Global valley approach to thresholding; Edge detection: Differential Gradient operator -- Hysteresis thresholding -- Canny operator -- Laplacian operator -- Active contours -- Level set -- Graph cut approach; Corner and Interest point detection: Second order derivative schemes -- Harris Interest point operators -- Local invariant feature detectors and descriptors; Texture;
 
 {{{unit}}}
-|UNIT II | IMAGE SEGMENTATION  | 9 |
-Region Growing, Edge Based approaches to segmentation, Graph-Cut, Mean-Shift, MRFs,
-Texture Segmentation; Object detection. Case Study: Medical image segmentation
+|UNIT II | Intermediate level vision  | 9 |
+Binary shape analysis: Skeletons and thinning -- Other measures for shape recognition; Boundary Pattern analyis: Boundary tracking procedures -- Centroidal profiles; Line detection: Hough transform -- Foot of normal method; Circle and Ellipse detection: Hough based scheme -- Ellipse detection methods; Case study: Human Iris Location
 
 {{{unit}}}
-|UNIT III | DEPTH ESTIMATION AND 3D RECONSTRUCTION: | 9 |
-Feature-based alignment: 2D and 3D feature-based alignment, pose estimation, Geometric intrinsic calibration. 
-Structure from Motion: Triangulation, Two-frame structure from Motion, Factorization, Bundle adjustment. 
+|UNIT III | 3D vision - DEPTH ESTIMATION AND 3D RECONSTRUCTION: | 9 |
+Feature-based alignment: 2D and 3D feature-based alignment, pose estimation, Geometric intrinsic calibration. Structure from Motion: Triangulation, Two-frame structure from Motion, Factorization, Bundle adjustment. 
 Stereo Correspondance: Epipolar geometry, 3D Reconstruction: Shape from X, Active rangefinding, Surface representations,
 Point-based representations
 
@@ -93,10 +89,8 @@ After the completion of this course, students will be able to:
   methods (K4).
    
 ** TEXT BOOKS
-1. Rafael C Gonzalez, Richard E Woods, ``Digital Image Processing'',
-   Pearson, 3rd Edition, 2010.
-2. Anil K Jain, ``Fundamentals of Digital Image Processing'',
-   Pearson, 2002.
+1. Davies, E. Roy. Computer and machine vision: theory, algorithms, practicalities. Academic Press, 2012.( Units I and II)
+2. Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010. (Unit III and IV)
    
 ** REFERENCES
 1. Kenneth R Castleman, ``Digital Image Processing'', Pearson, 2006.
