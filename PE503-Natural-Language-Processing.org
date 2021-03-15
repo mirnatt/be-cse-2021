@@ -121,7 +121,7 @@ IR-based QA Datasets -- Answer span extraction;
 #+end_comment
 
 
-Group Projects:
+NLP Tasks / Applications:
 1) CRF POS/NER Tagging
 2) Word Generation using N-grams
 3) CFG / Dependency parsing
