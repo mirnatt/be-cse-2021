@@ -35,8 +35,8 @@ Configuration management process : monitoring and control -- auditing -- testing
 An Introduction to Microservices:What Are Microservices? ; Switching to Microservices:Cost Components; Interprocess Communication:Putting It All Together; Case Study: Migration to Microservices -- Planning for Migration -- Planning for Migration -- Applying Microservices Criteria -- Converting to Microservices -- Application Build and Deployment.
 
 #+begin_comment
-...Included from Book 2, chapter 1,2,3,12
-...Included from Text book (2) chapter 11
+...Included from Text Book 2, chapter 1,2,3,12
+
 #+end_comment
  
 
@@ -47,7 +47,7 @@ Docker Interface:Key Docker Commands -- Dockerfile -- Docker Compose; Case Study
 Helpdesk Application : Containerizing Microservices -- Deploying the Catalog Microservice.
 
 #+begin_comment
-...Included from Book 2, chapter 5.7.13
+...Included from Text Book 2, chapter 5.7.13
 #+end_comment
  
 
@@ -57,8 +57,8 @@ Helpdesk Application : Containerizing Microservices -- Deploying the Catalog Mic
 Docker Networking: Bridge Mode Networking -- Host Mode Networking -- Container Mode Networking -- No Networking -- Wrapping It Up; Service Discovery ;  Service Registry.
 
 #+begin_comment
-...Included from Book 3, chapter   2, 4
-...Included from Book 2, chapter  9  
+...Included from Text Book 3, chapter   2, 4
+...Included from Text Book 2, chapter  9  
 #+end_comment
 
 {{{unit}}}
@@ -66,7 +66,7 @@ Docker Networking: Bridge Mode Networking -- Host Mode Networking -- Container M
 Container Orchestration : Kubernetes -- Kubectl -- Master Node -- Worker Nodes -- Kubernetes Cluster;  Docker Swarm : Nodes -- Services -- Task -- Example: Swarm Cluster.
 
 #+begin_comment
-...Included from Book 2, chapter 9 
+...Included from Text Book 2, chapter 9 
 #+end_comment
 
 ** COURSE OUTCOMES
