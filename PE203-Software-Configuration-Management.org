@@ -82,5 +82,6 @@ Upon completion of the course, the student should be able to:
 2. Parminder Singh Kocher Boston, Microservices and Containers, Addison-Wesley, 2018.
 3. Michael Hausenblas, Docker Networking and Service Discovery, O'Reilly Publication, 2016.
 ** REFERENCES
-1.  
+1.  Thomas Uphill, Mastering Puppet, Second Edition,PACKT Publishing, 2016
+2.  Scott Coulton, Puppet for Containerization,PACKT Publishing, 2016 
 
