@@ -38,7 +38,7 @@
 - To learn the functions of network layer and the various routing protocols
 - To familiarize the functions and protocols of the Transport layer
 - To understand various application layer protocols.
-
+- To analyse the performance of the network using simultion tool.
 
 {{{unit}}}
 |UNIT I |INTRODUCTION AND PHYSICAL LAYER  |7| 	
@@ -93,6 +93,7 @@ After the completion of this course, students will be able to:
   (K3)
 - Illustrate the Application Layer Protocols and their basic
   functionalities (K2).
+- Analyze the performance of the network using simultion tool.
 
 ** TEXT BOOKS 
 1. Behrouz A Forouzan, ``Data Communications and Networking'', 5th
