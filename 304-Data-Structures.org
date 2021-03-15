@@ -41,10 +41,8 @@
 - To learn the introductory concepts of hashing techniques.
 
 {{{unit}}}
-| UNIT I | INTRODUCTION TO ALGORITHM ANALYSIS | 7 |
-Algorithm Analysis: Running time calculations; Searching: Linear
-search -- Binary search; Sorting: Selection sort -- Insertion Sort --
-Merge Sort.
+| UNIT I | INTRODUCTION TO C PROGRAMMING | 9 |
+Arrays, Structures, Pointers; Algorithm Analysis: Running time calculations; 
 
 #+BEGIN_COMMENT
 Inclusion - Algorithm Analysis: Running time calculations; 
@@ -53,56 +51,22 @@ Thoughtprocess - To study the general notations of algorithm analysis
 
 {{{unit}}}
 | UNIT II | LINEAR DATA STRUCTURES – LINKED LIST | 11 |
-Preliminaries: Structures and Pointers in C; Abstract Data Types
-(ADTs); List ADT: Linked lists -- Circular linked lists -- Doubly
-linked lists -- Applications of Lists: Polynomial manipulation --
-Hashing: Separate chaining -- Open addressing -- Rehashing
+Abstract Data Types (ADTs); List ADT: Linked lists -- Circular linked lists -- Doubly linked lists -- Applications of Lists: Polynomial manipulation -- Hashing: Separate chaining -- Open addressing -- Rehashing
 
 {{{unit}}}
 | UNIT III | LINEAR DATA STRUCTURES – STACK AND QUEUE   | 7 |
-Stack ADT: Stack model -- Implementation of stacks -- Applications:
-Balancing symbols -- Infix to postfix conversion -- Evaluating postfix
-expressions; Queue ADT: Queue model -- Array implementation of queues
--- Applications of queues.
-
-#+BEGIN_COMMENT
-Application of trees is included along with tree traversals. It's in
-the text book.  Threaded binary tree and B+ tree is removed as per AU
-syllabus, since it requires more no. of hours.
-
-Removal 
-       Threaded binary tree and B+ tree
-Thought process  
-       Removed as they will consume more time
-       Having an idea of b-tree and binary search tree, students will be able to learn the concepts of the above               
-#+END_COMMENT
+Stack ADT: Stack model -- Implementation of stacks -- Applications: Balancing symbols -- Infix to postfix conversion -- Evaluating postfix
+expressions; Queue ADT: Queue model -- Array implementation of queues -- Applications of queues.
 
 {{{unit}}}
 | UNIT IV | NON LINEAR DATA STRUCTURES – TREES | 10 |
-Preliminaries: Implementation of trees -- Tree traversals with an
-application; Binary trees: Expression trees; Binary search tree ADT;
-AVL trees; B-Trees; Disjoint Sets; Priority Queues: Binary heap.
+Preliminaries: Implementation of trees -- Tree traversals with an application; Binary trees: Expression trees; Binary search tree ADT;
+AVL trees; B-Trees; Priority Queues: Binary heap.
 
-#+BEGIN_COMMENT
-Cut vertex and Euler circuits are removed as per AU syllabus as we
-have included the application of graph i.e Shortest-Path Algorithms.
-Inclusion 
-         Specific applications of graph namely, shortest path algorithms have been included 
-Thought process
-         Because in R-2017, it has been mentioned in general
-Removal
-       Cut vertex and Euler circuits
-Thought process
-       These are again the applications of DFS. One such (Bi connectivity) is already discussed
-         
-#+END_COMMENT
-
+     
 {{{unit}}}
-| UNIT V | NON LINEAR DATA STRUCTURES – GRAPHS | 10 |
-Graph Algorithms: Definitions -- Representation of graphs; Graph
-Traversals: Breadth-first traversal -- Depth-first traversal;
-Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm --
-All-pairs shortest path.
+| UNIT V | NON LINEAR DATA STRUCTURES – GRAPHS | 9 |
+Graph Algorithms: Definitions -- Representation of graphs; Graph Traversals: Breadth-first traversal -- Depth-first traversal; Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm -- All-pairs shortest path.
 
 \hfill *Total Periods: 45*
 
