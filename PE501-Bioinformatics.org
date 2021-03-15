@@ -18,15 +18,8 @@
 | Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   1 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    1 |
 
 #+begin_comment
-- 1. Almost the same as EC8093  DIGITAL IMAGE PROCESSING in AU 2017
-- 2. Change in Unit V (see the comment below unit V)
-- 3. Unit - II in PCP1279(M.E. CSE Image Processing and Analysis)is
-     split into Unit- II and III
-     Image segmentation and Feature analysis methods in Unit- III of PCP1279 are moved to Unit - IV and 
-     Unit - V respectively.
-     The topic object recognition is added in Unit - V
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable.
+- Few changes are done from AU 2013, 7th semester Elective course on Bioinformatics
+- Yet to do mapping
 #+end_comment
 
 #+startup: showall
@@ -37,11 +30,11 @@
 
 ** COURSE OBJECTIVES
 - The student should be made to:
--> Exposed to the need for Bioinformatics technologies
--> Able to transform biological data into knowledge and perform sequence data analysis
--> Be familiar with the modeling techniques
--> Exposed to Pattern Matching and Visualization
--> Learn microarray analysis
+-> Understand the concept and need for Bioinformatics 
+-> Transform biological data into knowledge and perform data analysis
+-> Learn the machine learning algorithms for bioinformatics
+-> Leran hidden morkov modeling and probabilistic modeling 
+-> Know the importance of microarray data analysis
 
 
 {{{unit}}}
