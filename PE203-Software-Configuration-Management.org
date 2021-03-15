@@ -17,10 +17,9 @@
 ** COURSE OBJECTIVES
 - Explain and demonstrate the key aspects of traditional configuration management
 - Understand and demonstrate the microservices application  
-- Explore the container 
-- To study the various issues in people management
-- To distinguish between security and risk activities related with
-  software development.
+- Explore and deploy the microservice in a container 
+- Install and explore Docker container networking services
+- Modify the configuration techniques using kubernetes and Docker swarm 
 
 {{{unit}}}
 |UNIT I | TRADITIONAL | 9 |
@@ -72,14 +71,11 @@ Container Orchestration : Kubernetes -- Kubectl -- Master Node -- Worker Nodes -
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to:
-- Select a process model for software development (K2)
-- Estimate cost to manage the software development (K3)
-- Develop a project using agile and devops software development
-  practices (K3)
-- Identify the activities of security and risk in various types of
-  software projects (K1)
-- Recognize management skills and techniques to develop commercial
-  software projects (K2).
+- Understand the traditional configuration principles both thoery and practically (K3)
+- Develop a microservice (K3)
+- Build a container and deploy a  microservice (K3)
+- Learn the networking concepts in container (K2)
+- Recognize the configutation features using Kubernetes and Docker swarm (K3).
       
 ** TEXT BOOKS
 1. Shirley Lacy and David Norfolk, ``CONFIGURATION MANAGEMENT, Expert guidance for IT service managers and practitioners``, Revised edition,  BCS Learning and Development Ltd,   UK, 2014.
