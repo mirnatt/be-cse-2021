@@ -48,7 +48,7 @@ reverse lookup, dictionaries and lists; Files: Text files, reading and
 writing files, format operator, file names and paths; command line
 arguments.
 
-\hfill *Total Hours:45*
+*Total Hours:45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
