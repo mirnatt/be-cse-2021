@@ -60,8 +60,8 @@ Graph Algorithms: Definitions -- Representation of graphs; Graph Traversals: Bre
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Develop program solutions for problems using structures and pointers and analyze the complexity of programs (K4)
-- Analyze the complexity of various operations in List and develop hashing applications (K4)
+- Develop programs using structures and pointers and introduce the importance of algorithm analysis (K3)
+- Analyze the different types of list and their operations with suitable applications (K4)
 - Develop applications using stack and queue (K3)
 - Apply the operations of unbalanced and balanced trees to develop solutions to various problems (K3)
 - Develop applications using traversal and shortest path algorithms of graph (K3)
