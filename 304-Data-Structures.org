@@ -17,15 +17,12 @@
 | Score          |    |  15 |  11 |  10 |   0 |   6 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |   10 |   15 |    6 |
 | Course Mapping |    |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
 
-** REVISION 2018                                                   :noexport:
-1. As per the suggestion, application of trees has been included
-2. Comments for the inclusion and removal of the contents in this
-   syllabus with respect to AU R-2017 have been included along with
-   the units
+** REVISION 2021                                                   :noexport:
+1. Since Programming in C course is not included in the 2nd semester, the concepts of arrays, pointers and structures in C are covered in Unit I
+2. Searching and sorting algorithms are removed as they study in 1st semester as well as in DAA. However, hashing techniques are included in Unit II
 3. The syllabi for UG and PG are different to a larger extent
 4. Course outcomes are specified and aligned with the units
-5. Suggestive experiments are specified in the separate lab course for
-   this subject
+5. Suggestive experiments are specified in the separate lab course for this subject
 
 {{{credits}}}
 | L | T | P | C |
@@ -33,22 +30,17 @@
 
 
 ** COURSE OBJECTIVES
-- To illustrate the preliminary concepts in C programming 
+- To learn the concept of pointers and structures in C
 - To comprehend the notion of linear and non linear data structures
-- To design suitable data structures for different problems and
-  implement them in a high level programming language
-- To learn the introductory concepts of hashing techniques.
+- To apply the linear and non-linear data structures to various problems 
+- To design suitable data structures for different problems and implement them in C
 
-| UNIT I | C PROGRAMMING | 10 |
-Pointers and Arrays: Pointers and addresses -- Pointers and function arguments -- Pointers and arrays -- Pointers to pointers -- Address Arithmetic; Structures: Basics -- Structures and functions -- Array of structures -- Pointers to Structures -- Self-referential structures -- Typedef; Algorithm Analysis: Running time calculations; 
 
-#+BEGIN_COMMENT
-Inclusion - Algorithm Analysis: Running time calculations; 
-Thoughtprocess - To study the general notations of algorithm analysis
-#+END_COMMENT
+| UNIT I | C PROGRAMMING - POINTERS AND STRUCTURES | 10 |
+Pointers and Arrays: Pointers and addresses -- Pointers and function arguments -- Pointers and arrays -- Pointers to pointers -- Address Arithmetic; Structures: Basics -- Structures and functions -- Array of structures -- Pointers to Structures -- Self-referential structures -- Typedef; Algorithm Analysis: Running time calculations.
 
 | UNIT II | LINEAR DATA STRUCTURES – LINKED LIST | 10 |
-Abstract Data Types (ADTs); List ADT: Linked lists -- Circular linked lists -- Doubly linked lists -- Applications of Lists: Polynomial manipulation -- Hashing: Separate chaining -- Open addressing -- Rehashing
+Abstract Data Types (ADTs); List ADT: Linked lists -- Circular linked lists -- Doubly linked lists -- Applications of Lists: Polynomial manipulation; Hashing: Separate chaining -- Open addressing -- Rehashing.
 
 
 | UNIT III | LINEAR DATA STRUCTURES – STACK AND QUEUE   | 7 |
@@ -72,10 +64,10 @@ After the completion of this course, students will be able to:
 - Analyze the complexity of various operations in List and develop hashing applications (K4)
 - Develop applications using stack and queue (K3)
 - Apply the operations of unbalanced and balanced trees to develop solutions to various problems (K3)
-- Develop applications using traversal and shortest path algorithms of graph  (K3)
+- Develop applications using traversal and shortest path algorithms of graph (K3)
       
 ** TEXT BOOKS
-1. M A Weiss, ``Data Structures and Algorithm Analysis in C'', 2nd Edition, Pearson Education, 2002.
+1. Mark Allen Weiss, ``Data Structures and Algorithm Analysis in C'', 2nd Edition, Pearson Education, 2002.
 2. Brian W. Kernighan, Dennis M. Ritchie, ``C Programming Language'', 2nd Edition, Prentice Hall, 1988.
 
 ** REFERENCES
