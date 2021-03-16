@@ -29,7 +29,7 @@
 ** COURSE OBJECTIVES
 - Develop program solutions for various problems
 - Apply suitable data structures, linear and non linear for a given problem statement
-- Design the data structure for the given problem and implement them in a high level programming language
+- Design the data structure for the given problem and implement them in a high level programming language.
 
 ** SUGGESTIVE EXPERIMENTS
 1. Implement solutions for problems using arrays and pointers 
