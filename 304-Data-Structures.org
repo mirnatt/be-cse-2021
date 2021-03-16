@@ -1,7 +1,7 @@
 * <<<304>>> DATA STRUCTURES
 :properties:
 :author: Mr H Shahul Hamead and Ms M Saritha
-:date: 15-03-2021
+:date: 09-03-2021
 :end:
 #+startup: showall
 
@@ -19,7 +19,7 @@
 
 ** REVISION 2021                                                   :noexport:
 1. Since Programming in C course is not included in the 2nd semester, the concepts of arrays, pointers and structures in C are covered in Unit I
-2. Searching and sorting algorithms are removed as they study in 1st semester as well as in DAA. However, hashing techniques are included in Unit II
+2. Searching and sorting algorithms are removed as they study in the 1st semester as well as in DAA. However, hashing techniques are included in Unit II
 3. The syllabi for UG and PG are different to a larger extent
 4. Course outcomes are specified and aligned with the units
 5. Suggestive experiments are specified in the separate lab course for this subject
