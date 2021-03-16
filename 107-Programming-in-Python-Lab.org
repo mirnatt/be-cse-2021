@@ -1,7 +1,7 @@
 * PROGRAMMING IN PYTHON LAB
 :properties:
-:author: R S Milton
-:date: 28 June 2018
+:author: P.Mirunalini, H.Shaul Hamaed
+:date: 16 March 2021
 :end:
 
 {{{credits}}}
@@ -9,9 +9,12 @@
 | 0 | 0 | 4 | 2 |
 		
 ** Course Objectives
-   - To solve problems using algorithms and flowcharts
    - To write, test, and debug simple Python programs.
-   - To develop and execute programs using Python programming constructs.
+   - To apply conditions and loops to solve problems using python.
+   - To implement programs using functions
+   - To write programs using different data types such as strings, lists tuples and dictionaries
+   - To  perform read and write operations into the files.
+   
 
 ** Suggestive Exercises
    1. Use Linux shell commands, use Python in interactive mode, and an
@@ -44,8 +47,8 @@
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- To write, test, and debug simple Python programs (K2).
-- To implement Python programs with conditionals and loops  (K3).
-- Use functions for structuring Python programs (K3).
-- Represent compound data using Python lists, tuples, and dictionaries (K3).
-- Read and write data from/to files in Python (K3).
+- To write, test, and debug simple Python programs (K3).
+- To build Python programs with conditionals and loops  (K3).
+- To solve  a problem using functions in python programming (K3).
+- Construct python programs using compound data like lists, tuples, and dictionaries (K3).
+- Utilize files for problem solving (K3).
