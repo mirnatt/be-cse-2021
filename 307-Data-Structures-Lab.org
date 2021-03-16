@@ -4,11 +4,11 @@
 :date: 09-03-2021 
 :end:
 
-Array implementation of list ADT
-
 #+startup: showall
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
+(Once COs are finalized, CO PO mapping can be updated)
+
 |                | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3  |
 | CO1            |   2 |   3 |   3 |   3 |  0  |  0  |  0  |   0 |   0 |    0 |    0 |    2 |    3 |    3 |    2  |
 | CO2            |   2 |   3 |   3 |   3 |  0  |  0  |  0  |   0 |   0 |    0 |    0 |    2 |    3 |    3 |    2  |
@@ -22,38 +22,38 @@ Array implementation of list ADT
 | L | T | P | C |
 | 0 | 0 | 4 | 2 |
 
+** REVISION 2021                                                   :noexport:
+1. Array implementation of list ADT is removed as C programs are included
+2. One application of linked list and expression tree implementation are removed because the Mini project has been included.
+
 ** COURSE OBJECTIVES
-- Design program solutions for various problems
+- Develop program solutions for various problems
 - Apply suitable data structures, linear and non linear for a given problem statement
 - Design the data structure for the given problem and implement them in a high level programming language
-- Apply suitable hashing techniques for a given problem.
-
 
 ** SUGGESTIVE EXPERIMENTS
 1. Implement solutions for problems using arrays and pointers 
 2. Implement suitable solution for a given problem (using structures)
 3. Implementation of Linked List ADT (e.g Manage student records)
-4. Represent polynomial expression as linked list and write functions for polynomial manipulation
-5. Implement hashing using separate chaining technique 
-6. Implement doubly linked list ADT (e.g Insert, delete, search, merge, reverse operations)
-7. Implementation of Stack ADT (e.g Balancing paranthesis, infix to postfix conversion, evaluation of postfix expression)
-8. Implementation of Queue ADT (e.g Simulating printer jobs)
-9. Implement an expression tree. Produce its pre-order, in-order, and post-order traversals
-10. Implement binary search tree 
-11. Implement AVL trees (e.g Implement dictionary)  
-12. Implement priority queue using binary heaps (e.g Storing employee records based upon salary)
-13. Graph representation and implement graph traversal algorithms 
-14. Implement Dijkstra's algorithm using graph (e.g Find the shortest route to connect one city to another)
-15. Mini Project
+4. Implement hashing using separate chaining technique 
+5. Implement doubly linked list ADT (e.g Insert, delete, search, merge, reverse operations)
+6. Implementation of Stack ADT (e.g Balancing paranthesis, infix to postfix conversion, evaluation of postfix expression)
+7. Implementation of Queue ADT (e.g Simulating printer jobs)
+8. Implement binary search tree and perform its pre-order, in-order, and post-order traversals
+9. Implement AVL trees (e.g Implement dictionary)  
+10. Implement priority queue using binary heaps (e.g Storing employee records based upon salary)
+11. Represent the graphs and implement graph traversal algorithms 
+12. Implement Dijkstra's algorithm using graph (e.g Find the shortest route to connect one city to another)
+13. Mini Project
 
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develop applications for a given problem using pointers and structures (K3)
-- Analyze and apply linear data structures to solve a given problem (K4) 
-- Make use of non-linear data structures for various problem solutions (K3)
-- Apply hashing techniques for data storage and retrieval (K3)
+- Develop programs for a given problem using pointers and structures (K3)
+- Analyze and apply suitable linear data structures to solve a given problem (K4) 
+- Apply suitable trees for various applications and perform traversals (K3)
+- Make use of graphs to solve appropriate problems (K3)
 - Design and develop applications by choosing suitable data structure(s) for solving real world problems (K6).
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
