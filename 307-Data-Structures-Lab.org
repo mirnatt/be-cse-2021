@@ -4,6 +4,8 @@
 :date: 09-03-2021 
 :end:
 
+Array implementation of list ADT
+
 #+startup: showall
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
