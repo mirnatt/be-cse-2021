@@ -40,7 +40,7 @@
 - To understand the different types of searching and sorting techniques
 - To learn the introductory concepts of hashing techniques.
 
-| UNIT I | INTRODUCTION TO C PROGRAMMING | 9 |
+| UNIT I | C PROGRAMMING | 10 |
 Pointers and Arrays: Pointers and addresses -- Pointers and function arguments -- Pointers and arrays -- Pointers to pointers -- Address Arithmetic; Structures: Basics -- Structures and functions -- Array of structures -- Pointers to Structures -- Self-referential structures -- Typedef; Algorithm Analysis: Running time calculations; 
 
 #+BEGIN_COMMENT
@@ -48,7 +48,7 @@ Inclusion - Algorithm Analysis: Running time calculations;
 Thoughtprocess - To study the general notations of algorithm analysis
 #+END_COMMENT
 
-| UNIT II | LINEAR DATA STRUCTURES – LINKED LIST | 11 |
+| UNIT II | LINEAR DATA STRUCTURES – LINKED LIST | 10 |
 Abstract Data Types (ADTs); List ADT: Linked lists -- Circular linked lists -- Doubly linked lists -- Applications of Lists: Polynomial manipulation -- Hashing: Separate chaining -- Open addressing -- Rehashing
 
 
@@ -69,13 +69,11 @@ Graph Algorithms: Definitions -- Representation of graphs; Graph Traversals: Bre
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Develop program solutions using various operations in List (K3)
+- Develop program solutions for problems using structures and pointers and analyze the complexity of programs (K4)
+- Analyze the complexity of various operations in List and develop hashing applications (K4)
 - Develop applications using stack and queue (K3)
 - Apply the operations of unbalanced and balanced trees to develop solutions to various problems (K3)
 - Develop applications using traversal and shortest path algorithms of graph  (K3)
-- Analyze the sorting, searching and hashing algorithms to solve various computing problems (K4).
-
-   
       
 ** TEXT BOOKS
 1. M A Weiss, ``Data Structures and Algorithm Analysis in C'', 2nd Edition, Pearson Education, 2002.
