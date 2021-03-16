@@ -80,7 +80,7 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS
 1. M A Weiss, ``Data Structures and Algorithm Analysis in C'', 2nd
    Edition, Pearson Education, 2002.
-2. Dennis Ritchie - C
+2. Brian W. Kernighan, Dennis M. Ritchie, ``C Programming Language'', 2nd Edition, Pearson, 2015.
 
 ** REFERENCES
 1. A V Aho, J E Hopcroft, J D Ullman, ``Data Structures and Algorithms'', Pearson Education, 1st Edition Reprint, 2003.
