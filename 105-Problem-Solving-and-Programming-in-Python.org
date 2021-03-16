@@ -1,7 +1,7 @@
 * PROBLEM SOLVING AND PROGRAMMING IN PYTHON
 :properties:
-:author: R S Milton
-:date: 28 June 2018
+:author: P.Mirunalini and H.Shahulh Ameadh
+:date: 16 March 2021
 :end:
 
 {{{credits}}}
@@ -9,17 +9,18 @@
 | 3 | 0 | 0 | 3 |
 		
 ** Course Objectives
-   - To solve algorithmic problems.
-   - To abstract and specify problems.
-   - To compose programs in Python using iteration and recursion.
-   - To construct programs in Python using functions.
+   - To explore problem solving using computational thinking.
+   - To learn the fundamentals of python programming.
+   - To compose programs in Python using conditions, iterationa and decompose a problem into functions
+   - To construct programs in Python sequcenced data type.
+   - To develop python programs using advanced constructs like dictionaries and files. 
 
 {{{unit}}}
-| Unit I | Algorithmic Problem Solving | 9 |
-Algorithms, building blocks of algorithms (statements, state, control
-flow, functions); Notation (pseudo code, flow chart, programming
-language); specification, composition, decomposition, iteration,
-recursion.
+| Unit I | Algorithmic Problem Solving  | 9 |
+Computational Thinking; Logical and Algorithmic Thinking: Logical Thinking -- Algorithmic Thinking;
+Problem Solving and Decomposition: Defining the Problem -- Devising the Solution -- Decomposition;
+Effective building blocks : Basic Algorithmic Constructs (pseudo code, flow chart, programming
+language) -- Program State; 
 
 | Unit II | Data, Expression, Statement, Conditional | 9 |
 Data and types: int, float, boolean, string, list; variables,
@@ -51,24 +52,22 @@ arguments.
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Think logically to solve programming problems and write solutions in
+- Logically solve programming problems and write solutions in
   pseudo code (K3).
-- Understand and develop simple Python programs using conditionals
-  and loops (K3).
-- Decompose a program into functions. (K3)
-- Represent compound data using Python lists, tuples,
-  dictionaries (K3).
-- Perform input/output with files (K2).
+- Develop simple Python programs using basic constructs (K3).
+- Construct programs using  conditions and iterations and make use of functions to decompose a problem. (K3)
+- Build programs using strings, lists and tuples (K3).
+- Utilize high level constructs like dictionaries and files in python programs(K3).
 
 ** Text Books
    1. Allen B. Downey, ``Think Python: How to Think Like a Computer
       Scientist'', 2nd edition, Updated for Python 3, Shroff/O'Reilly
       Publishers, 2016 (http://greenteapress.com/wp/think-python/)
-   2. Guido van Rossum and Fred L. Drake Jr, ``An Introduction to
-      Python -- Revised and updated for Python 3.2'', Network Theory
-      Ltd., 2011.
+   
 
 ** References
+1. 
+
 1. John V Guttag, ``Introduction to Computation and Programming Using
    Python'', Revised and expanded Edition, MIT Press, 2013
 2. Robert Sedgewick, Kevin Wayne, Robert Dondero, ``Introduction to
