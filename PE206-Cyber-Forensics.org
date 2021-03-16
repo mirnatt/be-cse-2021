@@ -54,26 +54,25 @@
 -  
 
 {{{unit}}} 
-| UNIT I | 	INTRODUCTION TO COMPUTER FORENSICS | 9 |
-Understanding Incident Response : The incident response process --  
-The incident response charter --The incident response plan --
+| UNIT I | 	FUNDAMENTALS | 9 |
+Understanding Incident Response : The incident response process -- The incident response charter --The incident response plan --
  The incident response playbook -- Testing the incident response framework ; Managing Cyber Incidents:  Investigating incidents  -- 
 Incorporating containment strategies -- Getting back to normal – eradication and recovery; Fundamentals of Digital Forensics -- 
 Legal aspects --  Digital forensics fundamentals  -- The digital forensics process -- Digital forensic lab;
  
 
 #+begin_comment
-Unit-1:   AU-regulation 2017 Unit I included. 
+...Text Book 1 : Chapter 1,2,3 
 #+end_comment
 
 {{{unit}}}
 
-|UNIT II | EVIDENCE COLLECTION AND FORENSICS TOOLS  | 9 |
-Processing Crime and Incident Scenes; Working with Windows and DOS Systems; Current Computer Forensics Tools: Software and Hardware Tools. 
+|UNIT II | EVIDENCE ACQUISITION   | 9 |
+ Collecting Network Evidence  : An overview of network evidence  --  Firewalls and proxy logs --NetFlow -- Packet captures -- Wireshark -- Evidence collection;  Acquiring Host-Based Evidence Preparation :  Order of volatility  -- Evidence acquisition --  Acquiring volatile memory ;  Forensic Imaging : Understanding forensic imaging  -- Imaging tools -- Preparing a stage drive -- Using write blockers -- Imaging techniques
 
 
 #+begin_comment
-Unit-2:  AU-Unit II regulation 2017  topics included
+...Text Book 1 : Chapter 4,5,6
 #+end_comment   
 {{{unit}}}
 
