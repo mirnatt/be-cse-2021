@@ -54,7 +54,7 @@ AVL trees; B-Trees; Priority Queues: Binary heap.
 
      
 | UNIT V | NON LINEAR DATA STRUCTURES – GRAPHS | 8 |
-Graph Algorithms: Definitions -- Representation of graphs; Graph Traversals: Breadth-first traversal -- Depth-first traversal; Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm -- All-pairs shortest path.
+Graph Algorithms: Definitions -- Representation of graphs; Graph Traversals: Breadth-first traversal -- Depth-first traversal; Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm -- All-pairs shortest path algorithm.
 
 \hfill *Total Periods: 45*
 
