@@ -41,7 +41,7 @@
 - To learn the introductory concepts of hashing techniques.
 
 | UNIT I | INTRODUCTION TO C PROGRAMMING | 9 |
-Arrays, Structures, Pointers; Algorithm Analysis: Running time calculations; 
+Pointers and Arrays: Pointers and addresses -- Pointers and function arguments -- Pointers and arrays -- Pointers to pointers -- Address Arithmetic; Structures: Basics -- Structures and functions -- Array of structures -- Pointers to Structures -- Self-referential structures -- Typedef; Algorithm Analysis: Running time calculations; 
 
 #+BEGIN_COMMENT
 Inclusion - Algorithm Analysis: Running time calculations; 
@@ -78,9 +78,8 @@ After the completion of this course, students will be able to:
    
       
 ** TEXT BOOKS
-1. M A Weiss, ``Data Structures and Algorithm Analysis in C'', 2nd
-   Edition, Pearson Education, 2002.
-2. Brian W. Kernighan, Dennis M. Ritchie, ``C Programming Language'', 2nd Edition, Pearson, 2015.
+1. M A Weiss, ``Data Structures and Algorithm Analysis in C'', 2nd Edition, Pearson Education, 2002.
+2. Brian W. Kernighan, Dennis M. Ritchie, ``C Programming Language'', 2nd Edition, Prentice Hall, 1988.
 
 ** REFERENCES
 1. A V Aho, J E Hopcroft, J D Ullman, ``Data Structures and Algorithms'', Pearson Education, 1st Edition Reprint, 2003.
