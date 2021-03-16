@@ -5,7 +5,7 @@
 :end:
 
 #+BEGIN_COMMENT
-As per the suggestions made in BoS meeting, all the changes have been done.
+
 #+END_COMMENT
 
 #+startup: showall
@@ -28,52 +28,42 @@ As per the suggestions made in BoS meeting, all the changes have been done.
 ** COURSE OBJECTIVES
 - To understand the concepts of sorting and searching techniques
 - To comprehend the notion of linear and non linear data structures
-- To use a suitable data structure for the given problem and implement
-  them in a high level programming language.
+- To use a suitable data structure for the given problem and implement them in a high level programming language.
 
-{{{unit}}}
 |UNIT I| SORTING AND SEARCHING TECHNIQUES | 6 |
-Sorting: Insertion sort -- Merge sort -- Quicksort; Searching: Linear
-search -- Binary search.
+Sorting: Insertion sort -- Merge sort -- Quicksort; Searching: Linear search -- Binary search.
 
-{{{unit}}}
+
 |UNIT II| LIST  | 6 |
-List -- Array implementation -- Linked lists -- Applications of Lists:
-Polynomial addition.
+List -- Array implementation -- Linked lists -- Applications of Lists: Polynomial addition.
 
-{{{unit}}}
+
 |UNIT III | STACK AND QUEUE | 6 |
-Stack: Array implementation of stack -- Applications: Evaluating
-postfix expressions; Queue: Array implementation of queues --
+Stack: Array implementation of stack -- Applications: Evaluating postfix expressions; Queue: Array implementation of queues --
 Applications of queues.
 
-{{{unit}}}
-|UNIT IV | TREES | 6 |
-Tree: Preliminaries -- Tree traversals -- Binary Search Trees --
-Binary Heaps -- Applications of trees.
 
-{{{unit}}}
+|UNIT IV | TREES | 6 |
+Tree: Preliminaries -- Tree traversals -- Binary Search Trees -- Binary Heaps -- Applications of trees.
+
+
 |UNIT V | GRAPHS | 6 |
-Graph algorithms: Definitions -- Representation of graphs -- Breadth
-first traversal -- Depth first traversal -- Shortest-path algorithm:
+Graph algorithms: Definitions -- Representation of graphs -- Breadth first traversal -- Depth first traversal -- Shortest-path algorithm:
 Dijkstra's algorithm.
 
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
 - Implement insertion sort and merge sort
-- Implement linear search and binary search.
-- Implement List ADT using arrays.
-- Represent polynomial as a linked list and perform polynomial
-  addition
+- Implement linear search and binary search
+- Implement List ADT using arrays
+- Represent polynomial as a linked list and perform polynomial addition
 - Array implementation of stack ADT
-- Evaluate postfix expressions using Stack ADT
-- Produce the pre-order, in-order, and post-order traversals of binary
-  trees.
-- Represent graph using adjacency matrix and perform depth first
-  traversal on the graph
+- Evaluate postfix expression using Stack ADT
+- Array implementation of Queue ADT
+- Implement Binary search tree and perform pre-order, in-order and post-order traversals
+- Represent graph using adjacency matrix and perform depth first traversal on the graph
 - Implement Dijkstra’s algorithm to find the shortest path using graph
-
 
 
 \hfill *Practical Periods: 30*
@@ -82,11 +72,11 @@ Dijkstra's algorithm.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Demonstrate various sorting and searching algorithms (K2)
+- Develop various sorting and searching algorithms (K3)
 - Solve various problems using List operations (K3)
 - Apply stack and queue to different problems (K3)
-- Develop problem solutions using trees (K3)
-- Make use of graphs to solve problems (K3).
+- Develop programs using trees and perform traversals (K3)
+- Make use of graphs to perform traversal and to find the shortest path (K3).
 
 ** TEXT BOOKS
 1. M A Weiss, ``Data Structures and Algorithm Analysis in C'',
@@ -99,9 +89,6 @@ After the completion of this course, students will be able to:
    Algorithms'', Pearson Education, 1st Edition, 2003.
 2. Ellis Horowitz, Sartaj Sahni, Susan Anderson-Freed, ``Fundamentals
    of Data Structures in C'', 2nd Edition, University Press, 2008
-3. S Sridhar, ``Design and Analysis of Algorithms'', 1st Edition,
-   Oxford University Press. 2014.
-4. Byron Gottfried, Jitender Chhabra, ``Programming with C'' (Schaum's
+3. Byron Gottfried, Jitender Chhabra, ``Programming with C'' (Schaum's
    Outlines Series), Mcgraw Hill Higher Ed,3rd Edition, 2010.
-# 2. R. F. Gilberg, B. A. Forouzan, ``Data Structures'', Second Edition,
-#   Thomson India Edition, 2005.
+
