@@ -51,12 +51,16 @@
 - To learn computer forensics and understand incident response
 - To know the methods to collect and store digital evidence
 - To understand the approaches to analyse and validate data
-- To understand Ethical Hacking
-- To understand Ethical Hacking in Web
+-  
 
 {{{unit}}} 
 | UNIT I | 	INTRODUCTION TO COMPUTER FORENSICS | 9 |
-Introduction to Traditional Computer Crime; Traditional problems associated with Computer Crime; Introduction to Identity Theft & Identity Fraud; Types of CF techniques; Incident and incident response methodology; Forensic duplication and investigation; Preparation for IR; Creating response tool kit and IR team; Forensics Technology and Systems; Understanding Computer Investigation; Data Acquisition. 
+Understanding Incident Response : The incident response process --  
+The incident response charter --The incident response plan --
+ The incident response playbook -- Testing the incident response framework ; Managing Cyber Incidents:  Investigating incidents  -- 
+Incorporating containment strategies -- Getting back to normal – eradication and recovery; Fundamentals of Digital Forensics -- 
+Legal aspects --  Digital forensics fundamentals  -- The digital forensics process -- Digital forensic lab;
+ 
 
 #+begin_comment
 Unit-1:   AU-regulation 2017 Unit I included. 
@@ -81,15 +85,15 @@ Unit-3:  AU-Unit III regulation 2017  topics included
 #+end_comment
 
 {{{unit}}}
-|UNIT IV | ETHICAL HACKING  | 9 |
-Introduction to Ethical Hacking; Footprinting and Reconnaissance; Scanning Networks -- Enumeration; System Hacking; Malware -- Threats;  Sniffing.  
+|UNIT IV |   | 9 |
+  
 #+begin_comment
 Unit-4: AU-Unit IV regulation 2017  topics included
 #+end_comment
 
 {{{unit}}}
-|UNIT V | ETHICAL HACKING IN WEB | 9 |
-Social Engineering; Denial of Service; Session Hijacking; Hacking Web servers; Hacking Web Applications; SQL Injection; Hacking Wireless Networks. 
+|UNIT V |   | 9 |
+  
 
 #+begin_comment
 Unit-5:  AU-Unit V regulation 2017  topics included
@@ -107,7 +111,10 @@ After the completion of this course, students will be able to:
 - Explian Ethical Hacking in web
 
 ** TEXT BOOKS 
-1. Chris Prosise, Kevin Mandia, ``Incident Response and Computer
+1. Gerard Johansen, Digital Forensics and Incident
+Response, Second Edition, Packt Publishing, 2020.
+
+Chris Prosise, Kevin Mandia, ``Incident Response and Computer
    Forensics'', 2nd Edition, McGraw-Hill 2003.
 2. Nelson, Phillips, Enfinger, Steuart, ``Computer Forensics and
    Investigations'', Cengage Learning, India Edition, 2008.
