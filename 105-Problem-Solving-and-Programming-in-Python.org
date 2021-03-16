@@ -1,6 +1,6 @@
 * PROBLEM SOLVING AND PROGRAMMING IN PYTHON
 :properties:
-:author: P.Mirunalini and H.Shahulh Ameadh
+:author: P.Mirunalini and H.Shahul Hamead
 :date: 16 March 2021
 :end:
 
@@ -60,26 +60,22 @@ After the completion of this course, students will be able to:
 - Utilize high level constructs like dictionaries and files in python programs(K3).
 
 ** Text Books
-   1. Allen B. Downey, ``Think Python: How to Think Like a Computer
-      Scientist'', 2nd edition, Updated for Python 3, Shroff/O'Reilly
+   1. Karl Beecher, "Computational Thinking - A beginner's guide to problem solving and  Programming", British Computer Society (BCS), 2017.
+   2. Allen B. Downey, ``Think Python: How to Think Like a Computer Scientist'', 2nd edition, Updated for Python 3, Shroff/O'Reilly
       Publishers, 2016 (http://greenteapress.com/wp/think-python/)
    
 
 ** References
-1. 
-
-1. John V Guttag, ``Introduction to Computation and Programming Using
+1. Ashok Namdev Kamthane, Amit Ashok Kamthane, "Programming and Problem Solving 
+   with Python",McGraw Hill Education (India) Private Limited,2018.
+2. John V Guttag, ``Introduction to Computation and Programming Using
    Python'', Revised and expanded Edition, MIT Press, 2013
-2. Robert Sedgewick, Kevin Wayne, Robert Dondero, ``Introduction to
+3. Robert Sedgewick, Kevin Wayne, Robert Dondero, ``Introduction to
    Programming in Python: An Inter-disciplinary Approach'', Pearson
    India Education Services Pvt. Ltd., 2016.
-3. Timothy A. Budd, ``Exploring Python'', Mc-Graw Hill Education
+4. Timothy A. Budd, ``Exploring Python'', Mc-Graw Hill Education
    (India) Private Ltd., 2015.
-4. Kenneth A. Lambert, ``Fundamentals of Python: First Programs'',
+5. Kenneth A. Lambert, ``Fundamentals of Python: First Programs'',
    CENGAGE Learning, 2012.
-5. Charles Dierbach, ``Introduction to Computer Science using Python:
-   A Computational Problem-Solving Focus'', Wiley India Edition, 2013.
-6. Paul Gries, Jennifer Campbell and Jason Montojo, ``Practical
-   Programming: An Introduction to Computer Science using Python 3'',
-   Second edition, Pragmatic Programmers, LLC, 2013.
+
 
