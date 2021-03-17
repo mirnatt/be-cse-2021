@@ -50,24 +50,21 @@ Thresholding Techniques: Region growing methods -- Thresholding -- Adaptive thre
 
 {{{unit}}}
 |UNIT II | Intermediate level vision  | 9 |
-Binary shape analysis: Skeletons and thinning -- Other measures for shape recognition; Boundary Pattern analyis: Boundary tracking procedures -- Centroidal profiles; Line detection: Hough transform -- Foot of normal method; Circle and Ellipse detection: Hough based scheme -- Ellipse detection methods; Case study: Human Iris Location
+Binary shape analysis: Skeletons and thinning -- Other measures for shape recognition; Boundary Pattern analyis: Boundary tracking procedures -- Centroidal profiles; Line detection: Hough transform -- Foot of normal method; Circle and Ellipse detection: Hough based scheme -- Ellipse detection methods; Case study: Human Iris Location;
 
 {{{unit}}}
 |UNIT III | 3D vision - DEPTH ESTIMATION AND 3D RECONSTRUCTION: | 9 |
-Feature-based alignment: 2D and 3D feature-based alignment, pose estimation, Geometric intrinsic calibration. Structure from Motion: Triangulation, Two-frame structure from Motion, Factorization, Bundle adjustment. 
-Stereo Correspondance: Epipolar geometry, 3D Reconstruction: Shape from X, Active rangefinding, Surface representations,
-Point-based representations
+Feature-based alignment: 2D and 3D feature-based alignment -- pose estimation -- Geometric intrinsic calibration; Structure from Motion: Triangulation -- Two-frame structure from Motion -- Factorization -- Bundle adjustment; 
+Stereo Correspondance: Epipolar geometry -- Sparse and Dense correspondence -- Multiview stereo; 3D Reconstruction: Shape from X -- Active rangefinding -- Surface representations -- Point-based representations;
 
 {{{unit}}}
 |UNIT IV | OBJECT RECOGNITION | 9 |
-Face recognition, instance recognition, category recognition, Context and scene understanding
+Object detection: Face detection -- Pedestrian detection; Face recognition: Eigen faces -- Active apperance and 3D shape models; Instance recognition: Geometric alignment; Category recognition: Bag of words -- Part based models; Context and scene understanding: Learning and large image collection; Applications for object recognition;
 
 {{{unit}}}
 |UNIT V | DEEP LEARNING TECHNIQUES FOR COMPUTER VISION | 9 |
 Introduction to CNNs; Visualization of Kernels; Backprop-to-image/Deconvolution Methods;
-CNNs for Detection: Background of Object Detection, R-CNN, Fast R-CNN, Faster R-CNN.CNNs for Segmentation: FCN, SegNet, 
-U-Net, Mask-RCNN, Recurrent Neural Networks (RNNs): CNN + RNN Models for Video Understanding: Spatio-temporal Models,
-Action/Activity Recognition
+CNNs for Detection: Background of Object Detection -- R-CNN -- Fast R-CNN -- Faster R-CNN; CNNs for Segmentation: FCN -- SegNet -- U-Net -- Mask-RCNN; Recurrent Neural Networks (RNNs): CNN and RNN Models for Video Understanding: Spatio-temporal Models -- Action/Activity Recognition
 
 #+begin_comment
 Removed: Image compression
