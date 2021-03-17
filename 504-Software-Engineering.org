@@ -49,17 +49,20 @@ Introduction to Software as a Service, Agile Development, and Cloud Computing : 
 
 
 #+begin_comment
-1. Removed: Secure development lifecycle
+Text book 1 , chapter 1
 #+end_comment
 
 {{{unit}}}
-| UNIT II | PROJECT PLANNING AND MANAGEMENT | 9 |
-Project planning process; Software Project Estimation: Decomposition techniques -- Empirical estimation models -- The make/buy decision -- Project scheduling; Risk Management: Risk identification -- Risk projection -- Risk mitigation.
+| UNIT II | SERVICE AND ARCHITECTURE | 9 |
+Software as a Service: Frameworks and Languages : How to Learn a New Language -- Prelude: Learning to Learn Languages and Frameworks -- Pair Programming -- Introducing Ruby, an Object-Oriented Language -- Ruby Idioms: Poetry Mode, Blocks, Duck Typing -- CHIPS: Ruby Intro -- Gems and Bundler: Library Management in Ruby;  SaaS Application Architecture: Microservices, APIs, and REST : The Web’s Client–Server Architecture --  SaaS Communication Uses HTTP Routes -- CHIPS: HTTP and URIs -- From Web Sites to Microservices: Service-Oriented Architecture -- RESTful APIs: Everything is a Resource -- RESTful URIs, API Calls, and JSON -- CHIPS: Create and Deploy a Simple SaaS App;
 
+#+begin_comment
+Text book 1 , chapter 2,3
+#+end_comment
 
 {{{unit}}}
 | UNIT III | REQUIREMENTS ANALYSIS AND SPECIFICATION | 9 |
-Software Requirements: Functional and non-functional --security requirements -- User requirements -- System requirements -- Software requirements document; Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- Requirements validation -- Requirements Management; Classical Analysis: Structured system analysis; Requirement modelling tools.
+
 
 #+begin_comment
 1. Removed: Petrinet
@@ -68,7 +71,7 @@ Software Requirements: Functional and non-functional --security requirements -- 
 
 {{{unit}}}
 | UNIT IV | SOFTWARE DESIGN | 9 |
-Design Concepts: Modularity -- Abstraction-- Functional Independence -- Information hiding -- Refinement;Architectural Design: Architectural Styles--Architectural Mapping using Dataflow; Component Level Design: Coupling and cohesion-- Designing Traditional Components;User Interface Design: The Golden rules -- Interface Analysis -- Interface Design steps; Design for security.
+
 
 #+begin_comment
 1. Removed: Design process, Design model, Modeling principles
