@@ -96,10 +96,12 @@ Using threat intelligence ;
  
 {{{unit}}}
 |UNIT V |   | 9 |
-  
-
-#+begin_comment
+ Introduction to Mobile Forensics : Why do we need mobile forensics? -- Mobile forensics -- The mobile phone evidence extraction process -- 
+Practical mobile forensic approaches ;  Parsing Third-Party Application Files : Third-party application overview --
+Encoding versus encryption -- Application data storage -- Forensic methods used to extract third-party application data ;
  
+#+begin_comment
+ ...Text Book 2 : Chapter 1, 13 
 #+end_comment
 
 
@@ -115,11 +117,8 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS 
 1. Gerard Johansen, Digital Forensics and Incident
-Response, Second Edition, Packt Publishing, 2020.
-
-Chris Prosise, Kevin Mandia, ``Incident Response and Computer
-   Forensics'', 2nd Edition, McGraw-Hill 2003.
-2. 
+Response, Second Edition, Packt Publishing, 2020. 
+2. Rohit Tamma, Oleg Skulkin,  Heather Mahalik , Satish Bommisetty, Practical Mobile Forensics,  Third Edition,  Packt Publishing, 2018.
 
 ** REFERENCES 
 1. Nelson, Phillips, Enfinger, Steuart, ``Computer Forensics and
