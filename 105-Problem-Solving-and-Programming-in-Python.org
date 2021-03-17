@@ -17,10 +17,11 @@
 
 {{{unit}}}
 | Unit I | Algorithmic Problem Solving  | 9 |
-Computational Thinking; Logical and Algorithmic Thinking: Logical Thinking -- Algorithmic Thinking;
-Problem Solving and Decomposition: Defining the Problem -- Devising the Solution -- Decomposition;
-Effective building blocks : Basic Algorithmic Constructs (pseudo code, flow chart, programming
-language) -- Program State; 
+Computational Thinking; Logical and Algorithmic Thinking: Logical
+Thinking -- Algorithmic Thinking; Problem Solving and Decomposition:
+Defining the Problem -- Devising the Solution -- Decomposition;
+Effective building blocks: Basic Algorithmic Constructs (pseudo code,
+flow chart, programming language) -- Program State.
 
 | Unit II | Data, Expression, Statement, Conditional | 9 |
 Data and types: int, float, boolean, string, list; variables,
@@ -55,14 +56,19 @@ After the completion of this course, students will be able to:
 - Logically solve programming problems and write solutions in
   pseudo code (K3).
 - Develop simple Python programs using basic constructs (K3).
-- Construct programs using  conditions and iterations and make use of functions to decompose a problem. (K3)
+- Construct programs using conditions and iterations and make use of
+  functions to decompose a problem. (K3)
 - Build programs using strings, lists and tuples (K3).
-- Utilize high level constructs like dictionaries and files in python programs(K3).
+- Utilize high level constructs like dictionaries and files in python
+  programs(K3).
 
 ** Text Books
-   1. Karl Beecher, "Computational Thinking - A beginner's guide to problem solving and  Programming", British Computer Society (BCS), 2017.
-   2. Allen B. Downey, ``Think Python: How to Think Like a Computer Scientist'', 2nd edition, Updated for Python 3, Shroff/O'Reilly
-      Publishers, 2016 (http://greenteapress.com/wp/think-python/)
+1. Karl Beecher, ``Computational Thinking -- A beginner's Guide to
+   Problem Solving and Programming'', British Computer Society
+   (BCS), 2017.
+2. Allen B. Downey, ``Think Python: How to Think Like a Computer
+   Scientist'', 2nd edition, Updated for Python 3, Shroff/O'Reilly
+   Publishers, 2016 (http://greenteapress.com/wp/think-python/)
    
 
 ** References
