@@ -1,6 +1,6 @@
 * <<<PE104>>> STATISTICAL INFERENCE
 :properties:
-:author: Dr. G. Kalpana and Dr. N. Padmapriya
+:author: Dr R S Milton
 :date: 
 :end:
 
@@ -20,38 +20,30 @@
 - To calculate the various statistical quality control measurements.
 
 {{{unit}}}
-| UNIT I | RANDOM VARIABLES | 12 |
-Probability -- Axioms of probability--- Conditional probability --
-Baye’s theorem -- Discrete and continuous random variables -- Moments
--- Moment generating functions -- Binomial, Poisson, Geometric,
-Uniform, Exponential, Gamma, Normal distributions -- Functions of a
-random variable.
+| UNIT I | PROBABILITY | 12 |
+Probability -- Random variables -- Expectation -- Convergence
+of random variables. 
 
 {{{unit}}}
-| UNIT II | TWO-DIMENSIONAL RANDOM VARIABLES | 12 |
-Joint distributions -- Marginal and conditional distributions --
-Covariance -- Correlation and linear regression -- Transformation of
-random variables -- Central limit theorem (for independent and
-identically distributed random variables).
+| UNIT II | INFERENCE | 12 |
+Models, Statistical Inference and Learning -- Estimating the
+cdf and Statistical Functionals -- Bootstrap -- Parametric
+inference. 
 
 {{{unit}}}
-| UNIT III | TESTS OF SIGNIFICANCE | 12 |
-Sampling distributions -- Small and large sample test -- Test based on
-Normal and t distribution (Single and difference of mean and
-proportion)-- \chi^2 -- Test for goodness of fit, Independence of
-attributes- F test for variance.
+| UNIT III | HYPOTHESIS TESTING | 12 |
+Hypothesis testing and p-values -- Bayesian inference --
+Statistical decision theory 
 
 {{{unit}}}
-| UNIT IV | DESIGN OF EXPERIMENTS | 12 |
-Completely randomized design -- Randomized block design -- Latin
-square design -- Factorial design.
+| UNIT IV | STATISTICAL MODELS AND METHODS | 12 |
+Linear and logistic regression -- Multivariate models --
+Inference about independence -- Causal inference
 
 {{{unit}}}
-| UNIT V | 	STATISTICAL QUALITY CONTROL | 12 |
-Control charts for measurements (X and R charts) -- Control charts for
-attributes (p, c and npcharts) -- Tolerance limits -- Acceptance
-sampling.
-
+| UNIT V | ESTIMATION STATISTICS | 12 |
+Directed graphs and conditional independence -- Undirected
+graphs -- Log-linear models -- Classification
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES

@@ -39,24 +39,37 @@
 
 
 | UNIT I | C PROGRAMMING - POINTERS AND STRUCTURES | 10 |
-Pointers and Arrays: Pointers and addresses -- Pointers and function arguments -- Pointers and arrays -- Pointers to pointers -- Address Arithmetic; Structures: Basics -- Structures and functions -- Array of structures -- Pointers to Structures -- Self-referential structures -- Typedef; Algorithm Analysis: Running time calculations.
+Pointers and Arrays: Pointers and addresses -- Pointers and function
+arguments -- Pointers and arrays -- Pointers to pointers -- Address
+Arithmetic; Structures: Basics -- Structures and functions -- Array of
+structures -- Pointers to Structures -- Self-referential structures --
+Typedef; Algorithm Analysis: Running time calculations.
 
 | UNIT II | LINEAR DATA STRUCTURES – LINKED LIST | 10 |
-Abstract Data Types (ADTs); List ADT: Linked lists -- Circular linked lists -- Doubly linked lists -- Applications of Lists: Polynomial manipulation; Hashing: Separate chaining -- Open addressing -- Rehashing.
+Abstract Data Types (ADTs); List ADT: Linked lists -- Circular linked
+lists -- Doubly linked lists -- Applications of Lists: Polynomial
+manipulation; Hashing: Separate chaining -- Open addressing --
+Rehashing.
 
 
 | UNIT III | LINEAR DATA STRUCTURES – STACK AND QUEUE   | 7 |
-Stack ADT: Stack model -- Implementation of stacks -- Applications: Balancing symbols -- Infix to postfix conversion -- Evaluating postfix
-expressions; Queue ADT: Queue model -- Array implementation of queues -- Applications of queues.
+Stack ADT: Stack model -- Implementation of stacks -- Applications:
+ Balancing symbols -- Infix to postfix conversion -- Evaluating
+ postfix expressions; Queue ADT: Queue model -- Array implementation
+ of queues -- Applications of queues.
 
 
-| UNIT IV | NON LINEAR DATA STRUCTURES – TREES | 10 |
-Preliminaries: Implementation of trees -- Tree traversals with an application; Binary trees: Expression trees; Binary search tree ADT;
+| UNIT IV | NON-LINEAR DATA STRUCTURES – TREES  | 10 |
+Preliminaries: Implementation of trees -- Tree traversals with an
+application; Binary trees: Expression trees; Binary search tree ADT;
 AVL trees; B-Trees; Priority Queues: Binary heap.
 
      
 | UNIT V | NON LINEAR DATA STRUCTURES – GRAPHS | 8 |
-Graph Algorithms: Definitions -- Representation of graphs; Graph Traversals: Breadth-first traversal -- Depth-first traversal; Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm -- All-pairs shortest path algorithm.
+Graph Algorithms: Definitions -- Representation of graphs; Graph
+Traversals: Breadth-first traversal -- Depth-first traversal;
+Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm --
+All-pairs shortest path algorithm.
 
 \hfill *Total Periods: 45*
 
