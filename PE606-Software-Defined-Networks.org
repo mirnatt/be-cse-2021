@@ -46,10 +46,10 @@ Network Virtualization -- OpenDaylight’s Virtual Tenant Network.-- CoSoftware-
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Describe the motivation for SDN and its data plane (K2)
-- Illutrate the functions of control plane (K3)
+- Illutrate the functions of control plane (K2)
 - Apply SDN motivations to Networking applications (K3)
 - Describe various operations of Network function virtualization (K2)
-- Explain the concept of network virtualization (K3).
+- Explain the concept of network virtualization (K2).
 
 ** TEXT BOOKS
 1. William Stallings, ``Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud'', Pearson, 1st Edition, 2015.
