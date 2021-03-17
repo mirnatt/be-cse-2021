@@ -36,7 +36,7 @@
 - Develop a web application using Session tracking mechanisms, Servlet and MySQL. (Ex: Online Shopping application)
 - Develop a Popup Menu Application using AJAX. 
 - Develop a front end of the  Online Exam Web application using ReactJS
-- Develop a back end of the  Online Exam Web application using ReactJS
+- Develop a back end of the  Online Exam Web application using NodeJS
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
