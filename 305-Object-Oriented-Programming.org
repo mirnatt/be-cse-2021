@@ -125,7 +125,7 @@ After the completion of this course, students will be able to:
 - Apply the concepts of polymorphism and exception handling (K3)
 - Build applications using generic programming (K3)
 - Apply the concepts of generic collections  (K3).
-
+- Analyze various object oriented features to design real world application (K4).
 #+begin_comment
 
 09.03.2021
