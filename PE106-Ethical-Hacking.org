@@ -57,11 +57,12 @@ Introduction – Security Assessments – Types of Penetration testing – Phase
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Defend hacking attacks and protect data assets.
-- Defend a computer against a variety of security attacks using various tools.
-- Practice and use safe techniques on the World Wide Web.
-- Write the programming for security professionals.
-- Know the different testing tools.
+- Describe Hacking attacks and protection tools.(K2)
+- Examine the computer against a variety of security attacks.(K2)
+- Illustrate the use of safe techniques for System security.(K2) 
+- Develop programs for security accomplishment.(K3)
+- Experiment the different testing tools.(K3)
+
 
 ** TEXT BOOKS
 1. Patrick Engebretson, “The Basics of Hacking and Penetration Testing – Ethical Hacking and Penetration Testing
