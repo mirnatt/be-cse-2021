@@ -1,7 +1,7 @@
 * <<<PE203>>> SOFTWARE CONFIGURATION MANAGEMENT
 :properties:
 :author: Dr. K. Vallidevi and Dr. A. Chamundeswari
-:date: 14-03-2021
+:date: 14-03-2021 17-3-2021
 :end:
 
 #+begin_comment
