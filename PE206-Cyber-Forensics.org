@@ -76,11 +76,13 @@ Legal aspects --  Digital forensics fundamentals  -- The digital forensics proce
 #+end_comment   
 {{{unit}}}
 
-|UNIT III | ANALYSIS AND VALIDATION | 9 |
+|UNIT III | ANALYSIS  | 9 |
+Analyzing Network Evidence :  Network evidence overview -- Analyzing firewall and proxy logs ;  Analyzing System Memory : Memory analysis overview -- 
+Memory analysis methodology ; Analyzing System Storage : Forensic platforms -- Autopsy -- MFT analysis -- Registry analysis; Analyzing Log Files : 
+Understanding Windows logs ; Writing the Incident Report : Documentation overview;
  
-
 #+begin_comment
- 
+ ...Text Book 1 : Chapter 7,8,9,10
 #+end_comment
 
 {{{unit}}}
