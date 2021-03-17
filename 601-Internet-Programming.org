@@ -1,7 +1,7 @@
 * <<<601>>> INTERNET PROGRAMMING 
 :properties:
 :author: Dr. B. Prabavathy and Dr. V. S. Felix Enigo
-:Date: 10-03-2021
+:Date: 17-03-2021
 :end:
 
 #+BEGIN_COMMENT
@@ -134,6 +134,7 @@ After the completion of this course, students will be able to:
 - Develop responsive web applications using Servlets and AJAX (K3)
 - Build web application using ReactJS framework (K3)
 - Develop web application using NodeJS framework (K3).
+- Examine various technologies to design web application (K4).
       
 ** TEXT BOOKS
 1. Jeffrey C, Jackson, ``Web Technologies A Computer Science
