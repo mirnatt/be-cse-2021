@@ -87,11 +87,13 @@ Understanding Windows logs ; Writing the Incident Report : Documentation overvie
 
 {{{unit}}}
 |UNIT IV |   | 9 |
+Malware Analysis for Incident Response : Malware classifications -- Malware analysis overview -- Analyzing malware -- Dynamic analysis -- Leveraging Threat Intelligence -- Understanding threat intelligence -- Threat intelligence methodology -- Threat intelligence sources -- Threat intelligence platforms 
+Using threat intelligence ;   
   
 #+begin_comment
- 
+  ...Text Book 1 : Chapter 13,14
 #+end_comment
-
+ 
 {{{unit}}}
 |UNIT V |   | 9 |
   
