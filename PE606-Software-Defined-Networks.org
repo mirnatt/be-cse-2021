@@ -1,119 +1,62 @@
-* <<<PE606>>> REINFORCEMENT LEARNING
+* <<<PE606>>> SOFTWARE DEFINED NETWORKS
 :properties:
-:author: 
-:date: 
+:author: HSH, NS
+:date: 13-03-2021
 :end:
-
-#+begin_comment
-- 1. Modified 3 units of AU due to content overlapping
-- 2. For changes, see the indidual units
-- 3. The unit headings are similar to M.E syllabus with addition and deletion of topics
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
-#+end_comment
-
-#+startup: showall
 
 {{{credits}}}
 |L|T|P|C|
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- To understand the basics of information retrieval with pertinence to
-  modeling
-- To understand various components of IR system
-- To understand machine learning techniques for text classification
-  and clustering
-- To explore various IR applications.
+- To understand the need for SDN and it's data plane operations
+- To understand the functions of control plane
+- To comprehend the the migration of networking functions to SDN environment
+- To explore various techniques of network function virtualization
+- To comprehend the concepts of network virtualizaton
 
 {{{unit}}}
-| UNIT I | INTRODUCTION AND MODELING | 9 |
-Basic Concepts: Retrieval process -- Architecture -- Boolean retrieval;
-IR Models: Taxonomy and characterization of IR models -- Classical IR
-models -- Alternative algebraic models -- Models for Browsing -- Retrieval
-Evaluation: Performance evaluation.
-
-#+begin_comment
-
-- 1. In AU syllabus searching is covered in Unit 1, 3 and 4. We have unified the topics related to search in Unit 3.
-- 2. IR modeling and evaluation for Unit 2 of AU is moved to this unit
-- 3. Removed set theoretical model and reference collection from M.E syllabus
-#+end_comment
+| UNIT I |  SDN: BACKGROUND AND DATA PLANE| 9 |
+Evolving Network Requirements -- The SDN Approach  -- SDN- and NFV-Related Standards
+-- SDN Data Plane -- OpenFlow Logical Network Device  -- OpenFlow Protocol.
 
 
 {{{unit}}}
-| UNIT II | INDEXING AND QUERYING | 9 |
-Indexing: Inverted indices -- Suffix trees -- Suffix arrays --
-Compression; Querying: Query languages; Query Operations: Relevance
-feedback and query expansion -- Automatic local and global analysis.
+| UNIT II | SDN CONTROL PLANE | 9 |
+SDN Control Plane Architecture: Southbound Interface,  Northbound Interface -- Control Plane Functions --  ITU-T Model  -- OpenDaylight -- REST -- Cooperation and Coordination Among Controllers.
 
-#+begin_comment
-
-- 1. In AU, topics related to indexing is given along with modelling and querying topics are with classification and clustering.
-- 2. Indexing and querying are the major components of IR and hence included as a seperate unit here.
-- 3. Removed text properties and text operations from M.E syllabus
-#+end_comment
 
 {{{unit}}}
-| UNIT III | SEARCHING | 9 |
-Searching: Sequential searching -- Pattern matching; Searching the
-Web: Characteristizing the Web -- Search engines -- Browsing --
-Searching using hyperlinks.
+| UNIT III | SDN Application Plane | 9 |
+SDN Application Plane Architecture -- Network Services Abstraction Layer -- Traffic Engineering  -- Measurement and Monitoring --
+Security -- Data Center Networking -- Mobility and Wireless -- Information-Centric Networking.
 
 {{{unit}}}
-| UNIT IV | CLASSIFICATION AND CLUSTERING | 9 |
-Text Classification: Naive Bayes; Vector Space Classification: Rocchio
--- k-Nearest Neighbour; Flat Clustering: K-Means -- Model-based
-clustering -- Hierarchical clustering -- Matrix decompositions and latent
-semantic indexing.
-
-#+begin_comment
-- 1. Removed Decision tree, SVM and dimensionality reduction from AU.
-#+end_comment
+| UNIT IV | NETWORK FUNCTION VIRTUALIZATION | 9 |
+NFV Concepts -- Benefits and Requirements -- Reference Architecture -- NFV Infrastructure -- Virtualized Network Functions
+-- NFV Management and Orchestration -- NFV Use Cases -- SDN and NFV.
 
 {{{unit}}}
-|UNIT V|APPLICATIONS|9|
-XML Retrieval -- Multimedia IR -- Parallel and Distributed IR --
-Digital Libraries -- Social Media Retrieval -- Content-based Image
-Retrieval -- Online Public Access Catalogs (OPACs).
-
-#+begin_comment
-- 1. AU focused only on recommender system. Several applications are explored here
-- 2. Added OPACs from M.E syllabus
-#+end_comment
+|UNIT V| NETWORK VIRTUALIZATION |9|
+Virtual LANs  --  OpenFlow VLAN Support --  Virtual Private Networks --
+Network Virtualization -- OpenDaylight’s Virtual Tenant Network.-- CoSoftware-Defined Infrastructure. 
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Describe various IR modeling techniques (K3)
-- Identify and design the various components of an Information
-  Retrieval system (K3)
-- Apply machine learning techniques to text classification and
-  clustering for efficient Information Retrieval (K3)
-- Describe various IR applications (K2)
-- Apply IR evaluation metrics to measure the performance of IR
-  systems (K3).
+- Describe the motivation for SDN and its data plane (K2)
+- Illutrate the functions of control plane (K3)
+- Apply SDN motivations to Networking applications (K3)
+- Describe various operations of Network function virtualization (K2)
+- Explain the concept of network virtualization (K3).
 
 ** TEXT BOOKS
-1. Ricardo Baeza Yates, Berthier Ribeiro Neto, ``Modern Information
-   Retrieval: The Concepts and Technology behind Search'', ACM Press
-   Books, 2nd Edition, 2011.
-2. Christopher D Manning, Prabhakar Raghavan, Hinrich Schutze,
-   ``Introduction to Information Retrieval'', Cambridge University
-   Press, 1st South Asian Edition, 2008.
+1. William Stallings, ``Foundations of Modern Networking: SDN, NFV, QoE, IoT, and Cloud'', Pearson, 1st Edition, 2015.
 
 ** REFERENCES
-1. Stefan Buttcher, Charles L A Clarke, Gordon V Cormack,``Information
-   Retrieval -- Implementing and Evaluating Search Engines'', The MIT
-   Press, Cambridge, Massachusetts London, England, 2010.
-2. Cheng Xiang Zhai, Sean Massung, ``Text Data Management and
-   Analysis: A Practical Introduction to Information Retrieval and
-   Text Mining'', ACM Books, 2016.
-3. Reza Zafarani, Mohammad Ali Abbasi, Huan Liu, ``Social Media
-   Mining: An Introduction'', 1st Edition, Cambridge University
-   Press, 2014.
-4. Vipin Tyagi, ``Content-Based Image Retrieval: Ideas, Influences,
-   and Current Trends'', 1st Edition, Springer, 2017.
-5. Marcia J Bates, ``Understanding Information Retrieval Systems:
-   Management, Types, and Standards'', CRC Press, 2012.
+1. Thomas D. Nadeau, Ken Gray,``SDN: Software Defined Networks'', O'Reilly Media, 2013.
+2. Fei Hu , ``Network Innovation through OpenFlow and SDN: Principles and Design'', 1st Edition, CRC Press, 2014.
+3. Paul Goransson Chuck Black Timothy Culver, ``Software Defined Networks: A Comprehensive Approach'', 2nd Edition, Morgan Kaufmann Press, 2016.
+4. Oswald Coker, Siamak Azodolmolky,"Software-Defined Networking with OpenFlow", 2nd Edition, O'Reilly Media, 2017.
+
