@@ -1,6 +1,7 @@
 * <<<PE407>>> COMPUTER GRAPHICS AND MULTIMEDIA
 :properties:
 :author: Ms. S. Lakshmi Priya and Dr. N. Sujaudeen
+:date: 17-03-21
 :date: 09-03-21
 :date: 13-11-18
 :end:
@@ -20,7 +21,7 @@
 #+begin_comment
 1. Unit IV & V differ from AU2017. 
 2. Unit I - Moved Topics on "Illumination and color Models" to Unit IV.Random and Raster scan systems are added as introductory topics.
-   Unit III - B splines is removed as under spline representaions topic, Bezier curve is already given. Visible surface detection methods removed.
+   Unit III - Spline representations, Bezier curves and surfaces and B splines are removed from spline representaions topic,  Visible surface detection methods removed.
    Unit IV - Instead of Multimedia introduction, changed to Illumination models and added Animation. 
    Unit V - Has 3 1/2 important chapters from prescribed textbook as opposed to 8 chapters given as Unit 4 and 5 in AU2017 .
 3. Not Applicable
@@ -65,8 +66,7 @@ and polygon clipping algorithms.
 Three dimensional concepts; Three dimensional object representations:
 Polygon surfaces -- Polygon tables -- Plane equations -- Polygon
 meshes -- Curved lines and surfaces -- Quadratic surfaces-- Blobby
-objects -- Spline representations -- Bezier curves and surfaces; Three
-Dimensional Geometric and Modeling Transformations: Translation --
+objects; Three Dimensional Geometric and Modeling Transformations: Translation --
 Rotation -- Scaling -- Composite transformations; Three Dimensional
 Viewing: Viewing pipeline -- Viewing coordinates -- Projections --
 View volumes -- Clipping.
@@ -94,13 +94,13 @@ Basic Shapes -- Modelling -- Shading & textures.
 After the completion of this course, students will be able to: 
  - Apply the algorithms to manipulate output primitives such as line,
    circle, ellipse (K3)
- - Demonstrate transformations, representations and clipping on 2D
+ - Apply transformations, representations and clipping on 2D
    objects and map window to viewport transformations (K3)
  - Apply three Dimensional concepts like representations, geometric
    transformations, and projections (K3)
- - Understand the working of different illumination and color models
+ - Demonstrate the working of different illumination and color models
    used to render an animation scene (K2)
- - Understand different types of multimedia file formats, compression
+ - Compare different types of multimedia file formats, compression
    techniques and design basic 3D Scenes using Blender (K2).
 
 ** TEXT BOOKS
