@@ -36,13 +36,12 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To be familiar with digital image fundamentals
-- To understand the basics of simple image enhancement techniques in
-  Spatial and Frequency domain
-- To learn the concepts of degradation function and restoration
-  techniques
-- To study image segmentation and representation techniques
-- To be familiar with object recognition methods.
+- To explore the Low level vision features
+- To learn and detect the Intermediate level features
+- To familiarize the 3D vision, Depth estimation and 3D reconstruction methods
+- To develop applications for Object recognition 
+- To implement computer vision applications using Deep learning techniques
+
 
 {{{unit}}}
 |UNIT I | Low level vision | 9 |
@@ -75,19 +74,16 @@ Added: Case Study for Image recognition
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basics and fundamentals of digital image processing,
-  such as digitization, sampling, quantization (K2)
-- Operate on images using the techniques of smoothing, sharpening and
-  enhancement in both spatial and frequency domain (K3)
-- Understand the restoration concepts and filtering techniques (K2)
-- Analyse the segmentation methods and apply in real time applications
-  (K3)
-- Understand and analyse the feature extraction and object recognition
-  methods (K4).
+- Apply various low level feature detection methods (K3)
+- Choose various feature analysis methods and transforms for intermediate level vision (K3)
+- Explain depth estimation and 3D reconstruction (K2)
+- Analyse the object recognition methods (K4)
+- Build Deep learning models for computer vision (K3)
    
 ** TEXT BOOKS
 1. Davies, E. Roy. Computer and machine vision: theory, algorithms, practicalities. Academic Press, 2012.( Units I and II)
 2. Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010. (Unit III and IV)
+3. Shanmugamani, Rajalingappaa. Deep Learning for Computer Vision: Expert techniques to train advanced neural networks using TensorFlow and Keras. Packt Publishing Ltd, 2018. (Unit V)
    
 ** REFERENCES
 1. Kenneth R Castleman, ``Digital Image Processing'', Pearson, 2006.
