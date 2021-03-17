@@ -1,7 +1,7 @@
 * <<<PE501>>> BIOINFORMATICS
 :properties:
 :author: Dr.S.Kavitha and Dr.P.Mirunalini
-:date: 15-03-2021  
+:date: 17-03-2021  
 :end:
 #+startup: showall
 
@@ -62,7 +62,7 @@ Microarray Data Analysis: Microarray technology for genome expression study -- I
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Explain the concept and need of Bioinformatics (K2)
-- Identify the genome and protein data and its equivalent stoaagr and mining process (K3)
+- Identify the genome and protein data and its equivalent storage and mining process (K3)
 - Apply machine learning algorithms for bioinformatics dataset (K3)
 - Make use of hidden morkov modeling and probabilistic modeling for bioinformatics dataset (K3)
 - Infer the importance of microarray data analysis (K2)
