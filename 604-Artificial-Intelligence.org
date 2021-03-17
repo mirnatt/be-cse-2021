@@ -95,7 +95,7 @@ After the completion of this course, students will be able to:
 - Identify, formulate, understand and solve AI problems using search techniques (K3)
 - Solve the AI problems using the concept of Knowledge Representation and inferences in logics (K3)
 - Apply Probabilistic reasoning to solve uncertainty problems (K3)
-- Illustrate different application domains of (K2)
+- Illustrate application domains of AI for NLp and Robotics (K2)
 - Develop AI application using various search and inference techniques (K4).
   
 
