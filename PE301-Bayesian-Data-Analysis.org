@@ -49,11 +49,11 @@ The Binomial Model: Inference -- Confidence Region; The Poisson model -- Posteri
 
 {{{unit}}}
 |UNIT III | GROUP COMPARISONS AND HIERARCHICAL MODELING| 9 |
-Comparing two groups
+Group Comparisons: Comparing Two Groups -- Comparing Multiple Groups; The Hierarchical normal model: Posterior inference -- Hierarchical modeling of means and variances.
 
 {{{unit}}}-
-|UNIT IV | FREQUENT ITEMSETS AND CLUSTERING  | 9 |
-
+|UNIT IV |  LINEAR REGRESSION  | 9 |
+The linear regression model: Least squares estimation for the oxygen uptake data; Bayesian estimation for a regression model:  A semiconjugate prior distribution -- Default and weakly informative prior distributions; Model selection: Bayesian model comparison -- Gibbs sampling and model averaging.
 {{{unit}}}
 | UNIT V | NoSQL DATA MANAGEMEThNT FOR BIG DATA | 9 |
 
