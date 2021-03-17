@@ -77,17 +77,17 @@ Legal aspects --  Digital forensics fundamentals  -- The digital forensics proce
 {{{unit}}}
 
 |UNIT III | ANALYSIS AND VALIDATION | 9 |
-Validating Forensics Data -- Data Hiding Techniques -- Performing Remote Acquisition; Network Forensics; Email Investigations; Cell Phone and Mobile Devices Forensics. 
+ 
 
 #+begin_comment
-Unit-3:  AU-Unit III regulation 2017  topics included
+ 
 #+end_comment
 
 {{{unit}}}
 |UNIT IV |   | 9 |
   
 #+begin_comment
-Unit-4: AU-Unit IV regulation 2017  topics included
+ 
 #+end_comment
 
 {{{unit}}}
@@ -95,7 +95,7 @@ Unit-4: AU-Unit IV regulation 2017  topics included
   
 
 #+begin_comment
-Unit-5:  AU-Unit V regulation 2017  topics included
+ 
 #+end_comment
 
 
@@ -115,20 +115,16 @@ Response, Second Edition, Packt Publishing, 2020.
 
 Chris Prosise, Kevin Mandia, ``Incident Response and Computer
    Forensics'', 2nd Edition, McGraw-Hill 2003.
-2. Nelson, Phillips, Enfinger, Steuart, ``Computer Forensics and
-   Investigations'', Cengage Learning, India Edition, 2008.
-3. ``CEH official Certfied Ethical Hacking Review Guide'', Wiley India Edition, 2015.
+2. 
 
 ** REFERENCES 
-1. Dhillon G, ``Principles of Information Systems Security'', John
-   Wiley & Sons, 2007.
-2. Whitman M E, Mattord H J, ``Principles of Information Security'',
-   3rd Edition, Thompson Course Technology, 2009.
-3. John R Vacca, ``Computer Forensics'', Cengage Learning, 2005.
-4. Marjie T Britz, ``Computer Forensics and Cyber Crime: An
+1. Nelson, Phillips, Enfinger, Steuart, ``Computer Forensics and
+   Investigations'', Cengage Learning, India Edition, 2008.
+2. John R Vacca, ``Computer Forensics'', Cengage Learning, 2005.
+3. Marjie T Britz, ``Computer Forensics and Cyber Crime: An
    Introduction'', 3rd Edition, Prentice Hall, 2013.
-5. Marcella Jr, Albert, and Doug Menendez, ``Cyber Forensics: a Field
+4. Marcella Jr, Albert, and Doug Menendez, ``Cyber Forensics: a Field
    Manual for Collecting, Examining, and Preserving Evidence of
    Computer Crimes'', Auerbach Publications, 2007.
-6. https://evestigate.com/Case_Studies/Case%20Study%20Banking%20Industry%20Finacial%20Fraud%20by%20Board%20Member%20Director%20CFO.pdf
+
    
