@@ -2,7 +2,7 @@
 # PRINCIPLES OF ARTIFICIAL INTELLIGENCE
 :properties:
 :author: Dr. T.T.Mirnalinee and Dr. S. Kavitha
-:date: 11-03-2021
+:date: 17-03-2021
 :end:
 
 #+startup: showall
@@ -33,7 +33,7 @@
 - To Learn the methods of problem solving in AI using various search strategies.
 - To Understand the concepts of knowledge representation and inference using logic.
 - To Understand the concepts of knowledge representation and inference under uncertainty.
-- To Learn the some appliactions in text, image and robotics.
+- To Learn the some appliactions in text and robotics.
 
 {{{unit}}}
 | UNIT I | FOUNDATIONS | 7 |
@@ -70,7 +70,7 @@ uncertain reasoning.
 
 {{{unit}}}
 | UNIT V | COMMUNICATIONG. PERCEIVING AND ACTING | 9 |
-Natural Language Processing: Language Models -- Information Retrieval; Perception: Image Formation -- Image-Processing Operations -- Object Recognition; Robotics: Introduction -- Robotic Hardawre -- Perception -- Application Domains.
+Natural Language Processing: Language Models -- Text Classification -- Information Retrieval; Robotics: Introduction -- Robot Hardawre -- Robotic Perception -- Planning to move -- Application Domains.
 
 \hfill *Theory Periods: 45*
 
@@ -96,7 +96,7 @@ After the completion of this course, students will be able to:
 - Solve the AI problems using the concept of Knowledge Representation and inferences in logics (K3)
 - Apply Probabilistic reasoning to solve uncertainty problems (K3)
 - Illustrate different application domains of (K2)
-- Implement various search, inference and learning algorithms in AI (K4).
+- Implement various search, inference and one application in AI (K4).
   
 
 ** TEXT BOOKS
