@@ -54,38 +54,35 @@ Text book 1 , chapter 1
 
 {{{unit}}}
 | UNIT II | SERVICE AND ARCHITECTURE | 9 |
-Software as a Service: Frameworks and Languages : How to Learn a New Language -- Prelude: Learning to Learn Languages and Frameworks -- Pair Programming -- Introducing Ruby, an Object-Oriented Language -- Ruby Idioms: Poetry Mode, Blocks, Duck Typing -- CHIPS: Ruby Intro -- Gems and Bundler: Library Management in Ruby;  SaaS Application Architecture: Microservices, APIs, and REST : The Web’s Client–Server Architecture --  SaaS Communication Uses HTTP Routes -- CHIPS: HTTP and URIs -- From Web Sites to Microservices: Service-Oriented Architecture -- RESTful APIs: Everything is a Resource -- RESTful URIs, API Calls, and JSON -- CHIPS: Create and Deploy a Simple SaaS App;
+Software as a Service  Frameworks and Languages : How to Learn a New Language -- Prelude  Learning to Learn Languages and Frameworks -- Pair Programming -- Introducing Ruby, an Object-Oriented Language -- Ruby Idioms  Poetry Mode, Blocks, Duck Typing -- CHIPS Ruby Intro -- Gems and Bundler  Library Management in Ruby;  SaaS Application Architecture: Microservices, APIs, and REST  The Web’s Client–Server Architecture --  SaaS Communication Uses HTTP Routes -- CHIPS  HTTP and URIs -- From Web Sites to Microservices  Service-Oriented Architecture -- RESTful APIs  Everything is a Resource -- RESTful URIs, API Calls, and JSON -- CHIPS  Create and Deploy a Simple SaaS App;
 
 #+begin_comment
 Text book 1 , chapter 2,3
 #+end_comment
 
 {{{unit}}}
-| UNIT III | REQUIREMENTS ANALYSIS AND SPECIFICATION | 9 |
-
+| UNIT III | MVC FRAMEWORK AND MOBILE SERVICE | 9 |
+SaaS Framework  Rails as a Model–View–Controller Framework : The Model–View–Controller (MVC) Architecture -- Rails Models Databases and Active Record -- CHIPS  Active Record Basics -- Routes, Controllers, and Views -- CHIPS Rails Routes -- Forms -- CHIPS Hangperson on Rails -- Debugging  When Things Go Wrong -- CHIPS  Hello Rails; Mobile and Desktop SaaS Clients  JavaScript   Introduction  : JavaScript  The Big Picture -- Introducing ECMAScript -- Classes, Functions and Constructors  -- The Document Object Model (DOM) and jQuery -- The DOM and Accessibility -- Events and Callbacks -- AJAX  Asynchronous JavaScript And XML  --  Testing JavaScript and AJAX -- CHIPS  AJAX Enhancements to RottenPotatoes -- Single-Page Apps and JSON APIs;
 
 #+begin_comment
-1. Removed: Petrinet
-2. Added: Requirements modelling tools
+Text book 1 , chapter 4,6
 #+end_comment
 
 {{{unit}}}
-| UNIT IV | SOFTWARE DESIGN | 9 |
-
+| UNIT IV | REQUIREMENT AND TESTING | 9 |
+Requirements: BDD and User Stories : Behavior-Driven Design and User -- SMART User Stories -- Lo-Fi User Interface Sketches and Storyboards --  Points and Velocity -- Agile Cost Estimation -- Cucumber: From User Stories to Acceptance Tests -- CHIPS: Intro to BDD and Cucumber -- Explicit vs. Implicit and Imperative vs. Declarative Scenarios -- The Plan-And-Document Perspective on Documentation; Test-Driven Development : FIRST, TDD, and Red–Green–Refactor --Anatomy of a Test Case: Arrange, Act, Assert --Isolating Code: Doubles and Seams -- Stubbing the Internet --CHIPS  Intro to RSpec on Rails -- Fixtures and Factories -- Coverage Concepts and Types of Tests -- Other Testing Approaches and -- CHIPS: The Acceptance Test/Unit Test Cycle --The Plan-And-Document Perspective on Testing;
 
 #+begin_comment
-1. Removed: Design process, Design model, Modeling principles
-2. Added: specific topics in design concept (Modularity -- Abstraction-- Functional Independence -- Information hiding -- Refinement)
+Text book 1 , chapter 7,8 
 #+end_comment
 
 
 {{{unit}}}
 | UNIT V | TESTING AND MAINTENANCE | 9 |
-Software Testing Fundamentals; Internal and External Views of Testing: White Box Testing -- Basis Path Testing -- Control Structure Testing-- Black Box Testing -- Unit Testing -- Integration Testing -- Regression Testing -- Validation Testing -- System Testing -- Security Testing; Debugging; Software Implementation: Coding Practices and Principles; Maintenance: Types -- Reengineering versus Reverse Engineering.
+Agile Teams : It Takes a Team: Two-Pizza and Scrum --  Using Branches Effectively -- Pull Requests and Code Reviews -- Delivering the Backlog Using Continuous Integration -- CHIPS: Agile Iterations -- Reporting and Fixing Bugs: The Five R’s -- The Plan-And-Document Perspective on Managing Teams ; Dev/Ops -- From Development to Deployment --Three-Tier --Responsiveness, Service Level Objectives, and Apdex -- Releases and Feature Flags -- Monitoring and Finding Bottlenecks --Improving Rendering and Database Performance With Caching -- Avoiding Abusive Database Queries -- CHIPS: Exploiting Caching and Indices -- Security: Defending Customer Data in Your App -- The Plan-And-Document Perspective on Operations;
 
 #+begin_comment
-1. Removed: Restructuring.
-2. Added: Reengineering versus Reverse Engineering 
+Text book 1 , chapter 10,12
 #+end_comment
 
 
