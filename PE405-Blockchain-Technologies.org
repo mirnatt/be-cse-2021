@@ -57,7 +57,7 @@ Cryptographic Hash Functions -- Cryptography basic and Concepts -- Introduction 
 Ethereum: Introduction -- Ethereum Network -- Components -- Programming Languages; Hyperledger: Introduction -- Reference Architecture -- Fabric -- Sawtooth Lake --Corda
 
 {{{unit}}}
-|UNIT V | Blokchain Development Tools and Frameworks | 9 |
+|UNIT V | Blockchain Development Tools and Frameworks | 9 |
 # Compilers: Solidity Complier -- Ganache -- Metamask -- Truffle; Languages: Solidity -- Go -- Java -- NodeJS; Blockchain Usecase: Financials -- Insurance - Supply Chain Management -- HealthCare -- IoT
 
 \hfill *Total Periods: 45*
