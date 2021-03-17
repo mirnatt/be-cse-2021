@@ -55,6 +55,7 @@
 
 {{{unit}}} 
 | UNIT I | 	FUNDAMENTALS | 9 |
+
 Understanding Incident Response : The incident response process -- The incident response charter --The incident response plan --
  The incident response playbook -- Testing the incident response framework ; Managing Cyber Incidents:  Investigating incidents  -- 
 Incorporating containment strategies -- Getting back to normal – eradication and recovery; Fundamentals of Digital Forensics -- 
@@ -68,6 +69,7 @@ Legal aspects --  Digital forensics fundamentals  -- The digital forensics proce
 {{{unit}}}
 
 |UNIT II | EVIDENCE ACQUISITION   | 9 |
+
  Collecting Network Evidence  : An overview of network evidence  --  Firewalls and proxy logs --NetFlow -- Packet captures -- Wireshark -- Evidence collection;  Acquiring Host-Based Evidence Preparation :  Order of volatility  -- Evidence acquisition --  Acquiring volatile memory ;  Forensic Imaging : Understanding forensic imaging  -- Imaging tools -- Preparing a stage drive -- Using write blockers -- Imaging techniques
 
 
@@ -77,6 +79,7 @@ Legal aspects --  Digital forensics fundamentals  -- The digital forensics proce
 {{{unit}}}
 
 |UNIT III | ANALYZING EVIDENCE | 9 |
+
 Analyzing Network Evidence :  Network evidence overview -- Analyzing firewall and proxy logs ;  Analyzing System Memory : Memory analysis overview -- 
 Memory analysis methodology ; Analyzing System Storage : Forensic platforms -- Autopsy -- MFT analysis -- Registry analysis; Analyzing Log Files : 
 Understanding Windows logs ; Writing the Incident Report : Documentation overview;
@@ -86,7 +89,7 @@ Understanding Windows logs ; Writing the Incident Report : Documentation overvie
 #+end_comment
 
 {{{unit}}}
-|UNIT IV |   | 9 |
+|UNIT IV |  MALWARE AND THREAT INTELLIGENCE | 9 |
 Malware Analysis for Incident Response : Malware classifications -- Malware analysis overview -- Analyzing malware -- Dynamic analysis -- Leveraging Threat Intelligence -- Understanding threat intelligence -- Threat intelligence methodology -- Threat intelligence sources -- Threat intelligence platforms 
 Using threat intelligence ;   
   
@@ -95,7 +98,7 @@ Using threat intelligence ;
 #+end_comment
  
 {{{unit}}}
-|UNIT V | MALWARE AND THREAT INTELLIGENCE  | 9 |
+|UNIT V | MOBILE FORENSICS  | 9 |
  Introduction to Mobile Forensics : Why do we need mobile forensics? -- Mobile forensics -- The mobile phone evidence extraction process -- 
 Practical mobile forensic approaches ;  Parsing Third-Party Application Files : Third-party application overview --
 Encoding versus encryption -- Application data storage -- Forensic methods used to extract third-party application data ;
@@ -116,8 +119,7 @@ After the completion of this course, students will be able to:
 - Explian Ethical Hacking in web
 
 ** TEXT BOOKS 
-1. Gerard Johansen, Digital Forensics and Incident
-Response, Second Edition, Packt Publishing, 2020. 
+1. Gerard Johansen, Digital Forensics and Incident Response, Second Edition, Packt Publishing, 2020. 
 2. Rohit Tamma, Oleg Skulkin,  Heather Mahalik , Satish Bommisetty, Practical Mobile Forensics,  Third Edition,  Packt Publishing, 2018.
 
 ** REFERENCES 
