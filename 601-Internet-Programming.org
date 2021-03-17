@@ -36,25 +36,37 @@
 
 {{{unit}}}
 |UNIT I | WEB ESSENTIALS | 9 |
-Web Essentials: Clients -- Servers -- Communication; HTTP protocol: Request and Response Messages -- Web Clients -- Web Servers; Web Server: Vulnerabilities – Attacks & its prevention; HTML5: Table -- List – Image -- Form -- Semantic elements -- CSS3: Types of style sheets – Selectors – Box Model -- Rule cascading -- Inheritance -- Transformations --Transitions -- Animations.
+Web Essentials: Clients -- Servers -- Communication; HTTP protocol: Request and Response Messages – Functionalities of Web Client and Web Server; Web Server: Vulnerabilities – Attacks & its prevention; HTML5: Table -- List – Image -- Form -- Semantic elements -- CSS3: Types of style sheets – Selectors – Box Model -- Rule cascading -- Inheritance -- Transformations --Transitions -- Animations
+
+#+BEGIN_COMMENT
+17th March 2021
+Addition    
+  CSS Box as it is fundamental
+Removal
+  Audio and video controls as they are not very important
+#+END_COMMENT
 
 {{{unit}}}
 |UNIT II | CLIENT SIDE PROGRAMMING | 9 |
-JavaScript: Variables – Data types -- Statements – Function -- Object -- Array -- Built-in objects (String and Date) --  JSON: Parse, Stringify -- Event handling: Form, Mouse and Keyboard events -- DOM: Document tree –  Node object – Document object -- Event handling: Event propagation.
+JavaScript: Variables – Data types -- Statements – Function -- Object -- Array -- Built-in objects (String and Date) --  JSON: Parse, Stringify -- Event handling: Form, Mouse and Keyboard events -- DOM: Document tree –  Node object – Document object -- Event handling: Event propagation
 
 #+BEGIN_COMMENT
 Removal
    Contents related to JSON in AU R-2017 has been removed
 Thought Process
    Due to time constraint
-   JSON is a structure used for tranferring data in web applications. Since it will not be explicitly  utilized for transfer in the development of web applications, it has been removed.      
+   JSON is a structure used for tranferring data in web applications. Since it will not be explicitly  utilized for transfer in the development of web applications, it has been removed.   
+   
+   17th March 2021
+   JSON and its important methods are added because JSON is used recently instead of XML
+   Keyboard events are added specifically, as now the trend is to use mobile where we will have to use keyboard only
 #+END_COMMENT
 
 {{{unit}}}
 |UNIT III | SERVER SIDE PROGRAMMING| 9 |
 Servlets: Architecture -- Life Cycle -- Parameter data -- Sessions --
 Cookies and URL rewriting -- AJAX: Ajax Client Server Architecture --
-XML Http Request Object -- Call Back Methods.
+XML Http Request Object -- Call Back Methods
 
 #+BEGIN_COMMENT
 Removal
@@ -66,30 +78,30 @@ Thought Process
 
 {{{unit}}}
 |UNIT IV | CLIENT SIDE FRAMEWORK | 9 |
-Javascript for ReactJS –- React elements – ReactDOM –- React Components – Mapping Arrays with JSX – Create React App – useState Hook – Refactoring for Advanced Reusability – State in component tree --  Dependency Array – Rules to follow with hooks – ESLint – Prettier -- React router: Incorporation –-Nesting – Parameters.
+Javascript for ReactJS –- React elements – ReactDOM –- React Components – Mapping Arrays with JSX – Create React App – useState Hook: Refactoring for Advanced Reusability – useEffect Hook: State in component tree, Dependency Array – Rules to follow with hooks -- React router: Incorporation –-Nesting – Parameters
 
 #+BEGIN_COMMENT
+
 Removal
       PHP and XML in AU R-2017 have been removed
 Thought Process
       PHP is yet another serverside scripting language
-      XML is a structure used for tranferring data in web applications. Since it will not be explicitly being utilized for trasnfer in the development of web applications 
+      XML is a structure used for tranferring data in web applications. Since it will not be explicitly being utilized for trasnfer in the development of web applications       
 
 Inclusion
       Concepts related to ReactJS have been included
 Thought process
       It is a recently developed lightweight client side framework useful for quick development of web application
-10th March 2021
+17th March 2021
+Change
+Topics are changed based on the following book as the React moved to recent version
 https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/
 From the above link, we have taken the recent concepts
 #+END_COMMENT
 
 {{{unit}}}
 |UNIT V | SERVER SIDE FRAMEWORK | 9 |
-Introduction to NodeJS –- Event Loop -– Patterns -– Core APIs:
-EventEmitter -- Callback syntax -- Streams -- File system, -- Buffers
--- Process module -- Data Access -– NoSQL and Document stores:
-MongoDB.
+Node building blocks: Global objects, Events, Asynchronous Nature – Node and the Web: Server and Client  – Build and the NodeJS using MVC: Routing, Creation of Modules, Views and Controllers
 
 #+BEGIN_COMMENT
 Removal
@@ -103,6 +115,14 @@ Inclusion
       Concepts related to NodeJS have been included
 Thought process
       It is a recently developed lightweight sever side framework useful for quick development of web applications
+17th Marsh 2021
+Node building blocks – Learning node 2nd edition
+Introducing NPM, Javascript Package Manager  -- Your first week with NodeJS
+https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/
+Node and the Web - Learning node 2nd edition
+https://www.oreilly.com/library/view/learning-node-2nd/9781491943113/
+Build and the NodeJS using MVC - Your first week with NodeJS
+
 #+END_COMMENT
 
 \hfill *Total Periods: 45*
@@ -120,16 +140,17 @@ After the completion of this course, students will be able to:
    Perspective'', Pearson Education, 2011. (Units 1,2,3)
 2. Alex Banks, Eve Porcello, ``Learning React: Modern 
    Patterns for Devloping React Apps'', June 2020, O'Reilly Media Inc.,
-   May 2017. (Unit 4)
+   (Unit 4)
 
 ** REFERENCE BOOKS
 1. David McFarland, ``CSS3: The missing manual'', O'Reilly Media,
    December 2012. (Unit 1)
 2. Matthew MacDonald, ``HTML5: The missing manual'', O'Reilly Media,
    August 2011 (Unit 1)
-3. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'', 1st
-   Edition, O'Reilly Media, 2012. (Unit 5)
-4. Uttam K Roy, ``Web Technologies'', Oxford University
+3. Shelly Powers, ``Learning Node 2nd Edition'', 1st
+   Edition, O'Reilly Media, June 2016. (Unit 5)
+4. Sitepoint Team, ``Your First Week With Node.js'', SitePoint, February 2018. (Unit 5)
+5. Uttam K Roy, ``Web Technologies'', Oxford University
    Press, 2010. (Unit 3)
-5. ''How to Hack a Web Server'',
+6. ''How to Hack a Web Server'',
    https://www.guru99.com/how-to-hack-web-server.html (Unit 1)
