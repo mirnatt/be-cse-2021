@@ -45,9 +45,9 @@ Forecasting with Transfer Function–Noise Models --  Intervention Analysis.
 Upon completion of the course, the student should be able to:
 - Illustrate the statistical background for forecasting (K2)
 - Compare various models for regression analysis and forecasting (K2)
-- To summarize the exponential Smoothing Methods (K2)
-- To translate forecasting problems into Autoregressive Integrated Moving Average(Arima) models (K2)
-- To make use of transfer functions in time series modelling (K3).
+- Apply the exponential Smoothing Methods to time series data (K3)
+- Build timeseries Autoregressive Integrated Moving Average(Arima) models (K3)
+- Make use of transfer functions in time series modelling (K3).
       
 ** TEXT BOOKS
 1. Douglas C. Montgomery, Cheryl L. Jennings, Murat Kulahci, ``Introduction to Time Series Analysis and Forecasting'',
