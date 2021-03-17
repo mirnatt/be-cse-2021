@@ -1,7 +1,7 @@
 * <<<PE602>>> FORMAL SYSTEM VERIFICATION
 :properties:
-:author: Dr. S. Sheerazuddin and Dr. R. S. Milton
-:date: 13 November 2018
+:author: Dr R S Milton and Dr T T Mirnalinee
+:date: 17 March 2021
 :end:
 
 #+startup: showall
@@ -11,7 +11,9 @@
 | 3 | 0 | 0 | 3 |
 
 #+begin_comment
-We are not aware of any Program Verification course in Anna University curriculum. This syllabus is completely independent of any Program Verification course.
+We are not aware of any Program Verification course in Anna University
+curriculum. This syllabus is completely independent of any Program
+Verification course.
 #+end_comment
 
 ** COURSE OBJECTIVES
