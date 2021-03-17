@@ -58,7 +58,7 @@ Ethereum: Introduction -- Ethereum Network -- Components -- Programming Language
 
 {{{unit}}}
 |UNIT V | Blockchain Development Tools and Frameworks | 9 |
-# Compilers: Solidity Complier -- Ganache -- Metamask -- Truffle; Languages: Solidity -- Go -- Java -- NodeJS; Blockchain Usecase: Financials -- Insurance - Supply Chain Management -- HealthCare -- IoT
+Compilers: Solidity Complier -- Ganache -- Metamask -- Truffle; Languages: Solidity -- Go -- Java -- NodeJS; Blockchain Usecase: Financials -- Insurance - Supply Chain Management -- HealthCare -- IoT
 
 \hfill *Total Periods: 45*
 
