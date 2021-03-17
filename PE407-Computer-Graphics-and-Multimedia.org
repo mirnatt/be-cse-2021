@@ -2,8 +2,6 @@
 :properties:
 :author: Ms. S. Lakshmi Priya and Dr. N. Sujaudeen
 :date: 17-03-21
-:date: 09-03-21
-:date: 13-11-18
 :end:
 
 * CO PO MAPPING :noexport:
