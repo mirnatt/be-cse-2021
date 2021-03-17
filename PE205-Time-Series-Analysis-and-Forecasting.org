@@ -1,17 +1,8 @@
 * <<<PE205>>> TIME SERIES ANALYSIS AND FORECASTING
 :properties:
-:author: Dr. K. Vallidevi and Dr. A. Chamundeswari
-:date: 
+:author: H.Shahul Hamead and V.S.Felix Enigo
+:date: 17-03-2021
 :end:
-
-#+begin_comment
-Included project model in Unit I instead of having it in AU R2017 -Unit II
-Included scheduling in Unit II instead of having it in AU R2017-Unit III
-Added security topic in syllabus, which is not provided in AU R2017
-Added risk in Unit IV instead of AU R2017-Unit III
-New process model is added in syllabus which is not provided in AU R2017
-Included monitoring topics in Unit V instead of AU-Unit IV
-#+end_comment
 
 #+startup: showall
 
@@ -20,103 +11,51 @@ Included monitoring topics in Unit V instead of AU-Unit IV
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn the key aspects of managerial process in software
-  organization.
-- To apply the practices followed in project planning, estimation, and
-  scheduling
-- To be familiar with the overall project activities in Agile and
-  DevOps
-- To study the various issues in people management
-- To distinguish between security and risk activities related with
-  software development.
+- To study the statistical background for forecasting.
+- To explore the models for regression analysis and forecasting
+- To comprehend the exponential Smoothing Methods
+- To learn Autoregressive Integrated Moving Average(Arima) models
+- To explore transfer Functions and Intervention Models.
 
 {{{unit}}}
-|UNIT I | PROJECT PLANNING| 9 |
-Project Management: Project management life cycle -- Project
-evaluation and programme management -- Project planning; Process
-Models: Waterfall -- Spiral -- Prototyping -- Incremental delivery --
-DSDM -- Agile -- Scrum --XP; Software Development: Lean software
-development -- Process model selection.
-
-#+begin_comment
-...Included project model in Unit I instead of having it in AU-Unit II...
-#+end_comment
+|UNIT I | INTRODUCTION TO FORECASTING | 9 |
+Introduction to Forecasting:  The Nature and Uses of Forecasts -- Some Examples of Time Series -- The Forecasting Process -- Data for Forecasting --  Resources for Forecasting -- Statistics Background for Forecasting: Graphical Displays -- Numerical Description of Time Series Data -- Use of Data Transformations and Adjustments -- General Approach to Time Series Modeling and Forecasting -- Evaluating and Monitoring Forecasting Model Performance.
 
 {{{unit}}}
-|UNIT II | ESTIMATION AND SCHEDULING | 9 |
-Effort Estimation Techniques: Expert judgement -- FPA -- FP mark II --
-COSMIC -- COCOMO II -- Cost estimation; Scheduling: Project schedules
--- Network model -- Identifying critical activities.
-
-#+begin _comment
-...Included scheduling in Unit II instead of having it in AU-Unit III...
-#+end_comment
+|UNIT II | REGRESSION ANALYSIS AND FORECASTING | 9 |
+Least Squares Estimation in Linear Regression Models Expert judgement -- Statistical Inference in Linear Regression -- Prediction of New Observations --
+Model Adequacy Checking -- Variable Selection Methods in Regression -- Generalized and Weighted Least Squares -- Regression Models for General Time Series Data --  Econometric Models.
 
 {{{unit}}}
-|UNIT III | AGILE AND DEVOPS | 9 |
-Scrum: Organization -- Estimation -- Planning -- Changes in scrum --
-Risk in scrum -- Product backlog -- Sprint backlog -- Release --
-Identifying stories and preparing to build;
-
-DevOps: Motivation -- Cloud as a platform -- Operations -- Deployment
-pipeline.
-
-#+begin _comment
-...New process model is added in syllabus which is not provided in AU...
-#+end_comment
+|UNIT III | EXPONENTIAL SMOOTHING METHODS| 9 |
+First-Order Exponential Smoothing --  Modeling Time Series Data --  Second-Order Exponential Smoothing  -- Higher-Order Exponential Smoothing --
+Forecasting  -- Exponential Smoothing for Seasonal Data -- Exponential Smoothing of Biosurveillance Data -- Exponential Smoothers and Arima Models.
 
 {{{unit}}}
-|UNIT IV | SECURITY AND RISK MANAGEMENT | 9 |
-Cloud Security: Cloud information security objectives -- Cloud
-security services -- Secure development practices;
-
-Risk Management: Risk culture -- Risk managementprocess -- Risk
-attributes -- Risk identification -- Types of risk analysis --
-Responding to risk -- Risk tracking -- Risk models.
-
-#+begin _comment
-...Added security topic in syllabus, which is not provided in AU...
-...Added risk in Unit IV instead of AU-Unit III...
-#+end_comment
+|UNIT IV | ARIMA MODELS | 9 |
+Linear Models for Stationary Time Series -- Finite Order Moving Average Processes -- Finite Order Autoregressive Processes --
+Mixed Autoregressive–Moving Average Processes -- Nonstationary Processes -- Time Series Model Building -- Forecasting Arima Processes.
 
 {{{unit}}}
-|UNIT V | MONITORING AND ORGANIZING TEAMS | 9 |
-Visualizing Progress: Relationship between people and effort -- Task
-set and network -- Earned value analysis -- SCM -- Managing contracts
--- Working in teams -- Developing metrics on a software development
-program -- Evaluating performance.
-
-#+begin _comment
-...Included monitoring topics in Unit V instead of AU-Unit IV...
-#+end_comment
+|UNIT V | TRANSFER FUNCTIONS AND INTERVENTION MODELS | 9 |
+Transfer Function Models -- Transfer Function–Noise Models -- Cross-Correlation Function -- Model Specification  --
+Forecasting with Transfer Function–Noise Models --  Intervention Analysis.
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to:
-- Select a process model for software development (K2)
-- Estimate cost to manage the software development (K3)
-- Develop a project using agile and devops software development
-  practices (K3)
-- Identify the activities of security and risk in various types of
-  software projects (K1)
-- Recognize management skills and techniques to develop commercial
-  software projects (K2).
+- Illustrate the statistical background for forecasting (K2)
+- Compare various models for regression analysis and forecasting (K2)
+- To summarize the exponential Smoothing Methods (K2)
+- To translate forecasting problems into Autoregressive Integrated Moving Average(Arima) models (K2)
+- To make use of transfer functions in time series modelling (K3).
       
 ** TEXT BOOKS
-1. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project
-   Management'', 6th Edition, Tata McGraw Hill, 2018.
-2. Ravindranath Pandian, ``Applied Software Risk Management A Guide
-   for Software Project Managers'', Auerbach Publication, 2007.
+1. Douglas C. Montgomery, Cheryl L. Jennings, Murat Kulahci, ``Introduction to Time Series Analysis and Forecasting'',
+   2nd Edition, Wiley, 2015.
 
 ** REFERENCES
-1. Roger S Pressman, ``Software Engineering -- A Practitioner's
-   Approach'', 7th Edition, Mc Graw-Hill International
-   Edition, 2010.
-2. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition,
-   PHI Learning Pvt. Ltd., 2009.
-3. Tridibesh Satpathy, ``A Guide to the Scrum Body of Knowledge (SBOK
-   Guide)'', 2016 edition, SCRUMstudy, Phoenix, Arizona 85008 USA.
-4. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
-   Architect's Perspective'', Pearson Education, 2016.
-5. Ronald L Krutz, Russell Dean Vines, ``Cloud Security -- A
-   comprehensive Guide to Secure Cloud Computing'', Wiley-India, 2010.
-
+1. Peter J. BrockwellRichard A. Davis, ``Introduction to Time Series and Forecasting'', 2ndh Edition, Springer, 2010.
+2. George E. P. Box, Gwilym M. Jenkins, Gregory C. Reinsel, Greta M. Ljung, ''Time Series Analysis: Forecasting and Control'', 5th Edition, Wiley, 2015
+3. Robert Yaffee, Monnie McGee, ''An Introduction to Time Series Analysis and Forecasting'', 1st Edition, Elsevier, 2000
+4. Aileen Nielsen, ''Practical Time Series Analysis'', O'Reilly , Elsevier, 2019
+5. Shmueli, G., and K. C. Lichtendahl, Jr., ''Practical Time Series Forecasting with R: A Hands-On Guide'', Axelrod Schnall Publisher, 2015.
