@@ -1,7 +1,7 @@
 * <<<PE206>>> CYBER FORENSICS
 :properties:
 :author: Dr. A. Chamundeswari and Dr. S. Saraswathi
-:date:  04-03-2021 09-03-2021 10-03-2021
+:date:  04-03-2021 09-03-2021 10-03-2021 17-3-2021
 :end:
 
 #+startup: showall
@@ -51,17 +51,16 @@
 - To learn computer forensics and understand incident response
 - To know the methods to collect and store digital evidence
 - To understand the approaches to analyse and validate data
--  
+- To explore the malware and threat intelligence
+- To learn mobile forensics concepts 
 
 {{{unit}}} 
 | UNIT I | 	FUNDAMENTALS | 9 |
-
 Understanding Incident Response : The incident response process -- The incident response charter --The incident response plan --
  The incident response playbook -- Testing the incident response framework ; Managing Cyber Incidents:  Investigating incidents  -- 
 Incorporating containment strategies -- Getting back to normal – eradication and recovery; Fundamentals of Digital Forensics -- 
 Legal aspects --  Digital forensics fundamentals  -- The digital forensics process -- Digital forensic lab;
  
-
 #+begin_comment
 ...Text Book 1 : Chapter 1,2,3 
 #+end_comment
@@ -69,17 +68,14 @@ Legal aspects --  Digital forensics fundamentals  -- The digital forensics proce
 {{{unit}}}
 
 |UNIT II | EVIDENCE ACQUISITION   | 9 |
-
  Collecting Network Evidence  : An overview of network evidence  --  Firewalls and proxy logs --NetFlow -- Packet captures -- Wireshark -- Evidence collection;  Acquiring Host-Based Evidence Preparation :  Order of volatility  -- Evidence acquisition --  Acquiring volatile memory ;  Forensic Imaging : Understanding forensic imaging  -- Imaging tools -- Preparing a stage drive -- Using write blockers -- Imaging techniques
-
 
 #+begin_comment
 ...Text Book 1 : Chapter 4,5,6
-#+end_comment   
+#+end_comment  
+
 {{{unit}}}
-
 |UNIT III | ANALYZING EVIDENCE | 9 |
-
 Analyzing Network Evidence :  Network evidence overview -- Analyzing firewall and proxy logs ;  Analyzing System Memory : Memory analysis overview -- 
 Memory analysis methodology ; Analyzing System Storage : Forensic platforms -- Autopsy -- MFT analysis -- Registry analysis; Analyzing Log Files : 
 Understanding Windows logs ; Writing the Incident Report : Documentation overview;
@@ -115,8 +111,8 @@ After the completion of this course, students will be able to:
 - Understand the basics of computer forensics 
 - Infer different computer forensic tools to collect data
 - Explain the tools used to Analyze and validate forensics data 
-- Explian Ethical Hacking
-- Explian Ethical Hacking in web
+- Detect the malware and threat intelligence  
+- Capture mobile forensics data  
 
 ** TEXT BOOKS 
 1. Gerard Johansen, Digital Forensics and Incident Response, Second Edition, Packt Publishing, 2020. 
