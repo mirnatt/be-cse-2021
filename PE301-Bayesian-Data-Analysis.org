@@ -31,61 +31,51 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To know the fundamental concepts of big data and analytics
-- To explore tools and practices for working with big data
-- To learn about stream computing
-- To know about the techniques that requires the integration of large
-  amounts of data.
+- To know the fundamental concepts of probability theory, machine learning and statistics
+- To explore One-parameter model, normal model and multivariate model
+- To learn hierarchial modeling and non parametric models
+- To know about the various bayesian computation.
 
 
 {{{unit}}}
 | UNIT I | BASICS OF PROBABILITY THEORY, MACHINE LEARNING AND STATISTICS | 9 |
-Introduction:Bayes -- Estimating Probability of a Rare Event -- Building a Predictive Model; Probability:Events -- partitions -- Bayes Rule -- Independene -- Random Variable -- Joint Distribution; Bayesian Inference in Applied Statistics.
+Introduction:Bayes -- Estimating Probability of a Rare Event -- Building a Predictive Model; Probability:Events -- Partitions -- Bayes Rule -- Independene -- Random Variable -- Joint Distribution; Bayesian Inference in Applied Statistics.
 
 
 {{{unit}}}
 | UNIT II | ONE-PARAMETER MODELS, THE NORMAL MODEL  9 |
-The Binomial Model: Inference -- Confidence Region; The Poisson model -- Posterior Inference; Exponential Families and Conjugate Priors; The Normal Model: Inference for the Mean, Conditional on the Variance -- Joint Inference for the Mean and Variance -- Prior Specification Based on Expectations -- The normal model for non-normal data; The Multivariate Normal Model.
+The Binomial Model: Inference -- Confidence Region; The Poisson model -- Posterior Inference; Exponential Families and Conjugate Priors; The Normal Model: Inference for the Mean, Conditional on the Variance -- Joint Inference for the Mean and Variance -- Prior Specification Based on Expectations -- The Normal Model for Non-Normal Data; The Multivariate Normal Model.
 
 {{{unit}}}
 |UNIT III | GROUP COMPARISONS AND HIERARCHICAL MODELING| 9 |
-Group Comparisons: Comparing Two Groups -- Comparing Multiple Groups; The Hierarchical normal model: Posterior inference -- Hierarchical modeling of means and variances.
+Group Comparisons: Comparing Two Groups -- Comparing Multiple Groups -- Exchangeability and Hierarchical Models; The Hierarchical Normal Model: Posterior Inference -- Hierarchical Modeling of Means and Variances -- Analysis of Math Score Data.
 
-{{{unit}}}-
-|UNIT IV |  LINEAR REGRESSION  | 9 |
-The linear regression model: Least squares estimation for the oxygen uptake data; Bayesian estimation for a regression model:  A semiconjugate prior distribution -- Default and weakly informative prior distributions; Model selection: Bayesian model comparison -- Gibbs sampling and model averaging.
 {{{unit}}}
-| UNIT V | NoSQL DATA MANAGEMEThNT FOR BIG DATA | 9 |
+|UNIT IV |  LINEAR REGRESSION AND NON PARAMETRIC MODEL | 9 |
+The Linear Regression Model: Least Squares Estimation for the Oxygen Uptake Data; Bayesian Estimation for a Regression Model:  A Semiconjugate Prior Distribution -- Default and Weakly Informative Prior Distributions; Model Selection: Bayesian Model Comparison -- Gibbs Sampling and Model Averaging; Non-Parametric Model: Gaussian Process Models -- Finite Mixture Models.
+{{{unit}}}
+| UNIT V | BAYESIAN COMPUTATION | 9 |
+Monte Carlo approximation: The Monte Carlo Method -- Posterior Inference for Arbitrary Functions -- Sampling from Predictive Distributions -- Posterior Predictive Model Checking; Posterior Approximation with the Gibbs Sampler: A Semiconjugate Prior Distribution -- Discrete Approximations -- Gibbs Sampling -- Metropolis-Hastings Algorithm and Gibbs Sampler.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Work with big data tools and its analysis techniques (K3)
-- Analyze data by utilizing regression and classification algorithms (K4)
-- Perform analytics on data streams (K3)
-- Apply different mining algorithms and clustering techniques on big data (K3)
-- Work with NoSQL databases and management (K2).
+- Summarize the basics of theory, machine learning and statistics(K2)
+- Apply One-parameter model to develop a system (K3)
+- Analysing data using hierarchical model (K3)
+- Compare non-bayesian model with bayesian model (K4)
+- Apply various Bayesion computation techiniques to solve a problem (K3)
+- Solve a real time problem using any bayesian approach with clear documentation (K3)
+
 
       
 ** TEXT BOOKS
-1. David Loshin, ``Big Data Analytics: From Strategic Planning to
-   Enterprise Integration with Tools, Techniques, NoSQL, and Graph'',
-   Morgan Kaufmann / Elsevier Publishers, 2013.
-2. Anand Rajaraman, Jeffrey David Ullman, ``Mining of Massive
-   Datasets'', Cambridge University Press, 2012.
+
+1. Peter D.Hoff, ``A  first course in Bayesian Statistical Methods'', Springer, 2009.
 
 
 ** REFERENCES
-1. EMC Education Services, ``Data Science and Big Data Analytics:
-   Discovering, Analyzing, Visualizing and Presenting Data'', Wiley
-   Publishers, 2015. (Unit -II)
-2. Bart Baesens, ``Analytics in a Big Data World: The Essential Guide
-   to Data Science and its Applications'', Wiley Publishers, 2015.
-3. Kim H Pries, Robert Dunnigan, ``Big Data Analytics: A Practical
-   Guide for Managers'', CRC Press, 2015.
-4. Jimmy Lin, Chris Dyer, ``Data-Intensive Text Processing with
-   MapReduce'', Synthesis Lectures on Human Language Technologies,
-   Vol. 3, No. 1, Pages 1-177, Morgan Claypool publishers, 2010.
-5. Arshdeep Bahga, Vijay Madisetti, ``Big Data Science & Analytics:
-   A Hands-On Approach'', VPT, 2016.
+1. Andrew Gelman, John B.Carlin, Hal S. Stern HS, David B Dunson, Aki Vehtari, Dolland B.Rubin, ``Bayesian data analysis'', third edition, CRC press, 2013.
+2. Richard McElreath, ``Statistical Rethinking'', second edition, CRC press, 2020.
+3. John Kruschke, ``Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'', second edition, Academic Press,2014
