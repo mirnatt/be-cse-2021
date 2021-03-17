@@ -95,7 +95,6 @@ WS-Addressing -- WS-Reliable messaging -- WS-Policy -- WS-Coordination -- WS-Tra
 Service oriented enterprise applications -- Service Oriented Analysis and Design: Need for models -- 
 Principles of service design -- Design of activity services -- Design of data services -- 
 Design of client services -- Design of business process services.
->>>>>>> 5d5289161a836ba341d59f8131b5db5fb2fb5cf2
 
 \hfill *Total Periods: 45*
 
