@@ -82,7 +82,7 @@ Memory analysis methodology ; Analyzing System Storage : Forensic platforms -- A
 Understanding Windows logs ; Writing the Incident Report : Documentation overview;
  
 #+begin_comment
- ...Text Book 1 : Chapter 7,8,9,10
+ ...Text Book 1 : Chapter 7,8,9,10, 11
 #+end_comment
 
 {{{unit}}}
@@ -91,7 +91,7 @@ Malware Analysis for Incident Response : Malware classifications -- Malware anal
 Using threat intelligence ;   
   
 #+begin_comment
-  ...Text Book 1 : Chapter 13,14
+  ...Text Book 1 : Chapter 12, 13
 #+end_comment
  
 {{{unit}}}
