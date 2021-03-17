@@ -1,6 +1,7 @@
 * <<<607>>> INTERNET PROGRAMMING LAB
 :properties:
 :author: Dr. B. Prabavathy and Dr. V. S. Felix Enigo
+:start: 17-03-2021
 :end:
 
 
@@ -28,24 +29,23 @@
 - To develop web applications using Javascript frameworks.
 
 ** SUGGESTIVE LAB EXPERIMENTS
-- Create a web page using Table, Lists, Image and anchor elements. (Ex: Bio-Data)
+- Build a web page using Table, Lists, Image and anchor elements. (Ex: Bio-Data)
 - Create website for the International Conference using HTML5 and CSS3 elements.
 - Validate a registration form using Javascript event handling mechanisms.
 - Develop a web application to authenticate the user with servlet and MySQL.
-- Develop a web application using sessions and servlet. (Ex: Online Shopping application)
-- Develop a web application using servlet, cookies and MySQL. (Ex: Super Market Billing System)
+- Develop a web application using Session tracking mechanisms, Servlet and MySQL. (Ex: Online Shopping application)
 - Develop a Popup Menu Application using AJAX. 
-- Develop a web application using ReactJS and NodeJS. (Ex: Railway Reservation System)
-
+- Develop a front end of the  Online Exam Web application using ReactJS
+- Develop a back end of the  Online Exam Web application using ReactJS
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Design websites using HTML5 and CSS3 (K3)
+- Build website using HTML5 and CSS3 (K3)
 - Develop multi-tier web application using Servlets (K3)
-- Develop interactive web applications using AJAX (K3)
-- Develop web applications using ReactJS framework (K3)
-- Develop web applications using NodeJS framework (K3)
+- Construct responsive web applications using AJAX (K3)
+- Make use of ReactJS framework to build front end of web application (K3)
+- Make use of NodeJS framework to build back end of web application (K3)
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\
