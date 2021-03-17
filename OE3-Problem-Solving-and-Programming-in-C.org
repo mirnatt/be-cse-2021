@@ -36,7 +36,7 @@ Almost same as that of R2017 syllabus, removed compilation process
 
 {{{unit}}}
 | UNIT II | FUNCTIONS | 6 |
-Function prototype -- Function definition and call -- Passing parameters -- Built-in functions -- Recursion.
+Function prototype -- Function definition and call -- Passing parameters -- Built-in functions -- Recursion; Command line arguments.
 
 #+begin_comment
 Units reordered, learning functions
@@ -44,12 +44,11 @@ Units reordered, learning functions
 
 {{{unit}}}
 | UNIT III | ARRAYS AND STRINGS | 6 |
-Arrays: Declaration, initialization -- One-dimensional arrays -- Multi-dimensional arrays; Strings: Constants and variables, reading and writing strings, string
-operations, string library; Command line arguments.
+Arrays: Declaration, initialization -- One-dimensional arrays -- Multi-dimensional arrays; Strings: Constants and variables, reading and writing strings, string operations, string library. 
 
 {{{unit}}}
 | UNIT IV | POINTERS, STRUCTURES AND UNIONS | 6 |
-Pointers: Pointer operations -- Array of pointers -- Passing arrays to functions; Structures: Structures and functions -- Array of structures -- Pointer to a structure – unions; Dynamic memory allocation.
+Pointers: Pointer operations -- Array of pointers -- Passing arrays to functions; Structures: Structures and functions -- Array of structures -- Pointer to a structure – unions. 
 
 #+begin_comment
 Unions added
