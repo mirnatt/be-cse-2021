@@ -15,8 +15,8 @@
 | CO3            | K3 |   2 |   3 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    1 |    2 |
 | CO4            | K3 |   2 |   3 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    1 |    2 |
 | CO5            | K2 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    1 |    2 |
-| Score          |    |  10 |   13|   7 |   7 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |   12 |    5 |    7 |
-| Course Mapping |    |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    1 |    2 |
+| CO6            | K2 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   1 |   2 |    2 |    0 |    0 |    3 |    1 |    2 |
+| Score          |    |  10 |   13|   7 |   7 |   0 |   0 |   0 |   1 |   2 |    2 |    0 |    0 |   12 |    5 |    7 |
 
 
 #+begin_comment
@@ -94,6 +94,7 @@ After the completion of this course, students will be able to:
 - Develop the program using  MPI (K3)
 - Compare and contrast programming for serial processors and
   programming for parallel processors (K3).
+- Solve real world problems in teams by choosing parallel programming and  applying best practices in programming  with a clear documentation  of algorithm and approach (K3).
   
 ** TEXT BOOKS
 1.  Peter S Pacheco, ``An Introduction to Parallel Programming'',
