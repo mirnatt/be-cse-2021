@@ -1,11 +1,12 @@
 * <<<PE603>>> OBJECT ORIENTED ANALYSIS AND DESIGN
 :properties:
 :author: Dr. K. Valli Devi and Dr. S. Manisha
-:date: 9.3.2021
+:date: 17.3.2021
 :end:
 
 #+begin_comment
 1. Five Course outcomes specified and aligned with units
+2. No change from R-2018
 
 #+end_comment
 
@@ -66,11 +67,11 @@ of object orientation on testing -- Develop test cases and test plans.
 
 ** COURSE OUTCOMES
 Upon completion of this course, the students should be able to:
-- Express software design with UML diagrams (K2)
-- Design and implement projects using OO concepts (K4)
+- Summarize software design with UML diagrams (K2)
+- Inspect and implement projects using OO concepts (K4)
 - Identify and map basic software requirements in UML mapping (K3)
-- Transform UML based software design into pattern based design using design patterns (K4)
-- Test any object-oriented software against its requirements (K3).
+- Analyze UML based software design into pattern based design using design patterns (K4)
+- Test for any object-oriented software against its requirements (K4).
 
 ** TEXT BOOKS
 1. Larman, Craig, ``Applying UML and Patterns'', Pearson Education

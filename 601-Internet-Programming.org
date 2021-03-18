@@ -151,7 +151,5 @@ After the completion of this course, students will be able to:
 3. Shelly Powers, ``Learning Node 2nd Edition'', 1st
    Edition, O'Reilly Media, June 2016. (Unit 5)
 4. Sitepoint Team, ``Your First Week With Node.js'', SitePoint, February 2018. (Unit 5)
-5. Uttam K Roy, ``Web Technologies'', Oxford University
-   Press, 2010. (Unit 3)
-6. ''How to Hack a Web Server'',
+5. ''How to Hack a Web Server'',
    https://www.guru99.com/how-to-hack-web-server.html (Unit 1)

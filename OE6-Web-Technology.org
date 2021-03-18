@@ -1,6 +1,7 @@
 * <<<OE6>>> WEB TECHNOLOGY
 :properties:
 :author: Dr. V. S. Felix Enigo 
+:start: 17-03-2021
 :end:
 
 #+startup: showall
@@ -117,11 +118,11 @@ as given in previous unit (Unit IV)
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Design static web pages using HTML5 (K3)
-- Style the web pages using CSS3 (K3)
-- Develop client side scripts using JavaScript (K3)
-- Create server side scripts using Node.js (K3)
-- Develop web applications using ExpressJS (K3).
+- Construct static web pages using HTML5 (K3)
+- Experiment with CSS3 to style the web pages (K3)
+- Utilize JavaScript concepts for the web page (K3)
+- Develop back end of web application using Node.js (K3)
+- Develop front end of web application using ExpressJS (K3).
       
 ** TEXT BOOKS
 1. Faithe Wempen, ``Start Here! Learn HTML5'', Microsoft, O'Reilly, 2013. (Unit I)

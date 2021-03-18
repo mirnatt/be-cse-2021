@@ -1,7 +1,7 @@
 * <<<PE206>>> CYBER FORENSICS
 :properties:
 :author: Dr. A. Chamundeswari and Dr. S. Saraswathi
-:date:  04-03-2021 09-03-2021 10-03-2021
+:date:  04-03-2021 09-03-2021 10-03-2021 17-3-2021
 :end:
 
 #+startup: showall
@@ -51,7 +51,8 @@
 - To learn computer forensics and understand incident response
 - To know the methods to collect and store digital evidence
 - To understand the approaches to analyse and validate data
--  
+- To explore the malware and threat intelligence
+- To learn mobile forensics concepts 
 
 {{{unit}}} 
 | UNIT I | 	FUNDAMENTALS | 9 |
@@ -60,7 +61,6 @@ Understanding Incident Response : The incident response process -- The incident 
 Incorporating containment strategies -- Getting back to normal – eradication and recovery; Fundamentals of Digital Forensics -- 
 Legal aspects --  Digital forensics fundamentals  -- The digital forensics process -- Digital forensic lab;
  
-
 #+begin_comment
 ...Text Book 1 : Chapter 1,2,3 
 #+end_comment
@@ -68,67 +68,64 @@ Legal aspects --  Digital forensics fundamentals  -- The digital forensics proce
 {{{unit}}}
 
 |UNIT II | EVIDENCE ACQUISITION   | 9 |
- Collecting Network Evidence  : An overview of network evidence  --  Firewalls and proxy logs --NetFlow -- Packet captures -- Wireshark -- Evidence collection;  Acquiring Host-Based Evidence Preparation :  Order of volatility  -- Evidence acquisition --  Acquiring volatile memory ;  Forensic Imaging : Understanding forensic imaging  -- Imaging tools -- Preparing a stage drive -- Using write blockers -- Imaging techniques
-
+Collecting Network Evidence  : An overview of network evidence  --  Firewalls and proxy logs --NetFlow -- Packet captures -- Wireshark -- Evidence collection;  Acquiring Host-Based Evidence Preparation :  Order of volatility  -- Evidence acquisition --  Acquiring volatile memory ;  Forensic Imaging : Understanding forensic imaging  -- Imaging tools -- Preparing a stage drive -- Using write blockers -- Imaging techniques
 
 #+begin_comment
 ...Text Book 1 : Chapter 4,5,6
-#+end_comment   
+#+end_comment  
+
 {{{unit}}}
-
-|UNIT III | ANALYSIS AND VALIDATION | 9 |
-Validating Forensics Data -- Data Hiding Techniques -- Performing Remote Acquisition; Network Forensics; Email Investigations; Cell Phone and Mobile Devices Forensics. 
-
+|UNIT III | ANALYZING EVIDENCE | 9 |
+Analyzing Network Evidence :  Network evidence overview -- Analyzing firewall and proxy logs ;  Analyzing System Memory : Memory analysis overview -- 
+Memory analysis methodology ; Analyzing System Storage : Forensic platforms -- Autopsy -- MFT analysis -- Registry analysis; Analyzing Log Files : 
+Understanding Windows logs ; Writing the Incident Report : Documentation overview;
+ 
 #+begin_comment
-Unit-3:  AU-Unit III regulation 2017  topics included
+ ...Text Book 1 : Chapter 7,8,9,10, 11
 #+end_comment
 
 {{{unit}}}
-|UNIT IV |   | 9 |
+|UNIT IV |  MALWARE AND THREAT INTELLIGENCE | 9 |
+Malware Analysis for Incident Response : Malware classifications -- Malware analysis overview -- Analyzing malware -- Dynamic analysis -- Leveraging Threat Intelligence -- Understanding threat intelligence -- Threat intelligence methodology -- Threat intelligence sources -- Threat intelligence platforms 
+Using threat intelligence ;   
   
 #+begin_comment
-Unit-4: AU-Unit IV regulation 2017  topics included
+  ...Text Book 1 : Chapter 12, 13
 #+end_comment
-
+ 
 {{{unit}}}
-|UNIT V |   | 9 |
-  
-
+|UNIT V | MOBILE FORENSICS  | 9 |
+Introduction to Mobile Forensics : Why do we need mobile forensics? -- Mobile forensics -- The mobile phone evidence extraction process -- 
+Practical mobile forensic approaches ;  Parsing Third-Party Application Files : Third-party application overview --
+Encoding versus encryption -- Application data storage -- Forensic methods used to extract third-party application data ;
+ 
 #+begin_comment
-Unit-5:  AU-Unit V regulation 2017  topics included
+ ...Text Book 2 : Chapter 1, 13 
 #+end_comment
 
 
-\hfill *Total Periods: 45*
+*Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the basics of computer forensics 
 - Infer different computer forensic tools to collect data
 - Explain the tools used to Analyze and validate forensics data 
-- Explian Ethical Hacking
-- Explian Ethical Hacking in web
+- Detect the malware and threat intelligence  
+- Capture mobile forensics data  
 
 ** TEXT BOOKS 
-1. Gerard Johansen, Digital Forensics and Incident
-Response, Second Edition, Packt Publishing, 2020.
-
-Chris Prosise, Kevin Mandia, ``Incident Response and Computer
-   Forensics'', 2nd Edition, McGraw-Hill 2003.
-2. Nelson, Phillips, Enfinger, Steuart, ``Computer Forensics and
-   Investigations'', Cengage Learning, India Edition, 2008.
-3. ``CEH official Certfied Ethical Hacking Review Guide'', Wiley India Edition, 2015.
+1. Gerard Johansen, Digital Forensics and Incident Response, Second Edition, Packt Publishing, 2020. 
+2. Rohit Tamma, Oleg Skulkin,  Heather Mahalik , Satish Bommisetty, Practical Mobile Forensics,  Third Edition,  Packt Publishing, 2018.
 
 ** REFERENCES 
-1. Dhillon G, ``Principles of Information Systems Security'', John
-   Wiley & Sons, 2007.
-2. Whitman M E, Mattord H J, ``Principles of Information Security'',
-   3rd Edition, Thompson Course Technology, 2009.
-3. John R Vacca, ``Computer Forensics'', Cengage Learning, 2005.
-4. Marjie T Britz, ``Computer Forensics and Cyber Crime: An
+1. Nelson, Phillips, Enfinger, Steuart, ``Computer Forensics and
+   Investigations'', Cengage Learning, India Edition, 2008.
+2. John R Vacca, ``Computer Forensics'', Cengage Learning, 2005.
+3. Marjie T Britz, ``Computer Forensics and Cyber Crime: An
    Introduction'', 3rd Edition, Prentice Hall, 2013.
-5. Marcella Jr, Albert, and Doug Menendez, ``Cyber Forensics: a Field
+4. Marcella Jr, Albert, and Doug Menendez, ``Cyber Forensics: a Field
    Manual for Collecting, Examining, and Preserving Evidence of
    Computer Crimes'', Auerbach Publications, 2007.
-6. https://evestigate.com/Case_Studies/Case%20Study%20Banking%20Industry%20Finacial%20Fraud%20by%20Board%20Member%20Director%20CFO.pdf
+
    

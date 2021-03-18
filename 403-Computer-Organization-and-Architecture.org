@@ -100,13 +100,13 @@ Introduction to Graphics Processing Units.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basics structure of computers, operations and
+- Explain the basics structure of computers, operations and
   instructions (K2)
 - Design arithmetic and logic unit (K3)
-- Understand pipelined execution and design control unit (K3)
+- Explain pipelined execution and design its control unit (K3)
 - Design of various memory systems and understand I/O communication
   (K3)
-- Understand parallel processing architectures (K2).
+- Explain parallel processing architectures (K2).
 
 ** TEXT BOOKS
 1. David A Patterson, John L Hennessy, ``Computer Organization

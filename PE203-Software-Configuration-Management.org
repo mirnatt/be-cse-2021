@@ -4,6 +4,16 @@
 :date: 14-03-2021 17-3-2021
 :end:
 
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
+| CO1            | K2 |   2 |   3 |   2 |   3 |   3 |   0 |   2 |   1 |   0 |    3 |    0 |    2 |    3 |    2 |    1 |
+| CO2            | K3 |   2 |   3 |   2 |   3 |   3 |   0 |   2 |   1 |   0 |    3 |    0 |    2 |    3 |    2 |    1 |
+| CO3            | K3 |   2 |   3 |   2 |   3 |   3 |   0 |   2 |   1 |   0 |    3 |    0 |    2 |    3 |    2 |    1 |
+| CO4            | K2 |   2 |   3 |   3 |   3 |   3 |   0 |   2 |   1 |   0 |    3 |    0 |    2 |    3 |    1 |    1 |
+| CO5            | K3 |   2 |   3 |   3 |   3 |   3 |   0 |   2 |   1 |   0 |    3 |    0 |    2 |    3 |    1 |    1 |
+| Score          |    |  13 |  10 |   8 |   0 |   5 |   5 |   0 |   5 |   0 |    0 |    0 |    0 |    8 |   13 |    5 |
+| Course Mapping |    |   3 |   2 |   2 |   0 |   1 |   1 |   0 |   1 |   0 |    0 |    0 |    0 |    2 |    3 |    1 |
+
 #+begin_comment
  
 #+end_comment
@@ -15,10 +25,10 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- Explain and demonstrate the key aspects of traditional configuration management
-- Understand and demonstrate the microservices application  
-- Explore and deploy the microservice in a container 
-- Install and explore Docker container networking services
+- Explain the key aspects of traditional configuration management
+- Demonstrate the microservices application  
+- Deploy the microservice in a container 
+- Explore Docker container networking services
 - Modify the configuration techniques using kubernetes and Docker swarm 
 
 {{{unit}}}

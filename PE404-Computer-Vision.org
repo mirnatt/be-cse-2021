@@ -1,33 +1,20 @@
 * <<<PE404>>> COMPUTER VISION
 :properties:
 :author: Ms. R. Priyadharsini and Ms. P. Mirunalini
-:date:  13-03-2021
+:date:  18-03-2021
 :end:
 #+startup: showall
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K3 |   K3 |   K6 |
-| CO1            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    2 |    2 |    1 |
-| CO2            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    1 |
-| CO3            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    2 |    2 |    1 |
-| CO4            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   1 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    1 |
-| CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   1 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    1 |
-| Score          |    |  13 |  10 |   8 |   8 |   5 |   0 |   2 |   0 |   5 |    5 |    0 |    5 |   13 |   13 |    5 |
-| Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   1 |   0 |   1 |    1 |    0 |    1 |    3 |    3 |    1 |
-
-#+begin_comment
-- 1. Almost the same as EC8093  DIGITAL IMAGE PROCESSING in AU 2017
-- 2. Change in Unit V (see the comment below unit V)
-- 3. Unit - II in PCP1279(M.E. CSE Image Processing and Analysis)is
-     split into Unit- II and III
-     Image segmentation and Feature analysis methods in Unit- III of PCP1279 are moved to Unit - IV and 
-     Unit - V respectively.
-     The topic object recognition is added in Unit - V
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable.
-#+end_comment
+| CO1            | K3 |   2 |   3 |   1 |   3 |   3 |   0 |   0 |   0 |   2 |    0 |    0 |    0 |    3 |    0 |    1 |
+| CO2            | K3 |   2 |   3 |   1 |   3 |   3 |   0 |   0 |   0 |   2 |    0 |    0 |    0 |    3 |    0 |    1 |
+| CO3            | K2 |   2 |   2 |   3 |   3 |   3 |   0 |   1 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    1 |
+| CO4            | K4 |   2 |   2 |   3 |   3 |   3 |   1 |   1 |   0 |   2 |    0 |    0 |    0 |    3 |    0 |    2 |
+| CO5            | K3 |   2 |   3 |   1 |   3 |   3 |   1 |   0 |   0 |   2 |    0 |    0 |    0 |    3 |    0 |    2 |
+| Score          |    |  10 |  13 |   9 |  15 |  15 |   2 |   2 |   0 |   8 |    0 |    0 |    0 |   14 |     0|    7 |
+| Course Mapping |    |   2 |   3 |   2 |   3 |   3 |   1 |   1 |   0 |   2 |    0 |    0 |    0 |    3 |    0 |    2 |
 
 #+startup: showall
 
@@ -36,13 +23,12 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To be familiar with digital image fundamentals
-- To understand the basics of simple image enhancement techniques in
-  Spatial and Frequency domain
-- To learn the concepts of degradation function and restoration
-  techniques
-- To study image segmentation and representation techniques
-- To be familiar with object recognition methods.
+- To explore the Low level vision features
+- To learn and detect the Intermediate level features
+- To familiarize the 3D vision, Depth estimation and 3D reconstruction methods
+- To develop applications for Object recognition 
+- To implement computer vision applications using Deep learning techniques
+
 
 {{{unit}}}
 |UNIT I | Low level vision | 9 |
@@ -50,24 +36,21 @@ Thresholding Techniques: Region growing methods -- Thresholding -- Adaptive thre
 
 {{{unit}}}
 |UNIT II | Intermediate level vision  | 9 |
-Binary shape analysis: Skeletons and thinning -- Other measures for shape recognition; Boundary Pattern analyis: Boundary tracking procedures -- Centroidal profiles; Line detection: Hough transform -- Foot of normal method; Circle and Ellipse detection: Hough based scheme -- Ellipse detection methods; Case study: Human Iris Location
+Binary shape analysis: Skeletons and thinning -- Other measures for shape recognition; Boundary Pattern analyis: Boundary tracking procedures -- Centroidal profiles; Line detection: Hough transform -- Foot of normal method; Circle and Ellipse detection: Hough based scheme -- Ellipse detection methods; Case study: Human Iris Location;
 
 {{{unit}}}
 |UNIT III | 3D vision - DEPTH ESTIMATION AND 3D RECONSTRUCTION: | 9 |
-Feature-based alignment: 2D and 3D feature-based alignment, pose estimation, Geometric intrinsic calibration. Structure from Motion: Triangulation, Two-frame structure from Motion, Factorization, Bundle adjustment. 
-Stereo Correspondance: Epipolar geometry, 3D Reconstruction: Shape from X, Active rangefinding, Surface representations,
-Point-based representations
+Feature-based alignment: 2D and 3D feature-based alignment -- pose estimation -- Geometric intrinsic calibration; Structure from Motion: Triangulation -- Two-frame structure from Motion -- Factorization -- Bundle adjustment; 
+Stereo Correspondance: Epipolar geometry -- Sparse and Dense correspondence -- Multiview stereo; 3D Reconstruction: Shape from X -- Active rangefinding -- Surface representations -- Point-based representations;
 
 {{{unit}}}
 |UNIT IV | OBJECT RECOGNITION | 9 |
-Face recognition, instance recognition, category recognition, Context and scene understanding
+Object detection: Face detection -- Pedestrian detection; Face recognition: Eigen faces -- Active apperance and 3D shape models; Instance recognition: Geometric alignment; Category recognition: Bag of words -- Part based models; Context and scene understanding: Learning and large image collection; Applications for object recognition;
 
 {{{unit}}}
 |UNIT V | DEEP LEARNING TECHNIQUES FOR COMPUTER VISION | 9 |
 Introduction to CNNs; Visualization of Kernels; Backprop-to-image/Deconvolution Methods;
-CNNs for Detection: Background of Object Detection, R-CNN, Fast R-CNN, Faster R-CNN.CNNs for Segmentation: FCN, SegNet, 
-U-Net, Mask-RCNN, Recurrent Neural Networks (RNNs): CNN + RNN Models for Video Understanding: Spatio-temporal Models,
-Action/Activity Recognition
+CNNs for Detection: Background of Object Detection -- R-CNN -- Fast R-CNN -- Faster R-CNN; CNNs for Segmentation: FCN -- SegNet -- U-Net -- Mask-RCNN; Recurrent Neural Networks (RNNs): CNN and RNN Models for Video Understanding: Spatio-temporal Models -- Action/Activity Recognition
 
 #+begin_comment
 Removed: Image compression
@@ -78,27 +61,19 @@ Added: Case Study for Image recognition
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basics and fundamentals of digital image processing,
-  such as digitization, sampling, quantization (K2)
-- Operate on images using the techniques of smoothing, sharpening and
-  enhancement in both spatial and frequency domain (K3)
-- Understand the restoration concepts and filtering techniques (K2)
-- Analyse the segmentation methods and apply in real time applications
-  (K3)
-- Understand and analyse the feature extraction and object recognition
-  methods (K4).
+- Apply various low level feature detection methods (K3)
+- Choose various feature analysis methods and transforms for intermediate level vision (K3)
+- Explain depth estimation and 3D reconstruction (K2)
+- Analyse the object recognition methods (K4)
+- Build Deep learning models for computer vision (K3)
    
 ** TEXT BOOKS
 1. Davies, E. Roy. Computer and machine vision: theory, algorithms, practicalities. Academic Press, 2012.( Units I and II)
 2. Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010. (Unit III and IV)
+3. Shanmugamani, Rajalingappaa. Deep Learning for Computer Vision: Expert techniques to train advanced neural networks using TensorFlow and Keras. Packt Publishing Ltd, 2018. (Unit V)
    
 ** REFERENCES
-1. Kenneth R Castleman, ``Digital Image Processing'', Pearson, 2006.
-2. Rafael C Gonzalez, Richard E Woods, Steven Eddins, ``Digital
-   Image Processing Using MATLAB'', Pearson Education, Inc., 2011.
-3. S Sridhar, ``Digital Image Processing'', 2nd Edition, Oxford University, 2016.
-4. William K Pratt, ``Digital Image Processing'', John Wiley, New
-   York, 2002.
-5. Milan Sonka, Roger Boyle, Vaclav Hlavac, ``Image Processing,
-   Analysis and Machine Vision'', Brookes/Cole, Vikas Publishing
-   House, 2nd edition, 1999.
+1. D. L. Baggio et al., Mastering OpenCV with Practical Computer Vision Projects, Packt Publishing, 2012.
+2. Jan Erik Solem, Programming Computer Vision with Python: Tools and algorithms for analyzing images, O'Reilly Media, 2012.
+3. Mark Nixon and Alberto S. Aquado, ―Feature Extraction & Image Processing for Computer Vision, Third Edition, Academic Press, 2012.
+4. Simon J. D. Prince, Computer Vision: Models, Learning, and Inference, Cambridge University Press, 2012.
