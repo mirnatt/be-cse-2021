@@ -8,7 +8,7 @@
 
 {{{credits}}}
 | L | T | P | C |
-| 3 | 2 | 0 | 4 |
+| 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To identify the standard distributions and apply them in solving problems
@@ -20,12 +20,12 @@
 - To calculate the various statistical quality control measurements.
 
 {{{unit}}}
-| UNIT I | PROBABILITY | 12 |
+| UNIT I | PROBABILITY | 9 |
 Probability -- Random variables -- Expectation -- Convergence
 of random variables. 
 
 {{{unit}}}
-| UNIT II | INFERENCE | 12 |
+| UNIT II | INFERENCE | 9 |
 Models, Statistical Inference and Learning -- Estimating the
 cdf and Statistical Functionals -- Bootstrap -- Parametric
 inference. 
