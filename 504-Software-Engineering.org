@@ -58,7 +58,7 @@ Text book 1 , chapter 4,6
 
 {{{unit}}}
 | UNIT IV | REQUIREMENT AND TESTING | 9 |
-Requirements: BDD and User Stories : Behavior-Driven Design and User -- SMART User Stories -- Lo-Fi User Interface Sketches and Storyboards --  Points and Velocity -- Agile Cost Estimation -- Cucumber: From User Stories to Acceptance Tests -- CHIPS: Intro to BDD and Cucumber -- Explicit vs. Implicit and Imperative vs. Declarative Scenarios -- The Plan-And-Document Perspective on Documentation; Test-Driven Development : FIRST, TDD, and Red–Green–Refactor --Anatomy of a Test Case: Arrange, Act, Assert --Isolating Code: Doubles and Seams -- Stubbing the Internet --CHIPS  Intro to RSpec on Rails -- Fixtures and Factories -- Coverage Concepts and Types of Tests -- Other Testing Approaches and -- CHIPS: The Acceptance Test/Unit Test Cycle --The Plan-And-Document Perspective on Testing;
+Requirements: BDD and User Stories : Behavior-Driven Design and User -- SMART User Stories -- Lo-Fi User Interface Sketches and Storyboards --  Points and Velocity -- Agile Cost Estimation -- Cucumber: From User Stories to Acceptance Tests -- CHIPS: Intro to BDD and Cucumber -- Explicit vs. Implicit and Imperative vs. Declarative Scenarios -- The Plan-And-Document Perspective on Documentation; Test-Driven Development : FIRST, TDD, and Red–Green–Refactor --Anatomy of a Test Case  Arrange, Act, Assert --Isolating Code: Doubles and Seams -- Stubbing the Internet -- CHIPS  Intro to RSpec on Rails -- Fixtures and Factories -- Coverage Concepts and Types of Tests -- Other Testing Approaches and -- CHIPS  The Acceptance Test/Unit Test Cycle --The Plan-And-Document Perspective on Testing;
 
 #+begin_comment
 Text book 1 , chapter 7,8 
@@ -67,7 +67,7 @@ Text book 1 , chapter 7,8
 
 {{{unit}}}
 | UNIT V | AGILE AND DEVOPS | 9 |
-Agile Teams : It Takes a Team: Two-Pizza and Scrum --  Using Branches Effectively -- Pull Requests and Code Reviews -- Delivering the Backlog Using Continuous Integration -- CHIPS: Agile Iterations -- Reporting and Fixing Bugs: The Five R’s -- The Plan-And-Document Perspective on Managing Teams ; Dev/Ops -- From Development to Deployment --Three-Tier --Responsiveness, Service Level Objectives, and Apdex -- Releases and Feature Flags -- Monitoring and Finding Bottlenecks --Improving Rendering and Database Performance With Caching -- Avoiding Abusive Database Queries -- CHIPS: Exploiting Caching and Indices -- Security: Defending Customer Data in Your App -- The Plan-And-Document Perspective on Operations;
+Agile Teams : It Takes a Team: Two-Pizza and Scrum --  Using Branches Effectively -- Pull Requests and Code Reviews -- Delivering the Backlog Using Continuous Integration -- CHIPS: Agile Iterations -- Reporting and Fixing Bugs: The Five R’s -- The Plan-And-Document Perspective on Managing Teams ; Dev/Ops -- From Development to Deployment --Three-Tier --Responsiveness, Service Level Objectives, and Apdex -- Releases and Feature Flags -- Monitoring and Finding Bottlenecks --Improving Rendering and Database Performance With Caching -- Avoiding Abusive Database Queries -- CHIPS  Exploiting Caching and Indices -- Security: Defending Customer Data in Your App -- The Plan-And-Document Perspective on Operations;
 
 #+begin_comment
 Text book 1 , chapter 10,12
