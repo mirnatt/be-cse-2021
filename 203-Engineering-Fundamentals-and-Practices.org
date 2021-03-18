@@ -1,0 +1,202 @@
+* <<<203>>> COMPUTER ENGINEERING FUNDAMENTALS AND PRACTICES
+:properties:
+:author: Dr R Kanchana, Dr R S Milton, Dr T T Mirnalinee
+:date: 16 March 2021
+:end:
+
+** CO-PO Mapping                                                   :noexport:
+|     | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+| CO1 |     |   3 |     |   2 |     |     |     |     |     |      |      |      |    2 |    2 |      |
+| CO2 |   2 |     |     |   1 |     |     |     |     |     |      |      |      |    2 |    1 |      |
+| CO3 |     |     |   3 |   3 |   3 |     |     |     |     |      |      |      |    3 |    3 |    3 |
+| CO4 |     |     |     |     |     |     |     |   1 |     |    3 |    1 |    1 |      |      |      |
+| CO5 |     |     |     |     |     |     |     |     |   3 |    3 |    2 |    1 |      |    1 |      |
+| CO6 |     |     |     |     |     |   2 |   2 |   1 |     |      |      |      |      |      |      |
+
+{{{credits}}}
+| L | T | P |   C |
+| 2 | 1 | 3 | 4.5 |
+		
+** COURSE OBJECTIVES
+- To link the system building to computing fundamentals.
+- To progress from fundamental principles to larger Engineering systems
+- To motivate independent learning and exploration.
+
+** LECTURES
+{{{unit}}}
+| UNIT I | PROGRAM DEVELOPMENT  | 8 |
+Program Development: Algorithmic problem solving -- Problem
+formulation -- Data structures -- Abstraction -- Encapsulation;
+Programming in C: Programming Constructs -- Arrays -- Strings --
+Functions and Recursion.
+
+{{{unit}}}
+| UNIT II | DATABASES  | 6 |
+Databases: Relational Databases -- SQL -- SQLite.
+
+{{{unit}}}
+| UNIT III | WEB APPLICATION DEVELOPMENT | 7 |
+Web Application Development: HTML and CSS -- JavaScript;
+Security; Developing Single Page Application; Mobile
+Applications.
+
+{{{unit}}}
+| UNIT IV | DATA SCIENCE | 4 |
+Data Science: Regression -- Classification -- Visualization
+-- Scikit-Learn.
+
+{{{unit}}}
+| UNIT V  | SOFTWARE ENGINEERING  | 5 |
+Software Engineering: Planning -- Project management --
+Feasibility study -- Cost-Benefit analysis -- Modular and
+architecture Design -- Documentation; Ethics and best
+practices in Engineering.
+
+** CLASS ACTIVITY (15 hours)
+1. Algorithm writing (1)
+2. Algorithm verification and test case design (1)
+3. Table creation and SQL queries for an application (2)
+4. SPA creation for an application (3)
+5. Mobile application development for an application (2)
+6. Regression and Classification (2)
+7. Data visualization (2)
+8. Reporting timelines, cost-benefit analysis, feasibility analysis (1)
+9. Reflection and introspection on learning outcome (1)
+
+** STUDIO SESSIONS (15 sessions of 3 hours each)
+- /Sample Case Study/: Timetable Management System for an Academic
+  Institution
+- /Input/: Set of courses in a semester, Type of courses, Classrooms,
+  Labs, Faculty offerings, Student degree, Year and Section
+- /Output/: Timetable for a week satisfying the following constraints
+- /Constraints/:
+  - All theory courses for a class are scheduled in the same room.
+  - More than one lab course cannot be scheduled in the lab at the same time.
+  - A faculty does not handle more than 2 sessions per day for the same course.
+  - A faculty cannot handle more than one class in each session.
+
+\hfill *Total Hours:30 + 15 + 45 = 90*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to:
+1. Formulate a problem, specifying the requirements and
+   identifying the scope and boundaries.
+2. Apply engineering fundamentals in Computer Science to
+   industrial applications or products.
+3. Design and develop solutions with novel technologies,
+   tools, and techniques.
+4. Communicate effectively through reflections, reports, and
+   presentations.
+5. Work in teams to develop modules and integrate them.
+6. Analyze the impact on health, safety, society, environment
+   as well as underlying legal and ethical considerations
+   wherever are applicable.
+
+** INSTRUCTIONS
+1. Instructor provides the links in Internet, industry links
+   and professional magazine articles available in SSN
+   library and asks the students to study systems or
+   industrial applications based on the fundamentals learnt.
+   Students must submit a short report on various problems
+   and applications, tools and knowledge required to design
+   such a system.
+2. Instructor introduces the general aspects of timetable
+   management / scheduling problem and constraints
+   involved. Further, provide pointers to applications of
+   this problem in various sample domains listed below:
+   - Train / bus/ aircraft time scheduling
+   - Movie scheduling in a multiplex mall
+   - Sports -- scheduling of matches
+   - Class time table in an university
+   - Exam schedule in an university
+3. Students are grouped into teams and each team is asked to
+   formulate timetable management in different domains and
+   identify the scope and constraints of their problem.
+4. Students are asked to evolve an architecture design along
+   with the design of individual modules. They need to plan a
+   timeline too.
+5. Students are asked to explore safety, health, ethical,
+   environmental, societal impact (whichever applicable) of
+   the applications and investigate legal and ethical
+   aspects. A detailed report of the problem formulation,
+   scope and constraints, design must be submitted.
+6. Students are asked to find out the technologies used to
+   implement their work and analyze the feasibility. With the
+   selected tools and technologies, they are asked to
+   implement their solution.
+7. Students are asked to demonstrate their solutions in two
+   stages (after 50% completion and after 100% completion of
+   the implementation)
+8. Students are asked to present their problem, methodology,
+   and solution.
+9. Students are asked to document their learning experience
+   as a reflection of the skills acquired.
+10. Students are asked to explore limitations of their
+    solution in terms of security, reliability, code
+    reusability and adaptability.
+
+** EVALUATION
+EFP will be assessed by a committee of faculty members based
+on Studio Sessions, Reflections, Presentation and
+Documentation. *EFP will be evaluated based on continuous
+assessment only.*
+
+#+latex: \newcolumntype{Y}{>{\small\raggedright\arraybackslash}X}
+#+latex: \newcolumntype{A}{>{\small\raggedright\arraybackslash\hsize=.7\hsize}X}
+#+latex: \newcolumntype{B}{>{\small\raggedright\arraybackslash\hsize=1.2\hsize}X}
+#+latex: \newcolumntype{C}{>{\small\raggedright\arraybackslash\hsize=1\hsize}X}
+#+attr_latex: :environment tabularx :width \textwidth :align BBAAAA
+| <10>       | <40>                                     | <10>       |       <10> |       <10> |       <10> |
+|------------+------------------------------------------+------------+------------+------------+------------|
+|            | Reflection by Instructor                 | Reflection by peers | Presenta-tion by peers | Documenta-tion |     Studio |
+|------------+------------------------------------------+------------+------------+------------+------------|
+| Review 1: Scope and modules | 20                                       | 10         |         10 |         10 |         50 |
+|------------+------------------------------------------+------------+------------+------------+------------|
+| Review 2: Design | 20                                       | 10         |         10 |         10 |         50 |
+|------------+------------------------------------------+------------+------------+------------+------------|
+| Mid sem evaluation by a committee | Planning and modules: 20, Technical clarity: 20, Ethics/Best practices: 10 | Viva: 10   |         20 |         20 |            |
+|------------+------------------------------------------+------------+------------+------------+------------|
+| Review 3: Implementation | 20                                       | 10         |         10 |         10 |         50 |
+|------------+------------------------------------------+------------+------------+------------+------------|
+| End sem evaluation by a committee | Demo: 40 (Innovation, emerging technologies, security, user interface), Ethics/Best practices: 10 | Viva: 10   |         20 |         20 |            |
+|------------+------------------------------------------+------------+------------+------------+------------|
+#+TBLFM: 
+
+** Rubrics for evaluation need to be evolved.
+| Assessment Tool | Weightage |     |
+|-----------------+-----------+-----|
+| Class Activity  |       25% |     |
+| Project         |       75% |     |
+| Review 1        |           | 10% |
+| Review 2        |           | 20% |
+| Review 3        |           | 20% |
+| Mid Sem Review  |           | 20% |
+| End Sem Review  |           | 30% |
+|-----------------+-----------+-----|
+| Total           |      100% |     |
+
+** Text Books
+
+** References
+
+#+BEGIN_COMMENT
+Technical Outcome.
+Could you learn?
+Rate yourself in the scale of 1 to 3
+1 -- Not confident, more practice required.
+2 - Could modify available code but not able to write
+own logic.
+3 - Proficient
+1 Task 1
+2 Task 2
+Best Practices / Application of fundaments learnt in theory courses
+Suggested by the Instructor
+Could you follow?
+Rate yourself in the scale of 1 to 3
+1 -- Needs to improve.
+2 - Inconsistent in applying
+3 - Proficient with the practice
+B1 Design before coding
+B2 Modular design and coding
+using versions
+#+END_COMMENT

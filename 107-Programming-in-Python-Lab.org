@@ -8,7 +8,7 @@
 | L | T | P | C |
 | 0 | 0 | 4 | 2 |
 		
-** Course Objectives
+** COURSE OBJECTIVES
    - To write, test, and debug simple Python programs.
    - To apply conditions and loops to solve problems using python.
    - To implement programs using functions
@@ -16,7 +16,7 @@
    - To  perform read and write operations into the files.
    
 
-** Suggestive Exercises
+** SUGGESTIVE EXERCISES
    1. Use Linux shell commands, use Python in interactive mode, and an
       editor
    2. Write simple programs (area of a geometric shape, simple
@@ -45,7 +45,7 @@
 
 \hfill *Total Hours: 60*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to:
 - To write, test, and debug simple Python programs (K3).
 - To build Python programs with conditionals and loops  (K3).

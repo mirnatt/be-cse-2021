@@ -20,7 +20,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 		
-** Course Objectives
+** COURSE OBJECTIVES
    - To learn algorithmic problem solving techniques.
    - To learn the fundamentals of python programming.
    - To compose programs in Python using conditions, iterationa and decompose a problem into functions
@@ -66,7 +66,7 @@ arguments.
 
 *Total Hours:45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to:
 - Solve programming problems and express solutions in pseudo code (K2).
 - Develop simple programs using basic constructs (K3).
@@ -74,7 +74,7 @@ After the completion of this course, students will be able to:
 - Make use of strings, lists, tuples and  dictionaries data structures (K3).
 - With files perform Input/Output Operations  (K3).
 
-** Text Books
+** TEXT BOOKS
 1. Karl Beecher, ``Computational Thinking -- A beginner's Guide to
    Problem Solving and Programming'', British Computer Society
    (BCS), 2017.
@@ -83,7 +83,7 @@ After the completion of this course, students will be able to:
    Publishers, 2016 (http://greenteapress.com/wp/think-python/)
    
 
-** References
+** REFERENCES
 1. Ashok Namdev Kamthane, Amit Ashok Kamthane, "Programming and Problem Solving 
    with Python",McGraw Hill Education (India) Private Limited,2018.
 2. John V Guttag, ``Introduction to Computation and Programming Using
