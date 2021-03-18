@@ -67,7 +67,6 @@ Upon completion of the course, the student should be able to:
 2. Daphne Koller, Nir Friedman, ``Probabilistic Graphical Models - Principles and Technique'', MIT Press, 2007. (Unit II)
 
 ** REFERENCES
-1. Luis Enrique Sucar, ``Probabilistic Graphical Models - Principles and Applications'', Advances in Computer Vision and Pattern
-Recognition, Springer, 2015.
+1. Luis Enrique Sucar, ``Probabilistic Graphical Models - Principles and Applications'', Advances in Computer Vision and Pattern Recognition, Springer, 2015.
 2. Kiran R Karkera, ``Building Probabilistic Graphical Models with Python'', Packt Publishing, 2014.
 
