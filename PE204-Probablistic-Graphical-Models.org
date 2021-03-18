@@ -71,15 +71,7 @@ Upon completion of the course, the student should be able to:
 Principles and Technique'', MIT Press, 2007.
 
 ** REFERENCES
-1. Roger S Pressman, ``Software Engineering -- A Practitioner's
-   Approach'', 7th Edition, Mc Graw-Hill International
-   Edition, 2010.
-2. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition,
-   PHI Learning Pvt. Ltd., 2009.
-3. Tridibesh Satpathy, ``A Guide to the Scrum Body of Knowledge (SBOK
-   Guide)'', 2016 edition, SCRUMstudy, Phoenix, Arizona 85008 USA.
-4. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
-   Architect's Perspective'', Pearson Education, 2016.
-5. Ronald L Krutz, Russell Dean Vines, ``Cloud Security -- A
-   comprehensive Guide to Secure Cloud Computing'', Wiley-India, 2010.
+1.Luis Enrique Sucar, ``Probabilistic Graphical Models - Principles and Applications'', Advances in Computer Vision and Pattern
+Recognition, Springer, 2015.
+2. Kiran R Karkera, ``Building Probabilistic Graphical Models with Python'', Packt Publishing, 2014.
 
