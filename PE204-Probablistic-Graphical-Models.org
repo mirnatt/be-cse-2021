@@ -50,23 +50,20 @@ Efficient Inference in Trees: Marginal Inference --  Forms of Inference -- Infer
 Statistics for Machine Learning:  Representing Data --  Distributions -- Multivariate Gaussian -- Conjugate priors --  Properties of Maximum Likelihood --  Learning a Gaussian; Learning as Inference: Bayesian methods --  Maximum Likelihood Training of Belief Networks -- Bayesian Belief Network Training --  Structure learning --  Maximum Likelihood for Undirected models;  Naive Bayes: Conditional Independence -- Estimation using Maximum Likelihood --  Bayesian Naive Bayes --  Tree Augmented Naive Bayes.
 
 {{{unit}}}
-|UNIT V | MONITORING AND ORGANIZING TEAMS | 9 |
+|UNIT V | LEARNING IN HIDDEN ENVIRONMENT | 9 |
 Learning with Hidden Variables: Hidden Variables and Missing Data --  Expectation Maximisation --  Extensions of EM -- Variational Bayes;  Bayesian Model Selection: Comparing Models the Bayesian Way --  Occam’s Razor and Bayesian Complexity Penalisation --  Approximating the Model Likelihood --  Bayesian Hypothesis Testing for Outcome Analysis.
 
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to:
-- Select a process model for software development (K2)
-- Estimate cost to manage the software development (K3)
-- Develop a project using agile and devops software development
-  practices (K3)
-- Identify the activities of security and risk in various types of
-  software projects (K1)
-- Recognize management skills and techniques to develop commercial
-  software projects (K2).
+- Explain the need for probabilistic graphical models (K2)
+- Apply and analyze the various representations like directed and undirected models (K3)
+- Select the inference algorithms to analyze the models  (K3)
+- Apply the learning techniques to learn the structure and parameter in models (K3)
+- Identify the learning techniques for hidden data (K2).
       
 ** TEXT BOOKS
-1. David Barber, ``Bayesian Reasoning and Machine Learning'', Cambridge University Press, 1 edition (2012); eBook (2020). (Unit I,III,IV,V)
+1. David Barber, ``Bayesian Reasoning and Machine Learning'', Cambridge University Press, 2020. (Unit I,III,IV,V)
 2. Daphne Koller, Nir Friedman, ``Probabilistic Graphical Models - Principles and Technique'', MIT Press, 2007. (Unit II)
 
 ** REFERENCES
