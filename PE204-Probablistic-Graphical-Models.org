@@ -66,8 +66,8 @@ Upon completion of the course, the student should be able to:
   software projects (K2).
       
 ** TEXT BOOKS
-1. David Barber, ``Bayesian Reasoning and Machine Learning'', Cambridge University Press, 1 edition (2012); eBook (2020).
-2. Daphne Koller, Nir Friedman, ``Probabilistic Graphical Models - Principles and Technique'', MIT Press, 2007.
+1. David Barber, ``Bayesian Reasoning and Machine Learning'', Cambridge University Press, 1 edition (2012); eBook (2020). (Unit I,III,IV,V)
+2. Daphne Koller, Nir Friedman, ``Probabilistic Graphical Models - Principles and Technique'', MIT Press, 2007. (Unit II)
 
 ** REFERENCES
 1. Luis Enrique Sucar, ``Probabilistic Graphical Models - Principles and Applications'', Advances in Computer Vision and Pattern
