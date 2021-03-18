@@ -38,16 +38,16 @@ Included monitoring topics in Unit V instead of AU-Unit IV
 Probabilistic Reasoning: Conditional Probability -- Probability Tables --  Prior, Likelihood and Posterior; Graph Concept; Belief Networks: Benefits of structure -- Uncertain and Unreliable Evidence -- Belief concepts --  Causality.
 
 {{{unit}}}
-|UNIT II |REPRESENTATION IN GRAPHICAL MODELS | 9 |
+|UNIT II | REPRESENTATION IN GRAPHICAL MODELS | 9 |
 Bayesian Network Representation: Independence properties -- Independence in graphs -- From distributions to graphs; Undirected Graphical Models: Parameterization -- Markov Network Independencies --  Bayesian networks and Markov networks -- Partially directed models.
 
 {{{unit}}}
 |UNIT III | INFERENCE IN GRAPHICAL MODELS | 9 |
- Efficient Inference in Trees: Marginal Inference --  Forms of Inference -- Inference in Multiply Connected Graphs; Junction Tree Algorithm: Clustering variables -- Clique graphs -- Junction trees -- Constructing junction trees for singly-Connected Distributions -- Junction Trees for Multiply-Connected Distributions -- Junction Tree Algorithm;  Making Decisions: Expected Utility -- Extending Bayesian Networks for Decisions -- Solving Influence Diagrams --  Markov Decision Processes --  Variational Inference and Planning.
+Efficient Inference in Trees: Marginal Inference --  Forms of Inference -- Inference in Multiply Connected Graphs; Junction Tree Algorithm: Clustering variables -- Clique graphs -- Junction trees -- Constructing junction trees for singly-Connected Distributions -- Junction Trees for Multiply-Connected Distributions -- Junction Tree Algorithm;  Making Decisions: Expected Utility -- Extending Bayesian Networks for Decisions -- Solving Influence Diagrams --  Markov Decision Processes --  Variational Inference and Planning.
 
 {{{unit}}}
 |UNIT IV | LEARNING IN PROBABILISTIC MODDELS | 9 |
- Statistics for Machine Learning:  Representing Data --  Distributions -- Multivariate Gaussian -- Conjugate priors --  Properties of Maximum Likelihood --  Learning a Gaussian; Learning as Inference: Bayesian methods --  Maximum Likelihood Training of Belief Networks -- Bayesian Belief Network Training --  Structure learning --  Maximum Likelihood for Undirected models;  Naive Bayes: Conditional Independence -- Estimation using Maximum Likelihood --  Bayesian Naive Bayes --  Tree Augmented Naive Bayes.
+Statistics for Machine Learning:  Representing Data --  Distributions -- Multivariate Gaussian -- Conjugate priors --  Properties of Maximum Likelihood --  Learning a Gaussian; Learning as Inference: Bayesian methods --  Maximum Likelihood Training of Belief Networks -- Bayesian Belief Network Training --  Structure learning --  Maximum Likelihood for Undirected models;  Naive Bayes: Conditional Independence -- Estimation using Maximum Likelihood --  Bayesian Naive Bayes --  Tree Augmented Naive Bayes.
 
 {{{unit}}}
 |UNIT V | MONITORING AND ORGANIZING TEAMS | 9 |
@@ -67,11 +67,10 @@ Upon completion of the course, the student should be able to:
       
 ** TEXT BOOKS
 1. David Barber, ``Bayesian Reasoning and Machine Learning'', Cambridge University Press, 1 edition (2012); eBook (2020).
-2. Daphne Koller, Nir Friedman, ``Probabilistic Graphical Models -
-Principles and Technique'', MIT Press, 2007.
+2. Daphne Koller, Nir Friedman, ``Probabilistic Graphical Models - Principles and Technique'', MIT Press, 2007.
 
 ** REFERENCES
-1.Luis Enrique Sucar, ``Probabilistic Graphical Models - Principles and Applications'', Advances in Computer Vision and Pattern
+1. Luis Enrique Sucar, ``Probabilistic Graphical Models - Principles and Applications'', Advances in Computer Vision and Pattern
 Recognition, Springer, 2015.
 2. Kiran R Karkera, ``Building Probabilistic Graphical Models with Python'', Packt Publishing, 2014.
 
