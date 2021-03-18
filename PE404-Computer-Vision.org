@@ -86,12 +86,7 @@ After the completion of this course, students will be able to:
 3. Shanmugamani, Rajalingappaa. Deep Learning for Computer Vision: Expert techniques to train advanced neural networks using TensorFlow and Keras. Packt Publishing Ltd, 2018. (Unit V)
    
 ** REFERENCES
-1. Kenneth R Castleman, ``Digital Image Processing'', Pearson, 2006.
-2. Rafael C Gonzalez, Richard E Woods, Steven Eddins, ``Digital
-   Image Processing Using MATLAB'', Pearson Education, Inc., 2011.
-3. S Sridhar, ``Digital Image Processing'', 2nd Edition, Oxford University, 2016.
-4. William K Pratt, ``Digital Image Processing'', John Wiley, New
-   York, 2002.
-5. Milan Sonka, Roger Boyle, Vaclav Hlavac, ``Image Processing,
-   Analysis and Machine Vision'', Brookes/Cole, Vikas Publishing
-   House, 2nd edition, 1999.
+1. D. L. Baggio et al., Mastering OpenCV with Practical Computer Vision Projects, Packt Publishing, 2012.
+2. Jan Erik Solem, Programming Computer Vision with Python: Tools and algorithms for analyzing images, O'Reilly Media, 2012.
+3. Mark Nixon and Alberto S. Aquado, ―Feature Extraction & Image Processing for Computer Vision, Third Edition, Academic Press, 2012.
+4. Simon J. D. Prince, Computer Vision: Models, Learning, and Inference, Cambridge University Press, 2012.
