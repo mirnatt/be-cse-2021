@@ -1,7 +1,7 @@
 * PROBLEM SOLVING AND PROGRAMMING IN PYTHON
 :properties:
 :author: P.Mirunalini and H.Shahul Hamead
-:date: 16 March 2021
+:date: 18 March 2021
 :end:
 
 {{{credits}}}
@@ -9,7 +9,7 @@
 | 3 | 0 | 0 | 3 |
 		
 ** Course Objectives
-   - To learn algorithmic problem solving texhniques.
+   - To learn algorithmic problem solving techniques.
    - To learn the fundamentals of python programming.
    - To compose programs in Python using conditions, iterationa and decompose a problem into functions
    - To construct programs in Python sequcenced data type.
@@ -55,8 +55,8 @@ After the completion of this course, students will be able to:
 - Solve programming problems and express solutions in pseudo code (K2).
 - Develop simple programs using basic constructs (K3).
 - Construct programs using conditions and iterations decompose a problem into   functions. (K3)
-- Structure data using strings, lists and tuples and  dictionaries (K3).
-- Do input/output using files (K3).
+- Make use of strings, lists, tuples and  dictionaries data structures (K3).
+- With files perform Input/Output Operations  (K3).
 
 ** Text Books
 1. Karl Beecher, ``Computational Thinking -- A beginner's Guide to
