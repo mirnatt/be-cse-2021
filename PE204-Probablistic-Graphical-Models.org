@@ -1,4 +1,4 @@
-* <<<PE204>>> PROBABLISTIC GRAPHICAL MODELS
+* <<<PE204>>> PROBABILISTIC GRAPHICAL MODELS
 :properties:
 :author: Dr.R.S.Milton, Ms.S.Rajalakshmi
 :date: 9.3.21
@@ -29,66 +29,30 @@ Included monitoring topics in Unit V instead of AU-Unit IV
 - To study the various issues in people management
 - To distinguish between security and risk activities related with
   software development.
-
-{{{unit}}}
-|UNIT I | PROJECT PLANNING| 9 |
-Project Management: Project management life cycle -- Project
-evaluation and programme management -- Project planning; Process
-Models: Waterfall -- Spiral -- Prototyping -- Incremental delivery --
-DSDM -- Agile -- Scrum --XP; Software Development: Lean software
-development -- Process model selection.
-
 #+begin_comment
 ...Included project model in Unit I instead of having it in AU-Unit II...
 #+end_comment
 
 {{{unit}}}
-|UNIT II | ESTIMATION AND SCHEDULING | 9 |
-Effort Estimation Techniques: Expert judgement -- FPA -- FP mark II --
-COSMIC -- COCOMO II -- Cost estimation; Scheduling: Project schedules
--- Network model -- Identifying critical activities.
-
-#+begin _comment
-...Included scheduling in Unit II instead of having it in AU-Unit III...
-#+end_comment
+|UNIT I | INTRODUCTION| 9 |
+Probabilistic Reasoning: Conditional Probability -- Probability Tables --  Prior, Likelihood and Posterior; Graph Concept; Belief Networks: Benefits of structure -- Uncertain and Unreliable Evidence -- Belief concepts --  Causality.
 
 {{{unit}}}
-|UNIT III | AGILE AND DEVOPS | 9 |
-Scrum: Organization -- Estimation -- Planning -- Changes in scrum --
-Risk in scrum -- Product backlog -- Sprint backlog -- Release --
-Identifying stories and preparing to build;
-
-DevOps: Motivation -- Cloud as a platform -- Operations -- Deployment
-pipeline.
-
-#+begin _comment
-...New process model is added in syllabus which is not provided in AU...
-#+end_comment
+|UNIT II |REPRESENTATION IN GRAPHICAL MODELS | 9 |
+Bayesian Network Representation: Independence properties -- Independence in graphs -- From distributions to graphs; Undirected Graphical Models: Parameterization -- Markov Network Independencies --  Bayesian networks and Markov networks -- Partially directed models.
 
 {{{unit}}}
-|UNIT IV | SECURITY AND RISK MANAGEMENT | 9 |
-Cloud Security: Cloud information security objectives -- Cloud
-security services -- Secure development practices;
+|UNIT III | INFERENCE IN GRAPHICAL MODELS | 9 |
+ Efficient Inference in Trees: Marginal Inference --  Forms of Inference -- Inference in Multiply Connected Graphs; Junction Tree Algorithm: Clustering variables -- Clique graphs -- Junction trees -- Constructing junction trees for singly-Connected Distributions -- Junction Trees for Multiply-Connected Distributions -- Junction Tree Algorithm;  Making Decisions: Expected Utility -- Extending Bayesian Networks for Decisions -- Solving Influence Diagrams --  Markov Decision Processes --  Variational Inference and Planning.
 
-Risk Management: Risk culture -- Risk managementprocess -- Risk
-attributes -- Risk identification -- Types of risk analysis --
-Responding to risk -- Risk tracking -- Risk models.
-
-#+begin _comment
-...Added security topic in syllabus, which is not provided in AU...
-...Added risk in Unit IV instead of AU-Unit III...
-#+end_comment
+{{{unit}}}
+|UNIT IV | LEARNING IN PROBABILISTIC MODDELS | 9 |
+ Statistics for Machine Learning:  Representing Data --  Distributions -- Multivariate Gaussian -- Conjugate priors --  Properties of Maximum Likelihood --  Learning a Gaussian; Learning as Inference: Bayesian methods --  Maximum Likelihood Training of Belief Networks -- Bayesian Belief Network Training --  Structure learning --  Maximum Likelihood for Undirected models;  Naive Bayes: Conditional Independence -- Estimation using Maximum Likelihood --  Bayesian Naive Bayes --  Tree Augmented Naive Bayes.
 
 {{{unit}}}
 |UNIT V | MONITORING AND ORGANIZING TEAMS | 9 |
-Visualizing Progress: Relationship between people and effort -- Task
-set and network -- Earned value analysis -- SCM -- Managing contracts
--- Working in teams -- Developing metrics on a software development
-program -- Evaluating performance.
+Learning with Hidden Variables: Hidden Variables and Missing Data --  Expectation Maximisation --  Extensions of EM -- Variational Bayes;  Bayesian Model Selection: Comparing Models the Bayesian Way --  Occam’s Razor and Bayesian Complexity Penalisation --  Approximating the Model Likelihood --  Bayesian Hypothesis Testing for Outcome Analysis.
 
-#+begin _comment
-...Included monitoring topics in Unit V instead of AU-Unit IV...
-#+end_comment
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to:
@@ -102,10 +66,9 @@ Upon completion of the course, the student should be able to:
   software projects (K2).
       
 ** TEXT BOOKS
-1. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project
-   Management'', 6th Edition, Tata McGraw Hill, 2018.
-2. Ravindranath Pandian, ``Applied Software Risk Management A Guide
-   for Software Project Managers'', Auerbach Publication, 2007.
+1. David Barber, ``Bayesian Reasoning and Machine Learning'', Cambridge University Press, 1 edition (2012); eBook (2020).
+2. Daphne Koller, Nir Friedman, ``Probabilistic Graphical Models -
+Principles and Technique'', MIT Press, 2007.
 
 ** REFERENCES
 1. Roger S Pressman, ``Software Engineering -- A Practitioner's
