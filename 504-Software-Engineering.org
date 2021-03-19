@@ -85,8 +85,7 @@ After the completion of this course, students will be able to:
 - Explain the procedure in agile and devops environment (k2)
 
  
-- Compare and contrast the various testing and maintenance activities (K2)
-- Build a system in teams and apply best practices and principles in software engineering with clear documentation of approaches (K3)
+
 
 ** TEXT BOOKS
 1. Armando Fox and David Patterson , Engineering Software as a Service: An Agile Approach Using Cloud Computing Second Edition, 2021
