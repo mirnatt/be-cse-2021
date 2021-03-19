@@ -53,10 +53,10 @@ TD-Gammon; Watson’s Daily-Double Wagering; Optimizing Memory Control; Human-le
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- To illustrate the basics of reinforcement learning problem (K2)
-- To solve various problems using tabular solution methods (K3)
-- To apply the integrated tabular methods for problem solutions (K3)
-- To illustrate approximate solution methods for larger state space problems (K2)
+- Illustrate the basics of reinforcement learning problem (K2)
+- Solve various problems using tabular solution methods (K3)
+- Apply the integrated tabular methods for problem solutions (K3)
+- Illustrate approximate solution methods for larger state space problems (K2)
 - Apply reinforcement learning techniques for various case studies (K3).
 
 ** TEXT BOOKS
