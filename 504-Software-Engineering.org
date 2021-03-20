@@ -78,7 +78,7 @@ Text book 1 , chapter 10,12
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand all the phases in software engineering  (K2)
+- Demonstrate all the phases in software engineering  (K2)
 - Compare the architecture to develop an application (k3)
 - Choose the suitable framework do develop an application (k3) 
 - Categorize the requirements and testing need of the software project (K3)
