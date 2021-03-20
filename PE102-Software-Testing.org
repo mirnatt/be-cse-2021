@@ -39,56 +39,43 @@
 
 {{{unit}}}
 |UNIT I| TESTING FUNDAMENTALS |9| 
-Objectives and Principles: Fundamental test process -- Test levels --
-Establishing a testing policy -- Structured approach to testing --
-Test factors -- Developing risk matrix -- Steps in software testing
-process.
+Testing activities in software life cycle, Readiness of a Product: dependability, availability, MTBF, reliability, alpha test, beta test ,
+regression test; Validation and Verification; Basic Principles; Test and Analysis Activities Within a Software Process: The Quality
+Process, Planning and Monitoring, Quality Goals, Dependability Properties, Analysis, Testing, Improving the Process; Finite Models, Control Flow Graphs, Call
+Graphs, Finite State Machines.
+
 #+begin_comment
-Introduction to testing, testing levels, appoaches, test factors, and steps for software testing is included.
-Removed the topics related with defects from anna university syllabus.
+ Text Book 2 Chapter 1, 2 
+#+end_comment
+
+{{{unit}}}
+|UNIT II| STRUCTURED AND ANALYTICAL TESTING  |9| 
+Structure Based testing : Introduction - - condition coverage -- decision - - modified --  multiple-- path testing -- APT testing -- exercises;  Analytical testing :  static analysis --  Dynamic analysis -- samples ;
+
+#+begin_comment
+Text Book 1, chapter 2,3
 #+end_comment
 {{{unit}}}
-|UNIT II|  TEST CASE DESIGN STRATEGIES AND METHODS |9| 
-Strategies and Methods for Test Case Design: Introduction to testing
-design strategies -- Test case design strategies -- Using the black
-box approach to test case design -- Random testing -- Equivalence
-class partitioning -- Boundary value analysis -- Cause-and-effect
-graphing -- State transition testing -- Error guessing; Using the
-white box approach to test design -- Coverage and control flow graphs
--- Covering code logic -- Paths -- Data flow and white box test design
--- Loop testing--Mutation testing;
+|UNIT III| QUALITY TESTING AND TOOLS |9| 
+Quality Characteristics for technical testing :  Security -- reliability -- efficiency -- changeability --testability -- portability - installability -- sample questions; Test tools and Automation : Test automation project -- specific test tools -- sample exam ;
+
 #+begin_comment
-Reordered the content according to black box and white box test case design methods.
+Text Book 1, chapter 4,6
 #+end_comment
 {{{unit}}}
-|UNIT III|  LEVELS OF TESTING |9| 
-Levels of Testing: The Need for levels of testing -- Unit test
-functions, procedures, classes and methods as units -- Unit test
-planning -- Designing the unit tests -- The test harness -- Running
-the unit tests and recording results -- Integration tests -- Designing
-integration tests -- Integration test planning -- System test --
-Functional testing -- Performance testing-- Stress testing --
-Configuration testing -- Security testing -- Recovery testing --
-Regression testing -- Alpha, beta and acceptance tests.
+
+|UNIT IV| TESTING OBJECT-ORIENTED SOFTWARE |9|
+Testing Object-Oriented Software: Issues in Testing Object-Oriented Software, An Orthogonal Approach to Test, Intraclass Testing, Testing with State Machine Models, Interclass Testing, Structural Testing of Classes, Oracles for Classes, Polymorphism and Dynamic Binding, Inheritance, Genericity, Exceptions; Fault-Based Testing: Assumptions, Mutation Analysis, Fault-Based Adequacy Criteria. 
+
 #+begin_comment
-removed Testing the documentation –Website testing.
-#+end_comment
+ Text Book 2, chapter 15, 16  
 {{{unit}}}
-|UNIT IV| TEST AUTOMATION AND MANAGEMENT |9|
-Test Planning, Management, execution and Reporting : Test planning --
-Management -- Process -- Reporting; Software Test Automation: Testing
-tools; Controlling and Monitoring the Testing Process: Measurements
-and milestones for controlling and monitoring -- Criteria for test
-completion -- Configuration management -- Controlling and monitoring.
-#+begin_comment
--Test automation and Mangement is combined as Unit-IV, Whereas test management and automation are given in Unit IV and Unit V in anna university syllabus
-#+end_comment
-{{{unit}}}
+
 |UNIT V|WEB AND MOBILE APPLICATION TESTING   |9|
-Website Testing ;Challenges in mobile testing ; Testing Mobile Apps: Mobile specific testing--functional Testing-- Usability testing--Accessibility testing--Stress and Interrupt testing--performance testing--security testing; Mobile Test automation Tools: image recognition--OCR/text recognition-- Native object recognition--current state of tools; Mobile cloud testing
+Website Testing ;Challenges in mobile testing ; Testing Mobile Apps: Mobile specific testing--functional Testing-- Usability testing--Accessibility testing--Stress and Interrupt testing--performance testing--security testing; Mobile Test automation Tools: image recognition--OCR/text recognition-- Native object recognition--current state of tools; Mobile cloud testing.
+
 #+begin_comment
--Newly added Unit
-#+end_comment
+Text Book 3, chapter 3,4,5,6,14
 \hfill *Total: 45*
 
 ** COURSE OUTCOMES
@@ -100,16 +87,14 @@ Upon the completion of the course the students should be able to:
 - Apply testing concepts in web and mobile applications   (K3)>
 
 ** TEXT BOOKS
-1) Gopalaswamy Ramesh, Srinivasan Desikan,``Software Testing:
-   Principles and Practices'', Pearson Education, New
-   Delhi, 2006 (Units I, IV).
-2) Llene Burnstein, ''Practical Software Testing'', Springer
-   International Edition, Chennai, 2003 (Units II, III, IV).
+1) Jamie L. Mitchell, Rex Black, Advanced software testing: Guide to the ISTQB Advanced Certification as an Advanced Technical test Analyst, Second  edition, Vol 3, 2015.(Unit 2, 3)
+2 ) Mauro Pezze , Michal Young, Software Testing and Analysis:
+Process, Principles, and Techniques, Wiley publications 2007.(unit 1,4)
+3) Daniel Knott, "Hands-On Mobile App Testing", Addison- Wesley, 2015.(unit 5)
 
 ** REFERENCES
 1. Aditya Mathur, ``Foundations of Software Testing'', Pearson
-   Education, 2008(unit 4).
-2.Daniel Knott, "Hands-On Mobile App Testing", Addison- Wesley, 2015.(unit 5)
-3. Ron Patton, ``Software Testing'', 2nd Edition, Pearson    Education, 2007(unit 5).
-4. Robert Furtell, Donald Shafer, and Linda Shafer, ``Quality Software    Project Management'', Pearson Education Asia, 2002(unit 4).
+   Education, 2008.
+2. Ron Patton, ``Software Testing'', 2nd Edition, Pearson    Education, 2007.
+3. Robert Furtell, Donald Shafer, and Linda Shafer, ``Quality Software    Project Management'', Pearson Education Asia, 2002.
 
