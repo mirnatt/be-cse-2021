@@ -1,7 +1,7 @@
-﻿* <<<PE402>>> USER EXPERIENCE DESIGN
+* <<<PE402>>> USER EXPERIENCE DESIGN
 :properties:
 :author: Dr. S. Manisha and Dr. Y.V. Lokeswari
-:date: 9.3.2021
+:date: 20.3.2021
 :end:
 
 #+startup: showall
@@ -58,18 +58,18 @@ Design-- Tools.
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
-- Express the goals and principles of interface design (K2)
+- Summarize the goals and principles of interface design (K2)
 - Apply life cycle models and identify the requirements for interface
   design (K3)
 - Construct user interface design using prototypes (K3)
-- Perform user testing on user interface design (K3)
+- Develop user testing on user interface design (K3)
 - Apply tools to develop UI design for mobile app (K3).
 
 ** TEXT BOOKS
 1. Preece J, Rogers Y, Sharp H, ``Interaction design: Beyond
-   Human-Computer Interaction'', 4th edition John Wiley & Sons Ltd, 2015.
-2. Bill Scott and Theresa Neil, ``Designing Web Interfaces'', 1st
-   Edition, O'Reilly, 2009.
+   Human-Computer Interaction'', 4th edition John Wiley & Sons Ltd, 2015. (Unit 1 to 4)
+2. Brian Fling, ``Mobile Design and Development'', 1st Edition ,
+   O'Reilly Media Inc, 2009. (Unit 5)
 
 ** REFERENCES
 1. Preece J, Rogers Y, Sharp H, Baniyon D, Holland S and Carey T,
@@ -78,8 +78,8 @@ Upon the completion of the course the students should be able to:
    2000 (Indian Reprint).
 3. Alan Dix, Janet Finlay, Gregory Abowd, Russell Beale, ``Human
    Computer Interaction'', 3rd Edition, Pearson Education, 2004.
-4. Brian Fling, ``Mobile Design and Development'', 1st Edition ,
-   O'Reilly Media Inc, 2009.
+4. Bill Scott and Theresa Neil, ``Designing Web Interfaces'', 1st
+   Edition, O'Reilly, 2009.
 
 # 3. Yvonne Rogers, Helen Sharp, Jenny Preece, ``Interaction Design:
 #   Beyond Human Computer Interaction'', 3rd Edition, Wiley, 2011
