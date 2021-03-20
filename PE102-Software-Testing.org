@@ -31,10 +31,10 @@
 #+end_comment
 
 ** Course Objectives
-- To be familiar with objectives, principles, process, and factors of software testing 
-- To learn the design of test cases using Black box approach and white box approaches
+- To learn the software testing fundamentals 
+- To acquire structural and analtical testing knowledge in  software code
 - To understand and apply the levels of testing 
-- To understand automation methods in software testing
+- To apply quality testing and tools in software projects 
 - To apply testing concepts in web and mobile applications.
 
 {{{unit}}}
@@ -56,6 +56,7 @@ Structure Based testing : Introduction - - condition coverage -- decision - - mo
 Text Book 1, chapter 2,3
 #+end_comment
 {{{unit}}}
+
 |UNIT III| QUALITY TESTING AND TOOLS |9| 
 Quality Characteristics for technical testing :  Security -- reliability -- efficiency -- changeability --testability -- portability - installability -- sample questions; Test tools and Automation : Test automation project -- specific test tools -- sample exam ;
 
@@ -82,10 +83,10 @@ Text Book 3, chapter 3,4,5,6,14
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
-- Outline software testing objectives, principles and practices (K2)
-- Apply Black and whitebox approach to design test cases (K3)
-- Select and apply levels of testing (K3)
-- Apply Automation tools for software testing in projects (K3)
+- Summarize software testing practices (K2)
+- Experiment  structural and analytical testing (K3)
+- Apply quality testing and tools in projects  (K3)
+- Build OO software and test (K3)
 - Apply testing concepts in web and mobile applications   (K3)>
 
 ** TEXT BOOKS
