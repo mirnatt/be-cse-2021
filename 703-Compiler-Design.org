@@ -105,10 +105,7 @@ Suggestion: Saraswathi : 2021: Unit 5 BB, BP, DT - Subject handling staff told t
 1. Implementation of Lexical Analyzer using Lex Tool
 2. Implementation of Arithmetic Calculator using LEX and YACC
 3. Generation of TAC for a simple program using LEX and YACC
-4. Consider a simple program as an input and process this code to
-   print the intermediate code after every phase. It is necessary to
-   print the output of lexical, syntax, semantic, intermediate code
-   generation, code optimization and code generation phases
+4. Use modern tools and technologies to design a new optimized compiler that takes a novel language and generate the machine languag as a team.   
 5. Study of LLVM framework.
 
 #+begin_comment
@@ -116,6 +113,9 @@ Changes:Suggestive experiments are changed based on the units.#
 Deleted: Extension of the Lexical Analyzer to implement symbol
 table,Implementation of Simple Code Optimization Techniques.#
 Added:Study of LLVM framework.
+
+
+changes: "Consider a simple program as an input andprocess this code to   printthe intermediate code after every phase. It is necessary to   printthe output of lexical, syntax, semantic, intermediate code  generation, code optimization and code generation phases"  replaced with simple program and ex4 is used as co6
 #+end_comment
 
 
