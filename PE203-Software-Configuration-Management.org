@@ -81,7 +81,7 @@ Container Orchestration : Kubernetes -- Kubectl -- Master Node -- Worker Nodes -
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to:
-- Understand the traditional configuration principles both thoery and practically (K3)
+- Summarize the traditional configuration principles both thoery and practically (K3)
 - Develop a microservice (K3)
 - Build a container and deploy a  microservice (K3)
 - Learn the networking concepts in container (K2)
