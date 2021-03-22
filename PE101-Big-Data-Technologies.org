@@ -11,11 +11,7 @@
 :end:
 
 #+begin_comment
-- 1. 3 units are the same as AU
-- 2. For changes, see the individual units. Unit - III of AU 2017 syllabus is removed. Unit IV is added as new
-- 3. There are difference in three units when compared to M.E
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
+
 #+end_comment
 
 #+startup: showall
@@ -38,10 +34,10 @@
 
 ** Course Objectives
 - To understand the competitive advantages of big data analytics 
-- To understand the distributed storage for big data
-- To learn distributed method for processing of big data
-- To understand how to represent unstructured data using NoSQL and processing
-- To learn how statistical methods used for analyzing big data
+- To understand distributed data processing using Hadoop MapReduce
+- To learn apache spark for stream processing
+- To learn apacke kafka for building distributed data applications.
+- To understand spark streaming and H2O Flow.
 
 
 {{{unit}}}
@@ -49,39 +45,43 @@
 Introduction -- Understanding Big Data --  Big Data: Benifitting -- Managing -- Organizing and Analyzing Big Data: Learning and Analytics; Technology Challenges for Big Data.
 
 {{{unit}}}
-|Unit II| HDFS |9| 
-Introduction -- Distributed File System -- Google File System -- HDFS Design Goals -- Using HDFS.
+|Unit II| Data Processing using MapReduce |8| 
+Introduction -- Distributed File System -- Google File System -- HDFS Design Goals -- Using HDFS -- MapReduce Overview -- Working of MapReduce -- Programming -- Writing and Testing MapReduce Programs
 
 {{{unit}}}
-|Unit III|Data Processing using MapReduce |10| 
-Introduction -- MapReduce Overview -- Working of MapReduce -- Programming -- Writing and Testing MapReduce Programs
+|Unit III|Data Processsing using Spark |10| 
+Introduction -- Installing Spark and Setting up Spark Cluster -- Spark Shell -- Creating Spark Session Object -- Resilient Distributed Datasets (RDD) -- NoSQL - SparkSQL.
 
 {{{unit}}}
-|Unit IV|NoSQL|9|
-Introduction to NoSQL -- Characteristics of NoSQL -- NoSQL Storage Types -- Advantages and Drawbacks - NoSQL Database Framework: Hive and HBase
+|Unit IV|Apache Kafka |10|
+Apache Kafka -- Installing Kafka -- Producers and Consumers -- Kafka Internals -- Building Data Pipelines -- Cross Cluster Data Mirroring -- Administering and Monitoring Kafka.
 
 {{{unit}}}
-|Unit V|Data Analysis |10|
-Statistical  Methods: Regression modelling – Multivariate analysis;  Classification: SVM – Decision Trees; Linear Classifiers
+|Unit V|Technologies for Stream Processing |10|
+Stream Processing Concepts -- Design Patterns --  Stream Processing using Kafka -- Extending Spark with H20 -- Intalling H2O - Architecture -- Souring with Data -- Performance tuning -- H2O Flow.
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- Explore how to leverage the insights from big data analytics (K2)
-- Apply distributed computing for better storage of data (K3)
-- Develop applications using Hadoop related tools(K4)
-- Adapt database frameworks, Hive  and  Hbase for data  analytics(K3)
-- Solve applications using  statistical and data  analytic methods (K3)
+- Illustrate big data analytics and related technologies (K2)
+- Build distributed data processing applicatins using Apache Hadoop (K3)
+- Develop distributed data processing applications using Apache Spark (K3)
+- Experiment with Apache Kafka for processing stream data (K3)
+- Develop a simple applicatins with H2O (K3)
 
 ** Text Books
 1. Parag Kulkarni, Sarang Joshi, "Big Data Anlytics", PHI Learning Pvt. Ltd, 2016.
-2. Anil Maheshwari, "Big Data Essentials", McGraw Hill, 2019
+2. Anil Maheshwari, "Big Data Essentials", McGraw Hill, 2019.
+
+1. Mike Frampton, "Mastering Apache Spark", Packt Publishers, 2015. (u3)
+2. Krishna Sankar, " Fast Data Processing using Spark 2", 3rd Edition, Packt Publishers, 2016. (u3)
+3. "Kafka - Definitive Guide", (u4 & 5)
 
 ** References
 1. Arshdeep Bahga, Vijay Madisetti, "Big Data Analytics: A Hands-On Approach",  Published by A Hands-on Approach Textbooks,  2016.
 2. Bill Franks, "Taming the Big Data Tidal Wave: Finding Opportunities in Huge Data Streams with Advanced Analytics", John Wiley & sons, 2012.
 3. Gaurav Vaish, "Getting Started with NoSQL",  Packt Publishing Ltd, 2013.
-4. E. Capriolo, D. Wampler, and J. Rutherglen, "Programming Hive", O'Reilly, 2012.
-5. Lars George, "HBase: The Definitive Guide", O'Reilly, 2011.
+4. 
+5. 
 
 
 
