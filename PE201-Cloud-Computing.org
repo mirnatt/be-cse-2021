@@ -73,13 +73,7 @@ University syllabus, as this technology has been used by many people.
 
 {{{unit}}}
 |UNIT II |INTRODUCTION TO VIRTUALIZATION|9| 
-Basics of Virtualization -- Virtualization Types -- Implementation Levels of Virtualization -- Virtualization Structures / Tools and Mechanisms -- Virtualization of CPU, Memory, I/O Devices -- Virtual Clusters and Resource management -- Virtualization for Data-Center Automation -- Virtualization Support and Disaster Recovery -- Taxonomy of Virtual Machines.
-Create a Cluster of 2 Virtual Machines using VMWare or Virtual Box on top of Windows (64 Bit) as Host Operating System.
-	Configuration:
-	VM1 : Ubuntu 16.04 LTS Server (64 Bit)
-	VM2 :  Ubuntu 16.04 Desktop. (64 Bit)
-	Do. 	1. Install Java using JDK in VM2 
-         2. Remotely login from VM1 to VM2 (password-less using SSH) and run a Java program to perform file input and output operations.
+Basics of Virtualization -- Virtualization Types -- Implementation Levels of Virtualization -- Virtualization Structures / Tools and Mechanisms -- Virtualization of CPU, Memory, I/O Devices -- Virtual Clusters and Resource management -- Virtualization for Data-Center Automation -- Virtualization Support and Disaster Recovery -- Taxonomy of Virtual Machines -- Create a Cluster of 2 Virtual Machines using VMWare or Virtual Box on top of Windows (64 Bit) as Host Operating System. Configuration as follows: VM1 : Ubuntu 16.04 LTS Server (64 Bit) -- VM2 :  Ubuntu 16.04 Desktop. (64 Bit) -- 	Do the following. -- 1. Install Java using JDK in VM2 and -- 2. Remotely login from VM1 to VM2 (password-less using SSH) and run a Java program to perform file input and output operations.
 
 #+begin_comment
 Altered the topic to remove repetition and give a flow for the topic.
