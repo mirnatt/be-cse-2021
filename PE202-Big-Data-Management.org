@@ -45,7 +45,7 @@ Introduction to Big Data Modeling -- Importance and implications of big data mod
 
 {{{unit}}}
 |UNIT III | Working With Data Models | 9 |
-Data Models -- Categorizing Data Models -- Vector space -- Graph -- Other Data models -- Exploring Gephi -- 
+Data Models -- Categorizing Data Models -- Vector space -- Graph -- Other Data models -- Exploring Gephi.
 
 {{{unit}}}
 |UNIT IV | Big Data Management System   | 9 |
@@ -53,7 +53,7 @@ Approaches to Big Data -- DBMS and non-DBMS -- DBMS to BDMS -- Redis -- Aerospik
 
 {{{unit}}}
 | UNIT V | Big Data Management Tools | 9 |
-Introduction -- Impala -- Neo4j -- SparkSQL -- Case Studies.
+Introduction -- Impala -- Neo4j -- SparkSQL -- Case Studies -- 
 
 \hfill *Total Periods: 45*
 
