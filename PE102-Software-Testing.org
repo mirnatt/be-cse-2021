@@ -90,8 +90,8 @@ Upon the completion of the course the students should be able to:
 - Apply testing concepts in web and mobile applications   (K3)>
 
 ** TEXT BOOKS
-1) Jamie L. Mitchell, Rex Black, Advanced software testing: Guide to the ISTQB Advanced Certification as an Advanced Technical test Analyst, Second  edition, Vol 3, 2015.(Unit 2, 3)
-2 ) Mauro Pezze , Michal Young, Software Testing and Analysis:
+1) Jamie L. Mitchell, Rex Black, Advanced software testing: Guide to the ISTQB Advanced Certification as an Advanced Technical test Analyst, Second  edition, Vol 3, 2015.(Unit 2, 3)(chapter 1,2 4,6)
+2 ) Mauro Pezze , Michal Young, Software Testing and Analysis(unit 1,4 (chapte1,2,15.16))
 Process, Principles, and Techniques, Wiley publications 2007.(unit 1,4)
 3) Daniel Knott, "Hands-On Mobile App Testing", Addison- Wesley, 2015.(unit 5)
 
