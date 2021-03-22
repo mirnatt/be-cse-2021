@@ -14,6 +14,19 @@
 
 #+startup: showall
 
+** CO PO MAPPING :noexport:
+#+NAME: co-po-mapping 
+
+|                | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+|                |   |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
+| CO1            |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
+| CO2            |  |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
+| CO3            |  |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
+| CO4            | |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
+| CO5            |  |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+| Score          |    |  15 |  11 |  10 |   0 |   6 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |   10 |   15 |    6 |
+| Course Mapping |    |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+
 {{{credits}}}
 | L | T | P | C |
 | 2 | 0 | 2 | 3 |
@@ -79,11 +92,11 @@ Files: opening and closing a data file -- Creating a data file -- Processing a d
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Illustrate the basic programming constructs in C (K2) 
+- Develop programs using basic programming constructs in C (K3) 
 - Develop modular programs using functions (K3) 
 - Develop applications using arrays and strings (K3)
 - Solve problems using pointers and structures (K3) 
-- Explain file operations using programs in C (K2).
+- Develop applications using file operations in C (K3).
 
       
 ** TEXT BOOKS
