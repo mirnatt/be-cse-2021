@@ -80,7 +80,7 @@ Website Testing ;Challenges in mobile testing ; Testing Mobile Apps: Mobile spec
 #+begin_comment
 Text Book 3, chapter 3,4,5,6,14
 \hfill *Total: 45*
-
+#+end_comment 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
 - Summarize software testing practices (K2)
