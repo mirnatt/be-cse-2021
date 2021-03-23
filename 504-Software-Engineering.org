@@ -26,7 +26,7 @@
 
 ** COURSE OBJECTIVES
 - Understand the phases and process  model in a software project mangement
-- Deploy a simple software as a service application using architecture framework 
+- Understand  a simple software as a service application using architecture framework 
 - Build an application using MVC and mobile framework
 - Analyze the software requirements and testing of software projects
 - Understand the agile and Devops environment
@@ -37,17 +37,17 @@ The Software Development Life Cycle : Pre-development phases of the SDLC -- Deve
 
 
 #+begin_comment
-Text book 3, chapter 2,4
+Text book 4, chapter 2,4
 #+end_comment
 
 {{{unit}}}
-| UNIT II | PROJECT AND REQUIREMENT| 9 |
+| UNIT II | SOFTWARE REQUIREMENT AND RISK | 9 |
 
-Project planning process : Software requirements document; Software Project Estimation: -- Empirical estimation models -- -- Project scheduling; Risk Management: Risk identification -- Risk projection -- Risk mitigation;  Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- Requirements validation -- Requirements.
+Project planning process : Software requirements document; Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- Requirements validation -- Requirements Management; Software Project Estimation:   Empirical estimation models -- -- Project scheduling; Risk Management: Risk identification -- Risk projection -- Risk mitigation;   
 
 
 #+begin_comment
-Text book 1 , chapter 2,3
+Text book 3 , chapter 2,3
 #+end_comment
 
 {{{unit}}}
@@ -59,13 +59,9 @@ Text book 1 , chapter 4,6
 #+end_comment
 
 {{{unit}}}
-| UNIT IV | TESTING | 9 |
-Software Testing Fundamentals; Internal and External Views of Testing: White Box Testing --Basis Path Testing -- Control Structure Testing-- Black Box Testing -- Unit Testing -- Integration Testing -- Regression Testing -- Validation Testing -- System Testing -- Security Testing; 
+| UNIT IV | SOFTWARE TESTING | 9 |
+Software Testing Fundamentals; Internal and External Views of Testing: White Box Testing --Basis Path Testing -- Control Structure Testing-- Black Box Testing -- Unit Testing -- Integration Testing -- Regression Testing -- Validation Testing -- System Testing -- Security Testing ; Testing tools;
 
-Software as a Service  Frameworks and Languages : How to Learn a New Language -- Prelude  Learning to Learn Languages and Frameworks -- Pair Programming -- Introducing Ruby, an Object-Oriented Language -- Ruby Idioms  Poetry Mode, Blocks, Duck Typing -- CHIPS Ruby Intro -- Gems and Bundler  Library Management in Ruby;  SaaS Application Architecture: Microservices, APIs, and REST  The Web’s Client–Server Architecture --  SaaS Communication Uses HTTP Routes -- CHIPS  HTTP and URIs -- From Web Sites to Microservices  Service-Oriented Architecture -- RESTful APIs  Everything is a Resource -- RESTful URIs, API Calls, and JSON -- CHIPS  Create and Deploy a Simple SaaS App;
-SaaS Framework  Rails as a Model–View–Controller Framework : The Model–View–Controller (MVC) Architecture -- Rails Models Databases and Active Record -- CHIPS  Active Record Basics -- Routes, Controllers, and Views -- CHIPS Rails Routes -- Forms -- CHIPS Hangperson on Rails -- Debugging  When Things Go Wrong -- CHIPS  Hello Rails; Mobile and Desktop SaaS Clients  JavaScript   Introduction  : JavaScript  The Big Picture -- Introducing ECMA Script -- Classes, Functions and Constructors  -- The Document Object Model (DOM) and jQuery -- The DOM and Accessibility -- Events and Callbacks -- AJAX  Asynchronous JavaScript And XML  --  Testing JavaScript and AJAX -- CHIPS  AJAX Enhancements to RottenPotatoes -- Single-Page Apps and JSON APIs;
-
-Requirements: BDD and User Stories : Behavior-Driven Design and User -- SMART User Stories -- Lo-Fi User Interface Sketches and Storyboards --  Points and Velocity -- Agile Cost Estimation -- Cucumber: From User Stories to Acceptance Tests -- CHIPS: Intro to BDD and Cucumber -- Explicit vs. Implicit and Imperative vs. Declarative Scenarios -- The Plan-And-Document Perspective on Documentation; Test-Driven Development : FIRST, TDD, and Red–Green–Refactor --Anatomy of a Test Case  Arrange, Act, Assert --Isolating Code: Doubles and Seams -- Stubbing the Internet -- CHIPS  Intro to RSpec on Rails -- Fixtures and Factories -- Coverage Concepts and Types of Tests -- Other Testing Approaches and -- CHIPS  The Acceptance Test/Unit Test Cycle --The Plan-And-Document Perspective on Testing;
 
 #+begin_comment
 Text book 1 , chapter 7,8 
@@ -74,7 +70,7 @@ Text book 1 , chapter 7,8
 
 {{{unit}}}
 | UNIT V | AGILE AND DEVOPS | 9 |
-Agile Teams : It Takes a Team: Two-Pizza and Scrum --  Using Branches Effectively -- Pull Requests and Code Reviews -- Delivering the Backlog Using Continuous Integration -- CHIPS: Agile Iterations -- Reporting and Fixing Bugs: The Five R’s -- The Plan-And-Document Perspective on Managing Teams ; Dev/Ops -- From Development to Deployment --Three-Tier --Responsiveness, Service Level Objectives, and Apdex -- Releases and Feature Flags -- Monitoring and Finding Bottlenecks --Improving Rendering and Database Performance With Caching -- Avoiding Abusive Database Queries -- CHIPS  Exploiting Caching and Indices -- Security: Defending Customer Data in Your App -- The Plan-And-Document Perspective on Operations;
+Agile Teams : It Takes a Team: Two-Pizza and Scrum --  Using Branches Effectively -- Pull Requests and Code Reviews -- Delivering the Backlog Using Continuous Integration -- Agile Iterations -- Reporting and Fixing Bugs; Dev/Ops -- From Development to Deployment --Three-Tier --Responsiveness, Service Level Objectives, and Apdex -- Releases and Feature Flags -- Monitoring and Finding Bottlenecks --Improving Rendering and Database Performance With Caching;
 
 #+begin_comment
 Text book 1 , chapter 10,12
