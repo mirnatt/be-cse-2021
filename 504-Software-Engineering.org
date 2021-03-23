@@ -37,7 +37,7 @@ The Software Development Life Cycle : Pre-development phases of the SDLC -- Deve
 
 
 #+begin_comment
-Text book 4, chapter 2,4
+Text book 1, chapter 2,4
 #+end_comment
 
 {{{unit}}}
@@ -47,7 +47,7 @@ Project planning process : Software requirements document; Requirement Engineeri
 
 
 #+begin_comment
-Text book 2, chapter 2,3
+Text book 2, chapter  
 #+end_comment
 
 {{{unit}}}
@@ -55,7 +55,7 @@ Text book 2, chapter 2,3
 Design Concepts: Design process -- Design concepts -- Design model -- Modeling principles; Architectural Design: Architectural Styles; Simple Styles – Distributed and Networked Architectures – Architecture for Network based Applications – Decentralized Architectures. Architecture of Software Systems involving Internet-of-Things(IoT);Architecture tool. 
  
 #+begin_comment
-Text book 2 , chapter 4,6
+Text book 2 , chapter  
 #+end_comment
 
 {{{unit}}}
@@ -64,7 +64,7 @@ Software Testing Fundamentals; Internal and External Views of Testing: White Box
 
 
 #+begin_comment
-Text book 2 , chapter 7,8 
+Text book 2 , chapter  
 #+end_comment
 
 
@@ -93,10 +93,10 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS
 1. Armando Fox and David Patterson , Engineering Software as a Service: An Agile Approach Using Cloud Computing Second Edition, 2021
 2. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Eighth Edition, 2015.
-3. Ian Sommerville, ``Software Engineering'', Pearson Education Asia,Tenth Edition, 2015.
+3. Brian Albee, Hands-On SoftwareEngineering with Python,  Packt Publishing, 2018
 
 ** REFERENCES
-1. Rajib Mall, ``Fundamentals of Software Engineering'', PHI Learning  Private Limited, Fifth Edition, 2015.
+1. Ian Sommerville, ``Software Engineering'', Pearson Education Asia,Tenth Edition, 2015.
 2. Pankaj Jalote, ``Software Engineering, A Precise Approach'', Wiley  India, 2010.
 3. Kelkar S A,``Software Engineering'', Prentice Hall of India, 2007.
 4. Stephen R Schach, ``Software Engineering'', Tata McGraw-Hill Publishing Company Limited,2007.
