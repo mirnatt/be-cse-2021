@@ -33,7 +33,7 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
-The Software Development Life Cycle : Pre-development phases of the SDLC -- Development specific phases of the SDLC -- Post-development phases of the SDLC; Methodologies Paradigm and practices : Process methodologies -- development paradigms -- development pracictes;
+The Software Development Life Cycle : Pre-development phases of the SDLC -- Development specific phases of the SDLC -- Post-development phases of the SDLC; Methodologies Paradigm and practices : Process methodologies -- development paradigms -- development practices;
 
 
 #+begin_comment
