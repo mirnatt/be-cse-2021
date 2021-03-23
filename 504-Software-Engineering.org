@@ -26,7 +26,7 @@
 
 ** COURSE OBJECTIVES
 - Understand the phases and process  model in a software project mangement
-- Understand  a simple software as a service application using architecture framework 
+- Understand  a requirements and risk in developing software projects 
 - Build an application using MVC and mobile framework
 - Analyze the software requirements and testing of software projects
 - Understand the agile and Devops environment
