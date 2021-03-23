@@ -25,6 +25,26 @@
 - To introduce the various classes of parallel algorithms
 - To study parallel algorithms for basic problems. 
 
+{{{unit}}}
+| UNIT I | INTRODUCTION | 9 |
+Theoretical models of parallel computation: variants of the PRAM model, interconnection networks, synchronous and asynchronous models - Computational Models- Intearcting Variables - Performance of parallel algorithms.
+
+{{{unit}}}
+| UNIT 2 | Techniques | 9 |
+Basic techniques: balanced trees - recursive doubling - divide and conquer - partitioning - pipelining - accelerated cascading - symmetry Breaking
+
+{{{unit}}}
+| UNIT 3 | List Techniques | 9 |
+List ranking -  the Euler tour technique - tree contraction - Lowest Common Ancestors - Searching - Merging - sorting
+
+{{{unit}}}
+| UNIT 4 | Graph Algorithms | 9 |
+Connected Components - Colouring - Minimal spanning tree - Shortest path algorithm - Parallel algorithms on interconnection networks and other architectures
+
+{{{unit}}}
+| UNIT 5 | Limits to parallelizability | 9 |
+String Matching - Text analysis - Pattern Matching - Limits to parallelizability - NC-reductions - P-completeness
+
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
