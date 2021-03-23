@@ -41,9 +41,9 @@ Text book 3, chapter 2,4
 #+end_comment
 
 {{{unit}}}
-| UNIT II | PROJECT PLANNING AND MANAGEMENT| 9 |
+| UNIT II | PROJECT AND REQUIREMENT| 9 |
 
-Project planning process; Software Project Estimation: Decomposition techniques -- Empirical estimation models -- The make/buy decision -- Project scheduling; Risk Management: Risk identification -- Risk projection -- Risk mitigation.
+Project planning process : Software requirements document; Software Project Estimation: -- Empirical estimation models -- -- Project scheduling; Risk Management: Risk identification -- Risk projection -- Risk mitigation;  Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- Requirements validation -- Requirements.
 
 
 #+begin_comment
@@ -51,8 +51,8 @@ Text book 1 , chapter 2,3
 #+end_comment
 
 {{{unit}}}
-| UNIT III |REQUIREMENTS ANALYSIS AND SOFTWARE DESIGN | 9 |
-Software requirements document; Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- Requirements validation -- Requirements; Design Concepts: Design process -- Design concepts -- Design model -- Modeling principles; Architectural Design: Architectural Styles;
+| UNIT III | SOFTWARE DESIGN | 9 |
+; Design Concepts: Design process -- Design concepts -- Design model -- Modeling principles; Architectural Design: Architectural Styles;
  
 #+begin_comment
 Text book 1 , chapter 4,6
