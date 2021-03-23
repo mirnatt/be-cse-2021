@@ -152,7 +152,7 @@ Upon the completion of the course the students should be able to:
 - Develop and deploy services on cloud and be able to set up a private
   cloud environment using open source software. (K3)
 - Understand security challenges in cloud environment. (K2)
-- Explore virtualization and develop a small application on Virtual Machine. (K4)
+- Explore virtualization and deploy an application on Virtual Machine. (K4)
 
 
 ** TEXT BOOKS
