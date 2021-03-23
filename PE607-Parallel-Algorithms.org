@@ -45,6 +45,13 @@ Connected Components - Colouring - Minimal spanning tree - Shortest path algorit
 | UNIT 5 | Limits to parallelizability | 9 |
 String Matching - Text analysis - Pattern Matching - Limits to parallelizability - NC-reductions - P-completeness
 
+** TEXT BOOK
+1. J. Jaja, An Introduction to Parallel Algorithms, Addison Wesley, 1992.
+2. F. T. Leighton, Introduction to Parallel Algorithms and Architectures: Arrays,Trees,Hypercubes,Morgan Kaufmann Publishers,San Mateo,California,1992.
+
+References :
+1. J. H. Reif, Synthesis of Parallel Algorithms, Morgan Kaufmann Publishers, San Mateo, California.
+2. S. G. Akl, Parallel Computation: Models and Methods, Prentice Hall, 1996.
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
