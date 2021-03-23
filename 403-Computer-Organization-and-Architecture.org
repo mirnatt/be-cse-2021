@@ -1,7 +1,7 @@
 * <<<403>>> COMPUTER ORGANIZATION AND ARCHITECTURE
 :properties:
 :author: Dr. K. Lekshmi, Dr. D. Venkatavara Prasad, Dr. K. R. Sarath Chandran
-:date: 10-03-2021
+:date: 23-03-2021
 :end:
 
 #+startup: showall
@@ -11,10 +11,11 @@
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |     |     |     |     |     |   - |   - |   - |   - |    - |    - |    - |      |      |      |
 | CO1            | K2 |   2 |   3 |   2 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    1 |    0 |
-| CO2            | K3 |   2 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
+| CO2            | K3 |   2 |   3 |   3 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    1 |    3 |    0 |    0 |
 | CO3            | K3 |   2 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
 | CO4            | K3 |   2 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
 | CO5            | K2 |   2 |   3 |   2 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
+| CO6            | K3 |   2 |   3 |   3 |   1 |   2 |   0 |   0 |   1 |   2 |    2 |    0 |    1 |    3 |    0 |    0 |
 | Score          |    |  10 |  13 |  13 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |   15 |    1 |    0 |
 | Course Mapping |    |   2 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    1 |    0 |
 
@@ -107,6 +108,8 @@ After the completion of this course, students will be able to:
 - Design of various memory systems and understand I/O communication
   (K3)
 - Explain parallel processing architectures (K2).
+- Design a multi-functional ALU as per the requirement in teams by applying best practices of system design (K3)
+
 
 ** TEXT BOOKS
 1. David A Patterson, John L Hennessy, ``Computer Organization
