@@ -52,7 +52,7 @@ Text book 2, chapter 2,3
 
 {{{unit}}}
 | UNIT III | SOFTWARE DESIGN | 9 |
-; Design Concepts: Design process -- Design concepts -- Design model -- Modeling principles; Architectural Design: Architectural Styles; Simple Styles – Distributed and Networked Architectures – Architecture for Network based Applications – Decentralized Architectures. Architecture of Software Systems involving Internet-of-Things(IoT);Architecture tool. 
+Design Concepts: Design process -- Design concepts -- Design model -- Modeling principles; Architectural Design: Architectural Styles; Simple Styles – Distributed and Networked Architectures – Architecture for Network based Applications – Decentralized Architectures. Architecture of Software Systems involving Internet-of-Things(IoT);Architecture tool. 
  
 #+begin_comment
 Text book 2 , chapter 4,6
