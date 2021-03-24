@@ -93,7 +93,7 @@ Agile Teams : Team and Scrum --  Branches
 and Fixing Bugs; Dev/Ops -- From Development to Deployment
 --Three-Tier --Responsiveness, Service Level Objectives, and Apdex --
 Releases and Feature Flags -- Monitoring and Finding Bottlenecks
---Improving Rendering and Database Performance With Caching;
+--Improving Rendering and Database Performance With Caching; Security: Defending customer data in application
 
 #+begin_comment
 Text book 1 , chapter 10,12
