@@ -11,14 +11,14 @@
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K2 |   2 |   3 |   2 |   3 |   3 |   0 |   2 |   1 |   0 |    3 |    0 |    2 |    3 |    2 |    1 |
-| CO2            | K3 |   2 |   3 |   2 |   3 |   3 |   0 |   2 |   1 |   0 |    3 |    0 |    2 |    3 |    2 |    1 |
-| CO3            | K3 |   2 |   3 |   2 |   3 |   3 |   0 |   2 |   1 |   0 |    3 |    0 |    2 |    3 |    2 |    1 |
-| CO4            | K2 |   2 |   3 |   3 |   3 |   3 |   0 |   2 |   1 |   0 |    3 |    0 |    2 |    3 |    1 |    1 |
-| CO5            | K3 |   2 |   3 |   3 |   3 |   3 |   0 |   2 |   1 |   0 |    3 |    0 |    2 |    3 |    1 |    1 |
-| Score          |    |  13 |  10 |   8 |   0 |   5 |   5 |   0 |   5 |   0 |    0 |    0 |    0 |    8 |   13 |    5 |
-| Course Mapping |    |   3 |   2 |   2 |   0 |   1 |   1 |   0 |   1 |   0 |    0 |    0 |    0 |    2 |    3 |    1 |
-
+| CO1            | K4 |   2 |   2 |   1 |   0 |   1 |   1 |   0 |   1 |   2 |    2 |    0 |    2 |    0 |    3 |    1 |
+| CO2            | K3 |   2 |   2 |   0 |   0 |   1 |   0 |   1 |   0 |   2 |    2 |    3 |    0 |    3 |    2 |    1 |
+| CO3            | K3 |   2 |   2 |   3 |   1 |   1 |   0 |   1 |   0 |   2 |    2 |    0 |    0 |    2 |    3 |    1 |
+| CO4            | K3 |   2 |   3 |   3 |   0 |   1 |   0 |   0 |   0 |   2 |    2 |    0 |    0 |    2 |    3 |    1 |
+| CO5            | K2 |   2 |   1 |   1 |   1 |   1 |   0 |   0 |   0 |   2 |    2 |    0 |    0 |    1 |    2 |    1 |
+| CO6            | K3 |   2 |   3 |   3 |   3 |   1 |   2 |   0 |   2 |   3 |    3 |    1 |    3 |    3 |    3 |    1 |
+| Score          |    |  14 |  11 |   9 |   0 |   0 |   5 |   2 |   5 |   5 |    5 |    7 |    5 |    9 |   14 |    6 |
+| Course Mapping |    |   3 |   3 |   2 |   0 |   0 |   1 |   0 |   1 |   1 |    1 |    2 |    1 |    2 |    3 |    2 |
 
 {{{credits}}}
 | L | T | P | C |
@@ -32,53 +32,25 @@
 - Understand the agile and Devops environment
 
 {{{unit}}}
-| UNIT I | INTRODUCTION | 9 |
-<<<<<<< HEAD
-The Software Development Life Cycle : Pre-development phases of the
-SDLC -- Development specific phases of the SDLC -- Post-development
-phases of the SDLC; Methodologies Paradigm and practices : Process
-methodologies -- development paradigms -- development pracictes;
-=======
-The Software Development Life Cycle : Pre-development phases of the SDLC -- Development specific phases of the SDLC -- Post-development phases of the SDLC; Methodologies Paradigm and practices : Process methodologies -- development paradigms -- development practices;
->>>>>>> d3e9a84297d35cca84f763826d73c84873b36abd
+| UNIT I | SOFTWARE PROCESS MODELS AND PLANNING | 9 |
 
+Introduction to Software Engineering; Principles and Practices; The Software Development Life Cycle : Pre-development phases of the SDLC -- Development specific phases of the SDLC -- Post-development phases of the SDLC; Methodologies Paradigm and Practices : Process methodologies -- Development paradigms -- Development practices; Project Planning Process; Software Project Estimation: Decomposition techniques -- Empirical estimation models -- The make/buy decision -- Project scheduling; Risk Management.
 
-#+begin_comment
-Text book 1, chapter 2,4
-#+end_comment
 
 {{{unit}}}
-| UNIT II | SOFTWARE REQUIREMENT AND RISK | 9 |
+| UNIT II | REQUIREMENTS ANALYSIS AND SPECIFICATION | 9 |
 
-Project planning process : Software requirements document; Requirement
-Engineering Process: Feasibility studies -- Requirements elicitation
-and analysis -- Requirements validation -- Requirements Management;
-Software Project Estimation: Empirical estimation models -- Project
-scheduling; Risk Management: Risk identification -- Risk projection --
-Risk mitigation; Security: defending customer data in APP
+Software Requirements: Functional and non-functional -- Security requirements -- User requirements -- System requirements -- Software requirements document; Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- Requirements validation -- Requirements Management; Classical Analysis: Structured system analysis; Requirement modelling tools.
 
-
-#+begin_comment
-Text book 2, chapter  
-#+end_comment
 
 {{{unit}}}
 | UNIT III | SOFTWARE DESIGN | 9 |
-Design Concepts: Design process -- Design concepts -- Modularity, Coupling and cohesion -- Design model -
-Modeling principles; Structured design; Architectural Design: Architectural Styles;
-Architecture for Network based Applications – Decentralized Architectures. 
+Design Concepts: Design process -- Design concepts -- Modularity, Coupling and cohesion -- Design model -- Modeling principles; Structured Design; Architectural Design: Architectural styles; Architecture for Network based Applications – Decentralized Architectures. 
  
-#+begin_comment
-Text book 2 , chapter  
-#+end_comment
 
 {{{unit}}}
 | UNIT IV | SOFTWARE TESTING | 9 |
-Software Testing Fundamentals; Internal and External Views of Testing:
-White Box Testing --Basis Path Testing -- Control Structure Testing--
-Black Box Testing -- Unit Testing -- Integration Testing -- Regression
-Testing -- Validation Testing -- System Testing -- Security Testing ;
-Testing tool. 
+Software Testing Fundamentals; Internal and External Views of Testing: White box testing -- Basis path testing -- Control structure testing-- Black box testing -- Unit testing -- Integration testing -- Regression testing -- Validation testing -- System testing -- Security testing ;Testing Tool; Debugging; Software Implementation: Coding Practices and Principles; Maintenance: Types.
 
 
 #+begin_comment
@@ -88,16 +60,8 @@ Text book 2 , chapter
 
 {{{unit}}}
 | UNIT V | AGILE AND DEVOPS | 9 |
-Agile Teams : Team and Scrum --  Branches
--- Pull Requests --  Reviews -- Integration -- Agile Iterations -- Reporting
-and Fixing Bugs; Dev/Ops -- From Development to Deployment
---Three-Tier --Responsiveness, Service Level Objectives, and Apdex --
-Releases and Feature Flags -- Monitoring and Finding Bottlenecks
---Improving Rendering and Database Performance With Caching; Security: Defending customer data in application
+Agile Teams : Team and Scrum --  Branches -- Pull Requests --  Reviews -- Integration -- Agile Iterations -- Reporting and fixing bugs; Dev/Ops: From Development to Deployment -- Three-Tier -- Responsiveness, Service Level Objectives, and Apdex -- Releases and Feature Flags -- Monitoring and Finding Bottlenecks --Improving Rendering and Database Performance With Caching; Security: Defending customer data in application.
 
-#+begin_comment
-Text book 1 , chapter 10,12
-#+end_comment
 
 
 \hfill *Total Periods: 45*
@@ -111,23 +75,14 @@ After the completion of this course, students will be able to:
 - Explain the procedure in agile and devops environment (k2)
 
 ** TEXT BOOKS
-<<<<<<< HEAD
-1. Armando Fox and David Patterson , Engineering Software as a
-   Service: An Agile Approach Using Cloud Computing Second Edition,
+
+1. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Eighth Edition, 2015.
+2. Armando Fox and David Patterson , Engineering Software as a    Service: An Agile Approach Using Cloud Computing Second Edition,
    2021
-2. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A
-   Practitioner's Approach'', McGraw-Hill International Edition,
-   Eighth Edition, 2015.
-3. Ian Sommerville, ``Software Engineering'', Pearson Education
-   Asia,Tenth Edition, 2015.
 =======
-1. Armando Fox and David Patterson , Engineering Software as a Service: An Agile Approach Using Cloud Computing Second Edition, 2021
-2. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Eighth Edition, 2015.
-3. Brian Albee, Hands-On SoftwareEngineering with Python,  Packt Publishing, 2018
->>>>>>> d3e9a84297d35cca84f763826d73c84873b36abd
 
 ** REFERENCES
 1. Ian Sommerville, ``Software Engineering'', Pearson Education Asia,Tenth Edition, 2015.
-2. Pankaj Jalote, ``Software Engineering, A Precise Approach'', Wiley  India, 2010.
+2. Brian Albee, Hands-On SoftwareEngineering with Python,  Packt Publishing, 2018.
 3. Kelkar S A,``Software Engineering'', Prentice Hall of India, 2007.
 4. Stephen R Schach, ``Software Engineering'', Tata McGraw-Hill Publishing Company Limited,2007.
