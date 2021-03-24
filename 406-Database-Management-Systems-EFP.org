@@ -127,7 +127,7 @@ NoSQL, CRUD operations
 14. The students are asked to document a learning experience as a
     reflection of their skills acquired.
 
-\hfill *Total Hours:30 + 60 = 90*
+\hfill *Total Hours: 30 + 60 = 90*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
@@ -158,35 +158,21 @@ assessment only.*
 #+attr_latex: :environment tabularx :width \textwidth :align BBAAAA
 | <10>       | <40>                                     | <10>       |       <10> |       <10> |       <10> |
 |------------+------------------------------------------+------------+------------+------------+------------|
-
-|                                   |                                                                          Reflection by Instructor | Reflection by peers | Presenta-tion by peers | Documenta-tion | Studio |
-|-----------------------------------+---------------------------------------------------------------------------------------------------+---------------------+------------------------+----------------+--------|
-| Review 1: Scope and modules       |                                                                                                20 |                  10 |                     10 |             10 |     50 |
-|-----------------------------------+---------------------------------------------------------------------------------------------------+---------------------+------------------------+----------------+--------|
-| Review 2: Design                  |                                                                                                20 |                  10 |                     10 |             10 |     50 |
-|-----------------------------------+---------------------------------------------------------------------------------------------------+---------------------+------------------------+----------------+--------|
-| Mid sem evaluation by a committee |                        Planning and modules: 20, Technical clarity: 20, Ethics/Best practices: 10 |            Viva: 10 |                     20 |             20 |        |
-|-----------------------------------+---------------------------------------------------------------------------------------------------+---------------------+------------------------+----------------+--------|
-| Review 3: Implementation          |                                                                                                20 |                  10 |                     10 |             10 |     50 |
-|-----------------------------------+---------------------------------------------------------------------------------------------------+---------------------+------------------------+----------------+--------|
-| End sem evaluation by a committee | Demo: 40 (Innovation, emerging technologies, security, user interface), Ethics/Best practices: 10 |            Viva: 10 |                     20 |             20 |        |
-|-----------------------------------+---------------------------------------------------------------------------------------------------+---------------------+------------------------+----------------+--------|
+|            | Reflection by Instructor                 | Reflection by peers | Presenta-tion by peers | Documenta-tion |     Studio |
+|------------+------------------------------------------+------------+------------+------------+------------|
+| Review 1: Scope and modules | 20                                       | 10         |         10 |         10 |         50 |
+|------------+------------------------------------------+------------+------------+------------+------------|
+| Review 2: Design | 20                                       | 10         |         10 |         10 |         50 |
+|------------+------------------------------------------+------------+------------+------------+------------|
+| Mid sem evaluation by a committee | Planning and modules: 20, Technical clarity: 20, Ethics/Best practices: 10 | Viva: 10   |         20 |         20 |            |
+|------------+------------------------------------------+------------+------------+------------+------------|
+| Review 3: Implementation | 20                                       | 10         |         10 |         10 |         50 |
+|------------+------------------------------------------+------------+------------+------------+------------|
+| End sem evaluation by a committee | Demo: 40 (Innovation, emerging technologies, security, user interface), Ethics/Best practices: 10 | Viva: 10   |         20 |         20 |            |
+|------------+------------------------------------------+------------+------------+------------+------------|
 #+TBLFM: 
 
 ** Tentative Rubrics for Evaluation
-| Assessment Tool      | Weightage |     |
-|----------------------+-----------+-----|
-| End semester exam    |       25% |     |
-| Continous assessment |       75% |     |
-| Class activity       |           | 10% |
-| Review 1             |           | 10% |
-| Review 2             |           | 15% |
-| Review 3             |           | 20% |
-| Mid semester review  |           | 20% |
-| End semester review  |           | 25% |
-|----------------------+-----------+-----|
-| Total                |      100% |     |
-
 | Assessment Tool      | Weight |     |
 |----------------------+--------+-----|
 | End semester exam    |     50 |     |
@@ -203,6 +189,20 @@ assessment only.*
 | Total                |    100 |     |
 
 #+BEGIN_COMMENT
+| Assessment Tool      | Weightage |     |
+|----------------------+-----------+-----|
+| End semester exam    |       25% |     |
+| Continous assessment |       75% |     |
+| Class activity       |           | 10% |
+| Review 1             |           | 10% |
+| Review 2             |           | 15% |
+| Review 3             |           | 20% |
+| Mid semester review  |           | 20% |
+| End semester review  |           | 25% |
+|----------------------+-----------+-----|
+| Total                |      100% |     |
+
+
 | Assessment Tool | Weightage |     |
 |-----------------+-----------+-----|
 | Class Activity  |       25% |     |
