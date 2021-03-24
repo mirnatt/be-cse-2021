@@ -24,7 +24,7 @@
 
 ** LECTURES
 {{{unit}}}
-| UNIT I | PROGRAM DEVELOPMENT  | 8 |
+| UNIT I | PROGRAM DEVELOPMENT | 6 |
 Program Development: Algorithmic problem solving -- Problem
 formulation -- Data structures -- Abstraction -- Encapsulation;
 Programming in C: Programming Constructs -- Arrays -- Strings --
@@ -35,18 +35,18 @@ Functions and Recursion.
 Databases: Relational Databases -- SQL -- SQLite.
 
 {{{unit}}}
-| UNIT III | WEB APPLICATION DEVELOPMENT | 7 |
+| UNIT III | WEB APPLICATION DEVELOPMENT | 6 |
 Web Application Development: HTML and CSS -- JavaScript;
 Security; Developing Single Page Application; Mobile
 Applications.
 
 {{{unit}}}
-| UNIT IV | DATA SCIENCE | 4 |
+| UNIT IV | DATA SCIENCE | 6 |
 Data Science: Regression -- Classification -- Visualization
 -- Scikit-Learn.
 
 {{{unit}}}
-| UNIT V  | SOFTWARE ENGINEERING  | 5 |
+| UNIT V | SOFTWARE ENGINEERING | 6 |
 Software Engineering: Planning -- Project management --
 Feasibility study -- Cost-Benefit analysis -- Modular and
 architecture Design -- Documentation; Ethics and best
@@ -63,7 +63,7 @@ practices in Engineering.
 8. Regression and Classification (2)
 9. Data visualization (2)
 
-** STUDIO SESSIONS (15 sessions of 3 hours each)
+** STUDIO SESSIONS (30 sessions of 2 hours each)
 - /Sample Case Study/: Timetable Management System for an Academic
   Institution
 - /Input/: Set of courses in a semester, Type of courses, Classrooms,
@@ -75,7 +75,7 @@ practices in Engineering.
   - A faculty does not handle more than 2 sessions per day for the same course.
   - A faculty cannot handle more than one class in each session.
 
-\hfill *Total Hours:30 + 15 + 45 = 90*
+\hfill *Total Hours: 30 + 60 = 90*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
@@ -158,11 +158,28 @@ assessment only.*
 |------------+------------------------------------------+------------+------------+------------+------------|
 | Review 3: Implementation | 20                                       | 10         |         10 |         10 |         50 |
 |------------+------------------------------------------+------------+------------+------------+------------|
-| End sem evaluation by a committee | Demo: 40 (Innovation, emerging technologies, security, user interface), Ethics/Best practices: 10 | Viva: 10   |         20 |         20 |            |
+| End sem evaluation by a committee | Demo: 40 (Innovation, emerging technologies, security, user interface), Ethics/Best practices: 10 | Viva: 10   |         20 |         20 |         50 |
 |------------+------------------------------------------+------------+------------+------------+------------|
 #+TBLFM: 
 
 ** Tentative Rubrics for Evaluation
+| Assessment Tool      | Weight |     |
+|----------------------+--------+-----|
+| End semester exam    |     50 |     |
+| Continous assessment |        |     |
+| Lab work             |     20 |     |
+| Theory test          |     15 |     |
+| Lab test             |     15 |     |
+| Review 1             |        |  5% |
+| Review 2             |        |  5% |
+| Review 3             |        |  5% |
+| Mid semester review  |        | 10% |
+| End semester review  |        | 25% |
+|----------------------+--------+-----|
+| Total                |    100 |     |
+
+#+BEGIN_COMMENT
+
 | Assessment Tool      | Weightage |     |
 |----------------------+-----------+-----|
 | End semester exam    |       25% |     |
@@ -176,7 +193,6 @@ assessment only.*
 |----------------------+-----------+-----|
 | Total                |      100% |     |
 
-#+BEGIN_COMMENT
 | Assessment Tool | Weightage |     |
 |-----------------+-----------+-----|
 | Class Activity  |       25% |     |

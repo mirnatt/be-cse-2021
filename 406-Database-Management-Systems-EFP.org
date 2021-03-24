@@ -168,7 +168,7 @@ assessment only.*
 |------------+------------------------------------------+------------+------------+------------+------------|
 | Review 3: Implementation | 20                                       | 10         |         10 |         10 |         50 |
 |------------+------------------------------------------+------------+------------+------------+------------|
-| End sem evaluation by a committee | Demo: 40 (Innovation, emerging technologies, security, user interface), Ethics/Best practices: 10 | Viva: 10   |         20 |         20 |            |
+| End sem evaluation by a committee | Demo: 40 (Innovation, emerging technologies, security, user interface), Ethics/Best practices: 10 | Viva: 10   |         20 |         20 |         50 |
 |------------+------------------------------------------+------------+------------+------------+------------|
 #+TBLFM: 
 
