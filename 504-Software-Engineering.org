@@ -25,11 +25,12 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- Understand the phases and process  model in a software project mangement
-- Understand  a requirements and risk in developing software projects 
-- Build an application using MVC and mobile framework
-- Analyze the software requirements and testing of software projects
-- Understand the agile and Devops environment
+- To understand the phases in a software project
+- To understand fundamental concepts of requirements engineering and
+  Analysis Modeling.
+- To understand the various software design methodologies
+- To learn various testing techniques and maintenance measures.
+- To understand agile development and Devops
 
 {{{unit}}}
 | UNIT I | SOFTWARE PROCESS MODELS AND PLANNING | 9 |
@@ -53,10 +54,6 @@ Design Concepts: Design process -- Design concepts -- Modularity, Coupling and c
 Software Testing Fundamentals; Internal and External Views of Testing: White box testing -- Basis path testing -- Control structure testing-- Black box testing -- Unit testing -- Integration testing -- Regression testing -- Validation testing -- System testing -- Security testing ;Testing Tool; Debugging; Software Implementation: Coding Practices and Principles; Maintenance: Types.
 
 
-#+begin_comment
-Text book 2 , chapter  
-#+end_comment
-
 
 {{{unit}}}
 | UNIT V | AGILE AND DEVOPS | 9 |
@@ -73,6 +70,13 @@ After the completion of this course, students will be able to:
 - Choose the suitable framework do develop an application (k3) 
 - Categorize the requirements and testing need of the software project (K3)
 - Explain the procedure in agile and devops environment (k2)
+
+- Choose an appropriate process model and estimate project cost and effort required(K4)
+- Perform requirements analysis and modeling (K3)
+- Apply systematic procedure for software design (K3)
+- Compare and contrast the various testing and maintenance activities (K2)
+- MAke use of agile development and Devops (K3)
+- Build a system in teams and apply best practices and principles in software engineering with clear documentation of approaches (K3)
 
 ** TEXT BOOKS
 
