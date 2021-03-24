@@ -74,7 +74,7 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS
 
 1. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Eighth Edition, 2015.
-2. Armando Fox and David Patterson , Engineering Software as a    Service: An Agile Approach Using Cloud Computing Second Edition, 2021.
+2. Armando Fox and David Patterson , Engineering Software as a  Service: An Agile Approach Using Cloud Computing'', Strawberry Canyon LLC, Second Edition, 2021.
 =======
 
 ** REFERENCES
