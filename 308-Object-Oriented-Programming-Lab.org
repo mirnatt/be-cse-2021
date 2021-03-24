@@ -12,13 +12,12 @@
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K3 |   2 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
-| CO2            | K3 |   2 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
-| CO3            | K3 |   2 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
-| CO4            | K3 |   2 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
-| CO5            | K3 |   2 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
-| CO6            | K5 |   2 |   3 |   3 |   3 |   3 |   0 |   0 |   1 |   3 |    3 |    0 |    3 |    3 |    3 |    2 |
-| Score          |    |  12 |  15 |  15 |   3 |   3 |   0 |   0 |   1 |   3 |    3 |    0 |   15 |   15 |    3 |    2 |
+| CO1            | K3 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
+| CO2            | K3 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
+| CO3            | K3 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
+| CO4            | K3 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
+| CO5            | K3 |   2 |   3 |   3 |   3 |   2 |   1 |   1 |   2 |   3 |    3 |    0 |    3 |    3 |    0 |    0 |
+| Score          |    |  10 |  15 |  15 |   3 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |   15 |   15 |    3 |    2 |
 | Course Mapping |    |   2 |   3 |   3 |   1 |  1  |   0 |   0 |   1 |   1 |    1 |    0 |    3 |    3 |    1 |    1 |
 {{{credits}}}
 | L | T | P |   C |
@@ -32,8 +31,8 @@
 
 ** SUGGESTIVE EXPERIMENTS
 1.	Build an application using classes and objects (Eg: Electricity bill generation)
-2.	Program using Inheritance (Eg: Payrollapplication)
-3.	Program to implement Polymorphism (E.g. Area of different shapes)
+2.	Develop an application using Inheritance (Eg: Payrollapplication)
+3.	Write a program to experiment with Polymorphism (E.g. Area of different shapes)
 4.	Design a Java interface for ADTs. (E.g. Stack, Queue)
 5.	Programs using Exception handling. (E.g. Bank Account manipulation)
 6.	Program to implement packages (Eg: Currency converter)
@@ -58,7 +57,7 @@ After the completion of this course, students will be able to:
 - Apply inheritance and interface concepts to write programs(K4)
 - Build Java programs using polymorphic methods and objects(K4)
 - Develop applications using generic methods and generic programming(K3)
-- Apply appropriate features of object-oriented programming paradigm to develop real time applications (K4).
+- Solve real-world problem in team by applying the appropriate features of object-oriented programming paradigm with best practices and document its methodology (K4).
 
 #+begin_comment
 09.03.2021
