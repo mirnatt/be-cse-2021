@@ -32,7 +32,7 @@
 - To understand agile development and Devops
 
 {{{unit}}}
-| UNIT I | SOFTWARE PROCESS MODELS AND PLANNING | 9 |
+| UNIT I | SOFTWARE PROCESS AND PLANNING | 9 |
 
 Introduction to Software Engineering; Principles and Practices; The Software Development Life Cycle : Pre-development phases of the SDLC -- Development specific phases of the SDLC -- Post-development phases of the SDLC; Methodologies Paradigm and Practices : Process methodologies -- Development paradigms -- Development practices; Project Planning Process; Software Project Estimation: Decomposition techniques -- Empirical estimation models -- The make/buy decision -- Project scheduling; Risk Management.
 
