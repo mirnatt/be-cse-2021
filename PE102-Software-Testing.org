@@ -31,7 +31,7 @@
 #+end_comment
 
 ** Course Objectives
-- To learn the software testing fundamentals 
+- To explain the software testing fundamentals 
 - To acquire structural and analtical testing knowledge in  software code
 - To understand and apply the levels of testing 
 - To apply quality testing and tools in software projects 
@@ -58,7 +58,7 @@ Text Book 1, chapter 2,3
 {{{unit}}}
 
 |UNIT III| QUALITY TESTING AND TOOLS |9| 
-Quality Characteristics for technical testing :  Security -- reliability -- efficiency -- changeability --testability -- portability - installability -- sample questions; Test tools and Automation : Test automation project -- specific test tools -- sample exam ;
+Quality Characteristics for technical testing :  Security -- reliability -- efficiency -- changeability --testability -- portability - installability -- sample questionnaire; Test tools and Automation : Test automation project -- specific test tools -- sample exam ;
 
 #+begin_comment
 Text Book 1, chapter 4,6
@@ -66,7 +66,7 @@ Text Book 1, chapter 4,6
 {{{unit}}}
 
 |UNIT IV| TESTING OBJECT-ORIENTED SOFTWARE |9|
-Testing Object-Oriented Software: Issues in Testing Object-Oriented Software, An Orthogonal Approach to Test, Intraclass Testing, Testing with State Machine Models, Interclass Testing, Structural Testing of Classes, Oracles for Classes, Polymorphism and Dynamic Binding, Inheritance, Genericity, Exceptions; Fault-Based Testing: Assumptions, Mutation Analysis, Fault-Based Adequacy Criteria. 
+Testing Object-Oriented Software: Issues in Testing Object-Oriented Software, An Orthogonal Approach to Test, Intraclass Testing, Testing with State Machine Models, Interclass Testing, Structural Testing of Classes, Oracles for Classes, Testing Polymorphism and Dynamic Binding, Inheritance, Genericity and Exceptions; Fault-Based Testing: Assumptions, Mutation Analysis, Fault-Based Adequacy Criteria. 
 
 #+begin_comment
  Text Book 2, chapter 15, 16  
@@ -83,7 +83,7 @@ Text Book 3, chapter 3,4,5,6,14
 #+end_comment 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
-- Summarize software testing practices (K2)
+- Explain software testing fundamentals (K2)
 - Experiment  structural and analytical testing (K3)
 - Apply quality testing and tools in projects  (K3)
 - Build OO software and test (K3)
