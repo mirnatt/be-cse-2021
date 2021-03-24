@@ -100,6 +100,7 @@ After the completion of this course, students will be able to:
    used to render an animation scene (K2)
  - Compare different types of multimedia file formats, compression
    techniques and design basic 3D Scenes using Blender (K2).
+ - Design animation sequences in teams using transformation algorithms and Blender.  
 
 ** TEXT BOOKS
 1. Donald Hearn, Pauline Baker M, ``Computer Graphics'', Prentice
