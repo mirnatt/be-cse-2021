@@ -23,8 +23,8 @@
 | CO4            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |    3 |    0 |    0 |    3 |    3 |    3 |
 | CO5            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |    3 |    0 |    0 |    3 |    3 |    3 |
 | CO6            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   3 |   2 |   3 |    3 |    0 |    3 |    3 |    3 |    3 |
-| Score          |    |  15 |  10 |  10 |   0 |   5 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |   10 |   15 |    5 |
-| Course Mapping |    |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
+| Score          |    |  12 |  12 |  18 |  18 |  12 |   0 |   3 |   2 |   3 |   18 |    0 |    3 |   12 |   12 |   12 |
+| Course Mapping |    |   2 |   2 |   3 |   3 |  2  |   0 |   1 |   0 |   1 |    3 |    0 |    1 |    2 |    2 |    2 |
 {{{credits}}}
 | L | T | P | C | 
 | 3 | 0 | 0 | 3 |
@@ -135,7 +135,7 @@ After the completion of this course, students will be able to:
 - Develop responsive web applications using Servlets and AJAX (K3)
 - Build web application using ReactJS framework (K3)
 - Develop web application using NodeJS framework (K3).
-- Examine various technologies to design web application (K4).
+- •	Examine various technologies to design web application with best practices  in teams with clear documentation (K4).
       
 ** TEXT BOOKS
 1. Jeffrey C, Jackson, ``Web Technologies A Computer Science
