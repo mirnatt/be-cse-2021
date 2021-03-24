@@ -49,7 +49,7 @@ Object database extensions to SQL, ODL and OQL, CAP theorem,
 Introduction to Aggregate data models -- No-SQL: Data modelling in
 NoSQL, CRUD operations
 
-** CLASS ACTIVITY (15 hours)
+** CLASS ACTIVITY (15 hours taken from studio sessions)
 1. Requirement analysis of any problem statement
 2. Draw an ER/EER diagram for a real-time application.
 3. Map the ER/EER to relational database schema (top-down approach)
