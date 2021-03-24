@@ -31,11 +31,11 @@
 
 
 {{{unit}}}
-|UNIT I | Low level vision | 9 |
-Thresholding Techniques: Region growing methods -- Thresholding -- Adaptive thresholding -- Approaches to threshold selection -- Global valley approach to thresholding; Edge detection: Differential Gradient operator -- Hysteresis thresholding -- Canny operator -- Laplacian operator -- Active contours -- Level set -- Graph cut approach; Corner and Interest point detection: Second order derivative schemes -- Harris Interest point operators -- Local invariant feature detectors and descriptors; Texture;
+|UNIT I | Image based feature extraction | 9 |
+Introduction to Computer Vision and the challenges; Image based feature extraction: Thresholding Techniques -- Region growing methods -- Thresholding -- Adaptive thresholding -- Approaches to threshold selection -- Global valley approach to thresholding; Edge detection: Differential Gradient operator -- Hysteresis thresholding -- Canny operator -- Laplacian operator -- Active contours -- Level set -- Graph cut approach; Corner and Interest point detection: Second order derivative schemes -- Harris Interest point operators -- Local invariant feature detectors and descriptors; Texture;
 
 {{{unit}}}
-|UNIT II | Intermediate level vision  | 9 |
+|UNIT II | Shapes and Regions | 9 |
 Binary shape analysis: Skeletons and thinning -- Other measures for shape recognition; Boundary Pattern analyis: Boundary tracking procedures -- Centroidal profiles; Line detection: Hough transform -- Foot of normal method; Circle and Ellipse detection: Hough based scheme -- Ellipse detection methods; Case study: Human Iris Location;
 
 {{{unit}}}
@@ -68,12 +68,12 @@ After the completion of this course, students will be able to:
 - Build Deep learning models for computer vision (K3)
    
 ** TEXT BOOKS
-1. Davies, E. Roy. Computer and machine vision: theory, algorithms, practicalities. Academic Press, 2012.( Units I and II)
-2. Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010. (Unit III and IV)
-3. Shanmugamani, Rajalingappaa. Deep Learning for Computer Vision: Expert techniques to train advanced neural networks using TensorFlow and Keras. Packt Publishing Ltd, 2018. (Unit V)
+1. Davies, E. Roy. Computer and machine vision: theory, algorithms, practicalities. Academic Press, 2012.
+2. Shanmugamani, Rajalingappaa. Deep Learning for Computer Vision: Expert techniques to train advanced neural networks using TensorFlow and Keras. Packt Publishing Ltd, 2018. 
    
 ** REFERENCES
-1. D. L. Baggio et al., Mastering OpenCV with Practical Computer Vision Projects, Packt Publishing, 2012.
-2. Jan Erik Solem, Programming Computer Vision with Python: Tools and algorithms for analyzing images, O'Reilly Media, 2012.
-3. Mark Nixon and Alberto S. Aquado, ―Feature Extraction & Image Processing for Computer Vision, Third Edition, Academic Press, 2012.
-4. Simon J. D. Prince, Computer Vision: Models, Learning, and Inference, Cambridge University Press, 2012.
+1. Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010. 
+2. D. L. Baggio et al., Mastering OpenCV with Practical Computer Vision Projects, Packt Publishing, 2012.
+3. Jan Erik Solem, Programming Computer Vision with Python: Tools and algorithms for analyzing images, O'Reilly Media, 2012.
+4. Mark Nixon and Alberto S. Aquado, ―Feature Extraction & Image Processing for Computer Vision, Third Edition, Academic Press, 2012.
+5. Simon J. D. Prince, Computer Vision: Models, Learning, and Inference, Cambridge University Press, 2012.
