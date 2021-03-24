@@ -64,7 +64,7 @@ NoSQL, CRUD operations
 10. Data modelling and design, operations in NoSQL (Mongo/ HBase /
     Cassandra / Redis)
 
-** STUDIO SESSIONS (15 sessions of 4 hours each)
+** STUDIO SESSIONS (30 sessions of 2 hours each)
 /Sample Case Study/: Online booking and service system
 
 /Variants/
