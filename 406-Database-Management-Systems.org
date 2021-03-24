@@ -48,10 +48,6 @@ Characteristics of database -- Database users -- Data models, Schemas
 Centralized and client/server DBMS architectures -- Data modeling
 using ER model -- Enhanced-ER model.
 
-#+begin_comment
-
-#+end_comment
-
 {{{unit}}}
 |UNIT II | RELATIONAL MODEL AND SQL | 11 |
 Relational Model: Concepts -- Constraints -- Update operations --
@@ -74,10 +70,6 @@ SQL/PSM ; Design guidelines -- Functional dependencies -- First,
 second and third Normal Forms -- Boyce-Codd Normal Forms; FD:
 Inference rules -- Minimal cover; ER-to-relational mapping.
 
-#+begin_comment
-
-#+end_comment
-
 {{{unit}}}
 | UNIT IV | TRANSACTION, CONCURRENCY AND RECOVERY | 8 |
 Transaction Processing: Concepts -- ACID properties -- schedules --
@@ -92,7 +84,8 @@ to SQL; Introduction to NOSQL Systems -- The CAP Theorem -- Document-Based
 NOSQL Systems and MongoDB.
 
 #+begin_comment
-Added a new topic, Object-relational databases and removed the NOSQL databases other than MongoDB.
+Added a new topic, Object-relational databases and removed the NOSQL
+databases other than MongoDB.
 #+end_comment
 
 \hfill *Total Periods: 45*

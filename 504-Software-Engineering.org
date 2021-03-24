@@ -33,7 +33,10 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
-The Software Development Life Cycle : Pre-development phases of the SDLC -- Development specific phases of the SDLC -- Post-development phases of the SDLC; Methodologies Paradigm and practices : Process methodologies -- development paradigms -- development pracictes;
+The Software Development Life Cycle : Pre-development phases of the
+SDLC -- Development specific phases of the SDLC -- Post-development
+phases of the SDLC; Methodologies Paradigm and practices : Process
+methodologies -- development paradigms -- development pracictes;
 
 
 #+begin_comment
@@ -43,7 +46,12 @@ Text book 4, chapter 2,4
 {{{unit}}}
 | UNIT II | SOFTWARE REQUIREMENT AND RISK | 9 |
 
-Project planning process : Software requirements document; Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- Requirements validation -- Requirements Management; Software Project Estimation:   Empirical estimation models -- -- Project scheduling; Risk Management: Risk identification -- Risk projection -- Risk mitigation;   
+Project planning process : Software requirements document; Requirement
+Engineering Process: Feasibility studies -- Requirements elicitation
+and analysis -- Requirements validation -- Requirements Management;
+Software Project Estimation: Empirical estimation models -- Project
+scheduling; Risk Management: Risk identification -- Risk projection --
+Risk mitigation;
 
 
 #+begin_comment
@@ -52,7 +60,12 @@ Text book 2, chapter 2,3
 
 {{{unit}}}
 | UNIT III | SOFTWARE DESIGN | 9 |
-Design Concepts: Design process -- Design concepts -- Design model -- Modeling principles; Architectural Design: Architectural Styles; Simple Styles – Distributed and Networked Architectures – Architecture for Network based Applications – Decentralized Architectures. Architecture of Software Systems involving Internet-of-Things(IoT);Architecture tool. 
+Design Concepts: Design process -- Design concepts -- Design model --
+Modeling principles; Architectural Design: Architectural Styles;
+Simple Styles – Distributed and Networked Architectures – Architecture
+for Network based Applications – Decentralized
+Architectures. Architecture of Software Systems involving
+Internet-of-Things(IoT);Architecture tool.
  
 #+begin_comment
 Text book 2 , chapter 4,6
@@ -60,7 +73,11 @@ Text book 2 , chapter 4,6
 
 {{{unit}}}
 | UNIT IV | SOFTWARE TESTING | 9 |
-Software Testing Fundamentals; Internal and External Views of Testing: White Box Testing --Basis Path Testing -- Control Structure Testing-- Black Box Testing -- Unit Testing -- Integration Testing -- Regression Testing -- Validation Testing -- System Testing -- Security Testing ; Testing tool.
+Software Testing Fundamentals; Internal and External Views of Testing:
+White Box Testing --Basis Path Testing -- Control Structure Testing--
+Black Box Testing -- Unit Testing -- Integration Testing -- Regression
+Testing -- Validation Testing -- System Testing -- Security Testing ;
+Testing tool.
 
 
 #+begin_comment
@@ -70,7 +87,13 @@ Text book 2 , chapter 7,8
 
 {{{unit}}}
 | UNIT V | AGILE AND DEVOPS | 9 |
-Agile Teams : It Takes a Team: Two-Pizza and Scrum --  Using Branches Effectively -- Pull Requests and Code Reviews -- Delivering the Backlog Using Continuous Integration -- Agile Iterations -- Reporting and Fixing Bugs; Dev/Ops -- From Development to Deployment --Three-Tier --Responsiveness, Service Level Objectives, and Apdex -- Releases and Feature Flags -- Monitoring and Finding Bottlenecks --Improving Rendering and Database Performance With Caching;
+Agile Teams : It Takes a Team: Two-Pizza and Scrum -- Using Branches
+Effectively -- Pull Requests and Code Reviews -- Delivering the
+Backlog Using Continuous Integration -- Agile Iterations -- Reporting
+and Fixing Bugs; Dev/Ops -- From Development to Deployment
+--Three-Tier --Responsiveness, Service Level Objectives, and Apdex --
+Releases and Feature Flags -- Monitoring and Finding Bottlenecks
+--Improving Rendering and Database Performance With Caching;
 
 #+begin_comment
 Text book 1 , chapter 10,12
@@ -87,13 +110,15 @@ After the completion of this course, students will be able to:
 - Categorize the requirements and testing need of the software project (K3)
 - Explain the procedure in agile and devops environment (k2)
 
- 
-
-
 ** TEXT BOOKS
-1. Armando Fox and David Patterson , Engineering Software as a Service: An Agile Approach Using Cloud Computing Second Edition, 2021
-2. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Eighth Edition, 2015.
-3. Ian Sommerville, ``Software Engineering'', Pearson Education Asia,Tenth Edition, 2015.
+1. Armando Fox and David Patterson , Engineering Software as a
+   Service: An Agile Approach Using Cloud Computing Second Edition,
+   2021
+2. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A
+   Practitioner's Approach'', McGraw-Hill International Edition,
+   Eighth Edition, 2015.
+3. Ian Sommerville, ``Software Engineering'', Pearson Education
+   Asia,Tenth Edition, 2015.
 
 ** REFERENCES
 1. Rajib Mall, ``Fundamentals of Software Engineering'', PHI Learning  Private Limited, Fifth Edition, 2015.
