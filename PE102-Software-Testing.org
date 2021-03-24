@@ -75,7 +75,7 @@ Testing Object-Oriented Software: Issues in Testing Object-Oriented Software, An
 {{{unit}}}
 
 |UNIT V|WEB AND MOBILE APPLICATION TESTING   |9|
-Website Testing ;Challenges in mobile testing ; Testing Mobile Apps: Mobile specific testing--functional Testing-- Usability testing--Accessibility testing--Stress and Interrupt testing--performance testing--security testing; Mobile Test automation Tools: image recognition--OCR/text recognition-- Native object recognition--current state of tools; Mobile cloud testing.
+Website Testing:Fundamentals--Black Box Testing--Gray Box Testing -- White Box Testing--Configuration and Compatibility Testing--Usability Testing;Challenges in mobile testing ; Testing Mobile Apps: Mobile specific testing--functional Testing-- Usability testing--Accessibility testing--Stress and Interrupt testing--performance testing--security testing; Mobile Test automation Tools: image recognition--OCR/text recognition-- Native object recognition--current state of tools; Mobile cloud testing.
 
 #+begin_comment
 Text Book 3, chapter 3,4,5,6,14
