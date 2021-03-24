@@ -68,7 +68,7 @@ After the completion of this course, students will be able to:
 - Perform requirements analysis and modeling (K3)
 - Apply systematic procedure for software design (K3)
 - Compare and contrast the various testing and maintenance activities (K2)
-- MAke use of agile development and Devops (K3)
+- Make use of agile development and Devops (K3)
 - Build a system in teams and apply best practices and principles in software engineering with clear documentation of approaches (K3)
 
 ** TEXT BOOKS
