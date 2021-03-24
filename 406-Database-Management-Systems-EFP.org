@@ -1,0 +1,242 @@
+* <<<203>>> DATABASE MANAGEMENT SYSTEMS FUNDAMENTALS
+:properties:
+:author: Dr R Kanchana, Mr B Senthilkumar
+:date: 16 March 2021
+:end:
+
+{{{credits}}}
+| L | T | P | C |
+| 2 | 0 | 4 | 4 |
+		
+** CO-PO Mapping                                                   :noexport:
+|     | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+| CO1 |     |   3 |     |   2 |     |     |     |     |     |      |      |      |    2 |    2 |      |
+| CO2 |   2 |     |     |   1 |     |     |     |     |     |      |      |      |    2 |    1 |      |
+| CO3 |     |     |   3 |   3 |   3 |     |     |     |     |      |      |      |    3 |    3 |    3 |
+| CO4 |     |     |     |     |     |     |     |   1 |     |    3 |    1 |    1 |      |      |      |
+| CO5 |     |     |     |     |     |     |     |     |   3 |    3 |    2 |    1 |      |    1 |      |
+| CO6 |     |     |     |     |     |   2 |   2 |   1 |     |      |      |      |      |      |      |
+
+** COURSE OBJECTIVES
+1. To link the business systems to database fundamentals. 
+2. To progress from fundamental principles to larger Engineering systems 
+3. To motivate independent learning and exploration.
+
+** LECTURES
+{{{unit}}}
+| UNIT I | CONCEPTUAL MODELING | 6 |
+Requirement analysis, Entity-Relationship (ER) model, Constraints,
+Enhanced-ER (EER) model, EER in UML class diagrams.
+
+{{{unit}}}
+| UNIT II | RELATIONAL DATA MODEL & CONSTRAINTS  | 6 |
+Integrity constraints, SQL Data definition, Data retrieval, Complex
+queries, Views, Database programming.
+
+{{{unit}}}
+| UNIT III | RELATIONAL MODEL DESIGN | 6  |
+Relational design using ER and EER-to-Relational mapping, Functional
+dependencies, Normalization, Properties of relational decomposition,
+Algorithms for relational database schema design.
+
+{{{unit}}}
+| UNIT IV | TRANSACTION PROCESSSING | 6 |
+Schedules, Serializability, Two-phase locking for concurrency control
+
+{{{unit}}}
+| UNIT V | OBJECT-RELATIONAL AND NO-SQL DATABASES | 6 |
+Object database extensions to SQL, ODL and OQL, CAP theorem,
+Introduction to Aggregate data models -- No-SQL: Data modelling in
+NoSQL, CRUD operations
+
+** CLASS ACTIVITY (15 hours)
+1. Requirement analysis of any problem statement
+2. Draw an ER/EER diagram for a real-time application.
+3. Map the ER/EER to relational database schema (top-down approach)
+4. Create a database for a given specification with constraints.
+5. Apply SQL queries / database programming to retrieve data.
+6. Design a relational database using Normalization theory (bottom-up
+   approach)
+7. Check the serializability of any non-serial schedule using
+   two-phase locking techniques.
+8. Map the EER to ODB schema (top-down approach)
+9. ODL and OQL in object-relational database
+10. Data modelling and design, operations in NoSQL (Mongo/ HBase /
+    Cassandra / Redis)
+
+** STUDIO SESSIONS (15 sessions of 4 hours each)
+/Sample Case Study/: Online booking and service system
+
+/Variants/
+   - Online car rental booking system (ola)
+   - Online food / medicine / courier / groceries delivery system (swiggy)
+   - Online healthcare/ legal services / homeneeds (carpentry / plumbing etc)
+
+1. The students are first taught the fundamentals of conceptual
+   modeling of a given application and relational database design. The
+   instructor provides the necessary reading materials such as links
+   on google, industry links and professional magazine articles
+   available in SSN library and asks the students to study different
+   database systems and industrial applications based on the
+   fundamentals learnt.
+   
+   The students must submit a short report on various problems and
+   applications, tools and knowledge required to design such a system
+   summarizing their observations and limitations.
+2. The instructor introduces the general aspects of Online booking and
+   service system with constraints involved. Further, the faculty
+   provides pointers to several variants of this system mentioned
+   above.
+3. The Students are grouped in teams and each team is asked to
+   formulate a variant of Online booking and service system and
+   identify the constraints and scope of their problem.
+4. The students are asked to study the pros and cons of top-down and
+   bottom-up approaches and choose the suitable one with proper
+   justification.
+5. The students must evolve a conceptual model of the formulated
+   problem capturing all the constraints and scenarios involved. They
+   should observe the limitation of the ER model not that does not
+   capture a particular constraint and find out ways to still include
+   it in the design.
+6. The students need to decide the type of database model ( RM, ORDB,
+   NoSQL -- columnar/graph/document/key-value / XML) to suit the
+   application requirements and justify it.
+7. The students will come up with the database schema design by
+   applying the fundamentals of normalization with a focus on data
+   integrity, consistency, and security (access control / role based)
+   requirements.
+8. The students will then design a suitable front-end application with
+   a suitable technology (web based or mobile application or
+   standalone or distributed)
+9. The students are asked to explore safety, health, ethical,
+   environmental, societal impact (whichever applicable) of the
+   applications and investigate legal and ethical aspects. A detailed
+   report of the problem formulation, scope and constraints, front end
+   and back-end design must be submitted.
+10. The students will create the databases and implement the
+    application. The system must be validated against the formulated
+    requirements in different scenarios and constraints.
+11. The students are asked to demonstrate their solutions in two
+    stages (after 50% completion and after 100% completion of the
+    implementation)
+12. The students will be asked to test their solution under different
+    data loads. Wherever applicable, the students will perform load
+    testing and
+13. The students are asked to present their problem,
+    methodology/approach, database design and solution.
+14. The students are asked to document a learning experience as a
+    reflection of their skills acquired.
+
+\hfill *Total Hours:30 + 60 = 90*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to:
+ 1. Formulate the problem, understanding the requirements and derive
+    its conceptual model showing the constraints.
+
+ 2. Apply database fundamentals to advanced industrial applications or
+    products.
+ 3. Design and develop solutions using top-down or bottom-up approach
+    and using contemporary storage models
+ 4. Communicate effectively through reflections, reports, and
+    presentations.
+ 5. Work in teams to develop modules and integrate them.
+ 6. Analyze the impact on health, safety, society, environment
+    as well as underlying legal and ethical considerations
+    wherever are applicable.
+
+** EVALUATION
+EFP will be assessed by a committee of faculty members based
+on Studio Sessions, Reflections, Presentation and
+Documentation. *EFP will be evaluated based on continuous
+assessment only.*
+
+#+latex: \newcolumntype{Y}{>{\small\raggedright\arraybackslash}X}
+#+latex: \newcolumntype{A}{>{\small\raggedright\arraybackslash\hsize=.7\hsize}X}
+#+latex: \newcolumntype{B}{>{\small\raggedright\arraybackslash\hsize=1.2\hsize}X}
+#+latex: \newcolumntype{C}{>{\small\raggedright\arraybackslash\hsize=1\hsize}X}
+#+attr_latex: :environment tabularx :width \textwidth :align BBAAAA
+| <10>       | <40>                                     | <10>       |       <10> |       <10> |       <10> |
+|------------+------------------------------------------+------------+------------+------------+------------|
+
+|                                   |                                                                          Reflection by Instructor | Reflection by peers | Presenta-tion by peers | Documenta-tion | Studio |
+|-----------------------------------+---------------------------------------------------------------------------------------------------+---------------------+------------------------+----------------+--------|
+| Review 1: Scope and modules       |                                                                                                20 |                  10 |                     10 |             10 |     50 |
+|-----------------------------------+---------------------------------------------------------------------------------------------------+---------------------+------------------------+----------------+--------|
+| Review 2: Design                  |                                                                                                20 |                  10 |                     10 |             10 |     50 |
+|-----------------------------------+---------------------------------------------------------------------------------------------------+---------------------+------------------------+----------------+--------|
+| Mid sem evaluation by a committee |                        Planning and modules: 20, Technical clarity: 20, Ethics/Best practices: 10 |            Viva: 10 |                     20 |             20 |        |
+|-----------------------------------+---------------------------------------------------------------------------------------------------+---------------------+------------------------+----------------+--------|
+| Review 3: Implementation          |                                                                                                20 |                  10 |                     10 |             10 |     50 |
+|-----------------------------------+---------------------------------------------------------------------------------------------------+---------------------+------------------------+----------------+--------|
+| End sem evaluation by a committee | Demo: 40 (Innovation, emerging technologies, security, user interface), Ethics/Best practices: 10 |            Viva: 10 |                     20 |             20 |        |
+|-----------------------------------+---------------------------------------------------------------------------------------------------+---------------------+------------------------+----------------+--------|
+#+TBLFM: 
+
+** Tentative Rubrics for Evaluation
+| Assessment Tool      | Weightage |     |
+|----------------------+-----------+-----|
+| End semester exam    |       25% |     |
+| Continous assessment |       75% |     |
+| Class activity       |           | 10% |
+| Review 1             |           | 10% |
+| Review 2             |           | 15% |
+| Review 3             |           | 20% |
+| Mid semester review  |           | 20% |
+| End semester review  |           | 25% |
+|----------------------+-----------+-----|
+| Total                |      100% |     |
+
+| Assessment Tool      | Weight |     |
+|----------------------+--------+-----|
+| End semester exam    |     50 |     |
+| Continous assessment |        |     |
+| Lab work             |     20 |     |
+| Theory test          |     15 |     |
+| Lab test             |     15 |     |
+| Review 1             |        |  5% |
+| Review 2             |        |  5% |
+| Review 3             |        |  5% |
+| Mid semester review  |        | 10% |
+| End semester review  |        | 25% |
+|----------------------+--------+-----|
+| Total                |    100 |     |
+
+#+BEGIN_COMMENT
+| Assessment Tool | Weightage |     |
+|-----------------+-----------+-----|
+| Class Activity  |       25% |     |
+| Project         |       75% |     |
+| Review 1        |           | 10% |
+| Review 2        |           | 20% |
+| Review 3        |           | 20% |
+| Mid Sem Review  |           | 20% |
+| End Sem Review  |           | 30% |
+|-----------------+-----------+-----|
+| Total           |      100% |     |
+#+END_COMMENT
+** Text Books
+
+** References
+
+#+BEGIN_COMMENT
+Technical Outcome.
+Could you learn?
+Rate yourself in the scale of 1 to 3
+1 -- Not confident, more practice required.
+2 - Could modify available code but not able to write
+own logic.
+3 - Proficient
+1 Task 1
+2 Task 2
+Best Practices / Application of fundaments learnt in theory courses
+Suggested by the Instructor
+Could you follow?
+Rate yourself in the scale of 1 to 3
+1 -- Needs to improve.
+2 - Inconsistent in applying
+3 - Proficient with the practice
+B1 Design before coding
+B2 Modular design and coding
+using versions
+#+END_COMMENT
