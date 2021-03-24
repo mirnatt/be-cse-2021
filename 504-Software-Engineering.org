@@ -26,8 +26,7 @@
 
 ** COURSE OBJECTIVES
 - To understand the phases in a software project, estimate cost and effort.
-- To understand fundamental concepts of requirements engineering and
-  Analysis Modeling.
+- To understand fundamental concepts of requirements engineering and Analysis Modeling.
 - To understand the various software design methodologies
 - To learn various testing techniques and maintenance measures.
 - To understand agile development and Devops
@@ -75,8 +74,7 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS
 
 1. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Eighth Edition, 2015.
-2. Armando Fox and David Patterson , Engineering Software as a    Service: An Agile Approach Using Cloud Computing Second Edition,
-   2021
+2. Armando Fox and David Patterson , Engineering Software as a    Service: An Agile Approach Using Cloud Computing Second Edition, 2021.
 =======
 
 ** REFERENCES
