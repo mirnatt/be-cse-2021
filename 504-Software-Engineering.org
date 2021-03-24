@@ -65,12 +65,6 @@ Agile Teams : Team and Scrum --  Branches -- Pull Requests --  Reviews -- Integr
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Demonstrate all the phases in software engineering  (K2)
-- Compare the architecture to develop an application (k3)
-- Choose the suitable framework do develop an application (k3) 
-- Categorize the requirements and testing need of the software project (K3)
-- Explain the procedure in agile and devops environment (k2)
-
 - Choose an appropriate process model and estimate project cost and effort required(K4)
 - Perform requirements analysis and modeling (K3)
 - Apply systematic procedure for software design (K3)
