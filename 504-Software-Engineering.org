@@ -55,7 +55,7 @@ Engineering Process: Feasibility studies -- Requirements elicitation
 and analysis -- Requirements validation -- Requirements Management;
 Software Project Estimation: Empirical estimation models -- Project
 scheduling; Risk Management: Risk identification -- Risk projection --
-Risk mitigation;
+Risk mitigation; Security: defending customer data in APP
 
 
 #+begin_comment
@@ -64,12 +64,9 @@ Text book 2, chapter
 
 {{{unit}}}
 | UNIT III | SOFTWARE DESIGN | 9 |
-Design Concepts: Design process -- Design concepts -- Design model --
-Modeling principles; Architectural Design: Architectural Styles;
-Simple Styles – Distributed and Networked Architectures – Architecture
-for Network based Applications – Decentralized
-Architectures. Architecture of Software Systems involving
-Internet-of-Things(IoT);Architecture tool.
+Design Concepts: Design process -- Design concepts -- Modularity, Coupling and cohesion -- Design model -
+Modeling principles; Structured design; Architectural Design: Architectural Styles;
+Architecture for Network based Applications – Decentralized Architectures. 
  
 #+begin_comment
 Text book 2 , chapter  
@@ -81,7 +78,7 @@ Software Testing Fundamentals; Internal and External Views of Testing:
 White Box Testing --Basis Path Testing -- Control Structure Testing--
 Black Box Testing -- Unit Testing -- Integration Testing -- Regression
 Testing -- Validation Testing -- System Testing -- Security Testing ;
-Testing tool.
+Testing tool. 
 
 
 #+begin_comment
@@ -91,9 +88,8 @@ Text book 2 , chapter
 
 {{{unit}}}
 | UNIT V | AGILE AND DEVOPS | 9 |
-Agile Teams : It Takes a Team: Two-Pizza and Scrum -- Using Branches
-Effectively -- Pull Requests and Code Reviews -- Delivering the
-Backlog Using Continuous Integration -- Agile Iterations -- Reporting
+Agile Teams : Team and Scrum --  Branches
+-- Pull Requests --  Reviews -- Integration -- Agile Iterations -- Reporting
 and Fixing Bugs; Dev/Ops -- From Development to Deployment
 --Three-Tier --Responsiveness, Service Level Objectives, and Apdex --
 Releases and Feature Flags -- Monitoring and Finding Bottlenecks
