@@ -58,7 +58,7 @@ Spatial Domain: Gray level transformations -- Histogram processing--
 Basics of Spatial Filtering -- Smoothing and sharpening spatial
 filtering; Frequency Domain: Introduction to fourier transform -- The 2D convolutional theorem--
 Smoothing and Sharpening Frequency Domain Filters: Ideal --
-Butterworth -- Gaussian filters; Homomorphic Filtering.
+Butterworth -- Gaussian filters; Homomorphic Filtering; Case Study: Medical image enhancement.
 
 {{{unit}}}
 |UNIT III | IMAGE RESTORATION | 9 |
@@ -76,14 +76,14 @@ Intensity thresholding -- Otsu's thresholding; Region Based
 Segmentation: Region growing -- Region splitting and merging;
 Morphological Processing: Erosion and dilation; Segmentation by
 Morphological Watersheds: Basic concepts -- Dam construction --
-Watershed segmentation algorithm.
+Watershed segmentation algorithm; Case Study: License plate localization.
 
 {{{unit}}}
 |UNIT V | FEATURE ANALYSIS AND OBJECT RECOGNITION | 9 |
 Boundary representation -- Boundary Descriptors;
 Regional descriptors -- Texture; Relational descriptors; Object
 Recognition: Patterns and pattern classes; Recognition based on
-decision theoretic methods; Case Study for Image enhancement, Image restoration, Image segmentation and Recognition.
+decision theoretic methods; Case Study: Model based Tracking of animals. 
 
 #+begin_comment
 Removed: Image compression
@@ -96,7 +96,7 @@ Added: Case Study for Image recognition
 After the completion of this course, students will be able to: 
 - Explain the basics and fundamentals of digital image processing,
   such as digitization, sampling, quantization (K2)
--Apply the techniques of smoothing, sharpening and
+- Apply the techniques of smoothing, sharpening and
   enhancement in both spatial and frequency domain (K3)
 - Explain the restoration concepts and filtering techniques (K2)
 - Identify the segmentation methods and apply in real time applications
