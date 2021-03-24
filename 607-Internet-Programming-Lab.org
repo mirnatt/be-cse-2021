@@ -13,14 +13,14 @@
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |    3 |    0 |    0 |    0 |    0 |    0 |
-| CO2            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |    3 |    0 |    0 |    0 |    0 |    0 |
-| CO3            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |    3 |    0 |    0 |    3 |    3 |    3 |
-| CO4            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |    3 |    0 |    0 |    3 |    3 |    3 |
-| CO5            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |    3 |    0 |    0 |    3 |    3 |    3 |
+| CO1            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   3 |   2 |   3 |    3 |    0 |    0 |    0 |    0 |    0 |
+| CO2            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   3 |   2 |   3 |    3 |    0 |    0 |    3 |    3 |    3 |
+| CO3            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   3 |   2 |   3 |    3 |    0 |    0 |    3 |    3 |    3 |
+| CO4            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   3 |   2 |   3 |    3 |    0 |    0 |    3 |    3 |    3 |
+| CO5            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   3 |   2 |   3 |    3 |    0 |    0 |    3 |    3 |    3 |
 | CO6            | K3 |   2 |   2 |   3 |   3 |   2 |   0 |   3 |   2 |   3 |    3 |    0 |    3 |    3 |    3 |    3 |
-| Score          |    |  12 |  12 |  18 |  18 |  12 |   0 |   3 |   2 |   3 |   18 |    0 |    3 |   12 |   12 |   12 |
-| Course Mapping |    |   2 |   2 |   3 |   3 |  2  |   0 |   1 |   0 |   1 |    3 |    0 |    1 |    2 |    2 |    2 |
+| Score          |    |  12 |  12 |  18 |  18 |  12 |   0 |  18 |  12 |   18 |  18 |    0 |    3 |   18 |   18 |   18 |
+| Course Mapping |    |   2 |   2 |   3 |   3 |  2  |   0 |   3 |   2 |   1 |    3 |    0 |    1 |    3 |    3 |    3 |
 
 {{{credits}}}
 | L | T | P | C |
@@ -32,7 +32,7 @@
 
 ** SUGGESTIVE LAB EXPERIMENTS
 - Build a web page using Table, Lists, Image and anchor elements. (Ex: Bio-Data)
-- Create website for the International Conference using HTML5 and CSS3 elements.
+- Create website for an International Conference using HTML5 and CSS3 elements.
 - Validate a registration form using Javascript event handling mechanisms.
 - Develop a web application to authenticate the user with servlet and MySQL.
 - Develop a web application using Session tracking mechanisms, Servlet and MySQL. (Ex: Online Shopping application)
@@ -44,7 +44,7 @@
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Build website using HTML5 and CSS3 (K3)
-- Develop multi-tier web application using Servlets (K3)
+- Develop multi-tier web application using Servlets (K4)
 - Construct responsive web applications using AJAX (K3)
 - Make use of ReactJS framework to build front end of web application (K3)
 - Make use of NodeJS framework to build back end of web application (K3)
