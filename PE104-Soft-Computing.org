@@ -96,6 +96,6 @@ REFERENCE BOOKS
 2.	Timothy J.Ross, ``Fuzzy Logic with Engineering Applications'', McGraw-Hill, International Editions, Electrical Engineering Series, Singapore, 1997.
 3.	Davis E.Goldberg, ``Genetic Algorithms: Search, Optimization and Machine Learning'', Addison Wesley, N.Y., 1989.
 4.	Samir Roy, ``Introduction to Softcomputing : NeuroFuzzy and Genetic Algorithms'', First edition, Pearson Publishers, 2015.
-5.	R.Eberhart, P.Simpson and R.Dobbins, ``Computational Intelligence - PC Tools'', AP Professional, Boston. 1996.
+5.	R.Eberhart, P.Simpson and R.Dobbins, ``Computational Intelligence - PC Tools'', AP Professional, Boston. 1996. 
 6.	Stamatios V. Kartalopoulos, ``Understanding Neural Networks and Fuzzy Logic Basic concepts & Applications'', IEEE Press, PHI, New Delhi, 2004.
 7.	Vojislav Keeman, ``Learning & Soft Computing Support Vector Machines, Neural Networks, and Fuzzy Logic Models'', Pearson Education, New Delhi, 2006.
