@@ -1,7 +1,7 @@
 **  <<<PE405>>> SOFT COMPUTING
 :properties:
-:author: Dr. P. Mirunalini  and Dr. J. Bhuvana
-:date: 
+:author: Dr. T.T. Mirnalinee  and Dr. K. Lekshmi
+:date: 25/03/2021
 :end:
 
 #+begin_comment
@@ -24,6 +24,7 @@
 | CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
 | CO4            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
 | CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
+| CO6            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
 | Score          |    |  14 |  10 |   9 |   9 |   5 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |    9 |   14 |    5 |
 | Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
 
@@ -35,12 +36,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To learn the basic concepts of Soft Computing 
-- To study various Artificial Neural network architectures
-- To learn fuzzy sets, fuzzy logic and fuzzy inference system
-- To understand genetic algorithm for global optimization
-- To learn hybrids of neuro, fuzzy and genetic algorithm, and their
-  applications.
+- To introduce the ideas of fuzzy sets and fuzzy logic 
+- To study the characteristics of various types of neural networks.
+- To gain insight in Hybrid Learning Models . 
+- To  provide  the  mathematical  background  for  carrying  out  the  optimization  associated  with neural network learning and genetic algorithms.
+- To  introduce  case studies  utilizing the  above and  illustrate the intelligent behavior of programs based on soft computing
 
 {{{unit}}}
 | UNIT I | INTRODUCTION TO SOFT COMPUTING | 8 |
@@ -73,56 +73,64 @@ relations -- Membership functions -- Defuzzification methods -- Fuzzy
 arithmetic -- Fuzzy measures -- Fuzzy rule base and approximate
 reasoning -- Fuzzy decision making.
 
-{{{unit}}}
-| UNIT IV | GENETIC ALGORITHMS | 8 |
-Genetic Algorithm and search space -- General genetic algorithm --
-Operators -- Stopping condition -- Constraints -- Classification --
-Genetic programming; Applications of genetic algorithm.
-#+begin_comment
-Removed individual operator names  in GA 
-Added Constraints, Classification, Genetic programming and Applications
-#+end_comment
+#+startup: showall
 
 {{{unit}}}
-| UNIT V | HYBRID SOFT COMPUTING TECHNIQUES & APPLICATIONS | 9 |
-Neuro-Fuzzy hybrid systems -- Genetic neuro hybrid systems -- Genetic
-fuzzy hybrid and fuzzy genetic hybrid systems; Applications of Soft
-Computing: A fusion approach of multispectral images with SAR --
-Optimization of Traveling Salesman Problem using genetic algorithm --
-Soft computing based hybrid fuzzy controllers.
-#+begin_comment
-Removed GA   Based   Weight Determination, LR-Type  Fuzzy  Numbers , Fuzzy  BP  Architecture -Learning  in  Fuzzy  BP-Inference    by  Fuzzy  BP -Fuzzy  ArtMap:
- A  Brief  Introduction -Soft Computing Tools -GA in Fuzzy Logic Controller Design -Fuzzy Logic Controller from AU syllabus
-Added Applications of Soft Computing, Optimization of Traveling Salesman Problem using genetic algorithm, Soft computing based hybrid fuzzy controllers.
-#+end_comment
+|UNIT I | Fuzzy Set Theory | 9 |
+Introduction to Neuro, Fuzzy and Soft Computing; Fuzzy Sets : Basic Definition and Terminology --
+Set-theoretic Operations -- Member Function Formulation and Parameterization -- Fuzzy Rules and Fuzzy Reasoning --
+Extension Principle and Fuzzy Relations -- Fuzzy If-Then Rules -- Fuzzy Reasoning -- Fuzzy Inference Systems 
+-- Mamdani Fuzzy Models -- Sugeno Fuzzy Models --Tsukamoto Fuzzy Models -- Input Space Partitioning and Fuzzy Modeling.
+
+{{{unit}}}
+|UNIT II | Neural Networks | 9 | 
+Supervised Learning Neural Networks: Perceptrons –- Adaline –- Backpropagation Mutilayer Perceptrons –- Radial Basis Function Networks;
+Unsupervised Learning NeuralNetworks: Competitive Learning Networks –- Kohonen Self-Organizing Networks -– Learning Vector Quantization –- Hebbian Learning.
+
+{{{unit}}}
+|UNIT III | Neuro Fuzzy Modeling | 9 |
+Adaptive Neuro-Fuzzy Inference Systems: Architecture –- Hybrid Learning Algorithm –- Learning Methods that Cross-fertilize ANFIS and RBFN; 
+Coactive Neuro Fuzzy Modeling: Framework Neuron Functions for Adaptive Networks –- Neuro Fuzzy Spectrum.
+
+{{{unit}}}
+|UNIT IV | Optimization | 9 |
+Derivative-based Optimization: Descent Methods -- The Method of Steepest Descent -- Classical Newton's Method -- Step Size Determination 
+-- Derivative-free Optimization; Genetic Algorithms: Simulated Annealing -- Random Search -- Downhill Simplex Search -- Particle Swarm Optimization 
+-- Ant Colony Optimization.
+
+{{{unit}}}
+|UNIT V | Applications of Computational Intelligence | 9 | 
+Fraud Detection in Healthcare: Definition and Types of Healthcare Fraud -- Identifying Healthcare Fraud from Data -- 
+Knowledge Discovery-Based Solutions for Identifying Fraud; Data Analytics for Pharmaceutical Discoveries: Introduction -- Chemical and Biological Data -- 
+Spontaneous Reporting Systems (SRSs); Clinical Decision Support Systems: Various Types of CDSS, Diagnostic Decision Support.
+
+Shortest Path Algorithm; Printed Character Recognition; Inverse Kinematics Problems; Automobile Fuel Efficiency Prediction;
+Soft Computing for Color Recipe Prediction; Stock Marker Forecasting
+
 
 \hfill *Total Periods: 45*
 
-
+#+begin_comment
 ** COURSE OUTCOMES
-Upon completion of this course, the students should be able to:
-- Understand various soft computing techniques (K2)
-- Design and develop different neural network algorithms (K3)
-- Analyse and apply fuzzy logic and fuzzy inference system (K3)
-- Solve problems using  Genetic Algorithms (K3)
-- Apply various soft computing techniques for complex problems (K3).
+After the completion of this course, students will be able to: 
+- Use fuzzy logic (K3).
+- Design of various neural networks (K3).
+- Apply optimization in neural networks and genetic programming (K3).
+- Discuss hybrid soft computing (K2).
+- Apply various soft computing frame works on different case studies (K3).
+- Develop intelligent modeling, optimization and control of non-linear systems (K3).
+
+#+end_comment
 
 ** TEXT BOOKS
-1. S N Sivanandam, S N Deepa, ``Principles of Soft Computing'', Wiley
-   India, 2nd Edition, 2011.
-2. Jyh-Shing Roger Jang, Chuen-Tsai Sun, Eiji Mizutani, ``Neuro-Fuzzy
-   and Soft Computing'', Prentice-Hall of India, 2002.
+1.	J.S.R.Jang, C.T. Sun and E.Mizutani, ``Neuro-Fuzzy and Soft Computing'', PHI / Pearson Education 2004. 
 
-** REFERENCES
-1. Kwang H Lee, ``First course on Fuzzy Theory and Applications'',
-   Springer, 2005.
-2. George J Klir, Bo Yuan, ``Fuzzy Sets and Fuzzy Logic-Theory and
-   Applications'', Prentice Hall, 1996.
-3. James A Freeman, David M Skapura, ``Neural Networks Algorithms,
-   Applications, and Programming Techniques'', Addison Wesley, 2003.
-4. S Rajasekaran, G A Vijayalakshmi Pai, ``Neural Networks, Fuzzy
-   Logic and Genetic Algorithm, Synthesis and Applications'', PHI
-   Learning, 2017.
-5. N P Padhy, S P Simon, ``Soft Computing with MATLAB Programming'',
-   Oxford University Press, 2015.
 
+REFERENCE BOOKS
+1.	S.Rajasekaran and G.A.Vijayalakshmi Pai, ``Neural Networks, Fuzzy Logic and Genetic Algorithm: Synthesis & Applications'', Prentice-Hall of India Pvt. Ltd., 2006. 
+2.	Timothy J.Ross, ``Fuzzy Logic with Engineering Applications'', McGraw-Hill, International Editions, Electrical Engineering Series, Singapore, 1997.
+3.	Davis E.Goldberg, ``Genetic Algorithms: Search, Optimization and Machine Learning'', Addison Wesley, N.Y., 1989.
+4.	Samir Roy, ``Introduction to Softcomputing : NeuroFuzzy and Genetic Algorithms'', First edition, Pearson Publishers, 2015.
+5.	R.Eberhart, P.Simpson and R.Dobbins, ``Computational Intelligence - PC Tools'', AP Professional, Boston. 1996.
+6.	Stamatios V. Kartalopoulos, ``Understanding Neural Networks and Fuzzy Logic Basic concepts & Applications'', IEEE Press, PHI, New Delhi, 2004.
+7.	Vojislav Keeman, ``Learning & Soft Computing Support Vector Machines, Neural Networks, and Fuzzy Logic Models'', Pearson Education, New Delhi, 2006.
