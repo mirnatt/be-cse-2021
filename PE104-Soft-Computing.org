@@ -42,37 +42,6 @@
 - To  provide  the  mathematical  background  for  carrying  out  the  optimization  associated  with neural network learning and genetic algorithms.
 - To  introduce  case studies  utilizing the  above and  illustrate the intelligent behavior of programs based on soft computing
 
-{{{unit}}}
-| UNIT I | INTRODUCTION TO SOFT COMPUTING | 8 |
-Introduction: Neural networks -- Fuzzy logic -- Genetic algorithm --
-Hybrid systems; Artificial Neural Network: Fundamental concepts --
-Evolution of neural networks -- Basic modals of ANN -- McCulloch and
-Pitts neuron -- Linear separability -- Hebb network.
-#+begin_comment
-Almost same, but removed Hebbian  and  Delta-Perceptron Network-Adaline Network-Madaline Network from AU syllabus
-#+end_comment
-
-{{{unit}}}
-| UNIT II | SUPERVISED, UNSUPERVISED, AND ASSOCIATIVE LEARNING NETWORKS | 11 |
-Supervised Learning Network: Perceptron networks -- Adaptive linear
-neuron -- Multiple adaptive linear neurons -- Back propagation
-networks -- Radial bias function network; Associative Memory Networks:
-Autoassociative memory network -- Bidirectional associative memory --
-Hopfield networks; Unspervised Learning Networks: Hamming network --
-Kohonen neural network -- Learning vector quantization -- Adaptive
-resonance theory networks.
-#+begin_comment
-Removed Spike Neuron Models from AU syllabus
-Organised as per supervised, unsupervised learning techniques
-#+end_comment
-
-{{{unit}}}
-| UNIT III | FUZZY SYSTEMS | 9 |
-Introduction to fuzzy logic -- Classical sets -- Fuzzy sets -- Fuzzy
-relations -- Membership functions -- Defuzzification methods -- Fuzzy
-arithmetic -- Fuzzy measures -- Fuzzy rule base and approximate
-reasoning -- Fuzzy decision making.
-
 #+startup: showall
 
 {{{unit}}}
@@ -100,10 +69,6 @@ Derivative-based Optimization: Descent Methods -- The Method of Steepest Descent
 
 {{{unit}}}
 |UNIT V | Applications of Computational Intelligence | 9 | 
-Fraud Detection in Healthcare: Definition and Types of Healthcare Fraud -- Identifying Healthcare Fraud from Data -- 
-Knowledge Discovery-Based Solutions for Identifying Fraud; Data Analytics for Pharmaceutical Discoveries: Introduction -- Chemical and Biological Data -- 
-Spontaneous Reporting Systems (SRSs); Clinical Decision Support Systems: Various Types of CDSS, Diagnostic Decision Support.
-
 Shortest Path Algorithm; Printed Character Recognition; Inverse Kinematics Problems; Automobile Fuel Efficiency Prediction;
 Soft Computing for Color Recipe Prediction; Stock Marker Forecasting
 
