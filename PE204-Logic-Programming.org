@@ -43,7 +43,10 @@ resolution: P-resolution -- N-resolution -- Linear resolution -- Unit
 resolution -- SLD resolution.
 
 #+begin_comment
-| Course Mapping |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
+
+- 1. Removed LUSH resolution
+- 2. Number of lecture hours changed from 9 to 10
+
 #+end_comment
 
 {{{unit}}}
@@ -53,12 +56,20 @@ logic program -- Procedural semantics -- Model-theoretic semantics;
 Evaluation Strategies: Swapping lemma -- PROLOG's evaluation strategy
 -- DFS -- BFS.
 
+#+begin_comment
+- 1. Number of lecture hours changed from 9 to 8
+#+end_comment
+
 {{{unit}}}
 |UNIT III|PROGRAMMING IN PROLOG|9|
 Syntax & Semantics of PROLOG -- Programming with relations -- Facts --
 Questions -- Variables -- Conjunctions of goals -- Backtracking --
 Rules -- Structures -- Recursive programs -- Lists -- Operators -- Arithmetic -- 
 Controlling execution -- The cut -- Input output -- Exception handling.
+
+#+begin_comment
+- 1. Operators and Arithmetic are moved from Unit IV to Unit III
+#+end_comment
 
 {{{unit}}}
 |UNIT IV|PROLOG AND ARTIFICIAL INTELLIGENCE|9|
@@ -68,6 +79,16 @@ Insertion & deletion in binary dictionary -- Displaying trees -- Graphs;
 Problem Solving Strategies in AI: DFS -- BFS -- A* Search; Problem Reduction &
 AND/OR Graph: Basic AND/OR search procedure; Game Playing: The minimax principle -- 
 The alpha-beta algorithm.
+
+
+#+begin_comment
+- 1. Added simulation of automata
+- 2. Removed advanced tree representation
+- 3. Removed best-first search in problem solving strategies
+- 4. Removed best-first and-or search in problem reduction
+- 5. Removed minimax-based programs in game playing
+
+#+end_comment
 
 {{{unit}}}
 |UNIT V|PROLOG AND EXPERT SYSTEMS|9|
@@ -85,7 +106,11 @@ After the completion of this course, students will be able to:
 - Apply different types of semantics for logic programming (K3)
 - Develop programs in PROLOG (K3)
 - Solve AI problems using search algorithms in PROLOG (K3)
-- Implement a simple Expert system shell in PROLOG (K3).
+- Develop a simple Expert system shell in PROLOG (K3).
+
+#+begin_comment
+- 1. CO1 and CO2 changed to K3 level
+#+end_comment
 
 ** TEXTBOOKS:
 1. Uwe Schoning, ``Logic for Computer Scientists'', Birkhauser, 1999
