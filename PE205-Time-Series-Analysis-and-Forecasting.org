@@ -19,27 +19,42 @@
 
 {{{unit}}}
 |UNIT I | INTRODUCTION TO FORECASTING | 9 |
-Introduction to Forecasting:  The Nature and Uses of Forecasts -- Some Examples of Time Series -- The Forecasting Process -- Data for Forecasting --  Resources for Forecasting -- Statistics Background for Forecasting: Graphical Displays -- Numerical Description of Time Series Data -- Use of Data Transformations and Adjustments -- General Approach to Time Series Modeling and Forecasting -- Evaluating and Monitoring Forecasting Model Performance.
+Introduction to Forecasting: The Nature and Uses of Forecasts -- Some
+Examples of Time Series -- The Forecasting Process -- Data for
+Forecasting -- Resources for Forecasting -- Statistics Background for
+Forecasting: Graphical Displays -- Numerical Description of Time
+Series Data -- Use of Data Transformations and Adjustments -- General
+Approach to Time Series Modeling and Forecasting -- Evaluating and
+Monitoring Forecasting Model Performance.
 
 {{{unit}}}
 |UNIT II | REGRESSION ANALYSIS AND FORECASTING | 9 |
-Least Squares Estimation in Linear Regression Models Expert judgement -- Statistical Inference in Linear Regression -- Prediction of New Observations --
-Model Adequacy Checking -- Variable Selection Methods in Regression -- Generalized and Weighted Least Squares -- Regression Models for General Time Series Data --  Econometric Models.
+Least Squares Estimation in Linear Regression Models Expert judgement
+-- Statistical Inference in Linear Regression -- Prediction of New
+Observations -- Model Adequacy Checking -- Variable Selection Methods
+in Regression -- Generalized and Weighted Least Squares -- Regression
+Models for General Time Series Data -- Econometric Models.
 
 {{{unit}}}
 |UNIT III | EXPONENTIAL SMOOTHING METHODS| 9 |
-First-Order Exponential Smoothing --  Modeling Time Series Data --  Second-Order Exponential Smoothing  -- Higher-Order Exponential Smoothing --
-Forecasting  -- Exponential Smoothing for Seasonal Data -- Exponential Smoothing of Biosurveillance Data -- Exponential Smoothers and Arima Models.
+First-Order Exponential Smoothing -- Modeling Time Series Data --
+Second-Order Exponential Smoothing -- Higher-Order Exponential
+Smoothing -- Forecasting -- Exponential Smoothing for Seasonal Data --
+Exponential Smoothing of Biosurveillance Data -- Exponential Smoothers
+and Arima Models.
 
 {{{unit}}}
 |UNIT IV | ARIMA MODELS | 9 |
-Linear Models for Stationary Time Series -- Finite Order Moving Average Processes -- Finite Order Autoregressive Processes --
-Mixed Autoregressive–Moving Average Processes -- Nonstationary Processes -- Time Series Model Building -- Forecasting Arima Processes.
+Linear Models for Stationary Time Series -- Finite Order Moving
+Average Processes -- Finite Order Autoregressive Processes -- Mixed
+Autoregressive–Moving Average Processes -- Nonstationary Processes --
+Time Series Model Building -- Forecasting Arima Processes.
 
 {{{unit}}}
 |UNIT V | TRANSFER FUNCTIONS AND INTERVENTION MODELS | 9 |
-Transfer Function Models -- Transfer Function–Noise Models -- Cross-Correlation Function -- Model Specification  --
-Forecasting with Transfer Function–Noise Models --  Intervention Analysis.
+Transfer Function Models -- Transfer Function–Noise Models --
+Cross-Correlation Function -- Model Specification -- Forecasting with
+Transfer Function–Noise Models -- Intervention Analysis.
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to:

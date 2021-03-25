@@ -149,7 +149,7 @@
 | No | Code  | Title                                     | Cat | Hrs | L | T | P | C |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|
 |    |       | *Professional Elective 1*                 |     |     |   |   |   |   |
-|  1 | PE101 | Big Data Analytics/Technologies           | PC  |   3 | 3 | 0 | 0 | 3 |
+|  1 | PE101 | Big Data Analytics/Technologies           | PE  |   3 | 3 | 0 | 0 | 3 |
 |  2 | PE102 | Software Testing                          | PE  |   3 | 3 | 0 | 0 | 3 |
 |  3 | PE103 | Image Processing and Analysis             | PE  |   3 | 3 | 0 | 0 | 3 |
 |  4 | PE104 | Statistical Inference                     | PE  |   3 | 3 | 0 | 0 | 3 |
