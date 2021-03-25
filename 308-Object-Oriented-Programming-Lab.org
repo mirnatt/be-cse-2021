@@ -7,6 +7,8 @@
 #+startup: showall
 #+begin_comment
 - 1. Experiments related to the java specific concepts such as mutlithreading and event-driven programming were removed
+25.03.2021
+RK changed mapping of CO6 to PO/PSO
 #+end_comment
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -16,7 +18,7 @@
 | CO2            | K4 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
 | CO3            | K4 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
 | CO4            | K3 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
-| CO5            | K3 |   2 |   3 |   3 |   3 |   2 |   1 |   1 |   2 |   3 |    3 |    0 |    3 |    3 |    0 |    0 |
+| CO5            | K4 |   2 |   3 |   3 |   3 |   2 |   0 |   0 |   2 |   3 |    3 |    1 |    3 |    3 |    1 |    1 |
 | Score          |    |  10 |  15 |  15 |   3 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |   15 |   15 |    3 |    2 |
 | Course Mapping |    |   2 |   3 |   3 |   1 |  1  |   0 |   0 |   1 |   1 |    1 |    0 |    3 |    3 |    1 |    1 |
 {{{credits}}}
