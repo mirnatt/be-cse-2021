@@ -36,24 +36,24 @@
 
 
 {{{unit}}}
-|Unit I|Introduction to Big Data|7| 
+|Unit I|Introduction to Big Data Technologoy|7| 
 Introduction -- Understanding Big Data --  Big Data: Benifitting -- Managing -- Organizing and Analyzing Big Data: Learning and Analytics; Technology Challenges for Big Data.
 
 {{{unit}}}
-|Unit II| Data Processing using MapReduce |8| 
-Introduction -- Distributed File System -- Google File System -- HDFS Design Goals -- Using HDFS -- MapReduce Overview -- Working of MapReduce -- Programming -- Writing and Testing MapReduce Programs
+|Unit II| Big Data Processing |10| 
+Introduction -- Distributed File System -- HDFS Design Goals -- MapReduce Overview -- Writing and Testing MapReduce Programs -- Installing Spark and Setting up Spark Cluster -- Spark Shell -- Creating Spark Session Object -- Resilient Distributed Datasets (RDD) -- Manipulating RDD -- NoSQL -- SparkSQL -- GraphX.
 
 {{{unit}}}
-|Unit III|Data Processsing using Spark |10| 
-Introduction -- Installing Spark and Setting up Spark Cluster -- Spark Shell -- Creating Spark Session Object -- Resilient Distributed Datasets (RDD) -- NoSQL - SparkSQL.
+|Unit III|Stream Processing |10| 
+Stream Processing Concepts -- Distributed Stream Processing -- Stream Processing Model -- Streaming Architecture -- Lambad and Kappa Architecture -- Struecture streaming -- Spark Streaming -- Spark Streaming Programming Model -- Other Distributed Real Time Stream Processing Systems.
 
 {{{unit}}}
-|Unit IV|Apache Kafka |10|
-Apache Kafka -- Installing Kafka -- Producers and Consumers -- Kafka Internals -- Building Data Pipelines -- Cross Cluster Data Mirroring -- Administering and Monitoring Kafka.
+|Unit IV| Streaming Processing using Kafka |10|
+Apache Kafka -- Installing Kafka -- Producers and Consumers -- Kafka Internals -- Building Data Pipelines -- Cross Cluster Data Mirroring -- Administering and Monitoring Kafka -- Getting started with Kafka Streams -- Kafka Streams Development -- Applications with Kafka Streams.
 
 {{{unit}}}
 |Unit V|Technologies for Stream Processing |10|
-Stream Processing Concepts -- Design Patterns --  Stream Processing using Kafka -- Extending Spark with H20 -- Intalling H2O - Architecture -- Souring with Data -- Performance tuning -- H2O Flow.
+-- Extending Spark with H20 -- Intalling H2O - Architecture -- Souring with Data -- Performance tuning -- H2O Flow.
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
@@ -64,15 +64,15 @@ Upon the completion of the course the students should be able to:
 - Develop a simple applicatins with H2O (K3)
 
 ** Text Books
-1. Mike Frampton, "Mastering Apache Spark", Packt Publishers, 2015. 
-2. Krishna Sankar, " Fast Data Processing using Spark 2", 3rd Edition, Packt Publishers, 2016. 
-3. Neha Narkhede, Gwen Shapira, and Todd Palino,"Kafka - Definitive Guide", 2017.
+1. Mike Frampton, "Mastering Apache Spark", Packt Publishers, 2015.(U2)
+2. Krishna Sankar, " Fast Data Processing using Spark 2", 3rd Edition, Packt Publishers, 2016. (u2)
+3. Neha Narkhede, Gwen Shapira, and Todd Palino,"Kafka - Definitive Guide", 2017.(U4)
 
 ** References
 1. Arshdeep Bahga, Vijay Madisetti, "Big Data Analytics: A Hands-On Approach",  Published by A Hands-on Approach Textbooks,  2016.
-2. Bill Franks, "Taming the Big Data Tidal Wave: Finding Opportunities in Huge Data Streams with Advanced Analytics", John Wiley & sons, 2012.
+2. Gerald Maas & Francois Gorillot, "Stream Processing with Apache Spark", O'Reilly Media, 2019.(U3)
 3. Gaurav Vaish, "Getting Started with NoSQL",  Packt Publishing Ltd, 2013.
-4. Parag Kulkarni, Sarang Joshi, "Big Data Anlytics", PHI Learning Pvt. Ltd, 2016.
+4. William P. Bejeck Jr. "Kafka Streams in Action", Manning Publications, 2018.
 5. Anil Maheshwari, "Big Data Essentials", McGraw Hill, 2019. 
  
 
