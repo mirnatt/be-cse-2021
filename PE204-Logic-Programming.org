@@ -1,6 +1,6 @@
 * <<<PE105>>> LOGIC PROGRAMMING
 :properties:
-:author: Dr. S. Sheerazuddin and Dr. R. S. Milton
+:author: Dr. D. Thenmozhi and Dr. K. Lekshmi
 :end:
 
 #+startup: showall
@@ -16,17 +16,17 @@
 - To implement Expert system shell in PROLOG.
 
 {{{unit}}}
-|UNIT I|INTRODUCTION TO LOGIC|9|
+|UNIT I|INTRODUCTION TO LOGIC|10|
 Foundations of Propositional Logic: Syntax and semantics -- Semantic
 entailment; Normal Forms; Resolution in PL; Horn Logic; Foundations of
 First Order Logic: Syntax and semantics; Normal Forms; Undecidability
 of Predicate Logic; Resolution in FOL: Unification; Refinements of
 resolution: P-resolution -- N-resolution -- Linear resolution -- Unit
-resolution -- SLD resolution – LUSH resolution.
+resolution -- SLD resolution.
 
 
 {{{unit}}}
-|UNIT II|INTRODUCTION TO LOGIC PROGRAMMING|9|
+|UNIT II|INTRODUCTION TO LOGIC PROGRAMMING|8|
 Foundations: Answer generation; Horn Clause Programs: Semantics of
 logic program -- Procedural semantics -- Model-theoretic semantics;
 Evaluation Strategies: Swapping lemma -- PROLOG's evaluation strategy
@@ -36,20 +36,17 @@ Evaluation Strategies: Swapping lemma -- PROLOG's evaluation strategy
 |UNIT III|PROGRAMMING IN PROLOG|9|
 Syntax & Semantics of PROLOG -- Programming with relations -- Facts --
 Questions -- Variables -- Conjunctions of goals -- Backtracking --
-Rules -- Structures -- Recursive programs -- Lists -- Controlling
-execution -- The cut -- Input output -- Exception handling.
+Rules -- Structures -- Recursive programs -- Lists -- Operators -- Arithmetic -- 
+Controlling execution -- The cut -- Input output -- Exception handling.
 
 {{{unit}}}
 |UNIT IV|PROLOG AND ARTIFICIAL INTELLIGENCE|9|
-Overview of PROLOG: Lists -- Operators -- Arithmetic -- Data
-structures -- Eight Queens Problem; Operations on Data Structures:
-Representing and sorting lists -- Representing sets by binary trees --
-Insertion & deletion in binary dictionary -- Displaying trees --
-Graphs; Advanced Tree Representations; Problem Solving Strategies in
-AI: DFS -- BFS -- Best-first search -- A* Search; Problem Reduction &
-AND/OR Graph: Basic AND/OR search procedure -- Best-first AND/OR
-search; Game Playing: The minimax principle -- The alpha-beta
-algorithm -- Minimax-based programs.
+Data structures -- Eight Queens Problem -- Simulation of Automata; 
+Operations on Data Structures: Representing and sorting lists -- Representing sets by binary trees --
+Insertion & deletion in binary dictionary -- Displaying trees -- Graphs;  
+Problem Solving Strategies in AI: DFS -- BFS -- A* Search; Problem Reduction &
+AND/OR Graph: Basic AND/OR search procedure; Game Playing: The minimax principle -- 
+The alpha-beta algorithm.
 
 {{{unit}}}
 |UNIT V|PROLOG AND EXPERT SYSTEMS|9|
@@ -63,10 +60,10 @@ Shell: Implementation -- Dealing with uncertainty;
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the foundations of logic (K2)
-- Understand the foundations of logic programming (K2)
-- Write programs in PROLOG (K3)
-- Implement AI search algorithms in PROLOG (K3)
+- Apply propositional logic and predicate logic for knowledge representation (K3)
+- Apply different types of semantics for logic programming (K3)
+- Develop programs in PROLOG (K3)
+- Solve AI problems using search algorithms in PROLOG (K3)
 - Implement a simple Expert system shell in PROLOG (K3).
 
 ** TEXTBOOKS:
