@@ -20,7 +20,7 @@
 | CO3            | K3 |   2 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
 | CO4            | K3 |   2 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
 | CO5            | K3 |   2 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    3 |    3 |    0 |    0 |
-| CO6            | K5 |   2 |   3 |   3 |   3 |   2 |   0 |   0 |   1 |   3 |    3 |    0 |    3 |    3 |    3 |    2 |
+| CO6            | K5 |   2 |   3 |   3 |   3 |   2 |   0 |   0 |   1 |   3 |    3 |    1 |    3 |    3 |    3 |    1 |
 | Score          |    |  12 |  18 |  18 |   3 |   2 |   0 |   0 |   1 |   3 |    3 |    0 |   18 |   18 |    3 |    2 |
 | Course Mapping |    |   2 |   3 |   3 |   1 |   0 |   0 |   0 |   0 |   1 |    1 |    0 |    3 |    3 |    1 |    0 |
 {{{credits}}}
@@ -125,12 +125,15 @@ After the completion of this course, students will be able to:
 - Apply the concepts of polymorphism and exception handling (K3)
 - Build applications using generic programming (K3)
 - Apply the concepts of generic collections  (K3).
-- Solve real world problems in teams by choosing suitable object oriented features and  applying best practices in programming  with a clear documentation  of algorithm and approach(K4).
+- Solve real world problems in teams by choosing suitable object oriented features and  applying best practices in programming  with a clear documentation  of algorithm and approach(K5).
 #+begin_comment
 
 09.03.2021
 CCC Feedback Committee Considerations
 CO's have been reframed based on the latest action words suggested
+
+25.3.2021
+RK changed KL of CO6 and CO6's mapping to PO/PSO
 #+end_comment
      
 ** TEXT BOOKS
