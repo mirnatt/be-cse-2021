@@ -149,10 +149,10 @@
 | No | Code  | Title                                     | Cat | Hrs | L | T | P | C |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|
 |    |       | *Professional Elective 1*                 |     |     |   |   |   |   |
-|  1 | PE101 | Big Data Analytics/Technologies           | PE  |   3 | 3 | 0 | 0 | 3 |
+|  1 | PE101 | Big Data Technologies                     | PE  |   3 | 3 | 0 | 0 | 3 |
 |  2 | PE102 | Software Testing                          | PE  |   3 | 3 | 0 | 0 | 3 |
 |  3 | PE103 | Image Processing and Analysis             | PE  |   3 | 3 | 0 | 0 | 3 |
-|  4 | PE104 | Statistical Inference                     | PE  |   3 | 3 | 0 | 0 | 3 |
+|  4 | PE104 | Logic Programming                         | PE  |   3 | 3 | 0 | 0 | 3 |
 |  5 | PE105 | Cryptographic Techniques                  | PE  |   3 | 3 | 0 | 0 | 3 |
 |  6 | PE106 | Ethical Hacking                           | PE  |   3 | 3 | 0 | 0 | 3 |
 |  7 | PE107 | Advanced Database Management Systems      | PE  |   3 | 3 | 0 | 0 | 3 |
@@ -161,17 +161,17 @@
 |  1 | PE201 | Cloud Computing                           | PE  |   3 | 3 | 0 | 0 | 3 |
 |  2 | PE202 | Big Data Management                       | PE  |   3 | 3 | 0 | 0 | 3 |
 |  3 | PE203 | Software Configuration Management         | PE  |   3 | 3 | 0 | 0 | 3 |
-|  4 | PE204 | Probablistic Graphical Models             | PE  |   3 | 3 | 0 | 0 | 3 |
-|  5 | PE205 | Time Series Analysis and Forecasting      | PE  |   3 | 3 | 0 | 0 | 3 |
+|  4 | PE204 | Probabilistic Graphical Models            | PE  |   3 | 3 | 0 | 0 | 3 |
+|  5 | PE205 | Natural Language Processing               | PE  |   3 | 3 | 0 | 0 | 3 |
 |  6 | PE206 | Cyber Forensics                           | PE  |   3 | 3 | 0 | 0 | 3 |
 |  7 | PE207 | Wireless and Adhoc Networks               | PE  |   3 | 3 | 0 | 0 | 3 |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|
 |    |       | *Professional Elective 3*                 |     |     |   |   |   |   |
-|  1 | PE301 | Bayesian Data Analysis (AI&DS)            | PE  |   3 | 3 | 0 | 0 | 3 |
+|  1 | PE301 | Bayesian Data Analysis                    | PE  |   3 | 3 | 0 | 0 | 3 |
 |  2 | PE302 | Internet of Things                        | PE  |   3 | 3 | 0 | 0 | 3 |
 |  3 | PE303 | Object Oriented Analysis and Design       | PE  |   3 | 3 | 0 | 0 | 3 |
-|  4 | PE304 | Data Warehousing and Data Mining (BDMA)   | PE  |   3 | 3 | 0 | 0 | 3 |
-|  5 | PE305 | Deep Learning Techniques                  | PE  |   3 | 3 | 0 | 0 | 3 |
+|  4 | PE304 | Soft Computing                            | PE  |   3 | 3 | 0 | 0 | 3 |
+|  5 | PE305 | Deep Learning                             | PE  |   3 | 3 | 0 | 0 | 3 |
 |  6 | PE306 | Multicore Architectures and GPU Computing | PE  |   3 | 3 | 0 | 0 | 3 |
 |  7 | PE307 | Network and Server Security               | PE  |   3 | 3 | 0 | 0 | 3 |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|
@@ -179,26 +179,26 @@
 |  1 | PE401 | Healthcare  Analytics                     | PE  |   3 | 3 | 0 | 0 | 3 |
 |  2 | PE402 | User Experience Design                    | PE  |   3 | 3 | 0 | 0 | 3 |
 |  3 | PE403 | Social Network Analysis                   | PE  |   3 | 3 | 0 | 0 | 3 |
-|  4 | PE404 | Computer Vision                           | PE  |   3 | 3 | 0 | 0 | 3 |
+|  4 | PE404 | Reinforcement Learning                    | PE  |   3 | 3 | 0 | 0 | 3 |
 |  5 | PE405 | Blockchain Technologies                   | PE  |   3 | 3 | 0 | 0 | 3 |
 |  6 | PE406 | Embedded systems                          | PE  |   3 | 3 | 0 | 0 | 3 |
 |  7 | PE407 | Computer Graphics and Multimedia          | PE  |   3 | 3 | 0 | 0 | 3 |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|
 |    |       | *Professional Elective 5*                 |     |     |   |   |   |   |
-|  1 | PE501 | Bioinformatics                            | PE  |   3 | 3 | 0 | 0 | 3 |
+|  1 | PE501 | Business Analytics                        | PE  |   3 | 3 | 0 | 0 | 3 |
 |  2 | PE502 | Agile Methodologies                       | PE  |   3 | 3 | 0 | 0 | 3 |
-|  3 | PE503 | Natural Language Processing               | PE  |   3 | 3 | 0 | 0 | 3 |
-|  4 | PE504 | Robotics                                  | PE  |   3 | 3 | 0 | 0 | 3 |
+|  3 | PE503 | Time Series Analysis and Forecasting      | PE  |   3 | 3 | 0 | 0 | 3 |
+|  4 | PE504 | Computer Vision                           | PE  |   3 | 3 | 0 | 0 | 3 |
 |  5 | PE505 | Speech Processing and Synthesis           | PE  |   3 | 3 | 0 | 0 | 3 |
-|  6 | PE506 | Mobile computing                          | PE  |   3 | 3 | 0 | 0 | 3 |
+|  6 | PE506 | Mobile Computing                          | PE  |   3 | 3 | 0 | 0 | 3 |
 |  7 | PE507 | Mobile and Wireless Security              | PE  |   3 | 3 | 0 | 0 | 3 |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|
 |    |       | *Professional Elective 6*                 |     |     |   |   |   |   |
-|  1 | PE601 | Business Analytics                        | PE  |   3 | 3 | 0 | 0 | 3 |
+|  1 | PE601 | Bioinformatics                            | PE  |   3 | 3 | 0 | 0 | 3 |
 |  2 | PE602 | Formal System Verification                | PE  |   3 | 3 | 0 | 0 | 3 |
 |  3 | PE603 | Service Oriented Architecture             | PE  |   3 | 3 | 0 | 0 | 3 |
-|  4 | PE604 | Information Retrieval Techniques (BDMA)   | PE  |   3 | 3 | 0 | 0 | 3 |
-|  5 | PE605 | Reinforcement Learning                    | PE  |   3 | 3 | 0 | 0 | 3 |
+|  4 | PE604 | Information Retrieval Techniques          | PE  |   3 | 3 | 0 | 0 | 3 |
+|  5 | PE605 | Robotics                                  | PE  |   3 | 3 | 0 | 0 | 3 |
 |  6 | PE606 | Software Defined Networks                 | PE  |   3 | 3 | 0 | 0 | 3 |
 |  7 | PE607 | Parallel Algorithms                       | PE  |   3 | 3 | 0 | 0 | 3 |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|

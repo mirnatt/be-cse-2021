@@ -33,23 +33,45 @@
 
 {{{unit}}}
 | UNIT I | BASICS OF PROBABILITY THEORY, MACHINE LEARNING AND STATISTICS | 9 |
-Introduction:Bayes -- Estimating Probability of a Rare Event -- Building a Predictive Model; Probability:Events -- Partitions -- Bayes Rule -- Independene -- Random Variable -- Joint Distribution; Bayesian Inference in Applied Statistics.
+Introduction:Bayes -- Estimating Probability of a Rare Event --
+Building a Predictive Model; Probability:Events -- Partitions -- Bayes
+Rule -- Independene -- Random Variable -- Joint Distribution; Bayesian
+Inference in Applied Statistics.
 
 
 {{{unit}}}
 | UNIT II | ONE-PARAMETER MODELS, THE NORMAL MODEL  9 |
-The Binomial Model: Inference -- Confidence Region; The Poisson model -- Posterior Inference; Exponential Families and Conjugate Priors; The Normal Model: Inference for the Mean, Conditional on the Variance -- Joint Inference for the Mean and Variance -- Prior Specification Based on Expectations -- The Normal Model for Non-Normal Data; The Multivariate Normal Model.
+The Binomial Model: Inference -- Confidence Region; The Poisson model
+-- Posterior Inference; Exponential Families and Conjugate Priors; The
+Normal Model: Inference for the Mean, Conditional on the Variance --
+Joint Inference for the Mean and Variance -- Prior Specification Based
+on Expectations -- The Normal Model for Non-Normal Data; The
+Multivariate Normal Model.
 
 {{{unit}}}
 |UNIT III | GROUP COMPARISONS AND HIERARCHICAL MODELING| 9 |
-Group Comparisons: Comparing Two Groups -- Comparing Multiple Groups -- Exchangeability and Hierarchical Models; The Hierarchical Normal Model: Posterior Inference -- Hierarchical Modeling of Means and Variances -- Analysis of Math Score Data.
+Group Comparisons: Comparing Two Groups -- Comparing Multiple Groups
+-- Exchangeability and Hierarchical Models; The Hierarchical Normal
+Model: Posterior Inference -- Hierarchical Modeling of Means and
+Variances -- Analysis of Math Score Data.
 
 {{{unit}}}
 |UNIT IV |  LINEAR REGRESSION AND NON PARAMETRIC MODEL | 9 |
-The Linear Regression Model: Least Squares Estimation for the Oxygen Uptake Data; Bayesian Estimation for a Regression Model:  A Semiconjugate Prior Distribution -- Default and Weakly Informative Prior Distributions; Model Selection: Bayesian Model Comparison -- Gibbs Sampling and Model Averaging; Non-Parametric Model: Gaussian Process Models -- Finite Mixture Models.
+The Linear Regression Model: Least Squares Estimation for the Oxygen
+Uptake Data; Bayesian Estimation for a Regression Model: A
+Semiconjugate Prior Distribution -- Default and Weakly Informative
+Prior Distributions; Model Selection: Bayesian Model Comparison --
+Gibbs Sampling and Model Averaging; Non-Parametric Model: Gaussian
+Process Models -- Finite Mixture Models.
+
 {{{unit}}}
 | UNIT V | BAYESIAN COMPUTATION | 9 |
-Monte Carlo approximation: The Monte Carlo Method -- Posterior Inference for Arbitrary Functions -- Sampling from Predictive Distributions -- Posterior Predictive Model Checking; Posterior Approximation with the Gibbs Sampler: A Semiconjugate Prior Distribution -- Discrete Approximations -- Gibbs Sampling -- Metropolis-Hastings Algorithm and Gibbs Sampler.
+Monte Carlo approximation: The Monte Carlo Method -- Posterior
+Inference for Arbitrary Functions -- Sampling from Predictive
+Distributions -- Posterior Predictive Model Checking; Posterior
+Approximation with the Gibbs Sampler: A Semiconjugate Prior
+Distribution -- Discrete Approximations -- Gibbs Sampling --
+Metropolis-Hastings Algorithm and Gibbs Sampler.
 
 \hfill *Total Periods: 45*
 
@@ -65,11 +87,15 @@ After the completion of this course, students will be able to:
 
       
 ** TEXT BOOKS
-
-1. Peter D.Hoff, ``A  first course in Bayesian Statistical Methods'', Springer, 2009.
+1. Peter D Hoff, ``A first course in Bayesian Statistical Methods'',
+   Springer, 2009.
 
 
 ** REFERENCES
-1. Andrew Gelman, John B.Carlin, Hal S. Stern HS, David B Dunson, Aki Vehtari, Dolland B.Rubin, ``Bayesian data analysis'', third edition, CRC press, 2013.
-2. Richard McElreath, ``Statistical Rethinking'', second edition, CRC press, 2020.
-3. John Kruschke, ``Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan'', second edition, Academic Press,2014
+1. Andrew Gelman, John B Carlin, Hal S. Stern HS, David B Dunson, Aki
+   Vehtari, Dolland B.Rubin, ``Bayesian data analysis'', third
+   edition, CRC press, 2013.
+2. Richard McElreath, ``Statistical Rethinking'', second edition, CRC
+   press, 2020.
+3. John Kruschke, ``Doing Bayesian Data Analysis: A Tutorial with R,
+   JAGS, and Stan'', second edition, Academic Press,2014

@@ -1,4 +1,4 @@
-* <<<PE501>>> BIOINFORMATICS
+* <<<PE601>>> BIOINFORMATICS
 :properties:
 :author: Dr.S.Kavitha and Dr.P.Mirunalini
 :date: 17-03-2021  

@@ -3,7 +3,7 @@
 :author: HSH, NS
 :date: 13-03-2021
 :end:
-
+#+startup: showall
 {{{credits}}}
 |L|T|P|C|
 |3|0|0|3|

@@ -1,4 +1,4 @@
-* <<<PE105>>> LOGIC PROGRAMMING
+* <<<PE104>>> LOGIC PROGRAMMING
 :properties:
 :author: Dr. D. Thenmozhi and Dr. K. Lekshmi
 :end:

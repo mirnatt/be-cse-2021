@@ -1,4 +1,4 @@
-* <<<PE205>>> TIME SERIES ANALYSIS AND FORECASTING
+* <<<PE503>>> TIME SERIES ANALYSIS AND FORECASTING
 :properties:
 :author: H.Shahul Hamead and V.S.Felix Enigo
 :date: 17-03-2021

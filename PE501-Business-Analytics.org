@@ -1,4 +1,4 @@
-* <<<PE601>>> BUSINESS ANALYTICS
+* <<<PE501>>> BUSINESS ANALYTICS
 :properties:
 :author: Dr. J Suresh and Dr. G Raghuraman
 :date: 18-03-2021

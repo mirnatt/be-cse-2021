@@ -1,4 +1,4 @@
-* <<<PE605>>> REINFORCEMENT LEARNING
+* <<<PE404>>> REINFORCEMENT LEARNING
 :properties:
 :author: Ms. M. Saritha and Ms. S. Rajalakshmi
 :date: 15-03-2021

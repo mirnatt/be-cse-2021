@@ -1,4 +1,4 @@
-* <<<PE302>>> SOCIAL NETWORK ANALYSIS
+* <<<PE403>>> SOCIAL NETWORK ANALYSIS
 :properties:
 :author: Dr. V. S. Felix Enigo and Dr. G. Raghuraman
 :date: 19/3/21
