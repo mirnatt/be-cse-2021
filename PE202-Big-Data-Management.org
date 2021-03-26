@@ -16,14 +16,13 @@
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    2 |    1 |    2 |    1 |
-| CO2            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    2 |    2 |    3 |    1 |
-| CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    2 |    2 |    3 |    1 |
-| CO4            | K4 |   3 |   3 |   2 |   2 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    2 |    2 |    3 |    1 |
-| CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    2 |    2 |    3 |    1 |
-| Score          |    |  14 |  11 |   9 |   9 |   5 |   0 |   0 |   0 |   5 |    0 |    0 |   10 |    9 |   14 |    5 |
-| Course Mapping |    |   3 |   3 |   2 |   2 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    2 |    2 |    3 |    1 |
-
+| CO1            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    1 |    2 |    1 |
+| CO2            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    2 |    3 |    1 |
+| CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    1 |    2 |    2 |    3 |    1 |
+| CO4            | K3 |   3 |   3 |   2 |   2 |   1 |   0 |   0 |   1 |   2 |    1 |    1 |    3 |    2 |    3 |    1 |
+| CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   3 |    3 |    2 |    3 |    2 |    3 |    1 |
+| Score          |    |  14 |  13 |   9 |   9 |   5 |   0 |   0 |   3 |   8 |    5 |    4 |   10 |    9 |   14 |    5 |
+| Course Mapping |    |   3 |   3 |   2 |   2 |   1 |   0 |   0 |   1 |   2 |    1 |    1 |    2 |    2 |    3 |    1 |
 
 {{{credits}}}
 | L | T | P | C |
@@ -62,11 +61,10 @@ Introduction to NoSQL - Database for modern Web:MongoDB -- MongoDB Shell -- Crea
 After the completion of this course, students will be able to: 
 - Illustrate the different data elements and able to identify data operations needed for problems (K2)
 - Explain the needs of differnet data models for desiging big data information system (K3)
-- Build a data model to suit the characteristics of data (K3) 
-- Compare between a traditional DBMS and BDMS and apply it for building a system for managing big data (K4)
-- Design and build a new information system using BDMS tools (K3) 
-
-     
+- Build a data model to suit the characteristics of data using Data lake in teams (K3) 
+- Compare between a traditional DBMS and BDMS and apply it for building a system for managing big data in teams. (K3)
+- Design and build a new information system using BDMS tools in teams, demostrate and write report on the work. (K3) 
+  
 ** TEXT BOOKS
 1. James Lee , Tao Wei , Suresh Kumar Mukhiya, "Hands-On Big Data Modeling", Packt Publishers, 2018.(u1 & u2)
 2. Bill Inmon, "Data Lake Architecture: Designing the data lake and avoiding the garbage dump", 1st Edition, Technics Publications, 2016.(u3)
