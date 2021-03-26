@@ -6,13 +6,13 @@
 
 ** CO PO MAPPING :noexport:
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-| CO1            | K2 |   1 |   3 |   1 |   1 |   3 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
-| CO2            | K3 |   2 |   3 |   3 |   2 |   3 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
-| CO3            | K3 |   2 |   3 |   3 |   2 |   3 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
-| CO4            | K3 |   2 |   3 |   3 |   2 |   3 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
-| CO5            | K3 |   2 |   3 |   3 |   2 |   3 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
-| Score          |    |  9  |   15 |  13 |  9 |  15 |   0  |  0 |   0 |   0 |    0 |    0 |    0 |   15 |    0|     0 |
-| Course Mapping |    |  2 |   3 |   3 |    2 |   3 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
+| CO1            | K2 |   1 |   1 |   0 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO2            | K3 |   1 |   2 |   0 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO3            | K3 |   1 |   3 |   0 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
+| CO4            | K3 |   1 |   3 |   0 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
+| CO5            | K3 |   1 |   2 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| Score          |    |  5  |   11 |  0 |  6  |  0 |   0  |  0 |   0 |   0 |    0 |    0 |    0 |   12   |    0|     0 |
+| Course Mapping |    |  1 |   3 |   3 |    2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
 
 	
 
@@ -68,9 +68,9 @@ arguments.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Solve programming problems and express solutions in pseudo code (K2).
+- Solve programming problems and express solutions in pseudo code (K3).
 - Develop simple programs using basic constructs (K3).
-- Construct programs using conditions and iterations decompose a problem into   functions. (K3)
+- Construct programs using conditions and iterations decompose a problem into functions. (K3)
 - Make use of strings, lists, tuples and  dictionaries data structures (K3).
 - With files perform Input/Output Operations  (K3).
 
