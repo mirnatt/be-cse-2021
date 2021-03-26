@@ -16,6 +16,7 @@
 | CO4 |     |     |     |     |     |     |     |   1 |     |    3 |    1 |    1 |      |      |      |
 | CO5 |     |     |     |     |     |     |     |     |   3 |    3 |    2 |    1 |      |    1 |      |
 | CO6 |     |     |     |     |     |   2 |   2 |   1 |     |      |      |      |      |      |      |
+| CO6 |   1 |   1 |   2 |   2 |     |     |     |     |     |      |      |      |   2  |    1 |      |
 
 ** COURSE OBJECTIVES
 - To link the system building to computing fundamentals.
@@ -24,12 +25,26 @@
 
 ** LECTURES
 {{{unit}}}
-| UNIT I | PROGRAM DEVELOPMENT | 6 |
-Program Development: Algorithmic problem solving -- Problem
-formulation -- Data structures -- Abstraction -- Encapsulation;
-Programming in C: Programming Constructs -- Arrays -- Strings --
-Functions and Recursion.
+| UNIT I | PROGRAM DEVELOPMENT BASICS | 7 |
+Algorithm – Algorithmic problem solving – modularity, reusability, maintainability – Software engineering fundamentals: project management, feasibility study. Best practices and guidelines for Programming.
+Structure of a C program -- data types -- variables and constants -- operators and expressions - input and output statements -- control statements.  
 
+{{{unit}}}
+| UNIT II | FUNCTIONS  | 6 |
+Function prototype -- function definition and call -- passing parameters -- recursion – Program structure: storage classes – multi-file programs-- Standard library functions; 
+
+| UNIT III | ARRAYS AND STRINGS  | 6 |
+Arrays: declaration, initialization – multi-dimensional arrays -- passing arrays to functions;
+Strings: reading and writing strings, string operations, string library functions.
+{{{unit}}}
+| UNIT IV | POINTERS   | 6 |
+Pointers: pointer operators -- pointer operations – pointer to an array -- array of pointers -- Dynamic memory allocation -- pointer to a function -- passing pointers to functions --problems in using pointers.
+
+{{{unit}}}
+| UNIT V | STRUCTURES   | 5 |
+User defined data types -- Structures: nested structures -- structures and functions -- array of structures -- pointer to a structure – type definition (typedef).   enumerated data type Choosing suitable data types and programming constructs.   Command line arguments.
+
+#+BEGIN_COMMENT
 {{{unit}}}
 | UNIT II | DATABASES  | 6 |
 Databases: Relational Databases -- SQL -- SQLite.
@@ -51,19 +66,18 @@ Software Engineering: Planning -- Project management --
 Feasibility study -- Cost-Benefit analysis -- Modular and
 architecture Design -- Documentation; Ethics and best
 practices in Engineering.
+#+END_COMMENT
+** Lab Assignments in C (15 hours taken from studio sessions)
+1.	Algorithm writing, verification and test case design (1)
+2.	Programs using looping constructs (for, while, do-while)
+3.	Programs using functions with different parameter passing techniques: Call by value (e.g. swapping two numbers), call by reference (e.g. changing the elements of an array), Recursion (e.g. binary search)
+4.	Programs using one dimensional arrays (e.g. inserting an element after every ith position in an array, Insertion sort)
+5.	Programs using strings and their operations (e.g. concatenation of strings, extracting a substring, checking for palindrome, search for a given string using binary search)
+6.	Programs to demonstrate simple structure manipulations and passing structures to a function (e.g. generating a transcript with CGPA and class obtained, operations on complex numbers, difference between times)
 
-** CLASS ACTIVITY (15 hours taken from studio sessions)
-1. Algorithm writing (1)
-2. Algorithm verification and test case design (1)
-3. Applications of arrays in C (2)
-4. Applications of functions and recursion in C (2)
-5. Table creation and SQL queries for an application (2)
-6. SPA creation for a scenario in the given application (3)
-7. Mobile application development for an application (2)
-8. Regression and Classification (2)
-9. Data visualization (2)
+In all the above assignments, wherever applicable, focus on reflection and introspection on learning outcome. 
 
-** STUDIO SESSIONS (30 sessions of 2 hours each)
+** STUDIO SESSIONS (45 hours)
 - /Sample Case Study/: Timetable Management System for an Academic
   Institution
 - /Input/: Set of courses in a semester, Type of courses, Classrooms,
@@ -91,6 +105,7 @@ After the completion of this course, students will be able to:
 6. Analyze the impact on health, safety, society, environment
    as well as underlying legal and ethical considerations
    wherever are applicable.
+7. Solve programming problems using basic constructs in C programming language.
 
 ** INSTRUCTIONS
 1. Instructor provides the links in Internet, industry links
@@ -100,15 +115,7 @@ After the completion of this course, students will be able to:
    Students must submit a short report on various problems
    and applications, tools and knowledge required to design
    such a system.
-2. Instructor introduces the general aspects of timetable
-   management / scheduling problem and constraints
-   involved. Further, provide pointers to applications of
-   this problem in various sample domains listed below:
-   - Train / bus/ aircraft time scheduling
-   - Movie scheduling in a multiplex mall
-   - Sports -- scheduling of matches
-   - Class time table in an university
-   - Exam schedule in an university
+2. The instructor introduces the general aspects of timetable management / scheduling problem and constraints involved. Further, the faculty provides pointers to applications of this problem in various other domains.
 3. Students are grouped into teams and each team is asked to
    formulate timetable management in different domains and
    identify the scope and constraints of their problem.
@@ -165,16 +172,17 @@ assessment only.*
 ** Tentative Rubrics for Evaluation
 | Assessment Tool      | Weight |     |
 |----------------------+--------+-----|
-| End semester exam    |     50 |     |
 | Continous assessment |        |     |
 | Lab work             |     20 |     |
 | Theory test          |     15 |     |
-| Lab test             |     15 |     |
+| Theory / Lab test    |     15 |     |
+|               Total  |     50 |     |
+| Project Assessment   |        |     |
 | Review 1             |        |  5% |
 | Review 2             |        |  5% |
-| Review 3             |        |  5% |
-| Mid semester review  |        | 10% |
+| Mid semester review  |        | 15% |
 | End semester review  |        | 25% |
+|                Total |        | 50% |
 |----------------------+--------+-----|
 | Total                |    100 |     |
 
