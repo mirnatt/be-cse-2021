@@ -1,7 +1,7 @@
 * <<<702>>> SOFTWARE ARCHITECTURE
 :properties:
-:autho: Dr. Chitra Babu
-:date: 18 June 2019
+:author: Dr. Chitra Babu
+:date: 26 March 2021
 :end:
 
 #+startup: showall
