@@ -5,12 +5,7 @@
 :end:
 
 #+begin_comment
-Included project model in Unit I instead of having it in AU R2017 -Unit II
-Included scheduling in Unit II instead of having it in AU R2017-Unit III
-Added security topic in syllabus, which is not provided in AU R2017
-Added risk in Unit IV instead of AU R2017-Unit III
-New process model is added in syllabus which is not provided in AU R2017
-Included monitoring topics in Unit V instead of AU-Unit IV
+
 #+end_comment
 
 #+startup: showall
@@ -20,9 +15,9 @@ Included monitoring topics in Unit V instead of AU-Unit IV
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
 | CO1            | K2 |   3 |   3 |   1 |   1 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    1 |    1 |    1 |
 | CO2            | K3 |   3 |   3 |   3 |   3 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    3 |    2 |    3 |
-| CO3            | K4 |   3 |   3 |   3 |   3 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    3 |    2 |    3 |
-| CO4            | K4 |   3 |   3 |   3 |   3 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    3 |    2 |    3 |
-| CO5            | K3 |   3 |   3 |   3 |   3 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    3 |    2 |    3 |
+| CO3            | K3 |   3 |   3 |   3 |   3 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    3 |    2 |    3 |
+| CO4            | K3 |   3 |   3 |   3 |   3 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    3 |    2 |    3 |
+| CO5            | K2 |   3 |   3 |   3 |   3 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    3 |    2 |    3 |
 | CO6            | K3 |   3 |   3 |   3 |   3 |   3 |   0 |   0 |   1 |   3 |    3 |    0 |    1 |    3 |    3 |    3 |
 | Score          |    |  18 |  18 |  16 |  16 |   8 |   0 |   0 |   1 |   8 |    3 |    0 |    5 |   16 |   12 |   16 |
 | Course Mapping |    |   3 |   3 |   3 |   3 |   2 |   0 |   0 |   1 |   2 |    1 |    0 |    1 |    3 |    3 |    3 |
@@ -91,6 +86,7 @@ Upon completion of the course, the student should be able to:
 - Select the inference algorithms to analyze the models  (K3)
 - Apply the learning techniques to learn the structure and parameter in models (K3)
 - Identify the learning techniques for hidden data (K2).
+- Solve a real time problem using any probabilistic graphical models (K3)
       
 ** TEXT BOOKS
 1. David Barber, ``Bayesian Reasoning and Machine Learning'',
