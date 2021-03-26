@@ -4,16 +4,6 @@
 :date: 09-03-2021
 :end:
 
-
-#+begin_comment
-- 1. No equivalent course in AU 2017 Curriculum
-- 2. We checked other university courses relevant to this
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable.
-#+end_comment
-
-
 #+startup: showall
 
 ** CO PO MAPPING :noexport:
@@ -91,10 +81,10 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS
 1. Davy Cielen, Arno D B Meysman, Mohamed Ali, ``Introducing Data
    Science -- Big data, Machine Learning, and more using Python
-   tools'', Manning Publications Co, 2016. (Unit I)
+   tools'', Manning Publications Co, 2016. 
 2. Laura Igual, Santi Segua­, ``Introduction to Data Science -- A
    Python Approach to Concepts, Techniques and Applications'',
-   Springer Nature, 2017 (Unit I, II, III, IV, V)
+   Springer Nature, 2017
    
 ** REFERENCE BOOKS
 1. Jake VanderPlas, ``Python Data Science Handbook: Essential Tools
@@ -103,3 +93,12 @@ After the completion of this course, students will be able to:
    O'Reilly Media, 2013
 3. Rachel Schutt, Cathy O'Neil, ``Doing Data Science'', O'Reilly
    Media, 2016
+   
+#+begin_comment
+1. Davy Cielen, Arno D B Meysman, Mohamed Ali, ``Introducing Data
+   Science -- Big data, Machine Learning, and more using Python
+   tools'', Manning Publications Co, 2016. (Unit I)
+2. Laura Igual, Santi Segua­, ``Introduction to Data Science -- A
+   Python Approach to Concepts, Techniques and Applications'',
+   Springer Nature, 2017 (Unit I, II, III, IV, V)
+#+end_comment
