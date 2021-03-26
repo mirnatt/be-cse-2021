@@ -73,6 +73,8 @@ After the completion of this course, students will be able to:
 - Construct programs using conditions and iterations decompose a problem into functions. (K3)
 - Make use of strings, lists, tuples and  dictionaries data structures (K3).
 - With files perform Input/Output Operations  (K3).
+- Apply the datastructures such as lists and dictionary and develop solutions for various problems (K3)
+
 
 ** TEXT BOOKS
 1. Karl Beecher, ``Computational Thinking -- A beginner's Guide to
