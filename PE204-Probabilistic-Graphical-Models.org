@@ -4,6 +4,10 @@
 :date: 9.3.21
 :end:
 
+#+begin_comment
+co-po mapping added
+soft po added
+#+end_comment
 
 #+startup: showall
 ** CO PO MAPPING :noexport:
@@ -28,7 +32,7 @@
 - To apply the techniques to represent the model, do inference and learning
 - To understand the methods for learning in hidden data.
 #+begin_comment
-...Included project model in Unit I instead of having it in AU-Unit II...
+
 #+end_comment
 
 {{{unit}}}
