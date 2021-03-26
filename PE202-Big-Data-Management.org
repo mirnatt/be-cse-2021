@@ -37,25 +37,24 @@
 - To learn various tools supporting big data management system.
 
 {{{unit}}}
-| UNIT I | Introduction to Big Data | 9 |
+| UNIT I | Introduction to Big Data Model | 9 |
 Concept of Big Data -- Sources and types of big data -- Data Ingestion -- Data Storage -- Data Quality -- Data Operations -- Data Scalability and Security -- Data Managment in Energy, Gaming and Flight Operations.
 
-
 {{{unit}}}
-| UNIT II | Big Data Modeling| 9 |
+| UNIT II | Data Repository and Storage Format | 9 |
 Introduction to Big Data Modeling -- Importance and implications of big data modeling and management -- Big data storage and data models -- Data model Structures and Operations -- Data Model Constraints -- Relational and Semistructured Data Model -- CSV and JSON data -- Array Data Model. 
 
 {{{unit}}}
-|UNIT III | Working With Data Models | 9 |
+|UNIT III |  Data Model | 9 |
 Data Models -- Categorizing Data Models -- Data Model vs Data Format -- Data Stream -- Understanding Data Lake -- Inside Data Lake -- Generic Structure of Data Ponds -- Applications of Data Pond
 
 {{{unit}}}
 |UNIT IV | Big Data Management System   | 9 |
-Approaches to Big Data -- DBMS and non-DBMS -- DBMS to BDMS -- Key Value Store: Redis -- Aerospike -- Semistructured Data: AsterixDB
+Approaches to Big Data -- DBMS and non-DBMS -- DBMS to BDMS -- Key Value Store: Redis -- Graph Databases An Overview -- Started with Neo4j -- Modelling data for Neo4j -- Use Case Examples: Recommender Systems & Impact Analysis and Simulation -- Visualization for Neo4j.
 
 {{{unit}}}
 | UNIT V | Big Data Management Tools | 9 |
-Introduction -- Impala -- Neo4j -- SparkSQL -- Case Studies -- Modeling Tweeter Feeds  -- Modeling Weather Data Points -- Modeling IMDb Data Points.
+Introduction to NoSQL - Database for modern Web:MongoDB -- MongoDB Shell -- Creating, Updating and Deleting Documents -- Querying --  Cassandra: Data Model – Examples – Cassandra Clients – Hadoop Integration
 
 \hfill *Total Periods: 45*
 
@@ -71,6 +70,8 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS
 1. James Lee , Tao Wei , Suresh Kumar Mukhiya, "Hands-On Big Data Modeling", Packt Publishers, 2018.
 2. Bill Inmon, "Data Lake Architecture: Designing the data lake and avoiding the garbage dump", 1st Edition, Technics Publications, 2016.
+3. Kyle Banker, Peter Bakkum, Shaun Verch, Douglas Garrett, and Tim Hawkin, "MongoDB in Action", 2nd Edition, Manning Publications, 2016.
+4. Shannon Bradshaw, Eoin Brazil, Kristina Chodorow, "MongoDB: The Definitive Guide", 3rd Edition, 2019.
 
 ** REFERENCES
 1. Kim H Pries, Robert Dunnigan, "Big Data Analytics: A Practical Guide for Managers", CRC Press, 2015.
