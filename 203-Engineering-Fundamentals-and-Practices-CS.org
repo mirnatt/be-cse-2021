@@ -67,7 +67,7 @@ Feasibility study -- Cost-Benefit analysis -- Modular and
 architecture Design -- Documentation; Ethics and best
 practices in Engineering.
 #+END_COMMENT
-** Lab Assignments in C (15 hours taken from studio sessions)
+** Lab Assignments in C (15 hours)
 1.	Algorithm writing, verification and test case design (1)
 2.	Programs using looping constructs (for, while, do-while)
 3.	Programs using functions with different parameter passing techniques: Call by value (e.g. swapping two numbers), call by reference (e.g. changing the elements of an array), Recursion (e.g. binary search)
