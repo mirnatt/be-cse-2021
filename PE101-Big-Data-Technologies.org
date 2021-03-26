@@ -1,7 +1,7 @@
 * <<<PE101>>> BIG DATA TECHNOLOGIES
 :properties:
 :author: Dr. J Suresh and Dr. Y. V. Lokeswari
-:date: 23-03-2021
+:date: 26-03-2021
 :end:
 
 
