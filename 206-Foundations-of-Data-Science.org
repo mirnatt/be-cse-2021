@@ -56,7 +56,7 @@ data -- Cleansing, integrating and transforming data -- Data analysis
 |UNIT II | TOOLBOXES FOR DATA SCIENTISTS| 11 |
 Introduction to Python; Fundamental Python Libraries for Data
 Scientists : Numpy -- Scipy -- ScikitLearn -- Pandas -- Matplotlib;
-IDE; Data Manipulation with Python; Sample programs to analyze and visulaize data.
+IDE; Data Manipulation with Python; Sample programs to pre-process and visulaize data.
 
 {{{unit}}}
 |UNIT III | DESCRIPTIVE STATISTICS | 8 |
@@ -97,9 +97,9 @@ After the completion of this course, students will be able to:
    Springer Nature, 2017 (Unit I, II, III, IV, V)
    
 ** REFERENCE BOOKS
-1. Foster Provost and Tom Fawcett, ``Data Science for Business'',
-   O'Reilly Media, 2013
-2. Jake VanderPlas, ``Python Data Science Handbook: Essential Tools
+1. Jake VanderPlas, ``Python Data Science Handbook: Essential Tools
    for Working with Data '', O'Reilly Media, 2016
+2. Foster Provost and Tom Fawcett, ``Data Science for Business'',
+   O'Reilly Media, 2013
 3. Rachel Schutt, Cathy O'Neil, ``Doing Data Science'', O'Reilly
    Media, 2016
