@@ -52,3 +52,4 @@ After the completion of this course, students will be able to:
 - To solve  a problem using functions in python programming (K3).
 - Construct python programs using compound data like lists, tuples, and dictionaries (K3).
 - Utilize files for problem solving (K3).
+- Build a simple apllications in teams using files and dictionary by applying best programming practices(K3)
