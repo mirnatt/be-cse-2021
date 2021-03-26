@@ -39,7 +39,7 @@ Introduction to Computer Vision and the challenges; Image based feature extracti
 Binary shape analysis: Skeletons and thinning -- Other measures for shape recognition; Boundary Pattern analyis: Boundary tracking procedures -- Centroidal profiles; Line detection: Hough transform -- Foot of normal method; Circle and Ellipse detection: Hough based scheme -- Ellipse detection methods; Case study: Human Iris Location;
 
 {{{unit}}}
-|UNIT III | 3D vision - Depth Estimation AND 3D Reconstruction: | 9 |
+|UNIT III | 3D vision - Depth Estimation and 3D Reconstruction: | 9 |
 Feature-based alignment: 2D and 3D feature-based alignment -- pose estimation -- Geometric intrinsic calibration; Structure from Motion: Triangulation -- Two-frame structure from Motion -- Factorization -- Bundle adjustment; 
 Stereo Correspondance: Epipolar geometry -- Sparse and Dense correspondence -- Multiview stereo; 3D Reconstruction: Shape from X -- Active rangefinding -- Surface representations -- Point-based representations;
 
