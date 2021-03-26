@@ -53,20 +53,20 @@ data -- Cleansing, integrating and transforming data -- Data analysis
 -- Build the models -- Presenting findings and building applications.
 
 {{{unit}}}
-|UNIT II | TOOLBOXES FOR DATA SCIENTISTS| 9 |
+|UNIT II | TOOLBOXES FOR DATA SCIENTISTS| 11 |
 Introduction to Python; Fundamental Python Libraries for Data
 Scientists : Numpy -- Scipy -- ScikitLearn -- Pandas -- Matplotlib;
 IDE; Data Manipulation with Python; Sample programs to analyze and visulaize data.
 
 {{{unit}}}
-|UNIT III | DESCRIPTIVE STATISTICS | 9 |
+|UNIT III | DESCRIPTIVE STATISTICS | 8 |
 Introduction -- Data Preparation -- Exploratory Data Analysis: Data
 summarization -- Data distribution -- Outlier Treatment -- Measuring
 asymmetry -- Continuous distribution; Estimation: Mean -- Variance --
 Sampling -- Covariance -- Correlation.
 
 {{{unit}}}
-|UNIT IV | STATISTICAL INFERENCE | 9 |
+|UNIT IV | STATISTICAL INFERENCE | 8 |
 Introduction -- Frequentist Approach -- Measuring the Variability in
 Estimates: Point estimates -- Confidence intervals; Hypothesis
 Testing: Using confidence intervals -- Using p-values.
