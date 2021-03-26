@@ -11,7 +11,8 @@
 | CO3            | K3 |   1 |   3 |   0 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
 | CO4            | K3 |   1 |   3 |   0 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
 | CO5            | K3 |   1 |   2 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
-| Score          |    |  5  |   11 |  0 |  6  |  0 |   0  |  0 |   0 |   0 |    0 |    0 |    0 |   12   |    0|     0 |
+| CO6            | K3|    2 |	3 |  3	|   2 |   0 |	0 |   0	|   0 |   3 |    2 |    0 |    0 |    3 |    1 |    0 |
+| Score          |    |  7  |   14 |  3 |  8  |  0  |   0 |  0  |   0 |   3 |    2 |    0 |    0 |   15 |    1 |    0 |
 | Course Mapping |    |  1 |   3 |   3 |    2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
 
 	
@@ -73,7 +74,7 @@ After the completion of this course, students will be able to:
 - Construct programs using conditions and iterations decompose a problem into functions. (K3)
 - Make use of strings, lists, tuples and  dictionaries data structures (K3).
 - With files perform Input/Output Operations  (K3).
-- Apply the datastructures such as lists and dictionary and develop solutions for various problems (K3)
+- Build a simple apllications in teams using files and dictionary by applying best programming practices(K3)
 
 
 ** TEXT BOOKS
