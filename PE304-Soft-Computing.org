@@ -1,35 +1,20 @@
-* <<<PE304>>> SOFT COMPUTING
+ <<<PExxx>>> Soft Computing 
 :properties:
 :author: Dr. T.T. Mirnalinee  and Dr. K. Lekshmi
-:date: 25/03/2021
+:date: 26/03/2021
 :end:
-
-#+begin_comment
-- 1. One professional elective is offered by the same name in AU 2017
-- 2. Referred other university syllabus.
-- 3. Offered only in AU BE 2017 curriculum
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable.
-#+end_comment
-
-#+startup: showall
-
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
-|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K2 |   2 |   2 |   1 |   1 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    1 |    2 |    1 |
-| CO2            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-| CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-| CO4            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-| CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-| CO6            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-| Score          |    |  14 |  10 |   9 |   9 |   5 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |    9 |   14 |    5 |
-| Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-
-
-
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO2 | PSO3 | PSO3 |	
+|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K3 |   K6 |   K6 | 
+| CO1            | K3 |   2 |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   3 |    3 |    0 |    1 |    3 |    1 |    3 |
+| CO2            | K2 |   2 |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   3 |    3 |    0 |    1 |    3 |    1 |    3 |
+| CO3            | K3 |   2 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    3 |    0 |    1 |    3 |    1 |    3 |
+| CO4            | K2 |   2 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    3 |    0 |    1 |    3 |    1 |    3 |
+| CO5            | K4 |   2 |   3 |   3 |   3 |   3 |   1 |   1 |   1 |   3 |    3 |    2 |    1 |    3 |    1 |    3 |
+| Score          |    |  10 |  15 |  15 |  15 |   9 |   1 |   1 |   1 |   9 |   15 |    2 |    5 |   15 |    5 |   15 |
+| Course Mapping |    |   2 |   3 |   3 |   3 |   2 |   1 |   1 |   1 |   2 |    3 |    1 |    1 |    3 |    1 |    3 |
 
 {{{credits}}}
 | L | T | P | C |
@@ -37,40 +22,39 @@
 
 ** COURSE OBJECTIVES
 - To introduce the ideas of fuzzy sets and fuzzy logic 
-- To study the characteristics of various types of neural networks.
-- To gain insight in Hybrid Learning Models . 
-- To  provide  the  mathematical  background  for  carrying  out  the  optimization  associated  with neural network learning and genetic algorithms.
-- To  introduce  case studies  utilizing the  above and  illustrate the intelligent behavior of programs based on soft computing
+- To study the characteristics of various types of neural networks
+- To provide  the  mathematical  background  for  carrying  out  the  optimization  associated  with neural network learning and genetic algorithms
+- To gain insight in Hybrid Learning Models
 
 #+startup: showall
 
 {{{unit}}}
-|UNIT I | Fuzzy Set Theory | 9 |
-Introduction to Neuro, Fuzzy and Soft Computing; Fuzzy Sets : Basic Definition and Terminology --
+|UNIT I | Fuzzy Logic | 10 |
+Introduction to Neuro-Fuzzy and Soft Computing; Fuzzy Sets : Basic Definition and Terminology --
 Set-theoretic Operations -- Member Function Formulation and Parameterization -- Fuzzy Rules and Fuzzy Reasoning --
 Extension Principle and Fuzzy Relations -- Fuzzy If-Then Rules -- Fuzzy Reasoning -- Fuzzy Inference Systems 
--- Mamdani Fuzzy Models -- Sugeno Fuzzy Models --Tsukamoto Fuzzy Models -- Input Space Partitioning and Fuzzy Modeling.
+-- Mamdani Fuzzy Models -- Sugeno Fuzzy Models --Tsukamoto Fuzzy Models -- Input Space Partitioning and Fuzzy Modeling
 
 {{{unit}}}
-|UNIT II | Neural Networks | 9 | 
+|UNIT II | Neural Networks | 7 | 
 Supervised Learning Neural Networks: Perceptrons –- Adaline –- Backpropagation Mutilayer Perceptrons –- Radial Basis Function Networks;
-Unsupervised Learning NeuralNetworks: Competitive Learning Networks –- Kohonen Self-Organizing Networks -– Learning Vector Quantization –- Hebbian Learning.
+Unsupervised Learning NeuralNetworks: Competitive Learning Networks –- Kohonen Self-Organizing Networks -– Learning Vector Quantization –- Hebbian Learning
 
 {{{unit}}}
-|UNIT III | Neuro Fuzzy Modeling | 9 |
-Adaptive Neuro-Fuzzy Inference Systems: Architecture –- Hybrid Learning Algorithm –- Learning Methods that Cross-fertilize ANFIS and RBFN; 
-Coactive Neuro Fuzzy Modeling: Framework Neuron Functions for Adaptive Networks –- Neuro Fuzzy Spectrum.
-
-{{{unit}}}
-|UNIT IV | Optimization | 9 |
+|UNIT III | Conventional Optimization  | 9 |
 Derivative-based Optimization: Descent Methods -- The Method of Steepest Descent -- Classical Newton's Method -- Step Size Determination 
--- Derivative-free Optimization; Genetic Algorithms: Simulated Annealing -- Random Search -- Downhill Simplex Search -- Particle Swarm Optimization 
+-- Conjugate gradient Methods -- Analysis of Quadratic Case
+
+{{{unit}}}
+|UNIT IV | Genetic Algorithms | 10 |
+Genetic Algorithms: Genetic algorithm and search space -- general genetic algorithm –- operators -- Generational cycle --
+stopping condition –- constraints –- classification; Simulated Annealing -- Random Search -- Downhill Simplex Search -- Particle Swarm Optimization 
 -- Ant Colony Optimization.
 
 {{{unit}}}
-|UNIT V | Applications of Computational Intelligence | 9 | 
-Shortest Path Algorithm; Printed Character Recognition; Inverse Kinematics Problems; Automobile Fuel Efficiency Prediction;
-Soft Computing for Color Recipe Prediction; Stock Marker Forecasting
+|UNIT V | Neuro Fuzzy Modeling | 9 |
+Adaptive Neuro-Fuzzy Inference Systems: Architecture –- Hybrid Learning Algorithm –- Learning Methods that Cross-fertilize ANFIS and RBFN; 
+Coactive Neuro Fuzzy Modeling: Framework Neuron Functions for Adaptive Networks –- Neuro Fuzzy Spectrum.
 
 
 \hfill *Total Periods: 45*
@@ -78,15 +62,16 @@ Soft Computing for Color Recipe Prediction; Stock Marker Forecasting
 #+begin_comment
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Use fuzzy logic (K3).
-- Design of various neural networks (K3).
-- Apply optimization in neural networks and genetic programming (K3).
-- Discuss hybrid soft computing (K2).
-- Apply various soft computing frame works on different case studies (K3).
-- Develop intelligent modeling, optimization and control of non-linear systems (K3).
+
+- Utilize fuzzy logic for solving real world problems. (K3)
+- Demonstrate the use of neural networks algorithms in solving computational problems. (K2)
+- Make use of derivative based optimization techniques. (K3)
+- Explain genetic algorithms and evolutionary optimization. (K2)
+- Analyse and compare neuro-fuzzy hybrid models for solving computational problems. (K4)
+
 
 #+end_comment
-
+ 
 ** TEXT BOOKS
 1.	J.S.R.Jang, C.T. Sun and E.Mizutani, ``Neuro-Fuzzy and Soft Computing'', PHI / Pearson Education 2004. 
 
@@ -96,6 +81,6 @@ REFERENCE BOOKS
 2.	Timothy J.Ross, ``Fuzzy Logic with Engineering Applications'', McGraw-Hill, International Editions, Electrical Engineering Series, Singapore, 1997.
 3.	Davis E.Goldberg, ``Genetic Algorithms: Search, Optimization and Machine Learning'', Addison Wesley, N.Y., 1989.
 4.	Samir Roy, ``Introduction to Softcomputing : NeuroFuzzy and Genetic Algorithms'', First edition, Pearson Publishers, 2015.
-5.	R.Eberhart, P.Simpson and R.Dobbins, ``Computational Intelligence - PC Tools'', AP Professional, Boston. 1996. 
+5.	R.Eberhart, P.Simpson and R.Dobbins, ``Computational Intelligence - PC Tools'', AP Professional, Boston. 1996.
 6.	Stamatios V. Kartalopoulos, ``Understanding Neural Networks and Fuzzy Logic Basic concepts & Applications'', IEEE Press, PHI, New Delhi, 2004.
 7.	Vojislav Keeman, ``Learning & Soft Computing Support Vector Machines, Neural Networks, and Fuzzy Logic Models'', Pearson Education, New Delhi, 2006.
