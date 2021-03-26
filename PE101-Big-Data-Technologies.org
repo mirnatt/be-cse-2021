@@ -77,4 +77,4 @@ Upon the completion of the course the students should be able to:
 6. Flavio Junqueira, Benjamin Reed, "ZooKeeper: Distributed Process Co-ordination Paperback", O'Reilly Media, 2014 (u5)
 7. Kathleen Ting, Jarek Jarcec Cecho, "Apache Sqoop Cookbook: Unlocking Hadoop for Your Relational Database", O'Reilly Media, 2013.
 
-
+ 
