@@ -53,7 +53,7 @@ Networks for Decisions -- Solving Influence Diagrams -- Markov
 Decision Processes -- Variational Inference and Planning.
 
 {{{unit}}}
-|UNIT IV | LEARNING IN PROBABILISTIC MODDELS | 9 |
+|UNIT IV | LEARNING IN PROBABILISTIC MODELS | 9 |
 Statistics for Machine Learning: Representing Data -- Distributions --
 Multivariate Gaussian -- Conjugate priors -- Properties of Maximum
 Likelihood -- Learning a Gaussian; Learning as Inference: Bayesian
