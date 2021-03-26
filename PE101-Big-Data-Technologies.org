@@ -36,7 +36,7 @@
 
 
 {{{unit}}}
-|Unit I|Introduction to Big Data Technologoy|7| 
+|Unit I|Introduction to Big Data Technologoy|5| 
 Introduction -- Understanding Big Data --  Big Data: Benifitting -- Managing -- Organizing and Analyzing Big Data: Learning and Analytics; Technology Challenges for Big Data.
 
 {{{unit}}}
@@ -52,8 +52,8 @@ Stream Processing Concepts -- Distributed Stream Processing -- Stream Processing
 Apache Kafka -- Installing Kafka -- Producers and Consumers -- Kafka Internals -- Building Data Pipelines -- Cross Cluster Data Mirroring -- Administering and Monitoring Kafka -- Getting started with Kafka Streams -- Kafka Streams Development -- Applications with Kafka Streams.
 
 {{{unit}}}
-|Unit V|Technologies for Stream Processing |10|
--- Extending Spark with H20 -- Intalling H2O - Architecture -- Souring with Data -- Performance tuning -- H2O Flow.
+|Unit V|Big Data Frameworks |10|
+Apache Flume -- Overview and Architecture -- Quick Start Guide to Flume -- Basics of Sqoop -- Integrating Sqoop with Hadoop -- Getting to Grips with Zookeeper -- Getting Started with Zookeepre API --  Machine Learning using Apache Mahout -- Clustering & Classification Algorithms in Mahout --  Extending Spark with H20 -- H2O
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
@@ -61,7 +61,7 @@ Upon the completion of the course the students should be able to:
 - Build distributed data processing applicatins using Apache Hadoop (K3)
 - Develop distributed data processing applications using Apache Spark (K3)
 - Experiment with Apache Kafka for processing stream data (K3)
-- Develop a simple applicatins with H2O (K3)
+- Develop a simple applicatins using Big Data Framework (K3)
 
 ** Text Books
 1. Mike Frampton, "Mastering Apache Spark", Packt Publishers, 2015.(U2)
@@ -69,13 +69,12 @@ Upon the completion of the course the students should be able to:
 3. Neha Narkhede, Gwen Shapira, and Todd Palino,"Kafka - Definitive Guide", 2017.(U4)
 
 ** References
-1. Arshdeep Bahga, Vijay Madisetti, "Big Data Analytics: A Hands-On Approach",  Published by A Hands-on Approach Textbooks,  2016.
-2. Gerald Maas & Francois Gorillot, "Stream Processing with Apache Spark", O'Reilly Media, 2019.(U3)
-3. Gaurav Vaish, "Getting Started with NoSQL",  Packt Publishing Ltd, 2013.
-4. William P. Bejeck Jr. "Kafka Streams in Action", Manning Publications, 2018.
-5. Anil Maheshwari, "Big Data Essentials", McGraw Hill, 2019. 
- 
-
-
+1. Gerald Maas & Francois Gorillot, "Stream Processing with Apache Spark", O'Reilly Media, 2019.(U3)
+2. Gaurav Vaish, "Getting Started with NoSQL",  Packt Publishing Ltd, 2013.
+3. William P. Bejeck Jr. "Kafka Streams in Action", Manning Publications, 2018.
+4. Jayani Withanawasam, "Apache Mahout Essentials", Packt Publishers, 2015 (u5)
+5. Steve Hoffman, "Apache Flume: Distributed Log Collection for Hadoop", 2nd Edition, Packt Publishers, 2015 (u5)
+6. Flavio Junqueira, Benjamin Reed, "ZooKeeper: Distributed Process Co-ordination Paperback", O'Reilly Media, 2014 (u5)
+7. Kathleen Ting, Jarek Jarcec Cecho, "Apache Sqoop Cookbook: Unlocking Hadoop for Your Relational Database", O'Reilly Media, 2013.
 
 
