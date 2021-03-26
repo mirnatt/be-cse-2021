@@ -90,9 +90,9 @@ Upon completion of the course, the student should be able to:
       
 ** TEXT BOOKS
 1. David Barber, ``Bayesian Reasoning and Machine Learning'',
-   Cambridge University Press, 2020. (Unit I,III,IV,V)
+   Cambridge University Press, 2020. 
 2. Daphne Koller, Nir Friedman, ``Probabilistic Graphical Models -
-   Principles and Technique'', MIT Press, 2007. (Unit II)
+   Principles and Technique'', MIT Press, 2007. 
 
 ** REFERENCES
 1. Luis Enrique Sucar, ``Probabilistic Graphical Models - Principles
