@@ -96,6 +96,7 @@ Upon the completion of the course the students should be able to:
 1) Jamie L. Mitchell, Rex Black, Advanced software testing: Guide to the ISTQB Advanced Certification as an Advanced Technical test Analyst, Second  edition, Vol 3, 2015.(Unit 2, 3)(chapter 1,2 4,6)
 2 ) Mauro Pezze , Michal Young, Software Testing and Analysis(unit 1,4 (chapte1,2,15.16), unit 3- chapter 9)
 Process, Principles, and Techniques, Wiley publications 2007.(unit 1,4)
+
 3) Daniel Knott, "Hands-On Mobile App Testing", Addison- Wesley, 2015.(unit 5)
 
 ** REFERENCES
