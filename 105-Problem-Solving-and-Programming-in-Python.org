@@ -1,6 +1,6 @@
 * <<<105>>> PROBLEM SOLVING AND PROGRAMMING IN PYTHON
 :properties:
-:author: P.Mirunalini and H.Shahul Hamead
+:author: R S Milton, P Mirunalini, H Shahul Hamead
 :date: 18 March 2021
 :end:
 

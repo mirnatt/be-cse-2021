@@ -4,6 +4,8 @@
 :date: 16 March 2021
 :end:
 
+#+startup: showall
+
 {{{credits}}}
 | L | T | P | C |
 | 2 | 0 | 4 | 4 |
@@ -38,7 +40,10 @@ Arrays: declaration, initialization – multi-dimensional arrays -- passing arra
 Strings: reading and writing strings, string operations, string library functions.
 {{{unit}}}
 | UNIT IV | POINTERS   | 6 |
-Pointers: pointer operators -- pointer operations – pointer to an array -- array of pointers -- Dynamic memory allocation -- pointer to a function -- passing pointers to functions --problems in using pointers.
+Pointers: pointer operators -- pointer operations – pointer to an
+array -- array of pointers -- Dynamic memory allocation -- pointer to
+a function -- passing pointers to functions --problems in using
+pointers.
 
 {{{unit}}}
 | UNIT V | STRUCTURES   | 5 |
