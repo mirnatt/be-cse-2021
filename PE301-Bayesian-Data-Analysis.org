@@ -40,7 +40,7 @@ Inference in Applied Statistics.
 
 
 {{{unit}}}
-| UNIT II | ONE - PARAMETER MODELS AND NORMAL MODEL  9 |
+| UNIT II | ONE PARAMETER MODELS AND NORMAL MODEL  9 |
 The Binomial Model: Inference -- Confidence Region; The Poisson model
 -- Posterior Inference; Exponential Families and Conjugate Priors; The
 Normal Model: Inference for the Mean, Conditional on the Variance --
