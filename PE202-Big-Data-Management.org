@@ -44,16 +44,16 @@ Concept of Big Data -- Sources and types of big data -- Data Ingestion -- Data S
 Introduction to Big Data Modeling -- Importance and implications of big data modeling and management -- Big data storage and data models -- Data model Structures and Operations -- Data Model Constraints -- Relational and Semistructured Data Model -- CSV and JSON data -- Array Data Model. 
 
 {{{unit}}}
-|UNIT III |  Data Model | 10 |
+|UNIT III |  Data Models for Data Lake | 10 |
 Data Models -- Categorizing Data Models -- Data Model vs Data Format -- Data Stream -- Understanding Data Lake -- Inside Data Lake -- Generic Structure of Data Ponds -- Applications of Data Pond -- Data Warehousing vs Data Lake.
 
 {{{unit}}}
-|UNIT IV | Big Data Management System   | 10 |
-Approaches to Big Data -- DBMS and non-DBMS -- DBMS to BDMS -- Key Value Store: Redis -- Graph Databases An Overview -- Started with Neo4j -- Modelling data for Neo4j -- Use Case Examples: Recommender Systems & Impact Analysis and Simulation -- Visualization for Neo4j.
+|UNIT IV | Key-Value store and Graph databases   | 10 |
+Approaches to Big Data -- DBMS and non-DBMS -- DBMS to BDMS -- Introduction to NoSQL  -- Key Value Store: Redis -- Graph Databases An Overview -- Started with Neo4j -- Modelling data for Neo4j -- Use Case Examples: Recommender Systems & Impact Analysis and Simulation -- Visualization for Neo4j.
 
 {{{unit}}}
-| UNIT V | Big Data Management Tools | 10 |
-Introduction to NoSQL - Database for modern Web:MongoDB -- MongoDB Shell -- Creating, Updating and Deleting Documents -- Querying --  Introduction to Cassandra -- Architecture --- CassendraQL (CQL) -- Configuring and Managing a Cluster – Integrating with Apache Spark. 
+| UNIT V | Document based and Columnar Models | 10 |
+Database for modern Web:MongoDB -- MongoDB Shell -- Creating, Updating and Deleting Documents -- Querying --  Introduction to Cassandra -- Architecture --- CassendraQL (CQL) -- Configuring and Managing a Cluster – Integrating with Apache Spark. 
 
 \hfill *Total Periods: 45*
 
