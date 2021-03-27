@@ -31,7 +31,7 @@
 
 
 {{{unit}}}
-|UNIT I | Image based feature extraction | 9 |
+|UNIT I | Image based Feature Extraction | 9 |
 Introduction to Computer Vision and the challenges; Image based feature extraction: Thresholding Techniques -- Region growing methods -- Thresholding -- Adaptive thresholding -- Approaches to threshold selection -- Global valley approach to thresholding; Edge detection: Differential Gradient operator -- Hysteresis thresholding -- Canny operator -- Laplacian operator -- Active contours -- Level set -- Graph cut approach; Corner and Interest point detection: Second order derivative schemes -- Harris Interest point operators -- Local invariant feature detectors and descriptors; Texture;
 
 {{{unit}}}
@@ -39,16 +39,16 @@ Introduction to Computer Vision and the challenges; Image based feature extracti
 Binary shape analysis: Skeletons and thinning -- Other measures for shape recognition; Boundary Pattern analyis: Boundary tracking procedures -- Centroidal profiles; Line detection: Hough transform -- Foot of normal method; Circle and Ellipse detection: Hough based scheme -- Ellipse detection methods; Case study: Human Iris Location;
 
 {{{unit}}}
-|UNIT III | 3D vision - DEPTH ESTIMATION AND 3D RECONSTRUCTION: | 9 |
+|UNIT III | 3D vision - Depth Estimation and 3D Reconstruction: | 9 |
 Feature-based alignment: 2D and 3D feature-based alignment -- pose estimation -- Geometric intrinsic calibration; Structure from Motion: Triangulation -- Two-frame structure from Motion -- Factorization -- Bundle adjustment; 
 Stereo Correspondance: Epipolar geometry -- Sparse and Dense correspondence -- Multiview stereo; 3D Reconstruction: Shape from X -- Active rangefinding -- Surface representations -- Point-based representations;
 
 {{{unit}}}
-|UNIT IV | OBJECT RECOGNITION | 9 |
+|UNIT IV | Object Recognition | 9 |
 Object detection: Face detection -- Pedestrian detection; Face recognition: Eigen faces -- Active apperance and 3D shape models; Instance recognition: Geometric alignment; Category recognition: Bag of words -- Part based models; Context and scene understanding: Learning and large image collection; Applications for object recognition;
 
 {{{unit}}}
-|UNIT V | DEEP LEARNING TECHNIQUES FOR COMPUTER VISION | 9 |
+|UNIT V | Deep Learning Techniques for Computer Vision | 9 |
 Introduction to CNNs; Visualization of Kernels; Backprop-to-image/Deconvolution Methods;
 CNNs for Detection: Background of Object Detection -- R-CNN -- Fast R-CNN -- Faster R-CNN; CNNs for Segmentation: FCN -- SegNet -- U-Net -- Mask-RCNN; Recurrent Neural Networks (RNNs): CNN and RNN Models for Video Understanding: Spatio-temporal Models -- Action/Activity Recognition
 

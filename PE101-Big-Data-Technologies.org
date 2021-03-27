@@ -14,13 +14,13 @@
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K2 |   2 |   1 |   1 |   1 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    1 |    1 |    2 |    1 |
-| CO2            | K3 |   3 |   2 |   2 |   2 |   1 |   1 |   0 |   1 |   1 |    0 |    0 |    2 |    2 |    3 |    1 |
-| CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   1 |   0 |   1 |   1 |    1 |    0 |    2 |    2 |    3 |    1 |
-| CO4            | K3 |   3 |   2 |   2 |   2 |   1 |   1 |   0 |   1 |   1 |    1 |    0 |    2 |    2 |    3 |    1 |
-| CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   1 |   0 |   1 |   1 |    1 |    0 |    2 |    2 |    3 |    1 |
-| Score          |    |  14 |   9 |   9 |   9 |   5 |   4 |   0 |   4 |   4 |    3 |    0 |    9 |    9 |   14 |    5 |
-| Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   1 |   0 |   1 |   1 |    1 |    0 |    2 |    2 |    3 |    1 |
+| CO1            | K2 |   2 |   1 |   1 |   1 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    1 |    2 |    1 |
+| CO2            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    2 |    2 |    3 |    1 |
+| CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    2 |    3 |    2 |    3 |    1 |
+| CO4            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    2 |    2 |    3 |    1 |
+| CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   3 |    3 |    2 |    3 |    2 |    3 |    1 |
+| Score          |    |  14 |   9 |   9 |   9 |   5 |   0 |   0 |   2 |   7 |    4 |    4 |    11|    9 |   14 |    5 |
+| Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   2 |    1 |    1 |    3 |    2 |    3 |    1 |
 
 
 {{{credits}}}
@@ -28,11 +28,11 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To understand the competitive advantages of big data technologies
-- To understand distributed data processing using Hadoop MapReduce and Spark
+- To understand the competitive advantages of big data analytics 
+- To understand distributed data processing using Hadoop MapReduce
 - To learn apache spark for stream processing
 - To learn apacke kafka for building distributed data applications.
-- To understand various big data frameworks.
+- To understand spark streaming and H2O Flow.
 
 
 {{{unit}}}
@@ -45,7 +45,7 @@ Introduction -- Distributed File System -- HDFS Design Goals -- MapReduce Overvi
 
 {{{unit}}}
 |Unit III|Stream Processing |10| 
-Stream Processing Concepts -- Distributed Stream Processing -- Stream Processing Model -- Streaming Architecture -- Lambad and Kappa Architecture -- Struecture streaming -- Spark Streaming -- Spark Streaming Programming Model -- Other Distributed Real Time Stream Processing Systems.
+Stream Processing Concepts -- Distributed Stream Processing -- Stream Processing Model -- Streaming Architecture -- Lamda and Kappa Architecture -- Structured streaming -- Spark Streaming -- Spark Streaming Programming Model -- Other Distributed Real Time Stream Processing Systems.
 
 {{{unit}}}
 |Unit IV| Streaming Processing using Kafka |10|
@@ -57,11 +57,11 @@ Apache Flume -- Overview and Architecture -- Quick Start Guide to Flume -- Basic
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- Illustrate big data analytics and related technologies (K2)
-- As a team build distributed data processing applicatins using Apache Hadoop and communicate the results   (K3)
-- Develop distributed data processing applications using Apache Spark by using open source platform practices (K3)
-- As a team build a model using Apache Kafka for processing stream data (K3)
-- Develop a simple applications suitable for society using Big Data Frameworks (K3)
+- Illustrate big data analytics and related technologies. (K2)
+- Build distributed data processing applicatins using Apache Hadoop and Spark. (K3)
+- Develop a streaming application using Apache Spark in teams. (K3)
+- Experiment with Apache Kafka for processing stream data. (K3)
+- Develop a simple applicatins using Big Data Framework in teams, demonstrate and write report on the work. (K3)
 
 ** Text Books
 1. Mike Frampton, "Mastering Apache Spark", Packt Publishers, 2015.(U2)
@@ -77,4 +77,4 @@ Upon the completion of the course the students should be able to:
 6. Flavio Junqueira, Benjamin Reed, "ZooKeeper: Distributed Process Co-ordination Paperback", O'Reilly Media, 2014 (u5)
 7. Kathleen Ting, Jarek Jarcec Cecho, "Apache Sqoop Cookbook: Unlocking Hadoop for Your Relational Database", O'Reilly Media, 2013.
 
-
+ 
