@@ -152,7 +152,7 @@ Upon the completion of the course the students should be able to:
 - Illustrate various design challenges in cloud environment. (K3)
 - Develop and deploy services on cloud and be able to set up a private cloud environment using open source software. (K3)
 - Understand security challenges in cloud environment. (K2)
-- Experiment virtualization in teams and deploy an application on Virtual Machine, demonstrate and write report. (K4)
+- Experiment virtualization in teams and deploy an application on Virtual Machine following legal governance, demonstrate and write report. (K4)
 
 
 ** TEXT BOOKS
