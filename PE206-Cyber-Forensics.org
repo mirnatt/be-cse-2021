@@ -112,7 +112,8 @@ After the completion of this course, students will be able to:
 - Infer different computer forensic tools to collect data
 - Explain the tools used to Analyze and validate forensics data 
 - Detect the malware and threat intelligence  
-- Capture mobile forensics data  
+- Capture mobile forensics data 
+- 
 
 ** TEXT BOOKS 
 1. Gerard Johansen, Digital Forensics and Incident Response, Second Edition, Packt Publishing, 2020. 
