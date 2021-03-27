@@ -72,7 +72,7 @@ After the completion of this course, students will be able to:
 - Develop simple programs using basic constructs (K3).
 - Construct programs using conditions and iterations decompose a problem into functions. (K3)
 - Make use of strings, lists, tuples and  dictionaries data structures (K3).
-- With files perform Input/Output Operations  (K3).
+- Perform Input/Output Operations using files (K3).
 
 
 
