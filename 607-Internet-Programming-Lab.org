@@ -39,7 +39,11 @@
 - Develop a front end of the  Online Exam Web application using ReactJS
 - Develop a back end of the  Online Exam Web application using NodeJS
 \hfill *Total Periods: 45*
-
+#+BEGIN_COMMENT
+   27th March 2021
+  Compared to previous syllabus, 1 program on session has been removed
+  Program on javascript framework has been divided into 2 parts: one with ReactJS and the other with NodeJS
+#+END_COMMENT
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Build website using HTML5 and CSS3 (K3)
