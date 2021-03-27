@@ -108,12 +108,12 @@ Encoding versus encryption -- Application data storage -- Forensic methods used 
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basics of computer forensics 
-- Infer different computer forensic tools to collect data
-- Explain the tools used to Analyze and validate forensics data 
-- Detect the malware and threat intelligence  
-- Capture mobile forensics data 
-- 
+- Summarize the basics of computer forensics(K2) 
+- Apply different computer forensic tools to collect data(K3)
+- Outline the tools used to Analyze and validate forensics data (K2)
+- Classify the malware and threat intelligence(K2)  
+- Experiment with mobile forensics data (K3)
+- Apply various cyber forensics tools to solve a real world problem in teams by applying best practices (K3)
 
 ** TEXT BOOKS 
 1. Gerard Johansen, Digital Forensics and Incident Response, Second Edition, Packt Publishing, 2020. 
