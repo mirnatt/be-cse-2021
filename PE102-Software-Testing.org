@@ -88,8 +88,9 @@ Upon the completion of the course the students should be able to:
 - Explain software testing fundamentals (K2)
 - Experiment  structural and analytical testing (K3)
 - Apply quality testing and tools in projects  (K3)
-- Build OO software and test (K3)
+- Apply object oriented concepts for developing a software project and apply object oriented testing principles. (K3)
 - Apply testing concepts in web and mobile applications   (K3)
+- Build a software project to solve a real world problem in teams and test the functionality of software by applying software testing techniques. (K3)
 
 ** TEXT BOOKS
 1) Jamie L. Mitchell, Rex Black, Advanced software testing: Guide to the ISTQB Advanced Certification as an Advanced Technical test Analyst, Second  edition, Vol 3, 2015.(Unit 2, 3)(chapter 1,2 4,6)
