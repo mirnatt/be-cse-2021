@@ -14,10 +14,10 @@
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K2 |   2 |   1 |   1 |   1 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    1 |    1 |    2 |    1 |
-| CO2            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    2 |    2 |    3 |    1 |
-| CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    2 |    3 |    2 |    3 |    1 |
-| CO4            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   1 |    0 |    0 |    2 |    2 |    3 |    1 |
+| CO1            | K2 |   2 |   1 |   1 |   1 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    1 |    1 |    2 |    0 |
+| CO2            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    2 |    2 |    3 |    0 |
+| CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   1 |    1 |    2 |    3 |    2 |    3 |    1 |
+| CO4            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    2 |    2 |    3 |    0 |
 | CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   3 |    3 |    2 |    3 |    2 |    3 |    1 |
 | Score          |    |  14 |   9 |   9 |   9 |   5 |   0 |   0 |   2 |   7 |    4 |    4 |    11|    9 |   14 |    5 |
 | Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   2 |    1 |    1 |    3 |    2 |    3 |    1 |
@@ -53,7 +53,7 @@ Apache Kafka -- Installing Kafka -- Producers and Consumers -- Kafka Internals -
 
 {{{unit}}}
 |Unit V|Big Data Frameworks |10|
-Apache Flume -- Overview and Architecture -- Quick Start Guide to Flume -- Basics of Sqoop -- Integrating Sqoop with Hadoop -- Getting to Grips with Zookeeper -- Getting Started with Zookeepre API --  Machine Learning using Apache Mahout -- Clustering & Classification Algorithms in Mahout --  Extending Spark with H20 -- H2O
+Apache Flume -- Overview and Architecture -- Quick Start Guide to Flume -- Basics of Sqoop -- Integrating Sqoop with Hadoop -- Getting to Grips with Zookeeper -- Getting Started with Zookeepre API --  Machine Learning using Apache Mahout -- Clustering & Classification Algorithms in Mahout --  Extending Spark with H2O -- H2O
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
@@ -61,7 +61,7 @@ Upon the completion of the course the students should be able to:
 - Build distributed data processing applicatins using Apache Hadoop and Spark. (K3)
 - Develop a streaming application using Apache Spark in teams. (K3)
 - Experiment with Apache Kafka for processing stream data. (K3)
-- Develop a simple applicatins using Big Data Framework in teams, demonstrate and write report on the work. (K3)
+- Develop an applicatins using Big Data Frameworks in teams applying best practices, demonstrate and write report on the work. (K3)
 
 ** Text Books
 1. Mike Frampton, "Mastering Apache Spark", Packt Publishers, 2015.(U2)
