@@ -87,7 +87,7 @@ After the completion of this course, students will be able to:
 
 ** REFERENCES
 1. Ashok Namdev Kamthane, Amit Ashok Kamthane, "Programming and Problem Solving 
-   with Python",McGraw Hill Education (India) Private Limited,2018.
+   with Python",McGraw Hill Education (India) Private Limited, 2018.
 2. John V Guttag, ``Introduction to Computation and Programming Using
    Python'', MIT Press, 2016.
 3. Robert Sedgewick, Kevin Wayne, Robert Dondero, ``Introduction to
