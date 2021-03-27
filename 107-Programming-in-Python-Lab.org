@@ -7,6 +7,19 @@
 {{{credits}}}
 | L | T | P | C |
 | 0 | 0 | 4 | 2 |
+
+
+** CO PO MAPPING :noexport:
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
+| CO1            | K3 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |   1 |   0 |    0 |    0 |   2 |    2 |    0 |    0 |
+| CO2            | K3 |   3 |   3 |   0 |   1 |   0 |   0 |   0 |   1 |   0 |    0 |    0 |   2 |    2 |    0 |    0 |
+| CO3            | K3 |   3 |   3 |   0 |   1 |   0 |   0 |   0 |   1 |   0 |    0 |    0 |   3 |    3 |    0 |    0 |
+| CO4            | K3 |   3 |   3 |   0 |   1 |   0 |   0 |   0 |   1 |   0 |    0 |    0 |   3 |    3 |    0 |    0 |
+| CO5            | K3 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |   1 |   0 |    0 |    0 |   2 |    2 |    0 |    0 |
+| CO6            | K3 |   2 |  3  |   0 |   2 |   0 |   0 |   0 |   1 |   3 |    2 |    0 |   3 |    3 |    0 |    0 |
+| Score          |    |  15 | 16  |   0 |   5 |   0 |   0 |  0  |   6  |   3 |    2 |   0 |  15 |   15 |    1 |    0 |
+| Course Mapping |    |   1 |  3  |   0 |   1 |   0 |   0 |   0 |   2 |   1 |    1 |    0 |   3 |    3 |    1 |    0 |
+
 		
 ** COURSE OBJECTIVES
    - To write, test, and debug simple Python programs.
@@ -47,9 +60,9 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- To write, test, and debug simple Python programs (K3).
-- To build Python programs with conditionals and loops  (K3).
-- To solve  a problem using functions in python programming (K3).
+- Write, test, and debug simple Python programs (K3).
+- Build Python programs with conditionals and loops  (K3).
+- Solve  a problem using functions in python programming (K3).
 - Construct python programs using compound data like lists, tuples, and dictionaries (K3).
 - Utilize files for problem solving (K3).
-- Build a simple apllications in teams using files and dictionary by applying best programming practices(K3)
+- Build a simple apllications in teams using files and dictionary by applying best programming practices (K3).
