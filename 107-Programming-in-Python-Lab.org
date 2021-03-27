@@ -55,7 +55,7 @@
    11. Develop programs using Files (read and write files).
    12. Develop programs to perform any task by reading arguments from
        command line.
-
+   13. Implement simple application using datastructures and files
 \hfill *Total Hours: 60*
 
 ** COURSE OUTCOMES
