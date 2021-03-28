@@ -24,47 +24,37 @@
 
 ** LECTURES
 {{{unit}}}
-| UNIT I | CONCEPTUAL MODELING | 6 |
-Requirement analysis, Entity-Relationship (ER) model, Constraints,
-Enhanced-ER (EER) model, EER in UML class diagrams.
+| UNIT I | CONCEPTUAL MODELING | 4 |
+Requirement analysis, Database life cycle, Entity-Relationship (ER) model, Constraints.
 
 {{{unit}}}
-| UNIT II | RELATIONAL DATA MODEL & CONSTRAINTS  | 6 |
-Integrity constraints, SQL Data definition, Data retrieval, Complex
-queries, Views, Database programming.
+| UNIT II | RELATIONAL DATA MODEL  | 7 |
+Integrity constraints, SQL Data definition, Data retrieval, Complex queries, Views, Database programming.	
 
 {{{unit}}}
-| UNIT III | RELATIONAL MODEL DESIGN | 6  |
-Relational design using ER and EER-to-Relational mapping, Functional
-dependencies, Normalization, Properties of relational decomposition,
-Algorithms for relational database schema design.
+| UNIT III | RELATIONAL MODEL DESIGN | 7  |
+Relational design using ER and EER-to-Relational mapping, Functional dependencies, Normalization, Properties of relational decomposition, Algorithms for relational database schema design. 
+Introduction to transaction processing – properties of transactions.	
 
 {{{unit}}}
-| UNIT IV | TRANSACTION PROCESSSING | 6 |
-Schedules, Serializability, Two-phase locking for concurrency control
+| UNIT IV | OBJECT RELATIONAL DATABASES | 6 |
+Enhanced-ER (EER) model, EER in UML class diagrams. Object database extensions to SQL, ODL and OQL. 
 
 {{{unit}}}
-| UNIT V | OBJECT-RELATIONAL AND NO-SQL DATABASES | 6 |
-Object database extensions to SQL, ODL and OQL, CAP theorem,
-Introduction to Aggregate data models -- No-SQL: Data modelling in
-NoSQL, CRUD operations
+| UNIT V |  NO-SQL DATABASES | 6 |
+CAP theorem. Introduction to Aggregate data models – No-SQL: Data modelling in NoSQL, CRUD operations	
 
-** CLASS ACTIVITY (15 hours taken from studio sessions)
-1. Requirement analysis of any problem statement
-2. Draw an ER/EER diagram for a real-time application.
-3. Map the ER/EER to relational database schema (top-down approach)
-4. Create a database for a given specification with constraints.
-5. Apply SQL queries / database programming to retrieve data.
-6. Design a relational database using Normalization theory (bottom-up
-   approach)
-7. Check the serializability of any non-serial schedule using
-   two-phase locking techniques.
-8. Map the EER to ODB schema (top-down approach)
-9. ODL and OQL in object-relational database
-10. Data modelling and design, operations in NoSQL (Mongo/ HBase /
-    Cassandra / Redis)
+** CLASS ACTIVITY (15 hours)
+1. Draw an ER diagram for a real-time application and map it to relational database schema (top-down approach)
+2. Create a database for a given specification with constraints.
+3. Apply SQL queries / database programming to retrieve data.
+4. Design a relational database using Normalization theory (bottom-up approach)
+5. Draw an EER diagram for a real-time application and map it to ODB schema (top-down approach)
+6. ODL and OQL in object-relational databases
+7. Data modelling and design, operations in NoSQL (Mongo/ HBase / Cassandra / Redis)
 
-** STUDIO SESSIONS (30 sessions of 2 hours each)
+
+** STUDIO SESSIONS (15 sessions of 3 hours each)
 /Sample Case Study/: Online booking and service system
 
 /Variants/
@@ -146,6 +136,7 @@ After the completion of this course, students will be able to:
     wherever are applicable.
 
 ** EVALUATION
+#+BEGIN_COMMENT
 EFP will be assessed by a committee of faculty members based
 on Studio Sessions, Reflections, Presentation and
 Documentation. *EFP will be evaluated based on continuous
@@ -173,6 +164,7 @@ assessment only.*
 #+TBLFM: 
 
 ** Tentative Rubrics for Evaluation
+#+END_COMMENT
 | Assessment Tool      | Weight |     |
 |----------------------+--------+-----|
 | End semester exam    |     50 |     |
