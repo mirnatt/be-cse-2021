@@ -5,9 +5,12 @@
 :end:
 #+startup: showall
 
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping 
-
 |                | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 | CO1            |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    3 |    2 |    1 |
 | CO2            |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    1 |    0 |    2 |    3 |    2 |    1 |
@@ -28,10 +31,6 @@
 4. Course outcomes are specified and aligned with the units
 5. Suggestive experiments are specified in the separate lab course for this subject
 
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
 
 ** COURSE OBJECTIVES
 - To learn the concept of pointers and structures in C
@@ -39,7 +38,7 @@
 - To apply the linear and non-linear data structures to various problems 
 - To design suitable data structures for different problems and implement them in C
 
-
+{{{unit}}}
 | UNIT I | C PROGRAMMING - POINTERS AND STRUCTURES | 10 |
 Pointers and Arrays: Pointers and addresses -- Pointers and function
 arguments -- Pointers and arrays -- Pointers to pointers -- Address
@@ -47,26 +46,27 @@ Arithmetic; Structures: Basics -- Structures and functions -- Array of
 structures -- Pointers to Structures -- Self-referential structures --
 Typedef; Algorithm Analysis: Running time calculations.
 
+{{{unit}}}
 | UNIT II | LINEAR DATA STRUCTURES – LINKED LIST | 10 |
 Abstract Data Types (ADTs); List ADT: Linked lists -- Circular linked
 lists -- Doubly linked lists -- Applications of Lists: Polynomial
 manipulation; Hashing: Separate chaining -- Open addressing --
 Rehashing.
 
-
+{{{unit}}}
 | UNIT III | LINEAR DATA STRUCTURES – STACK AND QUEUE   | 7 |
 Stack ADT: Stack model -- Implementation of stacks -- Applications:
  Balancing symbols -- Infix to postfix conversion -- Evaluating
  postfix expressions; Queue ADT: Queue model -- Array implementation
  of queues -- Applications of queues.
 
-
+{{{unit}}}
 | UNIT IV | NON-LINEAR DATA STRUCTURES – TREES  | 10 |
 Preliminaries: Implementation of trees -- Tree traversals with an
 application; Binary trees: Expression trees; Binary search tree ADT;
 AVL trees; B-Trees; Priority Queues: Binary heap.
 
-     
+{{{unit}}}     
 | UNIT V | NON LINEAR DATA STRUCTURES – GRAPHS | 8 |
 Graph Algorithms: Definitions -- Representation of graphs; Graph
 Traversals: Breadth-first traversal -- Depth-first traversal;

@@ -14,7 +14,6 @@
 
 #+startup: showall
 
-
 {{{credits}}}
 | L | T | P | C |
 | 2 | 0 | 2 | 3 |

@@ -2,6 +2,7 @@
 :properties:
 :author: Dr. J Suresh and Dr. Y. V. Lokeswari
 :date: 26-03-2021
+:end:
 
 #+begin_comment
 - 1. 3 units are the same as AU
@@ -12,6 +13,10 @@
 #+end_comment
 
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
@@ -24,10 +29,6 @@
 | Score          |    |  14 |  11 |   9 |   9 |   5 |   0 |   0 |   3 |   6 |    5 |    4 |   10 |    9 |   14 |    5 |
 | Course Mapping |    |   3 |   3 |   2 |   2 |   1 |   0 |   0 |   1 |   2 |    1 |    1 |    2 |    2 |    3 |    1 |
 
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
 ** COURSE OBJECTIVES
 - To know the fundamental concepts of big data and analytics
 - To understand the basics of data modeling and its implications 
@@ -36,24 +37,41 @@
 - To learn various tools supporting big data management system.
 
 {{{unit}}}
-| UNIT I | Introduction to Big Data Model | 5 |
-Concept of Big Data -- Sources and types of big data -- Data Ingestion -- Data Storage -- Data Quality -- Data Operations -- Data Scalability and Security -- Data Managment in Energy, Gaming and Flight Operations.
+| UNIT I | INTRODUCTION TO BIG DATA MODEL | 5 |
+Concept of Big Data -- Sources and types of big data -- Data Ingestion
+-- Data Storage -- Data Quality -- Data Operations -- Data Scalability
+and Security -- Data Managment in Energy, Gaming and Flight
+Operations.
 
 {{{unit}}}
-| UNIT II | Data Repository and Storage Format | 10 |
-Introduction to Big Data Modeling -- Importance and implications of big data modeling and management -- Big data storage and data models -- Data model Structures and Operations -- Data Model Constraints -- Relational and Semistructured Data Model -- CSV and JSON data -- Array Data Model. 
+| UNIT II | DATA REPOSITORY AND STORAGE FORMAT | 10 |
+Introduction to Big Data Modeling -- Importance and implications of
+big data modeling and management -- Big data storage and data models
+-- Data model Structures and Operations -- Data Model Constraints --
+Relational and Semistructured Data Model -- CSV and JSON data -- Array
+Data Model.
 
 {{{unit}}}
-|UNIT III |  Data Models for Data Lake | 10 |
-Data Models -- Categorizing Data Models -- Data Model vs Data Format -- Data Stream -- Understanding Data Lake -- Inside Data Lake -- Generic Structure of Data Ponds -- Applications of Data Pond -- Data Warehousing vs Data Lake.
+| UNIT III | DATA MODELS FOR DATA LAKE | 10 |
+Data Models -- Categorizing Data Models -- Data Model vs Data Format
+-- Data Stream -- Understanding Data Lake -- Inside Data Lake --
+Generic Structure of Data Ponds -- Applications of Data Pond -- Data
+Warehousing vs Data Lake.
 
 {{{unit}}}
-|UNIT IV | Key-Value store and Graph databases   | 10 |
-Approaches to Big Data -- DBMS and non-DBMS -- DBMS to BDMS -- Introduction to NoSQL  -- Key Value Store: Redis -- Graph Databases An Overview -- Started with Neo4j -- Modelling data for Neo4j -- Use Case Examples: Recommender Systems & Impact Analysis and Simulation -- Visualization for Neo4j.
+| UNIT IV | KEY-VALUE STORE AND GRAPH DATABASES | 10 |
+Approaches to Big Data -- DBMS and non-DBMS -- DBMS to BDMS --
+Introduction to NoSQL -- Key Value Store: Redis -- Graph Databases An
+Overview -- Started with Neo4j -- Modelling data for Neo4j -- Use Case
+Examples: Recommender Systems & Impact Analysis and Simulation --
+Visualization for Neo4j.
 
 {{{unit}}}
-| UNIT V | Document based and Columnar Models | 10 |
-Database for modern Web:MongoDB -- MongoDB Shell -- Creating, Updating and Deleting Documents -- Querying --  Introduction to Cassandra -- Architecture --- CassendraQL (CQL) -- Configuring and Managing a Cluster – Integrating with Apache Spark. 
+| UNIT V | DOCUMENT BASED AND COLUMNAR MODELS | 10 |
+Database for modern Web:MongoDB -- MongoDB Shell -- Creating, Updating
+and Deleting Documents -- Querying -- Introduction to Cassandra --
+Architecture --- CassendraQL (CQL) -- Configuring and Managing a
+Cluster – Integrating with Apache Spark.
 
 \hfill *Total Periods: 45*
 

@@ -1,10 +1,15 @@
 ﻿* <<<PE102>>> SOFTWARE TESTING
 :properties:
 :author: Dr. K. Madheswari and Dr. A. Chamundeswari
-:date:16.03.2021
+:date: 16.03.2021
 :end:
 
 #+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
@@ -18,12 +23,7 @@
 | Score          |    |   10|  17 |   7 |  15 |   5 |   2 |   2 |   5 |  12 |    7 |    4 |    6 |   16 |   11 |    1 |
 | Course Mapping |    |   2 |   3 |   2 |   3 |   1 |   1 |   1 |   1 |   3 |    2 |    1 |    1 |    5 |    2 |    1 |
 
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 #+begin_comment
-
 1.Anna University Regulation 2017 has this course. 
 2.The syllabus content across units were modified in Autonomous syllabus as adviced by the domain expert committee.Unit V(SOFTWARE QUALITY ASSURANCE) has been newly introduced.
 3.Not Applicable
@@ -31,7 +31,7 @@
 5.Not Applicable
 #+end_comment
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To explain the software testing fundamentals 
 - To acquire structural and analtical testing knowledge in  software code
 - To understand and apply the levels of testing 
@@ -40,10 +40,13 @@
 
 {{{unit}}}
 |UNIT I| TESTING FUNDAMENTALS |9| 
-Testing activities in software life cycle, Readiness of a Product: dependability, availability, MTBF, reliability, alpha test, beta test ,
-regression test; Validation and Verification; Basic Principles; Test and Analysis Activities Within a Software Process: The Quality
-Process, Planning and Monitoring, Quality Goals, Dependability Properties, Analysis, Testing, Improving the Process; Finite Models, Control Flow Graphs, Call
-Graphs, Finite State Machines.
+Testing activities in software life cycle, Readiness of a Product:
+dependability, availability, MTBF, reliability, alpha test, beta test
+, regression test; Validation and Verification; Basic Principles; Test
+and Analysis Activities Within a Software Process: The Quality
+Process, Planning and Monitoring, Quality Goals, Dependability
+Properties, Analysis, Testing, Improving the Process; Finite Models,
+Control Flow Graphs, Call Graphs, Finite State Machines.
 
 #+begin_comment
  Text Book 2 Chapter 1, 2 
@@ -51,38 +54,57 @@ Graphs, Finite State Machines.
 
 {{{unit}}}
 |UNIT II| STRUCTURED AND ANALYTICAL TESTING  |9| 
-Structure Based testing : Introduction - - condition coverage -- decision - - modified --  multiple-- path testing -- APT testing -- exercises;  Analytical testing :  static analysis --  Dynamic analysis -- samples ;
+Structure Based testing : Introduction - - condition coverage --
+decision - - modified -- multiple-- path testing -- APT testing --
+exercises; Analytical testing : static analysis -- Dynamic analysis --
+samples ;
 
 #+begin_comment
 Text Book 1, chapter 2,3
 #+end_comment
-{{{unit}}}
 
+{{{unit}}}
 |UNIT III| QUALITY TESTING AND TOOLS |9| 
-Quality Characteristics for technical testing :  Security -- reliability -- efficiency -- changeability --testability -- portability - installability -- sample questionnaire; Test tools and Automation : Test automation project -- specific test tools -- Test Case Selection and Adequacy ;
+Quality Characteristics for technical testing : Security --
+reliability -- efficiency -- changeability --testability --
+portability - installability -- sample questionnaire; Test tools and
+Automation : Test automation project -- specific test tools -- Test
+Case Selection and Adequacy ;
 
 #+begin_comment
 Text Book 1, chapter 4,6
 text book 2, chapter 9
 #+end_comment
 {{{unit}}}
-
 |UNIT IV| TESTING OBJECT-ORIENTED SOFTWARE |9|
-Testing Object-Oriented Software: Issues in Testing Object-Oriented Software, An Orthogonal Approach to Test, Intraclass Testing, Testing with State Machine Models, Interclass Testing, Structural Testing of Classes, Oracles for Classes, Testing Polymorphism and Dynamic Binding, Inheritance, Genericity and Exceptions; Fault-Based Testing: Assumptions, Mutation Analysis, Fault-Based Adequacy Criteria. 
+Testing Object-Oriented Software: Issues in Testing Object-Oriented
+Software, An Orthogonal Approach to Test, Intraclass Testing, Testing
+with State Machine Models, Interclass Testing, Structural Testing of
+Classes, Oracles for Classes, Testing Polymorphism and Dynamic
+Binding, Inheritance, Genericity and Exceptions; Fault-Based Testing:
+Assumptions, Mutation Analysis, Fault-Based Adequacy Criteria.
 
 #+begin_comment
  Text Book 2, chapter 15, 16  
 #+end_comment 
 
 {{{unit}}}
-
-|UNIT V|WEB AND MOBILE APPLICATION TESTING   |9|
-Website Testing:Fundamentals--Black Box Testing--Gray Box Testing -- White Box Testing--Configuration and Compatibility Testing--Usability Testing;Challenges in mobile testing ; Testing Mobile Apps: Mobile specific testing--functional Testing-- Usability testing--Accessibility testing--Stress and Interrupt testing--performance testing--security testing; Mobile Test automation Tools: image recognition--OCR/text recognition-- Native object recognition--current state of tools; Mobile cloud testing; case studies.
+| UNIT V | WEB AND MOBILE APPLICATION TESTING | 9 |
+Website Testing:Fundamentals--Black Box Testing--Gray Box Testing --
+White Box Testing--Configuration and Compatibility Testing--Usability
+Testing;Challenges in mobile testing ; Testing Mobile Apps: Mobile
+specific testing--functional Testing-- Usability
+testing--Accessibility testing--Stress and Interrupt
+testing--performance testing--security testing; Mobile Test automation
+Tools: image recognition--OCR/text recognition-- Native object
+recognition--current state of tools; Mobile cloud testing; case
+studies.
 
 #+begin_comment
 Text Book 3, chapter 3,4,5,6,14
 \hfill *Total: 45*
 #+end_comment 
+
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
 - Explain software testing fundamentals (K2)

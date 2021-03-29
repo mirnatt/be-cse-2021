@@ -5,11 +5,11 @@
 :end:
 
 
-#+begin_comment
-
-#+end_comment
-
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
@@ -22,11 +22,6 @@
 | Score          |    |  14 |   9 |   9 |   9 |   5 |   0 |   0 |   1 |   4 |    4 |    4 |    11|    9 |   14 |    2 |
 | Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    1 |    3 |    2 |    3 |    1 |
 
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
 ** Course Objectives
 - To understand the competitive advantages of big data analytics 
 - To understand distributed data processing using Hadoop MapReduce
@@ -36,26 +31,44 @@
 
 
 {{{unit}}}
-|Unit I|Introduction to Big Data Technologoy|5| 
-Introduction -- Understanding Big Data --  Big Data: Benifitting -- Managing -- Organizing and Analyzing Big Data: Learning and Analytics; Technology Challenges for Big Data.
+| UNIT I | INTRODUCTION TO BIG DATA TECHNOLOGOY | 5 |
+Introduction -- Understanding Big Data -- Big Data: Benifitting --
+Managing -- Organizing and Analyzing Big Data: Learning and Analytics;
+Technology Challenges for Big Data.
 
 {{{unit}}}
-|Unit II| Big Data Processing |10| 
-Introduction -- Distributed File System -- HDFS Design Goals -- MapReduce Overview -- Writing and Testing MapReduce Programs -- Installing Spark and Setting up Spark Cluster -- Spark Shell -- Creating Spark Session Object -- Resilient Distributed Datasets (RDD) -- Manipulating RDD -- NoSQL -- SparkSQL -- GraphX.
+| UNIT II | BIG DATA PROCESSING | 10 |
+Introduction -- Distributed File System -- HDFS Design Goals --
+MapReduce Overview -- Writing and Testing MapReduce Programs --
+Installing Spark and Setting up Spark Cluster -- Spark Shell --
+Creating Spark Session Object -- Resilient Distributed Datasets (RDD)
+-- Manipulating RDD -- NoSQL -- SparkSQL -- GraphX.
 
 {{{unit}}}
-|Unit III|Stream Processing |10| 
-Stream Processing Concepts -- Distributed Stream Processing -- Stream Processing Model -- Streaming Architecture -- Lamda and Kappa Architecture -- Structured streaming -- Spark Streaming -- Spark Streaming Programming Model -- Other Distributed Real Time Stream Processing Systems.
+| UNIT III | STREAM PROCESSING | 10 |
+Stream Processing Concepts -- Distributed Stream Processing -- Stream
+Processing Model -- Streaming Architecture -- Lamda and Kappa
+Architecture -- Structured streaming -- Spark Streaming -- Spark
+Streaming Programming Model -- Other Distributed Real Time Stream
+Processing Systems.
 
 {{{unit}}}
-|Unit IV| Streaming Processing using Kafka |10|
-Apache Kafka -- Installing Kafka -- Producers and Consumers -- Kafka Internals -- Building Data Pipelines -- Cross Cluster Data Mirroring -- Administering and Monitoring Kafka -- Getting started with Kafka Streams -- Kafka Streams Development -- Applications with Kafka Streams.
+| UNIT IV | STREAMING PROCESSING USING KAFKA | 10 |
+Apache Kafka -- Installing Kafka -- Producers and Consumers -- Kafka
+Internals -- Building Data Pipelines -- Cross Cluster Data Mirroring
+-- Administering and Monitoring Kafka -- Getting started with Kafka
+Streams -- Kafka Streams Development -- Applications with Kafka
+Streams.
 
 {{{unit}}}
-|Unit V|Big Data Frameworks |10|
-Apache Flume -- Overview and Architecture -- Quick Start Guide to Flume -- Basics of Sqoop -- Integrating Sqoop with Hadoop -- Getting to Grips with Zookeeper -- Getting Started with Zookeepre API --  Machine Learning using Apache Mahout -- Clustering & Classification Algorithms in Mahout --  Extending Spark with H2O -- H2O
+| UNIT V | BIG DATA FRAMEWORKS | 10 |
+Apache Flume -- Overview and Architecture -- Quick Start Guide to
+Flume -- Basics of Sqoop -- Integrating Sqoop with Hadoop -- Getting
+to Grips with Zookeeper -- Getting Started with Zookeepre API --
+Machine Learning using Apache Mahout -- Clustering & Classification
+Algorithms in Mahout -- Extending Spark with H2O -- H2O
 
-** Course Outcomes
+** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
 - Illustrate big data analytics and related technologies. (K2)
 - Build distributed data processing applicatins using Apache Hadoop and Spark. (K3)
@@ -63,12 +76,12 @@ Upon the completion of the course the students should be able to:
 - Experiment with Apache Kafka for processing stream data. (K3)
 - Develop an applicatin using Big Data Frameworks in teams applying best practices, demonstrate and write report on the work. (K3)
 
-** Text Books
+** TEXT BOOKS
 1. Mike Frampton, "Mastering Apache Spark", Packt Publishers, 2015.(Init 2)
 2. Krishna Sankar, " Fast Data Processing using Spark 2", 3rd Edition, Packt Publishers, 2016. (Unit 2)
 3. Neha Narkhede, Gwen Shapira, and Todd Palino,"Kafka - Definitive Guide", 2017.(Unit 4)
 
-** References
+** REFERENCES
 1. Gerald Maas & Francois Gorillot, "Stream Processing with Apache Spark", O'Reilly Media, 2019.(Unit 3)
 2. Gaurav Vaish, "Getting Started with NoSQL",  Packt Publishing Ltd, 2013.(Unit 2)
 3. William P. Bejeck Jr. "Kafka Streams in Action", Manning Publications, 2018. (Unit 4)

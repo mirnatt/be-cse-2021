@@ -5,6 +5,9 @@
 :end:
 
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 2 | 0 | 4 |
 
 #+begin_comment
 CO-PO mapping later
@@ -23,11 +26,7 @@ CO-PO mapping later
 | Course Mapping |    |   3 |   2 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    3 |    1 |
 
 
-{{{credits}}}
-| L | T | P | C |
-| 3 | 2 | 0 | 4 |
-
-** Course Objectives
+** COURSE OBJECTIVES
 - To learn the mathematical notations and construct finite automata of the given laguage
 - To understand and infer the relationship of finite automate and regular expressions
 - To understand the language hierarchy, relatinship between context free grammar and its language and to constuct a PDA of CFG.
@@ -42,31 +41,48 @@ CO-PO mapping later
 
 {{{unit}}}
 |UNIT I | MATHEMATICAL INTRODUCTION AND FINITE AUTOMATA   | 8 |
-Basic Mathematical Notation and Techniques: Introduction to Formal Proof -- Additional Forms of Proof -- Inductive Proofs; Finite Automata (FA): Deterministic Finite Automata (DFA) -- Non-deterministic Finite Automata (NFA) -- Finite automata with epsilon transitions -- Equivalence of FAs.
+Basic Mathematical Notation and Techniques: Introduction to Formal
+Proof -- Additional Forms of Proof -- Inductive Proofs; Finite
+Automata (FA): Deterministic Finite Automata (DFA) --
+Non-deterministic Finite Automata (NFA) -- Finite automata with
+epsilon transitions -- Equivalence of FAs.
  
 
 {{{unit}}}
 |UNIT II | REGULAR LANGUAGES  | 9 |
-Regular Expressions and Languages: Regular expressions -- Finite automata and regular expressions; Properties of Regular Languages: Proving languages not to be regular -- Closure properties of regular languages -- Equivalence and Minimization of Automata.
+Regular Expressions and Languages: Regular expressions -- Finite
+automata and regular expressions; Properties of Regular Languages:
+Proving languages not to be regular -- Closure properties of regular
+languages -- Equivalence and Minimization of Automata.
 
 {{{unit}}}
 |UNIT III | CONTEXT FREE LANGUAGES AND PUSHDOWN AUTOMATA | 10 |
-Chomsky's Hierarchy of Languages; Context-Free Grammar and Languages: Context-Free Grammar (CFG) -- Parse trees -- Ambiguity in grammars and languages; Normal Forms for Context Free Grammars: Elimination of Useless Symbols, epsilon and unit productions -- Chomsky Normal Form (CNF) -- Greibach Normal Form (GNF).
+Chomsky's Hierarchy of Languages; Context-Free Grammar and Languages:
+Context-Free Grammar (CFG) -- Parse trees -- Ambiguity in grammars and
+languages; Normal Forms for Context Free Grammars: Elimination of
+Useless Symbols, epsilon and unit productions -- Chomsky Normal Form
+(CNF) -- Greibach Normal Form (GNF).
 
-Pushdown Automata (PDA): Definition of the Pushdown automaton -- The languages of a PDA -- Equivalence of PDAs and CFGs -- Deterministic Pushdown automata; Pumping Lemma for Context Free Languages.
+Pushdown Automata (PDA): Definition of the Pushdown automaton -- The
+languages of a PDA -- Equivalence of PDAs and CFGs -- Deterministic
+Pushdown automata; Pumping Lemma for Context Free Languages.
 
 {{{unit}}}
 |UNIT IV | TURING MACHINES  | 9 |
-The Turing Machine -- Programming Techniques for Turing Machines: Storage in the State -- Multiple Tracks -- Subroutines; Extensions to the Basic Turing Machine.
+The Turing Machine -- Programming Techniques for Turing Machines:
+Storage in the State -- Multiple Tracks -- Subroutines; Extensions to
+the Basic Turing Machine.
 
 {{{unit}}}
 |UNIT V | UNDECIDABILITY | 9 |
-Undecidablity: Language that is not Recursively Enumerable (RE) -- Undecidable problem that is RE -- Undecidable problems about Turing machines -- Post's Correspondence Problem (PCP).
+Undecidablity: Language that is not Recursively Enumerable (RE) --
+Undecidable problem that is RE -- Undecidable problems about Turing
+machines -- Post's Correspondence Problem (PCP).
 
 \hfill *Tutorial: 15*
 \hfill *Total Periods: 60*
 
-** Course Outcomes
+** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Solve the mathematical proofs related to compuation and Construct finite automata for the given language (K3)
 - Analyze the relationship between Finite Automata and regular expression (K4)
@@ -75,11 +91,11 @@ After the completion of this course, students will be able to:
 - Explain the Decidability or Undecidability of various problems and make use of it (K3).
 - Design a suitable model for the given application (K6)
 
-** Text Books 
+** TEXT BOOKS 
 1. Hopcroft J E, Motwani R, Ullman J D, ``Introduction to Automata    Theory, Languages and Computations'', Pearson Education, 3rd
    Edition, 2008.
 
-** References
+** REFERENCES
 1. Harry R Lewis, Christos H Papadimitriou, ``Elements of the Theory of Computation'', Prentice Hall of India, 2nd Edition, 2003.
 2. Peter Linz, ``An Introduction to Formal Language and Automata'', Narosa Publishers, 3rd Edition, 2002.
 3. Mishra K L P, Chandrasekaran N, ``Theory of Computer Science -- Automata, Languages and Computation'', Prentice Hall of India, 3rd

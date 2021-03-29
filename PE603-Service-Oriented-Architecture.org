@@ -4,6 +4,12 @@
 :date: 17/3/21 
 :end:
 
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
 #+begin_comment
 <<<<<<< HEAD
 Unit 1, 2, and 3 are same as R2017 Anna University Syllabus.  Unit 4:
@@ -23,12 +29,6 @@ Unit 5: Replaced the old content from the second text book they are more relevan
 Second Text book of Anna University Syllabus is altered, which is authored by, Sahankar Kambhampaly...
 >>>>>>> 5d5289161a836ba341d59f8131b5db5fb2fb5cf2
 #+end_comment
-
-#+startup: showall
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To learn the fundamentals of XML

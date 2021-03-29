@@ -1,8 +1,12 @@
- <<<PExxx>>> Soft Computing 
+* <<<PE304>>> SOFT COMPUTING 
 :properties:
 :author: Dr. T.T. Mirnalinee  and Dr. K. Lekshmi
 :date: 26/03/2021
 :end:
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -16,10 +20,6 @@
 | Score          |    |  10 |  15 |  15 |  15 |   9 |   1 |   1 |   1 |   9 |   15 |    2 |    5 |   15 |    5 |   15 |
 | Course Mapping |    |   2 |   3 |   3 |   3 |   2 |   1 |   1 |   1 |   2 |    3 |    1 |    1 |    3 |    1 |    3 |
 
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
 ** COURSE OBJECTIVES
 - To introduce the ideas of fuzzy sets and fuzzy logic 
 - To study the characteristics of various types of neural networks
@@ -29,32 +29,44 @@
 #+startup: showall
 
 {{{unit}}}
-|UNIT I | Fuzzy Logic | 10 |
-Introduction to Neuro-Fuzzy and Soft Computing; Fuzzy Sets : Basic Definition and Terminology --
-Set-theoretic Operations -- Member Function Formulation and Parameterization -- Fuzzy Rules and Fuzzy Reasoning --
-Extension Principle and Fuzzy Relations -- Fuzzy If-Then Rules -- Fuzzy Reasoning -- Fuzzy Inference Systems 
--- Mamdani Fuzzy Models -- Sugeno Fuzzy Models --Tsukamoto Fuzzy Models -- Input Space Partitioning and Fuzzy Modeling
+|UNIT I | FUZZY LOGIC | 10 |
+Introduction to Neuro-Fuzzy and Soft Computing; Fuzzy Sets : Basic
+Definition and Terminology -- Set-theoretic Operations -- Member
+Function Formulation and Parameterization -- Fuzzy Rules and Fuzzy
+Reasoning -- Extension Principle and Fuzzy Relations -- Fuzzy If-Then
+Rules -- Fuzzy Reasoning -- Fuzzy Inference Systems -- Mamdani Fuzzy
+Models -- Sugeno Fuzzy Models --Tsukamoto Fuzzy Models -- Input Space
+Partitioning and Fuzzy Modeling
 
 {{{unit}}}
-|UNIT II | Neural Networks | 7 | 
-Supervised Learning Neural Networks: Perceptrons –- Adaline –- Backpropagation Mutilayer Perceptrons –- Radial Basis Function Networks;
-Unsupervised Learning NeuralNetworks: Competitive Learning Networks –- Kohonen Self-Organizing Networks -– Learning Vector Quantization –- Hebbian Learning
+|UNIT II | NEURAL NETWORKS | 7 | 
+Supervised Learning Neural Networks: Perceptrons –- Adaline –-
+Backpropagation Mutilayer Perceptrons –- Radial Basis Function
+Networks; Unsupervised Learning NeuralNetworks: Competitive Learning
+Networks –- Kohonen Self-Organizing Networks -– Learning Vector
+Quantization –- Hebbian Learning
 
 {{{unit}}}
-|UNIT III | Conventional Optimization  | 9 |
-Derivative-based Optimization: Descent Methods -- The Method of Steepest Descent -- Classical Newton's Method -- Step Size Determination 
--- Conjugate gradient Methods -- Analysis of Quadratic Case
+|UNIT III | CONVENTIONAL OPTIMIZATION  | 9 |
+Derivative-based Optimization: Descent Methods -- The Method of
+Steepest Descent -- Classical Newton's Method -- Step Size
+Determination -- Conjugate gradient Methods -- Analysis of Quadratic
+Case
 
 {{{unit}}}
-|UNIT IV | Genetic Algorithms | 10 |
-Genetic Algorithms: Genetic algorithm and search space -- general genetic algorithm –- operators -- Generational cycle --
-stopping condition –- constraints –- classification; Simulated Annealing -- Random Search -- Downhill Simplex Search -- Particle Swarm Optimization 
--- Ant Colony Optimization.
+|UNIT IV | GENETIC ALGORITHMS | 10 |
+Genetic Algorithms: Genetic algorithm and search space -- general
+genetic algorithm –- operators -- Generational cycle -- stopping
+condition –- constraints –- classification; Simulated Annealing --
+Random Search -- Downhill Simplex Search -- Particle Swarm
+Optimization -- Ant Colony Optimization.
 
 {{{unit}}}
-|UNIT V | Neuro Fuzzy Modeling | 9 |
-Adaptive Neuro-Fuzzy Inference Systems: Architecture –- Hybrid Learning Algorithm –- Learning Methods that Cross-fertilize ANFIS and RBFN; 
-Coactive Neuro Fuzzy Modeling: Framework Neuron Functions for Adaptive Networks –- Neuro Fuzzy Spectrum.
+|UNIT V | NEURO FUZZY MODELING | 9 |
+Adaptive Neuro-Fuzzy Inference Systems: Architecture –- Hybrid
+Learning Algorithm –- Learning Methods that Cross-fertilize ANFIS and
+RBFN; Coactive Neuro Fuzzy Modeling: Framework Neuron Functions for
+Adaptive Networks –- Neuro Fuzzy Spectrum.
 
 
 \hfill *Total Periods: 45*
@@ -75,7 +87,7 @@ After the completion of this course, students will be able to:
 1.	J.S.R.Jang, C.T. Sun and E.Mizutani, ``Neuro-Fuzzy and Soft Computing'', PHI / Pearson Education 2004. 
 
 
-REFERENCE BOOKS
+** REFERENCES
 1.	S.Rajasekaran and G.A.Vijayalakshmi Pai, ``Neural Networks, Fuzzy Logic and Genetic Algorithm: Synthesis & Applications'', Prentice-Hall of India Pvt. Ltd., 2006. 
 2.	Timothy J.Ross, ``Fuzzy Logic with Engineering Applications'', McGraw-Hill, International Editions, Electrical Engineering Series, Singapore, 1997.
 3.	Davis E.Goldberg, ``Genetic Algorithms: Search, Optimization and Machine Learning'', Addison Wesley, N.Y., 1989.

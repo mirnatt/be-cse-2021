@@ -5,6 +5,10 @@
 :end:
 
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
 #+begin_comment
 Topic:
 1. Introduction to web security alone is discussed in unit 3.
@@ -18,10 +22,6 @@ Regarding BoS Comments:
 2. Book suggested by BoS handles Cryptography and it deviates from the
 course content.
 #+end_comment
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To study about the essentials of computer security

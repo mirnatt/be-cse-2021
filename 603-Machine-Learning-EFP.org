@@ -1,11 +1,10 @@
-* <<<203>>> COMPUTER ENGINEERING FUNDAMENTALS AND PRACTICES
+* <<<203>>> DATABASE MANAGEMENT SYSTEMS FUNDAMENTALS
 :properties:
-:author: Dr R Kanchana, Dr R S Milton, Dr T T Mirnalinee
+:author: Dr R Kanchana, Mr B Senthilkumar
 :date: 16 March 2021
 :end:
 
 #+startup: showall
-
 {{{credits}}}
 | L | T | P |   C |
 | 2 | 1 | 3 | 4.5 |
@@ -18,122 +17,63 @@
 | CO4 |     |     |     |     |     |     |     |   1 |     |    3 |    1 |    1 |      |      |      |
 | CO5 |     |     |     |     |     |     |     |     |   3 |    3 |    2 |    1 |      |    1 |      |
 | CO6 |     |     |     |     |     |   2 |   2 |   1 |     |      |      |      |      |      |      |
-| CO6 |   1 |   1 |   2 |   2 |     |     |     |     |     |      |      |      |   2  |    1 |      |
 
 ** COURSE OBJECTIVES
-- To link system building to computing fundamentals.
-- To progress from fundamental principles to larger engineering
-  systems
-- To motivate independent learning and exploration.
+1. To understand machine learning problems
+2. To study various supervised, unsupervised and
+   reinforcement learning algorithms in machine learning
+3. To develop machine learning algorithms for solving
+   socially relevany problems
+4. To motivate independent learning and exploration.
 
 ** LECTURES (30 hours)
 {{{unit}}}
-| UNIT I | PROGRAM DEVELOPMENT BASICS | 7 |
-Algorithm -- modularity, reusability, maintainability. Software
-engineering fundamentals: project management, feasibility study. Best
-practices and guidelines for Programming.  Structure of a C program --
-data types -- variables and constants -- operators and expressions -
-input and output statements -- control statements.
+| UNIT I | INTRODUCTION TO MACHINE LEARNING| 6 |
+Examples of Machine Learning Applications: Learning
+associations -- Classification -- Regression -- Unsupervised
+learning -- Reinforcement learning; Preliminaries: Weight
+space -- Curse of dimensionality -- Testing machine learning
+algorithms
 
 {{{unit}}}
-| UNIT II | FUNCTIONS  | 6 |
-Function prototype -- function definition and call -- passing
-parameters -- recursion. Program structure: storage classes –
-multi-file programs-- Standard library functions;
+| UNIT II | SUPERVISED LEARNING | 8 |
+Neural networks, Perceptron, Multi-layer perceptron:
+Back-propagation of error, Regression: LinearRegression,
+Multiple Linear Regression, Logistic Regression, Support
+Vector Machines
 
 {{{unit}}}
-| UNIT III | ARRAYS AND STRINGS  | 6 |
-Arrays: declaration, initialization -- multi-dimensional arrays --
-passing arrays to functions; Strings: reading and writing strings,
-string operations, string library functions.
+| UNIT III | LEARNING WITH TREES | 8 |
+Constructing decision trees, Classification and regression
+trees, Classification example, Ensemble Learning: Boosting --
+Bagging -- Random forests, Evaluation metrics
 
 {{{unit}}}
-| UNIT IV | POINTERS   | 6 |
-Pointers: Pointer operators -- Pointer to an array -- Array of
-pointers -- Command line arguments. Dynamic memory allocation --
-Pointer to a function -- Passing pointers to functions -- Problems in
-using pointers.
-
-{{{unit}}}
-| UNIT V | STRUCTURES   | 5 |
-User defined data types -- Structures: Structures and functions --
-Array of structures -- Pointer to a structure -- Type definition
-(typedef).  Enumerated data type. 
-
-#+BEGIN_COMMENT
-{{{unit}}}
-| UNIT II | DATABASES  | 6 |
-Databases: Relational Databases -- SQL -- SQLite.
-
-{{{unit}}}
-| UNIT III | WEB APPLICATION DEVELOPMENT | 6 |
-Web Application Development: HTML and CSS -- JavaScript;
-Security; Developing Single Page Application; Mobile
-Applications.
-
-{{{unit}}}
-| UNIT IV | DATA SCIENCE | 6 |
-Data Science: Regression -- Classification -- Visualization
--- Scikit-Learn.
-
-{{{unit}}}
-| UNIT V | SOFTWARE ENGINEERING | 6 |
-Software Engineering: Planning -- Project management --
-Feasibility study -- Cost-Benefit analysis -- Modular and
-architecture Design -- Documentation; Ethics and best
-practices in Engineering.
-#+END_COMMENT
+| UNIT IV | UNSUPERVISED LEARNING | 8 |
+Unsupervised Learning: Introduction to clustering, K-means
+algorithm, Principal components analysis (PCA), Analysis and
+Evaluation of Machine Learning algorithms.
 
 ** LAB ASSIGNMENTS (15 hours)
-1. Algorithm writing, verification and test case design (1)
-2. Programs using looping constructs
-3. Programs using functions with different parameter passing
-   techniques: Call by value, call by reference (e.g. changing the
-   elements of an array), Recursion
-4. Programs using one dimensional arrays
-5. Programs using strings and their operations (e.g. concatenation of
-   strings, extracting a substring, checking for palindrome, search
-   for a given string using binary search)
-6. Programs to demonstrate simple structure manipulations and passing
-   structures to a function (e.g. generating a transcript with CGPA
-   and class obtained, operations on complex numbers, difference
-   between times)
-
-# In all the above assignments, wherever applicable, focus on
-# reflection and introspection on learning outcome.
+1. Develop single layer perceptron for simple network
+   functions
+2. Design a MLP network for solving Ex-OR problem
+3. Implement linear regression
+4. Design decision tree algorithm.
+5. Solve K-means clustering using Euclidean distance metric
 
 ** STUDIO SESSIONS (15 sessions of 3 hours each)
-- /Sample Case Study/: Timetable Management System for an Academic
-  Institution
-- /Input/: Set of courses in a semester, Type of courses, Classrooms,
-  Labs, Faculty offerings, Student degree, Year and Section
-- /Output/: Timetable for a week satisfying the following constraints
-- /Constraints/:
-  - All theory courses for a class are scheduled in the same room.
-  - More than one lab course cannot be scheduled in the lab at the same time.
-  - A faculty does not handle more than 2 sessions per day for the same course.
-  - A faculty cannot handle more than one class in each session.
+/Sample Case Study/: Online booking and service system
 
-\hfill *Total Hours: 30 + 15 + 45 = 90*
+Diabetes 130-US hospitals for years 1999-2008 dataset from
+the UCI Machine Learning Repository contains information
+about 100,000 patients with diabetes treated acros 130 US
+hospitals. The task is to predict whether a patient requires
+readmission.
 
-** COURSE OUTCOMES
-After the completion of this course, students will be able to:
-1. Formulate a problem, specifying the requirements and
-   identifying the scope and boundaries.
-2. Apply engineering fundamentals in Computer Science to
-   industrial applications or products.
-3. Design and develop solutions with novel technologies,
-   tools, and techniques.
-4. Communicate effectively through reflections, reports, and
-   presentations.
-5. Work in teams to develop modules and integrate them.
-6. Analyze the impact on health, safety, society, environment
-   as well as underlying legal and ethical considerations
-   wherever are applicable.
-7. Solve programming problems using basic constructs in C programming
-   language.
-
-** INSTRUCTIONS
+/Variants/ 
+- Predict student performance in secondary education (high
+  school).
 1. Instructor provides the links in Internet, industry links
    and professional magazine articles available in SSN
    library and asks the students to study systems or
@@ -171,13 +111,31 @@ After the completion of this course, students will be able to:
     solution in terms of security, reliability, code
     reusability and adaptability.
 
+
+\hfill *Total Hours: 30 + 15 + 45 = 90*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able
+to:
+1. Study requirements of problems and select suitable ML
+   algorithm
+2. Apply machine learning algorithms to solve problems
+   with sociall and industrial relevance
+3. Communicate effectively through discussions, reports and
+   presentations.
+4. Work in teams to develop modules and integrate them, and
+   evaluate with qualitative and quantitative metrics.
+5. Analyze the impact on health, safety, society, environment
+   as well as underlying legal and ethical considerations
+   whichever are applicable.
+
+
 ** COMMENT EVALUATION
 #+latex: \newcolumntype{Y}{>{\small\raggedright\arraybackslash}X}
 #+latex: \newcolumntype{A}{>{\small\raggedright\arraybackslash\hsize=.7\hsize}X}
 #+latex: \newcolumntype{B}{>{\small\raggedright\arraybackslash\hsize=1.2\hsize}X}
 #+latex: \newcolumntype{C}{>{\small\raggedright\arraybackslash\hsize=1\hsize}X}
 #+attr_latex: :environment tabularx :width \textwidth :align BBAAAA
-
 | <10>       | <40>                                     |       <10> |       <10> |       <10> |       <10> |
 |------------+------------------------------------------+------------+------------+------------+------------|
 | Asssessment tool | Execution                                | Peer review and rating |  Viva voce | Presentation |     Report |
@@ -220,6 +178,7 @@ After the completion of this course, students will be able to:
 |----------------------+-----------+-----|
 | Total                |      100% |     |
 
+
 | Assessment Tool | Weightage |     |
 |-----------------+-----------+-----|
 | Class Activity  |       25% |     |
@@ -233,15 +192,9 @@ After the completion of this course, students will be able to:
 | Total           |      100% |     |
 #+END_COMMENT
 ** TEXT BOOKS
-1. Byron Gottfried, Programming with C (Schaum's Outlines Series),
-   McGraw-Hill Education, 3rd Edition, 2017.
-2. Brian W Kernighan and Dennis M Ritchie, The C Programming Language,
-   Pearson Education India, 2nd Edition, 2015.
 
 ** REFERENCES
-1. Reema Thareja, Programming in C, Oxford University Press, 2nd Edition, 2016.
-2. Yashwant Kanetkar, Let Us C, BPB Publications, 14th Edition, 2016.
-3. King, K.N., C Programming A Modern Approach, W. W. Norton & Company, II Ed. 2008.
+
 #+BEGIN_COMMENT
 Technical Outcome.
 Could you learn?

@@ -4,6 +4,10 @@
 :end:
 
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
 #+begin_comment
 Yet to do co-po mapping, c-objs, c-outcomes, ref
 #+end_comment
@@ -20,16 +24,6 @@ Yet to do co-po mapping, c-objs, c-outcomes, ref
 | Score          |    |  11 |  10 |   9 |   9 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    5 |    9 |   14 |    5 |
 | Course Mapping |    |   3 |   2 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    1 |    2 |    3 |    1 |
 
-
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
-#+begin_comment
-
-#+end_comment
-
 ** COURSE OBJECTIVES
 - To Understand vulnerabilities of wired and wireless networks
 - To acquire knowledege on  Bluetooth, Wi-Fi and Ad Hoc Networks Security 
@@ -39,31 +33,36 @@ Yet to do co-po mapping, c-objs, c-outcomes, ref
 
 {{{unit}}}
 | UNIT I | VULNERABILITIES OF WIRED AND WIRELESS NETWORKS | 9 |
-
 Introduction: Security in the digital age -- Threats and risks to telecommunications systems -- From wireline vulnerabilities to vulnerabilities in wireless communications.
 Fundamental Security Mechanisms : Basics on security --  Authentication --Access control.
 
+{{{unit}}}
 | UNIT II | WIRELESS SECURITY | 12 |
 #+begin_comment
 Bluetooth, Wi-Fi and Ad Hoc Networks Security 
 #+end_comment
-
 Bluetooth technical specification -- Bluetooth security.
 Wi-Fi Security: Attacks on wireless networks -- Security in the IEEE 802.11-- Security in 802.1x -- Authentication in wireless networks -- Layer 3 security mechanisms.
 Security in Ad Hoc Networks :  Attacks to routing protocols -- Security mechanisms.
 
+{{{unit}}}
 | UNIT III | SECURITY IN MOBILE TELECOMMUNICATION NETWORKS | 8 |
+Security in the GSM: Security mechanisms in GSM -- Security flaws in
+GSM radio access -- Security flaws in GSM signaling; GPRS security:
+GPRS architecture -- GPRS security mechanisms -- 3G security: UMTS
+infrastructure -- UMTS security ; 4G Security.
 
-Security in the GSM: Security mechanisms in GSM  -- Security flaws in GSM radio access -- Security flaws in GSM signaling; GPRS security: GPRS architecture -- GPRS security mechanisms -- 3G security: UMTS infrastructure --  UMTS security ; 4G Security.
-
+{{{unit}}}
 | UNIT IV | MOBILE HARDWARE SECURITY | 8 |
-Platform Boot Integrity -- Secure Storage -- Isolated Execution -- Device Identification -- Device Authentication -- Hardware Security Architectures -- TEE Standards.
+Platform Boot Integrity -- Secure Storage -- Isolated Execution --
+Device Identification -- Device Authentication -- Hardware Security
+Architectures -- TEE Standards.
 
+{{{unit}}}
 | UNIT V | MOBILE PLATFORM SECURITY | 8 |
-
-Android Based Security: Attacks and Threats -- Security extensions for Android.
-
-iOS Based security: Limits of Apple's application vetting process -- iOS security extensions.
+Android Based Security: Attacks and Threats -- Security extensions for
+Android.  iOS Based security: Limits of Apple's application vetting
+process -- iOS security extensions.
 
 
 \hfill *Total Periods: 45*

@@ -4,9 +4,10 @@
 :date: 16 March 2021
 :end:
 
+#+startup: showall
 {{{credits}}}
-| L | T | P | C |
-| 2 | 0 | 4 | 4 |
+| L | T | P |   C |
+| 2 | 1 | 3 | 4.5 |
 		
 ** CO-PO Mapping                                                   :noexport:
 |     | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
@@ -22,49 +23,49 @@
 2. To progress from fundamental principles to larger Engineering systems 
 3. To motivate independent learning and exploration.
 
-** LECTURES
+** LECTURES (30 hours)
 {{{unit}}}
 | UNIT I | CONCEPTUAL MODELING | 6 |
-Requirement analysis, Entity-Relationship (ER) model, Constraints,
-Enhanced-ER (EER) model, EER in UML class diagrams.
+Requirement analysis, Entity-Relationship (ER) model,
+Constraints, Enhanced-ER (EER) model, EER in UML class
+diagrams.
 
 {{{unit}}}
 | UNIT II | RELATIONAL DATA MODEL & CONSTRAINTS  | 6 |
-Integrity constraints, SQL Data definition, Data retrieval, Complex
-queries, Views, Database programming.
+Integrity constraints, SQL Data definition, Data retrieval,
+Complex queries, Views, Database programming.
 
 {{{unit}}}
 | UNIT III | RELATIONAL MODEL DESIGN | 6  |
-Relational design using ER and EER-to-Relational mapping, Functional
-dependencies, Normalization, Properties of relational decomposition,
-Algorithms for relational database schema design.
+Relational design using ER and EER-to-Relational mapping,
+Functional dependencies, Normalization, Properties of
+relational decomposition, Algorithms for relational database
+schema design.
 
 {{{unit}}}
 | UNIT IV | TRANSACTION PROCESSSING | 6 |
-Schedules, Serializability, Two-phase locking for concurrency control
+Schedules, Serializability, Two-phase locking for concurrency
+control.
 
 {{{unit}}}
 | UNIT V | OBJECT-RELATIONAL AND NO-SQL DATABASES | 6 |
 Object database extensions to SQL, ODL and OQL, CAP theorem,
-Introduction to Aggregate data models -- No-SQL: Data modelling in
-NoSQL, CRUD operations
+Introduction to Aggregate data models -- No-SQL: Data
+modelling in NoSQL, CRUD operations.
 
-** CLASS ACTIVITY (15 hours taken from studio sessions)
-1. Requirement analysis of any problem statement
-2. Draw an ER/EER diagram for a real-time application.
-3. Map the ER/EER to relational database schema (top-down approach)
-4. Create a database for a given specification with constraints.
-5. Apply SQL queries / database programming to retrieve data.
-6. Design a relational database using Normalization theory (bottom-up
+** LAB ASSIGNMENTS (15 hours)
+1. Draw an ER / EER diagram for a real-time application.
+2. Map the ER/EER to relational database schema (top-down
    approach)
-7. Check the serializability of any non-serial schedule using
+3. Create a database for a given specification with
+   constraints.
+4. Apply SQL queries / database programming to retrieve data.
+5. Design a relational database using Normalization theory
+   (bottom-up approach)
+6. Check the serializability of any non-serial schedule using
    two-phase locking techniques.
-8. Map the EER to ODB schema (top-down approach)
-9. ODL and OQL in object-relational database
-10. Data modelling and design, operations in NoSQL (Mongo/ HBase /
-    Cassandra / Redis)
 
-** STUDIO SESSIONS (30 sessions of 2 hours each)
+** STUDIO SESSIONS (15 sessions of 3 hours each)
 /Sample Case Study/: Online booking and service system
 
 /Variants/
@@ -126,18 +127,21 @@ NoSQL, CRUD operations
     methodology/approach, database design and solution.
 14. The students are asked to document a learning experience as a
     reflection of their skills acquired.
+15. Students are asked to explore the advantages and/or
+    limitations of their solution in terms of performance,
+    security, user experience, reusability and extendibility.
 
-\hfill *Total Hours: 30 + 60 = 90*
+
+\hfill *Total Hours: 30 + 15 + 45 = 90*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
- 1. Formulate the problem, understanding the requirements and derive
-    its conceptual model showing the constraints.
-
- 2. Apply database fundamentals to advanced industrial applications or
-    products.
- 3. Design and develop solutions using top-down or bottom-up approach
-    and using contemporary storage models
+ 1. Formulate problem, understanding the requirements and
+    derive its conceptual model showing the constraints.
+ 2. Apply database fundamentals to advanced industrial
+    applications or products.
+ 3. Design and develop solutions using top-down or bottom-up
+    approach and using contemporary storage models
  4. Communicate effectively through reflections, reports, and
     presentations.
  5. Work in teams to develop modules and integrate them.
@@ -145,48 +149,39 @@ After the completion of this course, students will be able to:
     as well as underlying legal and ethical considerations
     wherever are applicable.
 
-** EVALUATION
-EFP will be assessed by a committee of faculty members based
-on Studio Sessions, Reflections, Presentation and
-Documentation. *EFP will be evaluated based on continuous
-assessment only.*
-
+** COMMENT EVALUATION
 #+latex: \newcolumntype{Y}{>{\small\raggedright\arraybackslash}X}
 #+latex: \newcolumntype{A}{>{\small\raggedright\arraybackslash\hsize=.7\hsize}X}
 #+latex: \newcolumntype{B}{>{\small\raggedright\arraybackslash\hsize=1.2\hsize}X}
 #+latex: \newcolumntype{C}{>{\small\raggedright\arraybackslash\hsize=1\hsize}X}
 #+attr_latex: :environment tabularx :width \textwidth :align BBAAAA
-| <10>       | <40>                                     | <10>       |       <10> |       <10> |       <10> |
+| <10>       | <40>                                     |       <10> |       <10> |       <10> |       <10> |
 |------------+------------------------------------------+------------+------------+------------+------------|
-|            | Reflection by Instructor                 | Reflection by peers | Presenta-tion by peers | Documenta-tion |     Studio |
+| Asssessment tool | Execution                                | Peer review and rating |  Viva voce | Presentation |     Report |
 |------------+------------------------------------------+------------+------------+------------+------------|
-| Review 1: Scope and modules | 20                                       | 10         |         10 |         10 |         50 |
+| Review 1 by instructor: Design | Problem formulation, scope: 60           |         10 |            |            |         30 |
 |------------+------------------------------------------+------------+------------+------------+------------|
-| Review 2: Design | 20                                       | 10         |         10 |         10 |         50 |
+| Mid sem evaluation by a committee | Planning and modules: 20, Technical: 20, Ethics/Best practices: 10 |            |         10 |         20 |         20 |
 |------------+------------------------------------------+------------+------------+------------+------------|
-| Mid sem evaluation by a committee | Planning and modules: 20, Technical clarity: 20, Ethics/Best practices: 10 | Viva: 10   |         20 |         20 |            |
+| Review 2 by instructor: Implementation | Implementation, demo, testing, user interface: 90 |         10 |            |            |            |
 |------------+------------------------------------------+------------+------------+------------+------------|
-| Review 3: Implementation | 20                                       | 10         |         10 |         10 |         50 |
+| End sem evaluation by a committee | Demo  (Innovation, emerging technologies, security, user interface): 40 |            |         10 |         10 |         20 |
 |------------+------------------------------------------+------------+------------+------------+------------|
-| End sem evaluation by a committee | Demo: 40 (Innovation, emerging technologies, security, user interface), Ethics/Best practices: 10 | Viva: 10   |         20 |         20 |         50 |
-|------------+------------------------------------------+------------+------------+------------+------------|
-#+TBLFM: 
 
-** Tentative Rubrics for Evaluation
-| Assessment Tool      | Weight |     |
-|----------------------+--------+-----|
-| End semester exam    |     50 |     |
-| Continous assessment |        |     |
-| Lab work             |     20 |     |
-| Theory test          |     15 |     |
-| Lab test             |     15 |     |
-| Review 1             |        |  5% |
-| Review 2             |        |  5% |
-| Review 3             |        |  5% |
-| Mid semester review  |        | 10% |
-| End semester review  |        | 25% |
-|----------------------+--------+-----|
-| Total                |    100 |     |
+** ASSESSMENT
+| Assessment Tool         | Weight |    |
+|-------------------------+--------+----|
+| /Continous assessment/  |     50 |    |
+| CAT 1 (Theory)          |        | 15 |
+| CAT 2 (Theory / Lab)    |        | 15 |
+| Lab work                |        | 20 |
+| /Project Assessment/    |     50 |    |
+| Review 1                |        |  5 |
+| Review 2                |        |  5 |
+| Mid semester evaluation |        | 15 |
+| End semester evaluation |        | 25 |
+|-------------------------+--------+----|
+| Total                   |    100 |    |
 
 #+BEGIN_COMMENT
 | Assessment Tool      | Weightage |     |
@@ -215,9 +210,9 @@ assessment only.*
 |-----------------+-----------+-----|
 | Total           |      100% |     |
 #+END_COMMENT
-** Text Books
+** TEXT BOOKS
 
-** References
+** REFERENCES
 
 #+BEGIN_COMMENT
 Technical Outcome.

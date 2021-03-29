@@ -4,11 +4,11 @@
 :date: 15-03-2021
 :end:
 
-#+begin_comment
-- 1. 
-#+end_comment
-
 #+startup: showall
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping 
 
@@ -24,34 +24,41 @@
 | Course Mapping |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
 #+end_comment
 
-
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
 ** COURSE OBJECTIVES
 - To understand the basics of reinforcement learning techniques
 - To explore various methods used in reinforcement learning
 - To apply reinforcement learning techniques for various case studies.
 
+{{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
-Reinforcement Learning -- Examples -- Elements of Reinforcement Learning -- Limitations and Scope -- Tic-Tac-Toe; Multi-armed Bandits; Finite Markov Decision Processes.
+Reinforcement Learning -- Examples -- Elements of Reinforcement
+Learning -- Limitations and Scope -- Tic-Tac-Toe; Multi-armed Bandits;
+Finite Markov Decision Processes.
 
+{{{unit}}}
 | UNIT II | TABULAR SOLUTION METHODS | 11 |
-Dynamic Programming; Monte Carlo Methods: Prediction -- Estimation of Action Values -- Control -- Control without Exploring Starts -- Off-policy Prediction via Importance Sampling -- Incremental Implementation -- Off-policy Monte Carlo Control; Temporal-Difference Learning.
+Dynamic Programming; Monte Carlo Methods: Prediction -- Estimation of
+Action Values -- Control -- Control without Exploring Starts --
+Off-policy Prediction via Importance Sampling -- Incremental
+Implementation -- Off-policy Monte Carlo Control; Temporal-Difference
+Learning.
 
+{{{unit}}}
 | UNIT III |  INTEGRATION OF TABULAR METHODS | 9 |
-n-step Bootstrapping: TD Prediction -- Sarsa -- Off-policy Learning; Planning and Learning with Tabular Methods.
+n-step Bootstrapping: TD Prediction -- Sarsa -- Off-policy Learning;
+Planning and Learning with Tabular Methods.
 
-| UNIT IV |  | APPROXIMATE SOLUTION METHODS | 10 |
-On-policy Prediction with Approximation; On-policy Control with Approximation; Eligibility Traces: The \lambda-return -- TD(\lambda) -- n-step Truncated \lambda-return Methods -- Online \lambda-return Algorithm -- True Online TD(\lambda); Policy Gradient Methods. 
+{{{unit}}}
+| UNIT IV |   | APPROXIMATE SOLUTION METHODS | 10 |
+On-policy Prediction with Approximation; On-policy Control with
+Approximation; Eligibility Traces: The \lambda-return -- TD(\lambda)
+-- n-step Truncated \lambda-return Methods -- Online \lambda-return
+Algorithm -- True Online TD(\lambda); Policy Gradient Methods.
 
+{{{unit}}}
 | UNIT V | APPLICATIONS AND CASE STUDIES | 6 |
-TD-Gammon; Watson’s Daily-Double Wagering; Optimizing Memory Control; Human-level Video Game Play.
-
-#+begin_comment
-- 1. 
-#+end_comment
+TD-Gammon; Watson’s Daily-Double Wagering; Optimizing Memory Control;
+Human-level Video Game Play.
 
 \hfill *Total Periods: 45*
 

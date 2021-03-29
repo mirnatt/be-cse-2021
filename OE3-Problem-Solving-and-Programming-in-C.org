@@ -13,6 +13,9 @@
 #+end_comment
 
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 2 | 0 | 2 | 3 |
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping 
@@ -28,11 +31,6 @@
 #+begin_comment
 | Course Mapping |   3 |   3 |   2 |   0 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
 #+end_comment
-
-
-{{{credits}}}
-| L | T | P | C |
-| 2 | 0 | 2 | 3 |
 
 ** COURSE OBJECTIVES
 - To use basic programming concepts of C

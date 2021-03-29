@@ -1,10 +1,13 @@
-* <<<PE307>>> DATA SECURITY AND PRIVACY
+* <<<602>>> DATA SECURITY AND PRIVACY
 :properties:
 :author: Dr. V. Balasubramanian and Dr. J. Bhuvana
 :date: 13-03-2021
 :end:
 
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -16,12 +19,6 @@
 | CO4            | K3 |   1 |   1 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    0 |    0 |    0 |
 | CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    1 |
 
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
-
 ** COURSE OBJECTIVES
 - To study about the essentials of computer security
 - To acquire knowledge on encryption Techniques
@@ -29,35 +26,53 @@
 - To learn various access control mechanisms
 - To understand different security policies
 
-{{{unit}}}
-         
+{{{unit}}}         
 | UNIT I | OVERVIEW OF SECURITY AND  ENCRYPTION TECHNIQUES | 11 |
-
-Overview: Computer Security Concepts -- Threats, Attacks, and Assets -- Security Functional Requirements -- Fundamental Security Design Principles -- Attack Surfaces and Attack Trees -- Computer Security Strategy; Symmetric Encryption and Message Confidentiality: Symmetric Encryption Principles --  Data Encryption Standard --  Advanced Encryption Standard --  Stream Ciphers and RC4 --  Cipher Block Modes of Operation --  Key Distribution; Public-Key Cryptography and Message Authentication: Secure Hash Functions -- HMAC --  RSA -- Diffie-Hellman and Other Asymmetric Algorithms;
+Overview: Computer Security Concepts -- Threats, Attacks, and Assets
+-- Security Functional Requirements -- Fundamental Security Design
+Principles -- Attack Surfaces and Attack Trees -- Computer Security
+Strategy; Symmetric Encryption and Message Confidentiality: Symmetric
+Encryption Principles -- Data Encryption Standard -- Advanced
+Encryption Standard -- Stream Ciphers and RC4 -- Cipher Block Modes of
+Operation -- Key Distribution; Public-Key Cryptography and Message
+Authentication: Secure Hash Functions -- HMAC -- RSA -- Diffie-Hellman
+and Other Asymmetric Algorithms;
  
- {{{unit}}}
-      
-| UNIT II |  INTERNET AUTHENTICATION APPLICATIONS            | 9 |
+{{{unit}}}      
+| UNIT II | INTERNET AUTHENTICATION APPLICATIONS | 9 |
+User Authentication: Electronic User Authentication Principles --
+Password-Based Authentication -- Token-Based Authentication --
+Biometric Authentication -- Remote User Authentication; Internet
+Authentication Applications: Kerberos -- X.509 -- Public-Key
+Infrastructure
 
-User Authentication: Electronic User Authentication Principles -- Password-Based Authentication -- Token-Based Authentication -- Biometric Authentication -- Remote User Authentication; Internet Authentication Applications: Kerberos --  X.509 -- Public-Key Infrastructure
+{{{unit}}}      
+| UNIT III | SOFTWARE SECURITY AND CLOUD SECURITY | 9 |
+Software Security: Software Security Issues -- Handling Program Input
+-- Writing Safe Program Code -- Interacting with the Operating System
+and Other Programs -- Handling Program Output; Operating System
+Security : Introduction to Operating System Security -- System
+Security Planning -- Operating Systems Hardening -- Application
+Security -- Security Maintenance -- Linux/Unix Security -- Windows
+Security -- Virtualization Security; Cloud and IoT security: Cloud
+Computing -- Cloud Security Concepts -- Cloud Security Approaches --
+The Internet of Things -- IoT Security
 
 {{{unit}}}
-      
-| UNIT III | SOFTWARE SECURITY AND CLOUD SECURITY            | 9 |
-
-Software Security: Software Security Issues -- Handling Program Input --  Writing Safe Program Code -- Interacting with the Operating System and Other Programs -- Handling Program Output; Operating System Security : Introduction to Operating System Security -- System Security Planning -- Operating Systems Hardening -- Application Security -- Security Maintenance -- Linux/Unix Security -- Windows Security -- Virtualization Security; Cloud and IoT security:  Cloud Computing -- Cloud Security Concepts -- Cloud Security Approaches -- The Internet of Things --  IoT Security
-
-{{{unit}}}
-      
-| UNIT IV | ACCESS CONTROL MATRIX               | 8 |
-
- Access Control Matrix: Protection State-- Access Control Matrix Model -- Protection State Transitions -- Copying, Owning, and the Attenuation of Privilege;
-Security Policies: The Nature of Security Policies -- Types of Security Policies -- The Role of Trust -- Types of Access Control -- Policy Languages -- Example: Academic Computer Security Policy -- Security and Precision 
+| UNIT IV | ACCESS CONTROL MATRIX | 8 |
+ Access Control Matrix: Protection State-- Access Control Matrix Model
+-- Protection State Transitions -- Copying, Owning, and the
+Attenuation of Privilege; Security Policies: The Nature of Security
+Policies -- Types of Security Policies -- The Role of Trust -- Types
+of Access Control -- Policy Languages -- Example: Academic Computer
+Security Policy -- Security and Precision
 
 {{{unit}}}
-      
 | UNIT V |  SECURITY POLICIES             | 8 |
-The Nature of Security Policies -- Types of Security Policies -- The Role of Trust; Confidentiality policy:The Bell-LaPadula Model; Integrity policy: Clark-Wilson Integrity Model; Availability policy: Denial of Service Models; Hybrid policy:  Chinese Wall Model.
+The Nature of Security Policies -- Types of Security Policies -- The
+Role of Trust; Confidentiality policy:The Bell-LaPadula Model;
+Integrity policy: Clark-Wilson Integrity Model; Availability policy:
+Denial of Service Models; Hybrid policy: Chinese Wall Model.
 
 
 \hfill *Total Periods: 45*

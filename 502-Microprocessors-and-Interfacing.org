@@ -4,6 +4,12 @@
 :date: 6.03.2021/ revised 15.3.2021(CO6 added)
 :end:
 
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+ 
 #+begin_comment
 - 1. Almost the same as AU
 - 2. For changes, see the individual units.
@@ -29,12 +35,6 @@ Removed "comparison of microprocessor, microcntroller" from unit 5
 | Score          |    |  15 |  18 |  15 |  16 |   1 |   2 |   2 |   2 |   8 |    5 |    1 |    8 |   18 |   11 |   11 |
 | Course Mapping |    |  3  |   3 |   3 |   3 |   1 |   1 |   1 |   1 |   2 |    1 |    1 |    2 |    3 |    2 |    2 |
 
-#+startup: showall
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
- 
 ** COURSE OBJECTIVES
 - To understand the Architecture of 8086 microprocessor
 - To learn the design aspects of I/O and Memory Interfacing circuits

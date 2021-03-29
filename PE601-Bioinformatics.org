@@ -3,7 +3,13 @@
 :author: Dr.S.Kavitha and Dr.P.Mirunalini
 :date: 17-03-2021  
 :end:
+
 #+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -21,12 +27,6 @@
 - Few changes are done from AU 2013, 7th semester Elective course on Bioinformatics
 - Yet to do mapping
 #+end_comment
-
-#+startup: showall
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 The student should be made to:

@@ -4,7 +4,9 @@
 :end:
 
 #+startup: showall
-
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -17,14 +19,6 @@
 | CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
 | Score          |    |  14 |  10 |   9 |   9 |   5 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |    9 |   14 |    5 |
 | Course Mapping |    |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
-
-
-
-
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 
 #+begin_comment
 1. One professional elective was offered by AU-2017 "Advanced Topics on Databases".

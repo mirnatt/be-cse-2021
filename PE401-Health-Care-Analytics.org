@@ -5,12 +5,11 @@
 :end: 
 
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
-#+begin_comment
-
-#+end_comment
-
-** CO PO MAPPING :noexport:
+** CO-PO MAPPING                                                   :noexport:
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |   K5 |   K3 |   K6 |
@@ -21,10 +20,6 @@
 | CO5            | K3 |   3 |   3 |   2 |   2 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    2 |    3 |    1 |
 | Score          |    |  14 |  12 |   9 |   9 |   6 |   0 |   0 |   5 |   5 |    5 |    0 |    9 |   14 |    6 |
 | Course Mapping |    |   3 |   3 |   2 |   2 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |    2 |    3 |    2 |
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - Discuss the role of basic and advanced data analytics in Healthcare
@@ -39,13 +34,13 @@
   analysis in Healthcare Applications
 
 {{{unit}}}
-| UNIT I | An Introduction to Healthcare Data Analytics (T1:ch1) | 9 |
+| UNIT I | INTRODUCTION TO HEALTHCARE DATA ANALYTICS (T1:ch1) | 9 |
 Introduction -- Healthcare Data Sources and Basic Analytics --
 Advanced Data Analytics for Healthcare -- Applications and Practical
 Systems for Healthcare -- Resources for Healthcare Data Analytics
 
 {{{unit}}}
-| UNIT II | Healthcare Data Sources and Basic Analytics: Part I (T1:ch2-4) | 9 |
+| UNIT II | HEALTHCARE DATA SOURCES AND BASIC ANALYTICS: PART I (T1:ch2-4) | 9 |
 Electronic Health Records: A Survey: Components of EHR -- Coding
 Systems -- Challenges of Using EHR Data -- Phenotyping Algorithms;
 Biomedical Image Analysis: Biomedical Imaging Modalities -- Object
@@ -56,7 +51,7 @@ in Healthcare Data Analysis -- Sensor Data Mining Applications --
 Nonclinical Healthcare Applications.
 
 {{{unit}}}
-| UNIT III | Healthcare Data Sources and Basic Analytics: Part II (T1:ch5-7) | 9 |
+| UNIT III | HEALTHCARE DATA SOURCES AND BASIC ANALYTICS: PART II (T1:ch5-7) | 9 |
 Biomedical Signal Analysis: ECG Signal Analysis -- Denoising of
 Signals -- Multivariate Biomedical Signal Analysis --
 Cross-Correlation Analysis; Genomic Data Analysis: Genomic Data
@@ -66,7 +61,7 @@ Information from Clinical Text -- Challenges of Processing Clinical
 Reports -- Clinical Applications: EHR and Decision Support.
 
 {{{unit}}}
-| UNIT IV | Advanced Data Analytics for Healthcare (T1:ch10-13) | 9 |
+| UNIT IV | ADVANCED DATA ANALYTICS FOR HEALTHCARE (T1:ch10-13) | 9 |
 A Review of Clinical Prediction Models: Basic Statistical Prediction
 Models -- Alternative Clinical Prediction Models -- Survival Models --
 Evaluation and Validation; Temporal Data Mining for Healthcare Data:
@@ -79,7 +74,7 @@ Integrating Clinical and Genomic Data -- Different Types of
 Integration -- Different Goals of Integrative Studies -- Validation
 
 {{{unit}}}
-| UNIT V | Applications and Practical Systems for Healthcare (T1:Ch17-19) | 9 |
+| UNIT V | APPLICATIONS AND PRACTICAL SYSTEMS FOR HEALTHCARE (T1:Ch17-19) | 9 |
 Fraud Detection in Healthcare: Definition and Types of Healthcare
 Fraud -- Identifying Healthcare Fraud from Data -- Knowledge
 Discovery-Based Solutions for Identifying Fraud; Data Analytics for
@@ -109,7 +104,7 @@ After the completion of this course, students will be able to:
 1. Chandan K. Reddy and Charu C. Aggarwal, ``Healthcare Data
    Analytics'', CRC Press, Taylor & Francis Group, LLC., 2015
 
-REFERENCE BOOKS
+** REFERENCES
 1. Trevor L. Strome, ``Healthcare Analytics for Quality and
    Performance Improvement'', John Wiley & Sons, 2013
 2. Sergio Consoli, Diego Reforgiato Recupero and Milan Petkovi, ``Data

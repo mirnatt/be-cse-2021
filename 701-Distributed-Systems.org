@@ -2,12 +2,13 @@
 :properties:
 :author: Mr. H. Shahul Hamead, Y V Lokeswari.
 :date: 09-03-2021.
-:end:
-:author: Mr. H. Shahul Hamead, Y V Lokeswari.
 :date: 28 Mar 2018.
 :end:
 
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -20,10 +21,6 @@
 | CO5            | K2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    1 |    1 |    2 |    1 |
 | Score          |    |  13 |  10 |   8 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    8 |    8 |   13 |    5 |
 | Course Mapping |    |   3 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    2 |    2 |    3 |    1 |
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 
 #+begin_comment
 Anna University Regulation 2017 has this course. The topics of AU and

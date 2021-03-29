@@ -6,6 +6,9 @@
 
 
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -19,10 +22,6 @@
 | CO6            | K5 |   2 |   3 |   3 |   3 |   1 |   2 |   1 |   2 |   3 |    3 |    1 |    3 |    3 |    3 |    0 |
 | Score          |    |  12 |  13 |  12 |   6 |   6 |   2 |   1 |   2 |   3 |    3 |    1 |    3 |   14 |   18 |    0 |
 | Course Mapping |    |   2 |   3 |   2 |   1 |   1 |   1 |   1 |   1 |   1 |    1 |    1 |    1 |    3 |    3 |    0 |
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To understand the phases in a software project, estimate cost and effort.
@@ -74,10 +73,8 @@ After the completion of this course, students will be able to:
 - Build a system in teams and apply best practices and principles in software engineering with clear documentation of approaches (K5)
 
 ** TEXT BOOKS
-
 1. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Eighth Edition, 2015.
 2. Armando Fox and David Patterson , Engineering Software as a  Service: An Agile Approach Using Cloud Computing'', Strawberry Canyon LLC, Second Beta Edition, 2021.
-=======
 
 ** REFERENCES
 1. Ian Sommerville, ``Software Engineering'', Pearson Education Asia,Tenth Edition, 2015.

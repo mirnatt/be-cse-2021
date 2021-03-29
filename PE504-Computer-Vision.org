@@ -3,7 +3,12 @@
 :author: Ms. R. Priyadharsini and Ms. P. Mirunalini
 :date:  18-03-2021
 :end:
+
 #+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -16,12 +21,6 @@
 | Score          |    |  10 |  13 |   9 |  15 |  15 |   2 |   2 |   0 |   8 |    0 |    0 |    0 |   14 |     0|    7 |
 | Course Mapping |    |   2 |   3 |   2 |   3 |   3 |   1 |   1 |   0 |   2 |    0 |    0 |    0 |    3 |    0 |    2 |
 
-#+startup: showall
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
 ** COURSE OBJECTIVES
 - To explore the Low level vision features
 - To learn and detect the Intermediate level features
@@ -31,26 +30,52 @@
 
 
 {{{unit}}}
-|UNIT I | Image based Feature Extraction | 9 |
-Introduction to Computer Vision and the challenges; Image based feature extraction: Thresholding Techniques -- Region growing methods -- Thresholding -- Adaptive thresholding -- Approaches to threshold selection -- Global valley approach to thresholding; Edge detection: Differential Gradient operator -- Hysteresis thresholding -- Canny operator -- Laplacian operator -- Active contours -- Level set -- Graph cut approach; Corner and Interest point detection: Second order derivative schemes -- Harris Interest point operators -- Local invariant feature detectors and descriptors; Texture;
+|UNIT I | IMAGE BASED FEATURE EXTRACTION | 9 |
+Introduction to Computer Vision and the challenges; Image based
+feature extraction: Thresholding Techniques -- Region growing methods
+-- Thresholding -- Adaptive thresholding -- Approaches to threshold
+selection -- Global valley approach to thresholding; Edge detection:
+Differential Gradient operator -- Hysteresis thresholding -- Canny
+operator -- Laplacian operator -- Active contours -- Level set --
+Graph cut approach; Corner and Interest point detection: Second order
+derivative schemes -- Harris Interest point operators -- Local
+invariant feature detectors and descriptors; Texture;
 
 {{{unit}}}
-|UNIT II | Shapes and Regions | 9 |
-Binary shape analysis: Skeletons and thinning -- Other measures for shape recognition; Boundary Pattern analyis: Boundary tracking procedures -- Centroidal profiles; Line detection: Hough transform -- Foot of normal method; Circle and Ellipse detection: Hough based scheme -- Ellipse detection methods; Case study: Human Iris Location;
+|UNIT II | SHAPES AND REGIONS | 9 |
+Binary shape analysis: Skeletons and thinning -- Other measures for
+shape recognition; Boundary Pattern analyis: Boundary tracking
+procedures -- Centroidal profiles; Line detection: Hough transform --
+Foot of normal method; Circle and Ellipse detection: Hough based
+scheme -- Ellipse detection methods; Case study: Human Iris Location;
 
 {{{unit}}}
-|UNIT III | 3D vision - Depth Estimation and 3D Reconstruction: | 9 |
-Feature-based alignment: 2D and 3D feature-based alignment -- pose estimation -- Geometric intrinsic calibration; Structure from Motion: Triangulation -- Two-frame structure from Motion -- Factorization -- Bundle adjustment; 
-Stereo Correspondance: Epipolar geometry -- Sparse and Dense correspondence -- Multiview stereo; 3D Reconstruction: Shape from X -- Active rangefinding -- Surface representations -- Point-based representations;
+|UNIT III | 3D VISION - DEPTH ESTIMATION AND 3D RECONSTRUCTION: | 9 |
+Feature-based alignment: 2D and 3D feature-based alignment -- pose
+estimation -- Geometric intrinsic calibration; Structure from Motion:
+Triangulation -- Two-frame structure from Motion -- Factorization --
+Bundle adjustment; Stereo Correspondance: Epipolar geometry -- Sparse
+and Dense correspondence -- Multiview stereo; 3D Reconstruction: Shape
+from X -- Active rangefinding -- Surface representations --
+Point-based representations;
 
 {{{unit}}}
-|UNIT IV | Object Recognition | 9 |
-Object detection: Face detection -- Pedestrian detection; Face recognition: Eigen faces -- Active apperance and 3D shape models; Instance recognition: Geometric alignment; Category recognition: Bag of words -- Part based models; Context and scene understanding: Learning and large image collection; Applications for object recognition;
+|UNIT IV | OBJECT RECOGNITION | 9 |
+Object detection: Face detection -- Pedestrian detection; Face
+recognition: Eigen faces -- Active apperance and 3D shape models;
+Instance recognition: Geometric alignment; Category recognition: Bag
+of words -- Part based models; Context and scene understanding:
+Learning and large image collection; Applications for object
+recognition;
 
 {{{unit}}}
-|UNIT V | Deep Learning Techniques for Computer Vision | 9 |
-Introduction to CNNs; Visualization of Kernels; Backprop-to-image/Deconvolution Methods;
-CNNs for Detection: Background of Object Detection -- R-CNN -- Fast R-CNN -- Faster R-CNN; CNNs for Segmentation: FCN -- SegNet -- U-Net -- Mask-RCNN; Recurrent Neural Networks (RNNs): CNN and RNN Models for Video Understanding: Spatio-temporal Models -- Action/Activity Recognition
+|UNIT V | DEEP LEARNING TECHNIQUES FOR COMPUTER VISION | 9 |
+Introduction to CNNs; Visualization of Kernels;
+Backprop-to-image/Deconvolution Methods; CNNs for Detection:
+Background of Object Detection -- R-CNN -- Fast R-CNN -- Faster R-CNN;
+CNNs for Segmentation: FCN -- SegNet -- U-Net -- Mask-RCNN; Recurrent
+Neural Networks (RNNs): CNN and RNN Models for Video Understanding:
+Spatio-temporal Models -- Action/Activity Recognition
 
 #+begin_comment
 Removed: Image compression

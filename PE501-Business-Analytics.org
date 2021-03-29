@@ -4,11 +4,11 @@
 :date: 18-03-2021
 :end:
 
-#+begn_comment
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
-#+end_comment
-
-** CO PO MAPPING :noexport:
+** CO-PO MAPPING                                                   :noexport:
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 |  PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |  K5   |   K3 |   K6 |
@@ -20,10 +20,6 @@
 | Score          |    |  14 |  12 |   9 |   9 |   7 |   0 |   0 |   5 |   5 |    5 |    0 |   9   |   14 |    7 |
 | Course Mapping |    |   3 |   3 |   2 |   2 |   2 |   0 |   0 |   1 |   1 |    1 |    0 |   2   |    3 |    2 |
 
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
 ** COURSE OBJECTIVES
 -To understand business analytics and its related technology
 -To understand the competitive advantages of business analytics
@@ -34,29 +30,34 @@
 #+startup: showall
 
 {{{unit}}}
-| UNIT I | Introduction to Business Analytics | 9 |
-Introduction - Types of Digital Data - OLAP & OLTP - Business View of Information Technology Application - Descriptive Analytics - Prescriptive Analytics - Application of Analytics
+| UNIT I | INTRODUCTION TO BUSINESS ANALYTICS | 9 |
+Introduction - Types of Digital Data - OLAP & OLTP - Business View of
+Information Technology Application - Descriptive Analytics -
+Prescriptive Analytics - Application of Analytics
 
 {{{unit}}}
-| UNIT II |Business Intelliegence | 9 |
-Introduction - BI Definition and Concepts - Data Integration - Multidimensional Data Modeling
+| UNIT II | BUSINESS INTELLIEGENCE | 9 |
+Introduction - BI Definition and Concepts - Data Integration -
+Multidimensional Data Modeling
 
 {{{unit}}}
-| UNIT III |Understanding Probablity and Statistics | 9 |
-Probability - Sampling and Estimation - Confidence Intervals - Hypothesis Testing - Analysis of Variance - Correlation Analysis - Understanding Statistics 
+| UNIT III |UNDERSTANDING PROBABLITY AND STATISTICS | 9 |
+Probability - Sampling and Estimation - Confidence Intervals -
+Hypothesis Testing - Analysis of Variance - Correlation Analysis -
+Understanding Statistics
 
 {{{unit}}}
-|UNIT IV | Data Mining Algorithms | 9 |
-Simple Linear Regression - Multiple Linear Regression - Logistic Regression - Decision Tree - Forecasting Techniques - Clustering
+|UNIT IV | DATA MINING ALGORITHMS | 9 |
+Simple Linear Regression - Multiple Linear Regression - Logistic
+Regression - Decision Tree - Forecasting Techniques - Clustering
 
 {{{unit}}}
-| UNIT V | Business Analytics Tools | 9 |
-SAP Business Intelligence - Zoho Analytics - Microsoft Power BI - Tableau - Oracle BI - IBM Cognos Analytics.
-
+| UNIT V | BUSINESS ANALYTICS TOOLS | 9 |
+SAP Business Intelligence - Zoho Analytics - Microsoft Power BI -
+Tableau - Oracle BI - IBM Cognos Analytics.
 
 \hfill *Total Periods: 45*
 
-#+begin_comment
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understanding various types of business analytics[K2]
@@ -64,13 +65,12 @@ After the completion of this course, students will be able to:
 - Understanding and applying statistical tests in testing hypothesis on data[K3]
 - Analyze data by utilizing various data mining approaches[K4]
 - Build applications using business analytics tools[K4]
-#+end_comment
  
 ** TEXT BOOKS
 1. R N Prasad, Seema Acharya, "Fundamentals of Business Analytics", 2nd Edition published by Wiley 2016.
 2. U Dinesh Kumar, " Business Analytics: The Science of Data - Driven Decision Making", published by Wiley 2017
 
-REFERENCE BOOKS
+** REFERENCES
 1. Philipp K. Janert, "Data Analysis with Open Source Tools", O'Reilley, 2010. 
 2. Wes McKinney, "Python for Data Analysis", O'Reilley, 2012.
 3. Robert Nisbelt, John Elder, and Gary Miner, "Handbook of statistical analysis and data mining applications", Academic Press, 2009. 

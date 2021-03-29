@@ -71,12 +71,11 @@
 |  3 |      | Computer Organization and Architecture          | PC  |   3 |  3 | 0 |  0 |   3 |
 |  4 |      | Operating Systems                               | PC  |   3 |  3 | 0 |  0 |   3 |
 |  5 |      | Design and Analysis of Algorithms               | PC  |   5 |  3 | 0 |  2 |   4 |
-|  6 |      | Database Management Systems (EFP)               | PC  |   3 |  3 | 0 |  0 |   3 |
+|  6 |      | Database Management Systems (EFP)               | PC  |   6 |  2 | 1 |  3 | 4.5 |
 |    |      | /Practical/                                     |     |     |    |   |    |     |
 |  7 |      | Operating Systems Lab                           | PC  |   3 |  0 | 0 |  3 | 1.5 |
-|  8 |      | Database Lab (EFP)                              | PC  |   3 |  0 | 0 |  3 | 1.5 |
 |----+------+-------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | /Total/                                         |     |  27 | 18 | 1 |  8 | 20. |
+|    |      | /Total/                                         |     |  27 | 17 | 2 |  8 | 20. |
 |----+------+-------------------------------------------------+-----+-----+----+---+----+-----|
 |    |      | *Semester V*                                    |     |     |    |   |    |     |
 |    |      | /Theory/                                        |     |     |    |   |    |     |
@@ -96,15 +95,14 @@
 |    |      | /Theory/                                        |     |     |    |   |    |     |
 |  1 |      | Internet Programming                            | PC  |   3 |  3 | 0 |  0 |   3 |
 |  2 |      | Data Security and Privacy                       | PC  |   3 |  3 | 0 |  0 |   3 |
-|  3 |      | Machine Learning (EFP)                          | PC  |   3 |  3 | 0 |  0 |   3 |
+|  3 |      | Machine Learning (EFP)                          | PC  |   6 |  2 | 1 |  3 | 4.5 |
 |  4 |      | Artificial Intelligence                         | PC  |   5 |  3 | 0 |  2 |   4 |
 |  5 |      | Professional Elective 2                         | PE  |   3 |  3 | 0 |  0 |   3 |
 |  6 |      | Open Elective 1                                 | OE  |   3 |  3 | 0 |  0 |   3 |
 |    |      | /Practical/                                     |     |     |    |   |    |     |
 |  7 |      | Internet Programming Lab                        | PC  |   3 |  0 | 0 |  3 | 1.5 |
-|  8 |      | Machine Learning Lab (EFP)                      | PC  |   3 |  0 | 0 |  3 | 1.5 |
 |----+------+-------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | /Total/                                         |     |  26 | 18 | 0 |  8 | 22. |
+|    |      | /Total/                                         |     |  26 | 17 | 1 |  8 | 22. |
 |----+------+-------------------------------------------------+-----+-----+----+---+----+-----|
 |    |      | *Semester VII*                                  |     |     |    |   |    |     |
 |    |      | /Theory/                                        |     |     |    |   |    |     |
@@ -134,12 +132,12 @@
 #+TBLFM: @14$5..@14$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
 #+TBLFM: @25$5..@25$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
 #+TBLFM: @37$5..@37$>=vsum(@-II+3..@-5)+vsum(@-3..@-1)
-#+TBLFM: @49$5..@49$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @61$5..@61$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @73$5..@73$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @85$5..@85$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @92$5..@92$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
-#+TBLFM: @93$9=@III+1+@IIIII+1+@IIIIIII+1+@IIIIIIIII+1+@IIIIIIIIIII+1+@IIIIIIIIIIIII+1+@IIIIIIIIIIIIIII+1+@IIIIIIIIIIIIIIIII+1;%3d
+#+TBLFM: @47$5..@47$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
+#+TBLFM: @59$5..@59$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
+#+TBLFM: @70$5..@70$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
+#+TBLFM: @82$5..@82$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
+#+TBLFM: @89$5..@89$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
+#+TBLFM: @90$9=@III+1+@IIIII+1+@IIIIIII+1+@IIIIIIIII+1+@IIIIIIIIIII+1+@IIIIIIIIIIIII+1+@IIIIIIIIIIIIIII+1+@IIIIIIIIIIIIIIIII+1;%3d
 
 
 #+latex: \newpage

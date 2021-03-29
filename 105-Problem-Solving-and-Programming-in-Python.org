@@ -29,10 +29,11 @@
 
 {{{unit}}}
 | UNIT I | ALGORITHMIC PROBLEM SOLVING  | 9 |
-Logical and Algorithmic Thinking: Logical Thinking -- Algorithmic Thinking;
-Problem Solving and Decomposition: Defining the Problem -- Devising the Solution
--- Decomposition; Effective building blocks: Basic Algorithmic Constructs (pseudo code,
-flow chart, programming language) -- Program State.
+Logical and Algorithmic Thinking: Logical Thinking -- Algorithmic
+Thinking; Problem Solving and Decomposition: Defining the Problem --
+Devising the Solution -- Decomposition; Effective building blocks:
+Basic Algorithmic Constructs (pseudo code, flow chart, programming
+language) -- Program State.
 
 {{{unit}}}
 | UNIT II | DATA, EXPRESSION, STATEMENT, CONDITIONAL | 9 |

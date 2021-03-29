@@ -13,6 +13,9 @@
 #+end_comment
 
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -23,11 +26,6 @@
 | CO3            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |  0  |   0 |    0 |    0 |    0 |    2 |    0 |    1 |
 | CO4            | K3 |   3 |   2 |   0 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
 | CO5            | K3 |   3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    1 |
-
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To understand the classical and symmetric cryptographic techniques

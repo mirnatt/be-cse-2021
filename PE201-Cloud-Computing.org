@@ -2,15 +2,14 @@
 :properties:
 :author: Dr. N. Sujaudeen and Dr. Y. V. Lokeswari 
 :date: 22 Mar 2021.
-:end:
-:author: Dr. N. Sujaudeen and Dr. Y. V. Lokeswari 
-:date: 10 Mar 2021.
-:end:
 :author: Ms. Y. V. Lokeswari and Dr. J. Suresh
 :date: 28 Mar 2019.
 :end:
 
 #+startup: showall
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -41,10 +40,6 @@
 - 4. Five Course outcomes specified and aligned with units
 - 5. No Lab
 #+end_comment
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To interpret the basics of cloud computing.

@@ -4,6 +4,12 @@
 :date: 
 :end:
 
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
 #+begin_comment
 - 1. Modified 3 units of AU due to content overlapping
 - 2. For changes, see the indidual units
@@ -11,12 +17,6 @@
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable
 #+end_comment
-
-#+startup: showall
-
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
 
 ** COURSE OBJECTIVES
 - To understand the basics of information retrieval with pertinence to

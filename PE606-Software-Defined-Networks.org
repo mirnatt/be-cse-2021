@@ -5,8 +5,8 @@
 :end:
 #+startup: showall
 {{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To understand the need for SDN and it's data plane operations
