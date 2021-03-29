@@ -94,11 +94,7 @@ Principal Component Analysis; Optimisation and Search: Least-squares
 optimisation -- Conjugate gradients -- Search approaches --
 Exploitation and exploration.
 
-#+BEGIN_COMMENT
-- Moved reinforcement learning to unit IV
-- Removed rule based learning
-- Added Dimensionality reduction techniques
-#+END_COMMENT
+
 
 \hfill *Total Periods: 45*
 
