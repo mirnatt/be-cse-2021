@@ -1,6 +1,6 @@
-* <<<203>>> DATABASE MANAGEMENT SYSTEMS FUNDAMENTALS
+* <<<603>>> MACHINE LEARNING
 :properties:
-:author: Dr R Kanchana, Mr B Senthilkumar
+:author: T T Mirnalinee S Kavitha
 :date: 16 March 2021
 :end:
 
