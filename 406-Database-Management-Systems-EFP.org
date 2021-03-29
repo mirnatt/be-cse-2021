@@ -25,6 +25,7 @@
 
 ** LECTURES (30 hours)
 {{{unit}}}
+<<<<<<< HEAD
 | UNIT I | CONCEPTUAL MODELING | 6 |
 Requirement analysis, Entity-Relationship (ER) model,
 Constraints, Enhanced-ER (EER) model, EER in UML class
@@ -64,6 +65,37 @@ modelling in NoSQL, CRUD operations.
    (bottom-up approach)
 6. Check the serializability of any non-serial schedule using
    two-phase locking techniques.
+=======
+| UNIT I | CONCEPTUAL MODELING | 4 |
+Requirement analysis, Database life cycle, Entity-Relationship (ER) model, Constraints.
+
+{{{unit}}}
+| UNIT II | RELATIONAL DATA MODEL  | 7 |
+Integrity constraints, SQL Data definition, Data retrieval, Complex queries, Views, Database programming.	
+
+{{{unit}}}
+| UNIT III | RELATIONAL MODEL DESIGN | 7  |
+Relational design using ER and EER-to-Relational mapping, Functional dependencies, Normalization, Properties of relational decomposition, Algorithms for relational database schema design. 
+Introduction to transaction processing – properties of transactions.	
+
+{{{unit}}}
+| UNIT IV | OBJECT RELATIONAL DATABASES | 6 |
+Enhanced-ER (EER) model, EER in UML class diagrams. Object database extensions to SQL, ODL and OQL. 
+
+{{{unit}}}
+| UNIT V |  NO-SQL DATABASES | 6 |
+CAP theorem. Introduction to Aggregate data models – No-SQL: Data modelling in NoSQL, CRUD operations	
+
+** CLASS ACTIVITY (15 hours)
+1. Draw an ER diagram for a real-time application and map it to relational database schema (top-down approach)
+2. Create a database for a given specification with constraints.
+3. Apply SQL queries / database programming to retrieve data.
+4. Design a relational database using Normalization theory (bottom-up approach)
+5. Draw an EER diagram for a real-time application and map it to ODB schema (top-down approach)
+6. ODL and OQL in object-relational databases
+7. Data modelling and design, operations in NoSQL (Mongo/ HBase / Cassandra / Redis)
+
+>>>>>>> 5543fbef0aedd57cddfc47445d76c357931cda9d
 
 ** STUDIO SESSIONS (15 sessions of 3 hours each)
 /Sample Case Study/: Online booking and service system
@@ -149,7 +181,17 @@ After the completion of this course, students will be able to:
     as well as underlying legal and ethical considerations
     wherever are applicable.
 
+<<<<<<< HEAD
 ** COMMENT EVALUATION
+=======
+** EVALUATION
+#+BEGIN_COMMENT
+EFP will be assessed by a committee of faculty members based
+on Studio Sessions, Reflections, Presentation and
+Documentation. *EFP will be evaluated based on continuous
+assessment only.*
+
+>>>>>>> 5543fbef0aedd57cddfc47445d76c357931cda9d
 #+latex: \newcolumntype{Y}{>{\small\raggedright\arraybackslash}X}
 #+latex: \newcolumntype{A}{>{\small\raggedright\arraybackslash\hsize=.7\hsize}X}
 #+latex: \newcolumntype{B}{>{\small\raggedright\arraybackslash\hsize=1.2\hsize}X}
@@ -167,6 +209,7 @@ After the completion of this course, students will be able to:
 |------------+------------------------------------------+------------+------------+------------+------------|
 | End sem evaluation by a committee | Demo  (Innovation, emerging technologies, security, user interface): 40 |            |         10 |         10 |         20 |
 |------------+------------------------------------------+------------+------------+------------+------------|
+<<<<<<< HEAD
 
 ** ASSESSMENT
 | Assessment Tool         | Weight |    |
@@ -182,6 +225,26 @@ After the completion of this course, students will be able to:
 | End semester evaluation |        | 25 |
 |-------------------------+--------+----|
 | Total                   |    100 |    |
+=======
+#+TBLFM: 
+
+** Tentative Rubrics for Evaluation
+#+END_COMMENT
+| Assessment Tool      | Weight |     |
+|----------------------+--------+-----|
+| End semester exam    |     50 |     |
+| Continous assessment |        |     |
+| Lab work             |     20 |     |
+| Theory test          |     15 |     |
+| Lab test             |     15 |     |
+| Review 1             |        |  5% |
+| Review 2             |        |  5% |
+| Review 3             |        |  5% |
+| Mid semester review  |        | 10% |
+| End semester review  |        | 25% |
+|----------------------+--------+-----|
+| Total                |    100 |     |
+>>>>>>> 5543fbef0aedd57cddfc47445d76c357931cda9d
 
 #+BEGIN_COMMENT
 | Assessment Tool      | Weightage |     |
